@@ -1,0 +1,197 @@
+04:50 < bseekins> Hello
+04:51 <@s991533> Hello
+04:53 < bseekins> Whats does the RC mean?
+04:53 < bseekins> I know what alpha and the beta is but not sure what the RC is
+05:00 <@s991533> Release candidate
+05:00 <@s991533> bseekins: https://en.wikipedia.org/wiki/Software_release_life_cycle#Release_candidate
+05:00 <@s991533> take a look at this artical
+05:01 < bseekins> ah ok thank you
+05:01 < bseekins> It's a very very pretty OS theres just some bugs in it. I can't wait to see what you do with the final version
+05:01 <@s991533> many bugs, haha
+05:01 < bseekins> yes.
+05:02 <@s991533> I'm not an official man, just an end user and contributor
+05:02 < bseekins> I tried hooking up my other monitor and it doesn't like that lol
+05:02 < bseekins> I'm also trying the 2013 edition
+05:03 <@s991533> It's 04:57 AM here, I have to sleep now xD, have fun, this channel is small now, hope it can be larger
+05:03 < bseekins> Oh I'm sure it will get there. Have a good night
+07:24 < zohania> am I in a Linux Chanel or I must add a dash after deepin and add Linux?
+09:21 < lsjun> hello
+10:52 < anex> can someone help me with the deepin-compiz package and emerald? I got emerald loaded and stuff just 1 issue   - the compiz package loads gtk-window-decorator so i had to build a new emerald pakage for it by editing the pkgbuild in aur to use deepin-compiz and so I put under compiz ccsm under window decorator command line for "emerald --replace" but it doesnt load the emerald theme im using or on reboot, compiz is set to save and use gsettings. If i type a
+10:52 < anex> run command of "emerald --replace" it load the emerald theme. I have also tried making a .sh file to replace the window decorator at boot and making a .desktop file to load with no go. Does anyone have some incite on this issue
+10:53 < anex> im on arch linux so you know
+10:53 < anex> here is some screen shoy=ts and infor
+10:53 < anex> screen shots and info*
+10:53 < anex> http://imgur.com/yOaKvZx&YiKw6A8&9OHRX5o&yebnxYx&YbTvk9V&OTpPHjk&xfPlGnS&OkuMQjh#7
+10:53 < anex> wait this deepin linux?
+10:54 < anex> kk
+10:54 < anex> and hers is a thread of what i ahve done
+10:54 < anex> https://forum.manjaro.org/index.php?topic=14644.0
+10:55 < anex> i just change form compiz-ubuntu package to deepin-compiz
+10:56 < anex> coulsnt beefore because of old packages
+10:56 < anex> but was fixed now have the gtk-decorator issue
+12:05 < xiangzhai83> @anex oh la
+12:05 < anex> hi
+12:05 < anex> seen what im doing?
+12:06 < anex> look at this
+12:06 < anex> https://forum.manjaro.org/index.php?topic=14644.0
+12:07 < anex> oh i posted it already lol
+12:27 < xiangzhai83> @anex you could try some lighter window manager too ;) for example EggWM http://github.com/xiangzhai/eggwm
+12:28 < xiangzhai83> 3d, animation and other eye-candy stuff is useless ... it needs rich hardware resource
+12:28 < anex> show my a ss, i wanted compiz
+12:28 < xiangzhai83> hhh
+12:29 < xiangzhai83> compiz is dead
+12:29 < anex> i was looking at the greeter
+12:29 < anex> what does it load
+12:29 < xiangzhai83> ubuntu fired the original author of compiz ...
+12:29 < anex> http://imgur.com/VBBqHtB
+12:32 < anex> can you show me a screen shot of your main window and menu with that window manager  please?
+12:32 < anex> looks interesting
+15:26 < anex> I installed deepin desktop 2 and can someone help me understand why gtk-decortor is loading and not emerald? i made pkgbuild of emerald to work with deepin-compix pakage and it loads when i type run command "emerald --replace" but of couse wont  set on reboot, in ccsm i have under window decorator emerald --replace and set to load in gsettings and "decor is a plug set to load and has the emerald --replace under it, with a no go, also, ive tried a .sh
+15:26 < anex> script to do "emerald --replace" in /usr/bin, and have 2 .desktop files in ~/.config/autostart and in /usr/share/autostart with a sleep command of 5 and no go, and here is a some screen shoots, http://tinyurl.com/deepin-nogo , i would appreciate any help on this matter
+16:34 <@s991533> anex: hi
+16:35 <@s991533> anex: ManateeLazyCat is thr project owner, maybe he can answer you
+16:35 < anex> hi
+16:35 < anex> please
+16:35 < anex> look at waht ive done
+16:35 < anex> https://www.youtube.com/watch?v=UqXr-DZ4ZSc
+16:35 <@ManateeLazyCat> anex: Hi, welcome to join #deepin
+16:35  * ManateeLazyCat Let me see.
+16:36 < anex> only thing thats changed is i moved from comoiz-ubuntu to deepin-compiz
+16:36 < anex> casue of the compatibility
+16:36 < anex> hi
+16:36  * s991533 15:21 < anex> I installed deepin desktop 2 and can someone help me understand why gtk-decortor is loading and not emerald? i made pkgbuild of emerald to work with deepin-compix pakage and it loads when i type run command "emerald --replace" but of couse wont  set on reboot, in ccsm i have under window decorator emerald --replace and set to load in gsettings and "decor is a plug set to load and has the emerald --replace under it, with a no go,
+16:36  * s991533 15:21 < anex> script to do "emerald --replace" in /usr/bin, and have 2 .desktop files in ~/.config/autostart and in /usr/share/autostart with a sleep command of 5 and no go, and here is a some screen shoots, http://tinyurl.com/deepin-nogo , i would appreciate any help on this matter
+16:38 < anex> im on arch linux by the way
+16:38 <@ManateeLazyCat> anex: Emerald has better effective, but emerald has bug that compiz' Alt+Tab will add window titlebar by emerald .
+16:38 <@s991533> arch is cool, but difficult
+16:38 < anex> yea i built my own emerald package for deepin-compiz
+16:39 <@ManateeLazyCat> We will drop compiz next version, instead we own window manager for better performance, compiz is very bad for VMs and real-machine.
+16:39 < anex> it works if i do a run command of "emerald --replace
+16:39 < anex> but on reboot no effective
+16:39 <@ManateeLazyCat> anex: you build emerald with deb package ?
+16:39 < anex> do you have a recommendation to set it
+16:39 < anex> na
+16:40 < anex> let me see the source 1 sec
+16:41 < anex> git://anongit.compiz.org/fusion/decorators/emerald#branch=compiz++
+16:42 <@ManateeLazyCat> anex: We will release Deepin 2014 in 2014-07-06, too short to change, but we will test and will consider use emerald instead gtk-decortor in next version.
+16:45 < anex> any work around till now? any way i can help? im developing this for manjaro linux http://manjaro.org/ any way we could help you so you can benefit for your hard work
+16:46 <@ManateeLazyCat> anex: Now, all developer focus on fixed bug of Deepin 2014 for release final version.
+16:46 <@ManateeLazyCat> anex: We will start new Window manager after 2014-07-06
+16:48 <@ManateeLazyCat> anex: We perhaps will user mutter bulid new window manager.
+16:50 < anex> im just trying to figure if there is something superseding the emerald --replace like for example the control center, also typing dos not work in the control center for keyboard short cuts for example and and the power buton doesnt tke it to the logout screen, is there something ii missed on that that it need to call? the lock feature works eith it but not power button in control center
+16:50 < anex> also the icon changer does not expand
+16:51 < anex> all packages built from git on the 25th
+16:52 < anex> also what power manager are you using? it wont change in control center
+16:52 <@ManateeLazyCat> anex: Because compiz has build-in keystroke support, we use some feature of compiz.
+16:52 < anex> yea i know that but actual typing into the conrtol center does not work
+16:52 <@ManateeLazyCat> anex: We use golang build all desktop-environment module in /usr/lib/deepin-daemon
+16:53 < anex> oh go
+16:53 < anex> go-2:1.3-1 this?
+16:53 <@ManateeLazyCat> anex: All backend module bulid by golang, frontend build by qml/python
+16:54 < anex> kk
+16:54 <@ManateeLazyCat> anex: It's fast to hacking if you know golang, qml and python.
+16:54 < anex> kk
+16:54 < anex> im learning but no expert
+16:56 < anex> i like your DE just no fan of ubuntu
+16:59 <@ManateeLazyCat> anex: We use golang build backend, desktop/launcher/dock use html5 as frontend, dde-control-center use qml as frontendm
+17:00 < anex> the compiz-ubuntu package worked alright before and loaded the actul gtk window border theme the only issue was minimizing windows that are not docked the icon would dissapear, adn when you minimize a docked app and try to open it again it would load another instance of it so bad intergaration with dock but that was it. but everything else was great
+17:01 < anex> anyway you can have the gtk window border like that?
+17:02 < anex> in my vidow it shows it it looks real nice please just have a peek and tell me what you think if you have a min https://www.youtube.com/watch?v=UqXr-DZ4ZSc
+17:08 < anex> that was a system load test really
+17:08 < anex> faired pretty good
+17:08 < anex> lots of stuff open
+17:14 <@ManateeLazyCat> anex: We even want make gtk-decortor build-in new window manager.
+17:15 < anex> oh ya
+17:15 <@ManateeLazyCat> s991533: Are you there ?
+17:17 <@ManateeLazyCat> anex: We will build new file-manager, driver-center, window-manager in next version.
+17:19 < anex> thats all good, and i will be building all this for arch distribution packages etc.. but for now could you help me on replacing the gtk decorator or?
+17:20 < anex> it just look funky lol
+17:20 < anex> no one likes it
+17:21 <@ManateeLazyCat> anex: We have froze feature to make Deepin 2014 stable.
+17:21 <@ManateeLazyCat> anex: https://github.com/fasheng/arch-deepin this is developer of Deepin build it.
+17:21 <@ManateeLazyCat> anex: It's include all of Deepin module.
+17:21 <@ManateeLazyCat> anex: fasheng is also arch-linux developer. ;)
+17:22 < anex> oh cool that just came out
+17:22 < anex> didnt know of that
+17:22 <@ManateeLazyCat> anex: Are you arch-linux expert ?
+17:22 < anex> not expert i know my fair share
+17:23 < anex> oh just looked at the page further
+17:23 < anex> ive known of that
+17:23 < anex> the repo
+17:23 <@ManateeLazyCat> anex: We're looking for system developer to help use build Deepin repo, we will build Deepin repo to base on Debian in next version.
+17:24 < anex> repos are ease why i maintain arch repos
+17:24 < anex> system is different though
+17:24 < anex> but was a ubuntu and debian user first
+17:25 < anex> you need help building packages for it or?
+17:34 <@ManateeLazyCat> anex: We need build packages.
+17:34 <@ManateeLazyCat> anex: We will build high-quality application in my Deepin repo.
+17:35 <@ManateeLazyCat> anex: We know which application that Chinese poeple's like, but don't know people's like in other country.
+17:35 < anex> i do
+17:35 < anex> im in america
+17:35 < anex> most our users are from america, south amarica, and euro
+17:36 <@ManateeLazyCat> anex: Are you interested help us invete new user in IRC ?
+17:36 < anex> i know which of the gtk are best, which qt are best
+17:36 <@ManateeLazyCat> anex: We want more people in america can use Deepin to help them life eaiser and happier.
+17:36 < anex> i noticed your apps are qt
+17:37 <@ManateeLazyCat> anex: In 2011 ~ 2012, most of Deepin application is build on gtk+/deepin-ui
+17:37 <@ManateeLazyCat> anex: After then we use new technology, such as qt5 and webkit/html5
+17:37 < anex> yea i seen that
+17:37 < anex> qt 5 is where its at
+17:39 < anex> in my opinion and from what ive seen alot of people are wanting and expecting a move to qt from gtk and not use ann gtk based apps at all in the near future ive already seen it start to happen in my distro
+17:40 < anex> we have all the desktop environments and the one thats the least download is gnome
+17:41 < anex> for example i maintain mate and people are threating to leave if we build it on gtk 3 when mate moves to it soon
+17:42 < anex> but all up to preferance
+17:43 < anex> best thing i think is to drop gtk in my opinion
+17:44 < anex> one of themain things people are complaining about to is client side decorations
+17:45  * ManateeLazyCat Restart my Emacs for english completion.
+17:45 <@ManateeLazyCat> anex: We not just want maintain old DE, we want build new DE and deepin-apps for bulid new user experience.
+17:46 <@ManateeLazyCat> anex: Deepin's aim is build new design OS to change linux community.
+17:46 < anex> yeea of course start off what pople use most like file manager, compression utilities, text editors, image viewers, etc
+17:47 < anex> get your base first ten can start to do more
+17:47 < anex> and just so you know
+17:47 < anex> some people compare deepin to bloat
+17:48 < anex> not me jsut heard it more then once
+17:49 < anex> people want the full featured experience with no cpu otr ram usage but that when you gotta make decisions on what to have and what to cut, liek what is to much and what is to little, you know?
+17:51 <@ManateeLazyCat> We not just build easy to use deepin-apps, we also build developer tools, such as Deepin-Emacs ( https://github.com/linuxdeepin/deepin-emacs )
+17:51  * ManateeLazyCat http://www.emacswiki.org/emacs/AndyStewart is my Emacs homepage.
+17:52 <@ManateeLazyCat> anex: Deepin 2014 use 500mb memory when start, still have much improve for memory optimization.
+17:53 < anex> na i noticed it was pretty good
+17:54 < anex> RAM: 2371MB / 7946MB
+17:54 < anex> thats what mine says
+17:55 < anex> firefox, hexchat, terminal, muci player, package manger is whats open
+17:55 < anex> music player*
+17:56 <@ManateeLazyCat> anex: English is better. english not use fcitx input method, Deepin just use 350MB memory.
+17:57  * ManateeLazyCat s/English/English version/ 
+17:58 < anex> look      http://imgur.com/sQLpoey
+17:59 <@ManateeLazyCat> Ah, i just use Emacs.
+18:02 < anex> here is a picure of process
+18:03 < anex> http://imgur.com/QMKjRBq
+18:03 < anex> oh
+18:03 < anex> k ill type
+18:04 < anex> dde-dock is using 505 MB alone
+18:04 < anex> dde-session-daemon is using 125 MB
+18:05 < anex> dde-launcher is using 50 MB
+18:06 < anex> deepin_menu/main.py is using 50 MB
+18:07 < anex> dde-dock-applets is using 50 MB
+18:07 <@ManateeLazyCat> anex: We will decrease memory usage of deepin-menu in feature.
+18:07 <@ManateeLazyCat> anex: We have details of memory usage, you don't need paste it. ;)
+18:07 < anex> lol ok
+22:15 < cxbii> s991533, hi
+22:15 <@s991533> cxbii: hi
+22:15 < cxbii> 今天 ManateeLazyCat 和你谈了今后我和你配合的事情了的，对吧？
+22:16 <@s991533> yep
+22:16 < cxbii> s991533, okl, we keep in touch
+22:16 <@s991533> sure
+22:16 <@s991533> the msg on our irc channel will be logged and released everyday
+22:17 <@s991533> ManateeLazyCat give me a github repo to host it
+22:17 < cxbii> ok
+23:35 <@ManateeLazyCat> anex: Hi
+23:36 < anex> hiya
+23:37  * ManateeLazyCat Write some code of Deepin screenshot v3 with qml technology.
+23:43 < anex> i was doing some playing around with compiz-ubuntu and everything works right expect the dock. when you minimize a application it hides then click the icon again to mazimize and it opens another instance of the application
+23:43 < anex> expect = except
+23:46 < anex> i just put back on deepin-compiz
+23:47 < anex> i just wanted to play with the other some to see the differance
+23:48 < anex> there is only one thing wrong with the control panel. I installed a update like an hour ago.  you cant type in the control panel at all like for example the keyboard shortcuts
+23:48 < anex> do you know about that issue?
+23:49 < anex> its been there
