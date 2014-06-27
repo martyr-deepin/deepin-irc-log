@@ -1,0 +1,173 @@
+16:44 < leaeasy> cxbii: 你好
+16:45 < cxbii> leaeasy: :-*
+18:12  * s991533 test
+18:56 <@s991533> cxbii: what tips?
+18:57 <@s991533> cxbii: I told ChanServ to give auto-OP
+18:57 <@s991533> cxbii: you can change the topic now
+18:57 <@cxbii> thanks
+18:58 <@s991533> hmmmm ... I think the topic is toooooo long ... not good.
+18:58 <@cxbii> s991533 Please revise your favorite
+18:59 <@cxbii> s991533 But please keep an international translation projects. Thank you
+19:01 <@cxbii> wow !
+19:02 <@s991533> 趁現在頻道沒人 讓我用中文抱怨一下
+19:02 <@cxbii> 好吧
+19:02 <@s991533> 就如你所見 設一個自動OP是很簡單的事情啊XD
+19:02 <@s991533> 可是交給拰呒官方的人來做 搞了半年都見不到影子XDDDD
+19:02 <@s991533> 打錯字 交給你們官方
+19:02 <@cxbii> 哎，我不想自黑。没人弄。。。
+19:03 <@s991533> 趁專案改名字 老外也建議頻道改叫deepin
+19:03 <@s991533> 乾脆我來搞...
+19:03 <@s991533> 以後你上線就會自動OP了
+19:03 <@s991533> 不用靠別人設定
+19:03 <@cxbii> 多谢啦。/
+19:03 <@s991533> 我在等你老闆上來
+19:03 <@s991533> 也幫他設一下
+19:04 <@cxbii> 稍等，我去叫下他
+19:04 <@s991533> OK 這其實不急XD
+19:04 <@cxbii> 他马上就来。
+19:04 <@s991533> OK
+19:04 <@s991533> 前幾天跟他聊很晚 呵呵
+19:05 <@cxbii> 来了
+19:05 < ManateeLazyCat> Hi.
+19:05 <@s991533> okay, auto-OP done.
+19:05 <@ManateeLazyCat> s991533: Nice work.
+19:05 <@s991533> IRC頻道還是冷清啊XDDDD
+19:06 <@cxbii> 别急，现在老外都刚刚起床
+19:06 <@s991533> 正式release裡面要不要把官方channel塞進去啊
+19:06 <@s991533> cxbii: 不要再拿時差當理由了啦XDDD
+19:06 <@cxbii> :'( 我们都会放到签名的
+19:07 <@s991533> 如果預設裡面就有官方的irc channel.用戶要求助好像也方便?
+19:07 <@cxbii> 恩，我去修改下博客的后台前面，离开一下
+19:07 <@s991533> 啊那個下載頁面XD
+19:07 <@s991533> 之後可不可以改一下啊 :P
+19:07 <@s991533> 放個mirror
+19:09 <@s991533> ManateeLazyCat: 請問上星期聊的 後來有什麼細節嗎?
+19:09 <@s991533> dajianli: Hi, welcome :)
+19:10 < tonghuix> 别忘了把ChanServ也加进来
+19:11 <@ManateeLazyCat> s991533: I'm discus with cxbii about your work, i will notify you when we ready.
+19:11 <@ManateeLazyCat> tonghuix: Welcome, old friend. ;)
+19:11 < tonghuix> ManateeLazyCat, hahha
+19:11 <@s991533> ManateeLazyCat: Okay
+19:13 <@ManateeLazyCat> s991533: Can you add log feature in your IRC bot? Then Deepin team can check log to response user's suggestion.
+19:14 <@ManateeLazyCat> Who is erhandsome ?
+19:14 <@ManateeLazyCat> Friend?
+19:15 <@s991533> no need, my client always record the log, if you need it, we can find a way to give you that log
+19:15 <@s991533> erhandsome: Hi
+19:15 < erhandsome> s991533: hi
+19:15 <@s991533> erhandsome: where are you from?
+19:15 < erhandsome> cxbii: 小浣熊 你好
+19:16 < erhandsome> s991533: 大陆
+19:16 <@s991533> erhandsome: oh I got it
+19:16 <@ManateeLazyCat> s991533: I mean make a public log that everybody can read it.
+19:16 <@s991533> yeah, I know waht you mean
+19:16 <@ManateeLazyCat> s991533: I read freenode will archive log of public IRC channel, don't know how to hacking it. ;)
+19:17 <@ManateeLazyCat> tonghuix: Do you know how to make freenode archive log of IRC channel?
+19:17  * s991533 I need to leave now, see you
+19:17 <@ManateeLazyCat> erhandsome: Chinese?
+19:17 <@ManateeLazyCat> Bye.
+19:17 <@cxbii> erhandsome: 你好。
+19:18 < tonghuix> ManateeLazyCat, no, it better to add a bot
+19:18 < erhandsome> cxbii: 我是二帅啊...
+19:18 <@cxbii> erhandsome:  嗯。。。这个还真不知道你这个id
+19:18 <@cxbii> erhandsome: 你看我多好，什么地方都统一id
+19:18 < erhandsome> 别的频道都是加个记录log的bot，然后把log放到网站上显示...
+19:18 <@ManateeLazyCat> We can add smart bot that can answer user's question, #emacs and #haskell have those smart bot.
+19:18 < tonghuix> erhandsome,er=二，handsome=帅
+19:18 < erhandsome> cxbii: 你这话说了好几遍了...
+19:18 <@ManateeLazyCat> They can answer FAQ
+19:19 <@cxbii> erhandsome: 跪拜。。。。
+19:19 <@ManateeLazyCat> erhandsome: I see.
+19:23 < ruojiner> 有人吗
+19:23 <@ManateeLazyCat> ruojiner: 没人啊
+19:23 < ruojiner> 好吧
+19:23 <@ManateeLazyCat> ruojiner: Welcome to join Deepin community.
+19:24 <@ManateeLazyCat> ruojiner: 欢迎加入　Deepin IRC
+19:24 < ruojiner> http://news.mydrivers.com/1/309/309503.htm
+19:24 < ruojiner> http://www.wenyinos.org/
+19:33 < Woodz> 这么点儿人...
+19:34 < Woodz> 能说说还有什么频道吗？
+19:34 <@cxbii> Woodz: 你想要什么频道呢？
+19:34 < Woodz> 好吧，我暂时也想不到。默认频道都这么少人，其他的就...
+19:34 <@ManateeLazyCat> tonghuix: We're working on Deepin international at transifex: https://www.transifex.com/organization/linuxdeepin/dashboard , can you call some people to help us?
+19:35 <@cxbii> Woodz: 没事，人气是慢慢累计起来的
+19:35 < tonghuix> ManateeLazyCat, yes
+19:35 < Woodz> 你是开发者？
+19:35 < Woodz> @cxbii
+19:35 <@ManateeLazyCat> tonghuix: cxbii is community manager of Deepin, he is working on Deepin international.
+19:36 <@cxbii> Woodz: 我不算是开发者，但是manateelazycat是
+19:36 <@ManateeLazyCat> cxbii: tonghuix is favourite open source leader of China.
+19:36 <@ManateeLazyCat> cxbii: Can you ask help from tonghuix .
+19:36 <@cxbii> ManateeLazyCat: yes
+19:36 <@ManateeLazyCat> famous
+19:36 < tonghuix> non-famous...
+19:37  * ManateeLazyCat Sorry, Emacs complete wrong word when i want type famous
+19:37 < Woodz> 不懂什么意思...
+19:37 <@ManateeLazyCat> cxbii: Use deepin-emacs, it can complete english word very fast, even faster than native speaker. ;)
+19:37 <@cxbii> tonghuix: Please tell me your email address, I will contact you. :)
+19:38 <@cxbii> t
+19:39 < tonghuix> cxbii, tonghuix @ gmail.com
+19:39 <@cxbii> tonghuix: ok,I will contact you.
+19:40 < tonghuix> ManateeLazyCat, how about deepin conference? July 5
+19:41 < tonghuix> I did not search any info via web
+19:41 <@ManateeLazyCat> tonghuix: We're building web page, we will online tomorrow.
+19:42 < tonghuix> ok
+19:43 < tonghuix> I would like to invite you to BLUG meeting July 8, just after the conference
+19:44 <@ManateeLazyCat> tonghuix: Thanks, i will join BLUG meeting at July 8.
+19:44 < Anduxor> Hello
+19:44 <@ManateeLazyCat> tonghuix: I want talk a lot then. ;)
+19:44 <@ManateeLazyCat> Anduxor: Welcome to join Deepin IRC channel.
+19:44 < tonghuix> ManateeLazyCat, very good
+19:45 < Anduxor> thank you :)
+19:45 <@ManateeLazyCat> Anduxor: You're welcome.
+19:46 < Anduxor> I looked at the deepin translation project. My native language is Dutch and I tried translating some stuff but I'm not sure if there is anyone who is reviewing it
+19:48 <@cxbii> Anduxor: I come from Deepin official team, I think you can start translating, if you want to become an administrator, you can tell me.
+19:49 <@ManateeLazyCat> Anduxor: cxbii is community manager of Deepin, you can contact he to become administrator of Dutch translate team.
+19:49 < Anduxor> I think I have to little experience to be an administrator but I see now more people have started translating.
+19:50 <@cxbii> Anduxor: Please tell me your id in transifex, I think you can become an administrator
+19:53 < Anduxor> I think Closeddoors1559 would be better for that job since he is more active than me
+19:53 < Anduxor> this is his profile https://www.transifex.com/accounts/profile/closeddoors1559/
+19:54 <@cxbii> Anduxor: Thank you, I will contact  him
+19:54 <@ManateeLazyCat> Anduxor: Can you invite Closeddoors1599 join Deepin translate team?
+19:55 < Anduxor> No problem and thank you for making deepin possible! :D
+19:56 <@ManateeLazyCat> Anduxor: Enjoy, we will keep working to provide better user experience for all linux users around world.
+19:56 <@ManateeLazyCat> Anduxor: Can you tell me your transifex ID?
+19:57 < jessewb> Hi, I'm on the Portuguese translation team and I wanted to know how I could become a reviewer
+19:57 <@ManateeLazyCat> Anduxor: Then we can create Dutch translate team now for translate work.
+19:58 <@ManateeLazyCat> jessewb: You can tell your transifex id to cxbii , he will add your as reviewer.
+19:58 <@ManateeLazyCat> jessewb: cxbii is community manager of Deepin, he will help you.
+19:58 <@ManateeLazyCat> jessewb: Thanks for your great work.
+19:58 <@cxbii> jessewb: Please tell me your id in transifex :)
+19:58 < Anduxor> I can give you my ID but I think I'm not qualified as a reviewer since I have zero experience
+19:58 < jessewb> it's Jessewb
+19:59 <@cxbii> jessewb: Please wait
+19:59 < jessewb> Ok
+19:59 <@ManateeLazyCat> jessewb: We will release new version immediately once Portuguese is finish.
+19:59 <@ManateeLazyCat> Any other language is same.
+20:00 <@cxbii> j
+20:00 <@cxbii> jessewb: Sorry, I can not find you, please tell me your home in transifex
+20:00 < Anduxor> This is my ID if you need it: https://www.transifex.com/accounts/profile/Anduxor/
+20:02 <@ManateeLazyCat> Anduxor: Anyway, you still can help us translate Deepin with Dutch, anyone help is welcome!
+20:03 < jessewb> give me a moment to reach my computer. I'm on the phone.
+20:06 <@cxbii> jessewb: Now, you are an administrator in transifex
+20:09 <@ManateeLazyCat> jive_bs: Welcome to join Deepin IRC channel.
+20:10 <@cxbii> jessewb: I have completed. https://www.transifex.com/accounts/profile/Jessewb/
+20:10 < jessewb> Thanks
+20:11 <@cxbii> jessewb: You're welcome
+20:11 <@cxbii> iceleaf: Welcome to join Deepin IRC channel.
+20:11 <@ManateeLazyCat> iceleaf: Welcome
+20:12 < iceleaf> Thank you!
+20:14 <@cxbii> I'm going home, see you next time.
+20:15 <@ManateeLazyCat> Me too, see you guys. ;)
+20:15 < Anduxor> Ok thank you bye :)
+20:38 < Tylik> wazapp
+21:37 < Guest55926> 有人么
+21:44 < Dream-Han> 人少啊
+21:45 < tonghuix> 你还要多少人？
+21:46 < Dream-Han> 深度音乐在xfce界面环境下歌词显示框不是透明的，是白色的框里面有歌词
+21:48 < alies> 没换过桌面
+21:49 < alies> 第一次钻进来
+21:49 < Dream-Han> 我也是。。。
+21:51 < Dream-Han> 等过些日子深度正式版出来，给同学电脑装上，视频上感觉还可以
+22:04 < PigCode> IRC是什么？
+22:14 < tonghuix> PigCode, 好问题
+23:14 < lledu> so many people
