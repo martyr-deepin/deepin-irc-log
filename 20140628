@@ -1,0 +1,58 @@
+00:04 < anex> ManateeLazyCat : whats file actually loads compiz at boot?
+00:08 <@ManateeLazyCat> anex: Can you type keyboard shortcuts when you first install Deepin 2014 RC?
+00:08 <@ManateeLazyCat> anex: I doubt your's compiz break something.
+00:09 < anex> im using deepin-compiz
+00:09 < anex> everything works except 2 things on control center
+00:10 < anex> i cant type in it and the power buton doesnt work, it locks the system up
+00:10 <@ManateeLazyCat> anex: You said you back on deepin-compiz, i mean everything okay when you first install Deepin? Before you play compiz-ubuntu.
+00:10 < anex> ^
+00:11 < anex> just those 2 issues with the control center
+00:11 < anex> everything else if fine
+00:12 <@ManateeLazyCat> anex: When you first installed (not install compiz-ubuntu), control panel has those issues?
+00:12 <@ManateeLazyCat> anex: I need figure out whether compiz-ubuntu cause those issue
+00:13 <@ManateeLazyCat> anex: We will fixed those issue if it cause by deepin-compiz, and not cause by other window manager, such as compiz-ubuntu.
+00:14 <@ManateeLazyCat> If you got those issue after you install compiz-ubuntu, i doubt something break when compiz-ubuntu installed.
+00:14  * ManateeLazyCat deepin-compiz change many code to make compiz works with Deepin-desktop-environment.
+00:15 < anex> first i had compiz-ubuntu installed, then i removed it and all its configuration files, then i installed deepin-compiz, then i downloaded deepin RC ISO from sourceforge and booted into your deepin ISO and copied all your config files in ~/.config and put them on my system
+00:15 < anex> so it has nothing to do with compiz-ubuntu
+00:18 <@ManateeLazyCat> anex: Can you create new account to test again? Create new account will create new config, i need exclude the reason by HOME config.
+00:19 < anex> sure give me a sec i will create username and switch over
+00:20 < anex> is that what you mean?
+00:20 <@ManateeLazyCat> yes.
+00:21 < anex> whats the command to log out from terminal?
+00:21 <@ManateeLazyCat> sudo restart lightdm
+00:21 < anex> k
+00:22 < anex> na didnt work might be because im on arch
+00:22 < anex> brb
+00:29 < anex> im back
+00:30 < anex> these are the current things that are not working
+00:30 < anex> cant type in control center
+00:30 < anex> icon drop down menu doesnt not drop down
+00:31 < anex> cant change any power management options
+00:31 < anex> you click to change and does nothing
+00:32 < anex> and power button freezes system
+00:32 <@ManateeLazyCat> Do you running Deepin in virtual machine ?
+00:32 < anex> no
+00:33 <@ManateeLazyCat> It's strange you have so many issue.
+00:33 <@ManateeLazyCat> I wonder how "power button" will freezes system.
+00:33 < anex> this is my second fresh install
+00:34 < anex> about a week ago a had another install with more or less the exact same issues
+00:35 <@ManateeLazyCat> can you report bug at here: http://www.linuxdeepin.com/mantis/login_select_proj_page.php?ref=bug_report_page.php ? It's better attach some screenshot to explain issue.
+00:35 < anex> im a developer for manjaro like the number 1 distro for arch based linux and im trying to make a installation iso for a few thousand people
+00:36 < anex> but wont beable to with these issues, will post bug reports
+00:39 < anex> brb getting on my username
+00:39 <@ManateeLazyCat> anex: Maybe we can port DDE to manjaro. ;)
+00:39 < anex> if it runs on arch it will run on manjaro
+00:39 <@ManateeLazyCat> It's welcome to use DDE in any other linux distribution
+00:40 < anex> we make arch for easy use
+00:40 < anex> but brb
+00:42 < anex> back
+00:43 < anex> had to reboot because the log out button does not work
+00:43 < anex> see go here #manjaro
+00:43 < anex> im the OP
+00:44 < anex> got 122 users at this moment
+00:44 < anex> in the channel
+17:49 < user_> deepin is great!
+17:51 <@s991533> (Y)
+18:00 < user_> deepin
+21:18 < Junie> 没什么人么。。。
