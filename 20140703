@@ -1,0 +1,63 @@
+03:04 <@s991533> good night!
+03:04 < deepin_bot> byebye (wave)
+04:31 <@s991533> .rss add #deepin linux_kernel https://www.kernel.org/feeds/kdist.xml
+04:31 < deepin_bot> s991533: Successfully added the feed to the channel.
+04:31 < deepin_bot> [ Latest Linux Kernel Versions ] - www.kernel.org
+04:33 < deepin_bot> [linux_kernel] 3.16-rc3: mainline http://www.kernel.org/ - 2014-06-29 - 09:11:44 PM -
+04:34 <@s991533> .rss add #deepin planet.ubuntu http://planet.ubuntu.com/rss20.xml
+04:34 < deepin_bot> s991533: Add a feed to a channel, or modify an existing one.
+04:34 < deepin_bot> s991533: Set mIRC-style foreground and background colour indices using fg and bg.
+04:34 < deepin_bot> s991533: Usage: .rss add <#channel> <Feed_Name> <URL> [fg] [bg]
+04:34 < deepin_bot> [ Planet Ubuntu ] - planet.ubuntu.com
+04:34 <@s991533> .rss add #deepin planet_ubuntu http://planet.ubuntu.com/rss20.xml
+04:34 < deepin_bot> s991533: Successfully added the feed to the channel.
+04:34 < deepin_bot> [ Planet Ubuntu ] - planet.ubuntu.com
+04:36 <@s991533> .rss add #deepin omgubuntu http://www.omgubuntu.co.uk/feed
+04:36 < deepin_bot> s991533: Successfully added the feed to the channel.
+04:36 < deepin_bot> [ OMG! Ubuntu! ] - www.omgubuntu.co.uk
+04:37 <@s991533> .rss add #deepin debian_news https://www.debian.org/News/news
+04:37 < deepin_bot> s991533: Successfully added the feed to the channel.
+04:37 < deepin_bot> [ Debian News ] - www.debian.org
+04:38 <@s991533> .rss add #deepin planet_debian http://planet.debian.org/rss20.xml
+04:38 < deepin_bot> s991533: Successfully added the feed to the channel.
+04:38 < deepin_bot> [ Planet Debian ] - planet.debian.org
+04:38 < deepin_bot> [planet_ubuntu] Benjamin Kerensa: Release Management Work Week http://benjaminkerensa.com/2014/07/02/release-management-work-week - 2014-07-02 - 07:46:52 PM -
+04:38 <@s991533> .rss list
+04:38 < deepin_bot> [omgubuntu] KDE Improv, Tablet Projects Officially Axed http://www.omgubuntu.co.uk/2014/07/kde-improv-tablet-projects-officially-axed?utm_source=rss&utm_medium=rss&utm_campaign=kde-improv-tablet-projects-officially-axed - 2014-07-01 - 01:42:19 PM -
+04:38 < deepin_bot> s991533: Showing 5 of 5 RSS feeds in the database:
+04:38 < deepin_bot>   #deepin linux_kernel https://www.kernel.org/feeds/kdist.xml
+04:38 < deepin_bot>   #deepin planet_ubuntu http://planet.ubuntu.com/rss20.xml
+04:38 < deepin_bot>   #deepin omgubuntu http://www.omgubuntu.co.uk/feed
+04:38 < deepin_bot>   #deepin debian_news https://www.debian.org/News/news
+04:38 < deepin_bot>   #deepin planet_debian http://planet.debian.org/rss20.xml
+04:38 < deepin_bot> [debian_news] Debian 6 debuts its long term support period https://www.debian.org/News/2014/20140616 - 2014-06-16 - 12:00:00 AM -
+04:39 < deepin_bot> [planet_debian] Tanguy Ortolo: PayPal cut a secure email project's funds http://tanguy.ortolo.eu/blog/article129/paypal-assholes-cut-protonmail - 2014-07-02 - 05:36:00 PM -
+04:43 <@s991533> .rss add #deepin ubuntu_fridge http://fridge.ubuntu.com/feed/
+04:43 < deepin_bot> s991533: Successfully added the feed to the channel.
+04:43 < deepin_bot> [ Ubuntu Fridge ] - fridge.ubuntu.com
+04:43 < deepin_bot> [ubuntu_fridge] Ubuntu 14.10 (Utopic Unicorn) alpha-1 released! http://fridge.ubuntu.com/2014/06/27/ubuntu-14-10-utopic-unicorn-alpha-1-released/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-14-10-utopic-unicorn-alpha-1-released - 2014-06-27 - 04:41:59 PM -
+05:08 < deepin_bot> [ubuntu_fridge] Community Donations Funding Report, Q1 2014 http://fridge.ubuntu.com/2014/07/02/community-donations-funding-report-q1-2014/?utm_source=rss&utm_medium=rss&utm_campaign=community-donations-funding-report-q1-2014 - 2014-07-02 - 09:02:28 PM -
+05:18 < deepin_bot> [ubuntu_fridge] Community Donations Funding Report, Q1 2014 http://fridge.ubuntu.com/2014/07/02/community-donations-funding-report-q1-2014/?utm_source=rss&utm_medium=rss&utm_campaign=community-donations-funding-report-q1-2014 - 2014-07-02 - 09:02:28 PM -
+05:28 < deepin_bot> [ubuntu_fridge] Community Donations Funding Report, Q1 2014 http://fridge.ubuntu.com/2014/07/02/community-donations-funding-report-q1-2014/?utm_source=rss&utm_medium=rss&utm_campaign=community-donations-funding-report-q1-2014 - 2014-07-02 - 09:02:28 PM -
+07:03 < deepin_bot> [planet_ubuntu] Svetlana Belkin: Doc Team Wiki Page Clean Up http://ubuntusense.com/2014/07/02/doc-team-wiki-page-clean-up/ - 2014-07-02 - 10:36:51 PM -
+07:07 < G-Ray> Hi :)
+07:18 < deepin_bot> [planet_debian] Russ Allbery: C TAP Harness 3.1 http://www.eyrie.org/~eagle/journal/2014-07/001.html - 2014-07-02 - 10:40:00 PM -
+08:28 < deepin_bot> [planet_debian] Russ Allbery: rra-c-util 5.5 http://www.eyrie.org/~eagle/journal/2014-07/002.html - 2014-07-03 - 12:04:00 AM -
+12:38 < deepin_bot> [planet_debian] Russ Allbery: remctl 3.9 http://www.eyrie.org/~eagle/journal/2014-07/003.html - 2014-07-03 - 04:09:00 AM -
+15:09 < deepin> andy
+15:18 < deepin_bot> [planet_ubuntu] Mohamad Faizul Zulkifli: Sharing Wireless Internet To Ethernet http://9m2pju.blogspot.com/2014/07/sharing-wireless-internet-to-ethernet.html - 2014-07-03 - 07:04:26 AM -
+16:49 <@s991533> Hi :)
+16:49 < deepin_bot> Hello ?
+16:51 <@s991533> Hi :P
+16:51 <@s991533> Hi :P
+16:51 < deepin_bot> hey ?
+16:56 <@s991533> Hiiiii
+16:56 < deepin_bot> yo :D
+16:56 <@s991533> Helloooo
+16:56 < deepin_bot> Hi ;)
+18:43 <@s991533> .isup linuxdeepin.com
+18:43 < deepin_bot> http://linuxdeepin.com looks fine to me.
+18:55 <@s991533>    hi
+23:02 < deepin_bot> [planet_ubuntu] Duncan McGreggor: Uncovering Inherent Structures in Organizations http://feedproxy.google.com/~r/ElectricDuncan/~3/SGz-YbhpHzY/uncovering-inherent-org-structures.html - 2014-07-03 - 02:52:15 PM -
+23:27 < deepin_bot> [planet_debian] Ian Donnelly: Hello Planet Debian! http://community.libelektra.org/wp/?p=36 - 2014-07-03 - 03:01:12 PM -
+23:47 < deepin_bot> [planet_ubuntu] Alan Pope: Creating Time-lapse Videos on Ubuntu http://popey.com/blog/2014/07/03/creating-time-lapse-videos-on-ubuntu/ - 2014-07-03 - 03:17:09 PM -
