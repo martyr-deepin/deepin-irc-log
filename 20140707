@@ -1,0 +1,439 @@
+00:20 < deepin_bot> [planet_debian] Eugene V. Lyubimkin: (Finland) FUUG foundation gives money for FLOSS development http://jackyf.livejournal.com/122700.html - 2014-07-06 - 03:46:45 PM -
+01:00 < deepin_bot> [planet_debian] Dominique Dumont: Status and next step on lcdproc automatic configuration upgrade with Perl and Config::Model http://ddumont.wordpress.com/2014/07/06/status-and-next-step-on-lcdproc-automatic-configuration-upgrade-with-perl-and-configmodel/ - 2014-07-06 - 04:42:38 PM -
+03:54 < deepin_bot> [linux_kernel] 3.16-rc4: mainline http://www.kernel.org/ - 2014-07-06 - 07:38:01 PM -
+06:00 < g0twig> Hello
+06:00 < deepin_bot> hey !
+06:00 < g0twig> How are you
+06:00 < g0twig> What is 1+1
+06:00 < g0twig> deepin_bot: hello
+06:00 < g0twig> I love deepin_bot
+06:00 < deepin_bot> g0twig: I love you too.
+06:00 < g0twig> :D
+06:01 < g0twig> xD
+06:01 < g0twig> a bot?
+06:01 < g0twig> Is that the answer to our community questions for more involvement of the deepin team
+06:01 < deepin_bot> XD
+06:01 < g0twig> does the bot at least speak chinese :D
+06:02 < g0twig> How are you deepin_bot
+06:02 < g0twig> What are you deepin_bot
+06:03 < g0twig> deepin_bot
+06:03 < g0twig> deepin_bot:
+06:03 < g0twig> what is 1+1
+06:03 < g0twig> what is 1+1 deepin_bot
+06:03 < g0twig> help deepin_bot
+06:03 < g0twig> !help deepin_bot
+06:03 < g0twig> !help
+09:44 < kunyashaw> morning,guys!
+10:58 < DATIQ> 软件商店，进行系统更新的时候，进行到后面的时候，会出现中断，尽管此时网络未被占用。
+10:59 < youthlin> anyone can speak Chinese?
+10:59 < DATIQ> ok, I speak english
+11:00 < youthlin> 有说中文的吗
+11:00 < DATIQ> 0.0
+11:00 < youthlin> 啊，有
+11:01 < youthlin> 这个是什么软件，打开就是IRC聊天室。（这是叫IRC吗）
+11:02 < DATIQ> 这个就是IRC聊天室
+11:02 < DATIQ> 我看到2014的自带hexchat
+11:02 < youthlin> 好吧，之前没怎么接触linux
+11:03 < youthlin> 对，我昨天装好的2014正式版
+11:03 < DATIQ> pigdin也能进行IRC聊天
+11:03 < DATIQ> 用着怎么样
+11:03 < youthlin> IRC就是全是陌生人？
+11:03 < youthlin> 感觉挺好的
+11:03 < DATIQ> 差不多吧，主要是对这个主题感兴趣的世界人民，O(∩_∩)O哈哈~
+11:04 < youthlin> 64位竟然可以直接运行我们的校园网客户端Dr.COm
+11:04 < DATIQ> 不清楚，我的是32位，也不需要运行学校客户端
+11:04 < youthlin> 那熟人之间有即时聊天工具没
+11:04 < DATIQ> 看来正式版做了很大的优化。
+11:04 < DATIQ> 你想问qq
+11:05 < youthlin> 那个深度商店有个QQ，可以用
+11:05 < DATIQ> 你在软件商店里能找到，qq2012国际板，100MB多吧。
+11:05 < youthlin> 但不好用
+11:05 < youthlin> 除了QQ呢
+11:06 < DATIQ> 那算是目前最好的qq版本了。deepin下
+11:06 < DATIQ> skype
+11:06 < youthlin> 哦
+11:07 < youthlin> 它最小化后就打不开了，在Dock栏找不到，alt+t也找不到ab
+11:07 < DATIQ> qq吗
+11:07 < youthlin> 恩
+11:08 < DATIQ> 在下面的弹出栏，右边数第三个
+11:08 < DATIQ> 输入法，音乐图标，qq图标应该都在那里
+11:11 < youthlin> 打不开。。。
+11:12 < DATIQ> 双击
+11:12 < sun> zheshisha
+11:13 < DATIQ> deepin的聊天室
+11:13 < youthlin> 点那个图标没反应，单击双击右键都
+11:13 < DATIQ> 看到qq了？
+11:13 < youthlin> 没看到
+11:13 < DATIQ> 输入法呢
+11:13 < youthlin> 没
+11:14 < DATIQ> 就是时钟左边的图标
+11:14 < youthlin> 只有一个d字，鼠标放过去就是不可点击
+11:14 < DATIQ> 鼠标放上去，会变
+11:15 < youthlin> 真的没有，貌似不能发截图
+11:15 < DATIQ> 这里不能发图
+11:15 < DATIQ> 你的输入法是搜狗？
+11:15 < youthlin> 是
+11:15 < youthlin> 自带啊
+11:15 < DATIQ> 那应该在那个d图标那里，会显示搜狗的标识的
+11:18 < DATIQ> 你鼠标放到d图标上，没变化？
+11:18 < youthlin> 没有
+11:18 < DATIQ> 你试下，super+tab
+11:19 < DATIQ> 如果没有qq，就可能是你退了qq
+11:19 < DATIQ> super是有微软图标的键
+11:21 < youthlin> 没有退，还有声音呢
+11:22 < DATIQ> 那你在dock里再启动下qq吧。
+11:23 < DATIQ> 你安装系统后有没有更新系统？
+11:23 < youthlin> 更新了
+11:24 < DATIQ> 安装后有没有重启过
+11:24 < DATIQ> 包括关机后又开机
+11:25 < youthlin> 之前没有把qq托到dock，现在托过去了，打开就登陆不了  因为已经登陆了
+11:25 < youthlin> 重启，忘了有没有
+11:25 < youthlin> 我重启下才能退出qq
+11:26 < DATIQ> 不知道了，可以用资源管理器，直接接杀死进程
+11:26 < DATIQ> 你是把qq拖到dock？
+11:26 < youthlin> 我记得昨天还能看到搜狗图标的，然后更新了下搜狗。。。就不能了
+11:26 < youthlin> 刚刚拖过去
+11:27 < youthlin> 怎么杀，
+11:27 < DATIQ> 哦，那应该无所谓。
+11:27 < DATIQ> 去dock里找资源管理器
+11:27 < DATIQ> 说错了
+11:27 < DATIQ> 是系统监视器
+11:28 < DATIQ> 搜狗更新？我没有更。
+11:29 < youthlin> 杀死QQ.exe进程吗
+11:29 < DATIQ> 嗯，应该是
+11:30 < youthlin> 杀死了，可以重新打开
+11:30 < DATIQ> 那就好。你昨天安装后，没有关机？
+11:30 < youthlin> 关机了啊
+11:31 < DATIQ> 哦，我在想你的d图标问题。可能是你更新搜狗的问题。
+11:31 < youthlin> 可是最小化后还是找不到，要是再点qq图标又是打开登陆界面
+11:31 < DATIQ> 搜狗更新主要是针对ubuntu kylin的
+11:32 < youthlin> 可能就是更新时出问题了把
+11:32 < DATIQ> 我没有装qq。没办法重现你的问题。
+11:33 < youthlin> 哦，谢谢你的耐心
+11:33 < DATIQ> 要不然你就卸载搜狗，然后在重装deepin软件中心的搜狗
+11:33 < youthlin> 好
+11:33 < DATIQ> 没事，今天刚装好，正在感受中
+11:38 < youthlin> sogoupinyin依赖一个或多个软件包，不能移除它，细节fcitx-sogoupinyin-uk
+11:38 < DATIQ> 在dock实用工具里，有搜狗设置，右键它，卸载
+11:38 < DATIQ> 试试
+11:40 < youthlin> 搜狗出现在系统工具那一栏0.0
+11:41 < youthlin> 卸载了
+11:41 < DATIQ> 嗯，我的是在实用工具里，名字是搜狗拼音，不是搜狗设置
+11:41 < DATIQ> 你怎么还能中文
+11:41 < DATIQ> 再看下d图标吧
+11:42 < youthlin> 搜狗面板程序加载失败，请重启以使用输入法！
+11:42 < DATIQ> 右键它，选择搜狗输入法
+11:42 < DATIQ> 搜狗拼音
+11:42 < youthlin>  bu neng yong zhongwen le
+11:43 < youthlin> yao chongqi ma
+11:43 < DATIQ> 终于你不能打中文了:-X
+11:43 < DATIQ> 还有搜狗输入法吗，
+11:43 < youthlin> kao! youjian haishi bunengdianji =_=||
+11:43 < DATIQ> 搜狗也没有了？
+11:44 < youthlin> zenmekan youmeiyou
+11:44 < DATIQ> 额，你d图标还是什么都么有
+11:45 < youthlin> haishi nayang
+11:45 < deepin_bot> xDDDDD
+11:46 < DATIQ> 晕，不管d图标。你去深度商店，搜索sogou
+11:46 < DATIQ> 选择fcitx-sogoupinyin
+11:47 < DATIQ> fcitx-sogoupinyin-uk
+11:47 < DATIQ> 我的是这个
+11:49 < youthlin> 搜狗面板程序加载失败，请重启以使用输入法！
+11:49 < DATIQ> 哦，重启。。。
+11:49 < youthlin> haoba
+11:49 < deepin_bot> XDDDD
+11:50 < DATIQ> 抱歉。。。
+11:50 < youthlin> thx
+11:50 < youthlin> 3q,88
+11:50 < DATIQ> 恩，白白
+11:58 < Dodiqo> Hey guys, I am so sorry for the trouble, but could I get some assistance really quick
+11:59 < Dodiqo> I can't get the dock to display for some reason, and the keyboard shortcut isn't working
+12:00 < youthlin> me,2 I think
+12:00 < DATIQ> 搞定了？
+12:01 < youthlin> 可以输入中文，可是不出现候选字，
+12:01 < DATIQ> d图标呢
+12:01 < youthlin> 还是不能点
+12:01 < DATIQ> 好神奇
+12:01 < youthlin> 而且找不到搜狗，
+12:02 < youthlin> 但是显示已安装```
+12:02 < DATIQ> dock面板里的实用工具，有搜狗拼音吗
+12:02 < youthlin> 没有
+12:03 < DATIQ> 打开dock栏里的第二咯紫色图标
+12:03 < youthlin> 终端？
+12:03 < DATIQ> 对
+12:03 < Dodiqo> Uhhh
+12:03 < youthlin> 然后
+12:04 < Dodiqo> I don't speak that language
+12:04 < DATIQ> 输入 sudo apt-get install sogoupinyin
+12:04 < DATIQ> 然后会让你输入你的登陆密码进行授权
+12:07 < youthlin> 正在读取软件包列表... 完成
+12:07 < youthlin> 正在分析软件包的依赖关系树
+12:07 < youthlin> 正在读取状态信息... 完成
+12:07 < youthlin> 下列软件包是自动安装的并且现在不需要了：
+12:07 < youthlin>   libssh2-1
+12:07 < youthlin> Use 'apt-get autoremove' to remove it.
+12:08 < youthlin> 下列【新】软件包将被安装：
+12:08 < youthlin>   sogoupinyin
+12:08 < youthlin> 升级了 0 个软件包，新安装了 1 个软件包，要卸载 0 个软件包，有 0 个软件包未被升级。
+12:08 < youthlin> 有 1 个软件包没有被完全安装或卸载。
+12:08 < youthlin> 需要下载 0 B/16.6 MB 的软件包。
+12:08 < DATIQ> y
+12:08 < youthlin> 解压缩后会消耗掉 41.1 MB 的额外空间。
+12:08 < youthlin> (正在读取数据库 ... 系统当前共安装有 171380 个文件和目录。)
+12:08 < youthlin> Preparing to unpack .../sogoupinyin_1.0.0.0033_amd64.deb ...
+12:08 < youthlin> Unpacking sogoupinyin (1.0.0.0033) ...
+12:08 < youthlin> dpkg: error processing archive /var/cache/apt/archives/sogoupinyin_1.0.0.0033_amd64.deb (--unpack):
+12:08 < youthlin>  正试图覆盖 /usr/lib/x86_64-linux-gnu/fcitx/fcitx-sogoupinyin.so，它同时被包含于软件包 fcitx-sogoupinyin 0.0.6-1
+12:08 < youthlin> dpkg-deb: error: subprocess 粘贴 was killed by signal (断开的管道)
+12:08 < youthlin> Processing triggers for mime-support (3.54ubuntu1) ...
+12:08 < youthlin> 在处理时有错误发生：
+12:08 < youthlin>  /var/cache/apt/archives/sogoupinyin_1.0.0.0033_amd64.deb
+12:08 < youthlin> E: Sub-process /usr/bin/dpkg returned an error code (1)
+12:08 < youthlin> 回到$了，不用输入y
+12:08 < DATIQ> 看到了
+12:09 < DATIQ> 你的电脑是什么处理器？
+12:09 < youthlin> amd 吧
+12:09 < youthlin> amd a8
+12:09 < DATIQ> 哦，我在看看
+12:11 < DATIQ> sudo apt-get autoremove fcitx-sogoupinyin 0.0.6-1
+12:11 < DATIQ> 不要后面的数字
+12:13 < youthlin> 您可能需要运行“apt-get -f install”来纠正下列错误：
+12:13 < youthlin> 下列软件包有未满足的依赖关系：
+12:13 < youthlin>  fcitx-sogoupinyin-uk : 依赖: sogoupinyin 但是它将不会被安装
+12:13 < youthlin> E: 有未能满足的依赖关系。请尝试不指明软件包的名字来运行“apt-get -f install”(也可以指定一个解决办法)。
+12:14 < youthlin> 什么依赖关系的，就是不懂这个东西
+12:14 < DATIQ> 嗯。我看看
+12:15 < DATIQ> 输入指令后，就直接是？ 您可能需要运行“apt-get -f install”来纠正下列错误：
+12:15 < youthlin> 不是
+12:15 < youthlin> youthlin@youthlin-Deepin:~$  sudo apt-get autoremove fcitx-sogoupinyin
+12:15 < youthlin> 正在读取软件包列表... 完成
+12:15 < youthlin> 正在分析软件包的依赖关系树
+12:15 < youthlin> 正在读取状态信息... 完成
+12:15 < youthlin> 您可能需要运行“apt-get -f install”来纠正下列错误：
+12:15 < youthlin> 下列软件包有未满足的依赖关系：
+12:15 < deepin_bot> Hello (Y)
+12:15 < youthlin>  fcitx-sogoupinyin-uk : 依赖: sogoupinyin 但是它将不会被安装
+12:15 < youthlin> E: 有未能满足的依赖关系。请尝试不指明软件包的名字来运行“apt-get -f install”(也可以指定一个解决办法)。
+12:15 < youthlin> youthlin@youthlin-Deepin:~$
+12:15 < deepin_bot> hey (y)
+12:17 < DATIQ> sudo apt-get -f install sogoupinyin
+12:17 < DATIQ> 试试这个
+12:18 < youthlin> 还是这样
+14:20 < Susan> 。。。。。。
+15:20 < deepin_bot> [planet_ubuntu] Ronnie Tucker: Valve Updates SteamOS With the Latest NVIDIA, AMD, and Intel Drivers http://fullcirclemagazine.org/2014/07/07/valve-updates-steamos-with-the-latest-nvidia-amd-and-intel-drivers/ - 2014-07-07 - 06:57:50 AM -
+16:05 < Achilles> hello, I just installed DEEPIN and it seems very buggy
+16:06 < deepin_bot> Hi (Y)
+16:06 < Achilles> are there any updates which I've to install or drivers?
+16:09 <@s991533> Achilles: I don't think so
+16:13 < Achilles> s991533: then why is this so buggy and slow?
+16:13 <@s991533> Achilles: don't know ... I have the same problem ...
+16:14 < Achilles> well, feels good to know other's are suffering as well :)
+16:14 <@s991533> same machine, but ubuntu & linuxmint is okay
+16:14 <@s991533> don't know why T^T
+16:15 < Achilles> yep, mint is okay here too
+16:15 < Achilles> well, then I guess we'll have to tweak it and make it work :) the interface and everything else is good, we can't leave everything for dev's to fix
+16:16 <@s991533> haha XD
+16:16 < deepin_bot> XDDDD
+16:16 <@s991533> I don't have time to figure it out, just wait for official fixing xD
+16:16 <@s991533> deepin_bot: Hello bot
+16:16 < Achilles> xD
+16:16 < deepin_bot> XD
+16:16 < Achilles> xD
+16:16 < Achilles> damn this bot? :|
+16:16 < Achilles> go away bot
+16:16 < Achilles> i don't trust you
+16:16 <@s991533> xDDDDD
+16:17 < deepin_bot> haha
+16:17 < Achilles> what is 34-4?
+16:17 <@s991533> ?
+16:17 < Achilles> s991533, just try fixing it :P do what ever you want, anyway, this is new and will take time
+16:17 <@s991533> hello?
+16:17 < deepin_bot> hi  :)
+16:17 < Achilles> hi
+16:17 < deepin_bot> yo !
+16:17 <@s991533> hmmmm ...
+16:17 < Achilles> bakayaro!
+16:18 <@s991533> I don't have time now xD
+16:18 <@s991533> just leave it alone and wait for their fixing ...
+16:18 < Achilles> i cant :(
+16:18 < Achilles> it looks so eye-appealing
+16:19 < Achilles> ok then, i'll listen to you, and go back to mint :)
+16:19 < Achilles> bye
+16:19 < deepin_bot> have a nice day :-D
+16:19 <@s991533> Achilles: Bye~
+16:40 < gotwig> hello
+16:40 < deepin_bot> hello :-D
+16:40 < gotwig> xD
+16:40 < deepin_bot> XD
+16:40 < gotwig> I love deepin_bot
+16:40 < deepin_bot> gotwig: I love you too.
+16:40 < gotwig> !help
+16:40 < gotwig> deepin_bot: help
+16:40 < deepin_bot> gotwig: Hi, I'm a bot. Say ".commands" to me in private for a list of my commands, or see http://willie.dftba.net for more general details. My owner is s991533.
+16:41 < gotwig> .commands
+16:41 < deepin_bot> gotwig: I am sending you a private message of all my commands!
+16:41 < gotwig> deepin_bot: radio
+16:41 < gotwig> radio deepin_bot
+16:41 < gotwig> deepin_bot: help radio
+16:41 < deepin_bot> gotwig: Radio functions, valid parameters: on, off, song, now, next, soon, stats.
+16:42 < gotwig> deepin_bot: radio on
+16:42 < gotwig> deepin_bot: radio stats
+16:42 < gotwig> deepin_bot: radio
+16:43 < gotwig> deepin_bot: weather
+16:43 < gotwig> weather deepin_bot
+16:43 < gotwig> deepin_bot: help weather
+16:43 < deepin_bot> gotwig: .weather location - Show the weather at the given location.
+16:43 < deepin_bot> e.g. .weather London
+16:43 < gotwig> .weater berlin
+16:43 < gotwig> .weather berlin
+16:43 < deepin_bot> Yahoo! Weather - Berlin, DE: Mostly Cloudy, 22°C (71°F), 29in (982mb), Gentle breeze 3.6m/s (←)
+16:43 < gotwig> .weather Köln
+16:43 < deepin_bot> Yahoo! Weather - Cologne, DE: Mostly Cloudy, 17°C (62°F), 30in (1015mb), Light breeze 2.2m/s (↖)
+16:43 < gotwig> .radio stats
+16:43 < deepin_bot> Radio module not configured
+16:44 < gotwig> .kick DATIQ
+16:46 < gotwig> .duck
+16:46 < deepin_bot> gotwig: .ddg what?
+16:46 < gotwig> .duck
+16:46 < deepin_bot> gotwig: .ddg what?
+16:46 < gotwig> .duck google
+16:46 < deepin_bot> gotwig: https://www.google.co.uk/
+16:46 < gotwig> .duck stuff
+16:46 < deepin_bot> gotwig: http://r.duckduckgo.com/y.js?kh=-1&x=1&u2=http%3A%2F%2F859997.r.msn.com%2F%3Fld%3DDv%2DHjOQsDmrFJYriCx8cEEDjVUCUw0drqerJm_pU6OfxQJsM_vvDLP1JpKIvpEASA1cEJt8J6i0qaWR4dKXp6v0aoMFRwhkmYql87HN4pqwJkku%2DShnW2P6XGe9CaNajnDQpObjg%26u%3Dwww.buystufz.com%252f%253ftag%253dim%257csm%257cbi%257ctm%2526a_aid%253d011
+16:47 < gotwig> .movie
+16:47 < gotwig> .movie help
+16:47 < deepin_bot> [MOVIE] Title: Help | Year: 2002 | Rating: 7.8 | Genre: Action, Drama, Fantasy | IMDB Link: http://imdb.com/title/tt0533439
+16:47 < gotwig> .movie avatar
+16:47 < deepin_bot> [MOVIE] Title: Avatar | Year: 2009 | Rating: 7.9 | Genre: Action, Adventure, Fantasy | IMDB Link: http://imdb.com/title/tt0499549
+16:48 < gotwig> .movie her
+16:48 < deepin_bot> [MOVIE] Title: Her | Year: 2013 | Rating: 8.2 | Genre: Drama, Romance, Sci-Fi | IMDB Link: http://imdb.com/title/tt1798709
+16:49 < gotwig> .movie shawshank redemption
+16:49 < deepin_bot> [MOVIE] Title: Shawshank Redemption | Year: 2013 | Rating: N/A | Genre: Short, Comedy | IMDB Link: http://imdb.com/title/tt3125798
+16:49 < gotwig> .movie blade
+16:49 < deepin_bot> [MOVIE] Title: Blade | Year: 1998 | Rating: 7.1 | Genre: Action, Fantasy, Horror | IMDB Link: http://imdb.com/title/tt0120611
+16:50 < gotwig> .movie lord of the rings
+16:50 < deepin_bot> [MOVIE] Title: Lord of the Rings | Year: 1990 | Rating: 6.8 | Genre: Adventure, Fantasy | IMDB Link: http://imdb.com/title/tt0154789
+16:50 < gotwig> .movie titanic
+16:50 < deepin_bot> [MOVIE] Title: Titanic | Year: 1997 | Rating: 7.7 | Genre: Drama, Romance | IMDB Link: http://imdb.com/title/tt0120338
+16:50 < gotwig> .movie star wars
+16:50 < deepin_bot> [MOVIE] Title: Star Wars | Year: 1983 | Rating: 7.3 | Genre: Action, Adventure, Sci-Fi | IMDB Link: http://imdb.com/title/tt0251413
+16:51 < gotwig> .movie star wars 1
+16:51 < deepin_bot> [MOVIE] Movie not found!
+16:51 < gotwig> .movie star wars IV
+16:51 < deepin_bot> [MOVIE] Movie not found!
+16:51 < gotwig> .movie star wars 3
+16:51 < deepin_bot> [MOVIE] Title: Youngblood #5/Star Wars 3-D #1 | Year: 2013 | Rating: N/A | Genre: Comedy, Sci-Fi | IMDB Link: http://imdb.com/title/tt2651640
+16:52 < DATIQ> 2 bots
+16:52 < gotwig> DATIQ: Hello
+16:52 < gotwig> DATIQ: sorry for kicking, I couldnt resist to conquer the world
+16:53  * gotwig tried to kick, but failed
+16:53 < DATIQ> kick for what
+16:53 < gotwig> DATIQ: I want to try out bot functions
+16:53 < gotwig> .help
+16:53 < deepin_bot> gotwig: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+16:53 < DATIQ> i see
+16:54 < gotwig> .info
+16:54 < deepin_bot> Can't do that, start meeting first
+16:54 < gotwig> DATIQ: are you a contributor :) ?
+16:56 < DATIQ> no actually,gotwig, i often stay in deepin bbs. question and give some simple answer.
+16:57 < gotwig> good luck :) I got work to do
+17:12 <@s991533> DATIQ: Hi
+17:22 < DATIQ> <s991533>,hi
+17:47 < james> 有人在？
+17:48 < Guest76102> 管理员呢
+17:49 <@s991533> Hi?
+17:49 < deepin_bot> yo ~~~
+17:59 < Hyello> !
+17:59 <@s991533> !
+19:24 < deepin_bot> [omgubuntu] First Alpha of Moonlight Desktop Available for Testing http://www.omgubuntu.co.uk/2014/07/first-alpha-of-moonlight-desktop-available-for-testing?utm_source=rss&utm_medium=rss&utm_campaign=first-alpha-of-moonlight-desktop-available-for-testing - 2014-07-07 - 11:15:37 AM -
+19:39 < June> you ren ma
+19:39 < deepin_bot> Welcome ~~~
+20:47 < Vorenii> Hello everyone
+20:47 < deepin_bot> yo :P
+20:48 < Vorenii> Quick question, since this deepin has my interested.
+20:49 < Vorenii> If i burn this iso on a dvd, can i upgrade it later to new releases without the need of burning it again? (so upgrading current install on my pc.)
+20:49 <@s991533> hmmmm...
+20:49 <@s991533> don't know what do you mean
+20:49 < Vorenii> From RC1 to RC2 to Final release
+20:49 <@s991533> upgrade the version on the harddisk?
+20:49 < Vorenii> yes
+20:50 <@s991533> Vorenii: oh, I haven't try it, can't answer you, sorry
+20:51 < Vorenii> Ok np s991533, what do you think of Deepin so far?
+20:51 < upup> this channel is chinese channel or enlighs？
+20:51 <@s991533> upup: English will be better
+20:51 <@s991533> Vorenii: a lot of things can be and should be improved
+20:52 <@s991533> but it's cool
+20:53 < Vorenii> May I bother you with another question?
+20:53 < upup> fine。。。i just installed deepin2014. how can i set  double screens? make two screens show the different content?
+20:53 <@s991533> Vorenii: I'm not good at it, haha, but I'll answer if I can
+20:54 < upup> install video card driver?
+20:54 < Vorenii> I installed dual boot, windows & ubuntu 14.04. But I want to "remove" my old ubuntu install, and install deepin, can I do that from the Deepin installer?
+20:54 <@s991533> upup: I don't think so, maybe just configure screen setting
+20:55 <@s991533> Vorenii: Yes you can
+20:55 <@s991533> Vorenii: most live cd of linux distros can help
+20:56 < upup> i can find another screen at screen setting.
+21:07 <@s991533> upup: then you should find some options to try :)
+21:08 <@s991533> I don't have dual screen with my Deepin 2014
+21:10 < upup> maybe id better to install the driver
+21:10 <@s991533> Vorenii: are you still there?
+21:10 < Vorenii> Yes sir
+21:11 <@s991533> upup: I don't know what's your hardware, but I never install a driver to help me do this thing
+21:11 <@s991533> Vorenii: http://www.omgubuntu.co.uk/2014/07/deepin-2014-final-released-available-download
+21:11 < deepin_bot> [ Linux Distro 'Deepin 2014' Now Available for Download | OMG! Ubuntu! ] - www.omgubuntu.co.uk
+21:11 <@s991533> "Users of Deepin 2014 alpha, beta or RC can upgrade to the final release through the update manager. But users of older versions, including the previous stable release, Deepin 2013.1, will need to perform a fresh install."
+21:11 <@s991533> The answer is - Yes you can.
+21:11 < Vorenii> Thank you
+21:11 < Vorenii> Now i jus tneed to find a decent mirror
+21:11 <@s991533> Vorenii: You're welcome
+21:11 < Vorenii> 25kbs is just a little crazy :P
+21:12 <@s991533> where are you frome?
+21:12 <@s991533> where are you from?
+21:12 <@s991533> and where do you get the iso from?
+21:13 < Vorenii> I am from The Netherlands
+21:13 < Vorenii> I was trying the homepage's link
+21:13 <@s991533> Vorenii: Oh no, never try it
+21:13 <@s991533> tru this : ee
+21:13 <@s991533> try this : http://ftp.snt.utwente.nl/pub/os/linux/deepin-cd/2014/final/deepin_2014_final_amd64.iso
+21:14 <@s991533> this is a 64-bit deepin 2014
+21:14 <@s991533> and this is 32-bit : http://ftp.snt.utwente.nl/pub/os/linux/deepin-cd/2014/final/deepin_2014_final_i386.iso
+21:14 <@s991533> Netherlands mirror
+21:14 < Vorenii> Thank you, its downloading alot faster now
+21:14 < upup> s991533: when i install the system.i chosen the efi to boot. but i can not see my win8 boot. do you know how to fix it?
+21:14 <@s991533> yep, never download from a official site, especially from china, you will be crazy, too slow, haha
+21:15 <@s991533> upup: try to add it back a the boot menu, you may need to google it
+21:15 <@s991533> Vorenii: tell your friend to download from a mirror site :)
+21:15 <@s991533> http://www.linuxdeepin.com/mirrors.en.html#iso
+21:15 < deepin_bot> [ Deepin ] - www.linuxdeepin.com
+21:36 <@s991533> .rss add #deepin deepin_facebook https://www.facebook.com/feeds/page.php?format=rss20&id=829563693723710
+21:36 < deepin_bot> s991533: Successfully added the feed to the channel.
+21:36 < deepin_bot> [ Deepin[apos]s Facebook Wall ] - www.facebook.com
+21:40 < deepin_bot> [deepin_facebook] Hey guys, Deepin 2014 was already released, did you download and install it? If... http://www.facebook.com/deepinlinux/posts/876615209018558 - 2014-07-07 - 01:20:18 PM -
+23:04 < Vorenii> s991533: is it useable as a main OS?
+23:05 <@deepin_bot> [planet_ubuntu] Jonathan Riddell: Frameworks 5 and Plasma 5 almost done! https://blogs.kde.org/2014/07/07/frameworks-5-and-plasma-5-almost-done - 2014-07-07 - 02:42:48 PM -
+23:15 < lsf> what is this.
+23:15 < Vorenii> ?
+23:15 < Vorenii> Well hello to you too.
+23:16 < lsf> 哈哈。
+23:16 < lsf> 第一次用这东西
+23:16 < Vorenii> I have no idea what you are saying mate.
+23:16 < Vorenii> lsf: http://nl.wikipedia.org/wiki/Deepin
+23:16 <@deepin_bot> [ Deepin - Wikipedia ] - nl.wikipedia.org
+23:16 < lsf> just to say hello
+23:18 < lsf> deepin_bot?
+23:19 < lsf> 这边聊有什么规定么。
+23:20 < lsf> fine ..good bye
+23:20 < Vorenii> Ehhh ok?
+23:34 < bseekins> any devs here?
+23:38 < Vorenii> Im not sure.
+23:40 < Vorenii> Im not sure howto feel about this OS aswell. China based, some stuff it seems isnt even properly translated. This community is really really small.
+23:41 < bseekins> I found a huge bug
+23:41 < Vorenii> report it
+23:41 < bseekins> i can't use a external monitor
+23:41 < Vorenii> Your the 2nd person ive seen today with an issue like that.
+23:41 < bseekins> yeah
+23:41 <@deepin_bot> Welcome (Y)
+23:44 < Vorenii> deepin_bot:  are you a dev?
+23:47 < bseekins> Also after the graphics issue I can't open the applications menu
+23:47 <@deepin_bot> yo ~~~
+23:50 <@deepin_bot> [planet_debian] Jan Wagner: Monitoring Plugins release ahead http://blog.waja.info/2014/07/07/monitoring-plugins-release-ahead/ - 2014-07-07 - 01:41:00 PM -
+23:54 < Vorenii> deepin_bot: yo == yes?
