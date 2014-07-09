@@ -1,0 +1,95 @@
+02:45 <@deepin_bot> [planet_debian] Wouter Verhelst: HP printers require systemd, apparently http://grep.be/blog//en/computer/debian/HP_printers_require_systemd_apparently/ - 2014-07-08 - 06:15:52 PM -
+03:05 <@deepin_bot> [ubuntu_fridge] Ubuntu Online Summit dates: 4-6 Nov 2014 http://fridge.ubuntu.com/2014/07/08/ubuntu-online-summit-dates-4-6-nov-2014/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-online-summit-dates-4-6-nov-2014 - 2014-07-08 - 06:54:28 PM -
+03:15 <@deepin_bot> [planet_ubuntu] Nicholas Skaggs: Utopic Bug Hug and Testing Day http://www.theorangenotebook.com/2014/07/utopic-bug-hug-and-testing-day.html - 2014-07-08 - 06:48:36 PM -
+03:19 <@deepin_bot> [omgubuntu] How to Install Cinnamon from a PPA on Ubuntu 14.04 http://www.omgubuntu.co.uk/2014/07/new-cinnamon-ubuntu-14-04-ppa-stable?utm_source=rss&utm_medium=rss&utm_campaign=new-cinnamon-ubuntu-14-04-ppa-stable - 2014-07-08 - 06:14:00 PM -
+03:20 <@deepin_bot> [ubuntu_fridge] Ubuntu Online Summit dates: 4-6 Nov 2014 http://fridge.ubuntu.com/2014/07/08/ubuntu-online-summit-dates-4-6-nov-2014/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-online-summit-dates-4-6-nov-2014 - 2014-07-08 - 06:54:28 PM -
+03:30 <@deepin_bot> [ubuntu_fridge] Ubuntu Online Summit dates: 4-6 Nov 2014 http://fridge.ubuntu.com/2014/07/08/ubuntu-online-summit-dates-4-6-nov-2014/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-online-summit-dates-4-6-nov-2014 - 2014-07-08 - 06:54:28 PM -
+04:05 <@deepin_bot> [planet_ubuntu] Nicholas Skaggs: Utopic Bug Hug and Testing Day http://www.theorangenotebook.com/2014/07/utopic-bug-hug-and-testing-day.html - 2014-07-08 - 07:38:43 PM -
+08:50 <@deepin_bot> [omgubuntu] LG 3 Style ‘All In One Circle’ Conky Theme http://www.omgubuntu.co.uk/2014/07/conky-circle-theme-nod-lg-quick-cover?utm_source=rss&utm_medium=rss&utm_campaign=conky-circle-theme-nod-lg-quick-cover - 2014-07-09 - 12:04:56 AM -
+09:15 <@deepin_bot> [planet_debian] Junichi Uekawa: Having fun with lisp. http://www.netfort.gr.jp/~dancer/diary/daily/2014-Jul-9.html.en#2014-Jul-9-09:18:30 - 2014-07-09 - 12:18:30 AM -
+10:53 < lsjun> hello
+10:53 <@deepin_bot> Welcome ;)
+10:54 < lsjun> 居然有个机器人
+10:54 < lsjun> deepin_bot:  贵姓
+10:54 < lsjun> deepin_bot: hello
+10:54 < lsjun> 好傻一个机器人
+10:59 < Leravi> hi
+10:59 <@deepin_bot> hi (Y)
+11:00 < Leravi> spanish???
+14:38 < zhaolu> 有人啊
+14:46 <@s991533> zhaolu: hi?
+14:50 <@deepin_bot> [planet_debian] Sune Vuorela: CMake and library properties http://pusling.com/blog/?p=352 - 2014-07-09 - 06:30:16 AM -
+15:20 <@deepin_bot> [planet_ubuntu] Ronnie Tucker: XFCE App Launcher `WHISKER MENU` sees new release http://fullcirclemagazine.org/2014/07/09/xfce-app-launcher-whisker-menu-sees-new-release/ - 2014-07-09 - 06:58:42 AM -
+15:36 < Youthlin> 输入法没有候选词怎么办
+15:38 < Youthlin> 前几天也这样，@DATIQ 帮忙弄好了，可是重装后有这样了
+15:44 <@deepin_bot> [omgubuntu] How to Install Lightweight Budgie Desktop in Ubuntu 14.04 http://www.omgubuntu.co.uk/2014/07/install-budgie-evolve-os-desktop-ubuntu-14-04?utm_source=rss&utm_medium=rss&utm_campaign=install-budgie-evolve-os-desktop-ubuntu-14-04 - 2014-07-09 - 07:37:39 AM -
+18:26 < wales> lhello
+18:26 < wales> 深度2014很漂亮
+18:31 <@s991533> (Y)
+18:33 < wales> 就是感觉卡卡的还是
+18:33 < tewdin> you know, deepin's user accounts don't really support encrypted homes
+18:33 <@deepin_bot> yo xD
+18:33 < wales> 性能还是需要优化
+18:34 < tewdin> i just tried and whole graphical interface just stop working
+18:35 < tewdin> mouse pointer moved but i couldn't click things and program menu did not show at all
+18:35 < tewdin> is there a fix for that?
+18:37 <@s991533> wales: yep
+18:40 <@s991533> tewdin: don't know ...
+18:40 < tewdin> i just wanted to info you about this
+18:45 < wales> thank you but I am not deepin's member
+18:47 <@s991533> tewdin: thanks, have you tried it on other Linux distros?
+18:48 <@s991533> wales: no mind, Deepin's engineer will read the IRC log and try to fix it
+18:48 <@s991533> wales: We are not the first one talk about this issue
+18:48 < wales> unity, gnome,gtk
+18:51 < wales> Are you Chinese or foreigner?
+18:52 <@s991533> wales: Chinese, Taiwanese
+18:52 < tewdin> s991533: yes, i always have ubuntu's own encrypted home system
+18:52 < tewdin> working on ubuntu and mint
+18:52 < tewdin> at least
+18:53 <@s991533> tewdin: so there is no problem on ubuntu or mint?
+18:54 < ndstorm> Hello need help
+18:54 <@deepin_bot> hi :-D
+18:54 <@s991533> ndstorm: ?
+18:54 < ndstorm> How change keyboard layot
+18:55 < tewdin> s991533: no problem on ubuntu or mint. it's ubuntu's own system.
+18:55 < tewdin> that's why i thought it would work on deepin too
+18:55 <@s991533> oh, so .. its deepin sucks XD
+18:55 < ndstorm> I have 2 keys rus and eng how change
+18:55 < tewdin> i didn't say deepin sux
+18:55 < tewdin> i really like this distro so far
+18:56 < tewdin> but i really like to keep my things private too
+18:56 < ndstorm> Super OS Deepin
+18:57 < tewdin> ndstorm: you can access to keyboard settings thru menu, put your mouse pointer to down right corner and look for keyboard icon
+18:57 <@s991533> tewdin: haha, just that point, I didn't mean the whole
+18:57 < tewdin> s991533: yes then. :)
+18:57 < tewdin> how fast devs fix things?
+18:58 <@s991533> tewdin: don't know
+18:58 < tewdin> and are they planning to use that encrypting thingy as default as ubuntu does?
+18:58 <@s991533> tewdin: don't know xD
+19:01 < ndstorm> Guys how make hibernate in this OS
+19:03 < ndstorm> sudo pm-hibernate not working
+19:03 < tewdin> i have no idea. started to use this last night.
+19:06 < uhaw> Hi
+19:06 <@deepin_bot> hi :P
+19:07 < uhaw> .
+19:07 < uhaw> 之前有說過 來台灣舉辦研討會 還是聚會的事項
+19:14 < Yanchao> 这是个什么软件啊
+19:14 < Yanchao> 我在和谁说话？
+19:14 < uhaw> <@deepin_bot>
+20:36 < deepin> hi
+20:36 <@deepin_bot> Hello (Y)
+20:37 < deepin> i have a little problem with deepin
+20:40 < deepin> i have a little problem with deepin
+20:44 < leaeasy> ？
+21:00 < Yanchao> i have  many problems with deepin
+21:02 < Yanchao> where are you from ,deepin?
+22:10 < lei> 有人说话？
+22:11 <@s991533> lei: hi
+22:11 <@s991533> 87hello?
+22:11 <@s991533> hello?
+22:11 <@deepin_bot> Hi :D
+22:11 < lei> 能说中文？？
+22:11 <@s991533> English will be better
+22:13 < lei> why?
+22:58 < tewdin> i can't find kdenlive from software menu and i can't pin it to dock
+22:59 < tewdin> i can launch it from terminal
