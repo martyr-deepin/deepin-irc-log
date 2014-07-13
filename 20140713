@@ -1,0 +1,64 @@
+07:58 < deepin_bot> [planet_debian] Dirk Eddelbuettel: RcppArmadillo 0.4.320.0 http://dirk.eddelbuettel.com/blog/2014/07/12#rcpparmadillo_0.4.320.0 - 2014-07-12 - 11:43:00 PM -
+08:18 < deepin_bot> [planet_debian] Dirk Eddelbuettel: RcppArmadillo 0.4.320.0 http://dirk.eddelbuettel.com/blog/2014/07/12#rcpparmadillo_0.4.320.0 - 2014-07-12 - 11:45:00 PM -
+12:57 < lxh112210> 问下，我的无线驱动支持到Linux 3.11，那我把内核升级到3.14可以支持吗
+13:18 < deepin_bot> [planet_debian] Russ Allbery: Review: Neptune's Brood http://www.eyrie.org/~eagle/reviews/books/1-101-62453-1.html - 2014-07-13 - 04:54:00 AM -
+14:18 < xiaoqingwa> good
+15:18 < Guest58755> hello
+15:18 < deepin_bot> hey ;)
+15:19 < Guest58755> l like deepin 2014 it's wonderful
+15:21 < Guest58755> but the icon may be  better
+16:26 < yq> 请问 Deepin 2014 桌面下部应用程序条里在时钟左边的图标是应用？
+16:26 < yq> 一个黑圈里面一个蓝色的 d 型图标
+16:52 < windslinux_> deepin2014非常不错。
+16:53 < windslinux_> 安装很快，易用性上感觉和mint差不多。
+18:47 < deepin> goog morning everybody
+20:48 < deepin_bot> [planet_ubuntu] Dimitri John Ledkov: Hacking on launchpadlib http://feedproxy.google.com/~r/tdlk/~3/2ZDm0BVwyuc/hacking-on-launchpadlib.html - 2014-07-13 - 12:32:12 PM -
+20:58 < deepin_bot> [planet_debian] Dimitri John Ledkov: Hacking on launchpadlib http://blog.surgut.co.uk/2014/07/hacking-on-launchpadlib.html - 2014-07-13 - 12:32:12 PM -
+21:17 < netchip> Hello
+21:17 < deepin_bot> hey :D
+21:17 < netchip> How is Deepin DE? I want to install it ona an Asus K35SV laptop, but I'm afraid it doesn't cut it.
+21:17 <@s991533> DE?
+21:18 < netchip> Desktop Environment
+21:18 <@s991533> oh
+21:18 <@s991533> You can try it
+21:18 < netchip> How's it for functionality?
+21:18 < deepin_bot> [omgubuntu] Simple Dock GNOME Shell Extension http://www.omgubuntu.co.uk/2014/07/simple-dock-gnome-shell-extension?utm_source=rss&utm_medium=rss&utm_campaign=simple-dock-gnome-shell-extension - 2014-07-13 - 01:03:50 PM -
+21:18 < deepin_bot> Hi !
+21:19 < netchip> oh, it's broken on Arch Linux. Bummer.
+21:20 <@s991533> arch on your NB?
+21:21 < netchip> yea
+21:22 <@s991533> I don't use arch, haha, toooooo hard
+21:23 <@s991533> Maybe you can try some Ubuntu based Linux distros
+21:23 < netchip> Some friends disrecommended Ubuntu, because their repos appear to be a mess
+21:24 <@s991533> really?
+21:24 <@s991533> waht about Debian based?
+21:24 <@s991533> Linux Mint Debian Edition
+21:24 < netchip> that would be fine, yes
+21:24 <@s991533> Linux Mint Debian Edition is good
+21:25 <@s991533> but sometime I feel Debian's repo is tooo old, haha
+21:25 < netchip> it's testing
+21:25 < netchip> (repos)
+21:25 < netchip> Arch is bleeding edge
+21:25 <@s991533> Oh, I don't like testing repo
+21:25 <@s991533> sometimes make some problem
+21:25 <@s991533> My audio driver was broken by it before, haha
+21:26 <@s991533> so I just rollback
+21:28 < netchip> hehe
+21:28 <@s991533> I use Debian on server
+21:28 <@s991533> Ubuntu based Linux on PC/NB
+21:29 < netchip> so do I
+21:29 < netchip> but no Ubuntu
+21:29 <@s991533> I don't care about the repo mess. haha
+21:29 < netchip> Server = Debian, Desktop = Arch Linux 64 bits testing
+21:29 <@s991533> add ppa is really convenience
+21:29 < netchip> we have the AUR for that
+21:30 < netchip> Arch User Repository
+21:31 <@s991533> okay, thanks for that info
+21:31 <@s991533> I don't know it before
+21:33 <@s991533> But I really like arch's wiki
+21:33 <@s991533> very useful info on it
+21:34 < netchip> yep
+21:45 <@s991533> netchip: Would you like to try Deepin?
+21:45 < netchip> yes, but on Arch Linux
+21:49 <@s991533> Deepin on Arch?
+22:23 < deepin_bot> [omgubuntu] ‘Simple Dock’ GNOME Shell Extension Puts Your Fave Apps On The Desktop http://www.omgubuntu.co.uk/2014/07/simple-dock-gnome-shell-extension?utm_source=rss&utm_medium=rss&utm_campaign=simple-dock-gnome-shell-extension - 2014-07-13 - 02:03:50 PM -
