@@ -1,0 +1,33 @@
+01:03 < deepin_bot> [planet_ubuntu] Colin King: a final few more features in stress-ng http://feedproxy.google.com/~r/ASmackerelOfOpinion/~3/HkBHUMyITzc/a-final-few-more-features-in-stress-ng.html - 2014-07-13 - 04:47:29 PM -
+04:18 < deepin_bot> [planet_debian] Laura Arjona: New GPG Key! http://larjona.wordpress.com/2014/07/13/new-gpg-key/ - 2014-07-13 - 07:47:18 PM -
+05:18 < deepin_bot> [planet_ubuntu] David Tomaschik: Passing Android Traffic through Burp https://systemoverlord.com/blog/2014/07/13/passing-android-traffic-through-burp/ - 2014-07-13 - 08:57:18 PM -
+09:27 < arch> 我用Archlinux装的deepin桌面，为什么dock不出来啊
+09:57 < lsjun> hello
+09:57 < deepin_bot> Hi ~
+10:52 < arch> 我用Archlinux装的deepin桌面，为什么dock不出来啊
+10:53 < deepin> ...
+10:54 < Cathylin-Deepin> 你是怎么安装的呢？
+10:59 < arch> 我第一次装好是有的，但是重启后就找不到了
+10:59 < arch> 加源之后sudo pacman -S deepin
+11:06 < arch> 还在吗……
+14:00 < man11> hello.. I just installed deepin desktop environment on Ubuntu 14.04, by following this instruction --> http://www.maketecheasier.com/install-linux-deepin-desktop-on-ubuntu/ and changing "raring" to "trusty". It worked. However I can't install some software like deepin-system-settings due to dependency problems. Is there any other repositories that I need to add to solve this?
+14:00 < deepin_bot> [ How to Install Linux Deepin Desktop on Ubuntu ] - www.maketecheasier.com
+14:00 < deepin_bot> Welcome ?
+14:01 < man11> Please help thank you :)
+14:33 <@s991533> man11: what problem?
+14:34 <@s991533> man11: you use apt-get or aptitude
+14:38 < man11> I use apt-get .. the error was:
+14:38 < man11> The following packages have unmet dependencies:  deepin-system-settings-module-date-time : Depends: liblunar-date but it is not installable                                            Depends: liblunar-calendar but it is not installable
+14:43 <@s991533> hmmmmm ...
+14:46 <@s991533> man11: don't know why ...
+14:46 <@s991533> you can try this:
+14:46 < deepin_bot> yo ~~~
+14:46 <@s991533> apt-cache search liblunar-calendar
+14:46 <@s991533> check if it can be found
+14:47 <@s991533> I don't know where is it
+14:47 <@s991533> seems it's not in deepin repo
+16:15 < man11> @s991533 I'm currently trying other solution. Thanks anyway for your suggestion..
+16:15 < man11> Is there any official or community guide about how to build linux deepin from Ubuntu?
+16:17 <@s991533> nope, why not just install a clean Deepin?
+16:20 < man11> That would be my last choice. I'm using ubuntu now, and thare are already many many software installed. If I install clean Deepin, I will need to download all the software again, I think > 2 GB
+19:28 < deepin_bot> [debian_news] Updated Debian 7: 7.6 released https://www.debian.org/News/2014/20140712 - 2014-07-12 - 12:00:00 AM -
