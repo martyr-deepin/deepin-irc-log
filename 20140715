@@ -1,0 +1,114 @@
+02:03 < deepin_bot> [debian_news] Updated Debian 7: 7.6 released https://www.debian.org/News/2014/20140712 - 2014-07-12 - 12:00:00 AM -
+02:18 < deepin_bot> [planet_ubuntu] Nicholas Skaggs: Utopic Test Writing Hackfest http://www.theorangenotebook.com/2014/07/utopic-test-writing-hackfest.html - 2014-07-14 - 06:09:17 PM -
+07:22 < quxinfeng> right
+07:26 < dovahYAWN> how can i do a system update?
+07:27 < dovahYAWN> sudo apt-get dist-upgrade?
+08:03 < deepin_bot> [planet_ubuntu] Lubuntu Blog: Box support for MATE http://lubuntublog.blogspot.com/2014/07/box-support-for-mate.html - 2014-07-14 - 11:47:12 PM -
+08:48 < deepin_bot> [debian_news] Updated Debian 7: 7.6 released https://www.debian.org/News/2014/20140712 - 2014-07-12 - 12:00:00 AM -
+09:06 < lsjun> hello
+09:06 < deepin_bot> hey ~~~
+10:12 < anex> https://forum.manjaro.org/index.php?topic=14986.msg136892#msg136892
+10:12 < deepin_bot> [ Skittles GTK Theme & Icon Pack ver. 07/15/14 ] - forum.manjaro.org
+12:47 < chen> haha
+12:47 < deepin_bot> xDDDDD
+12:47 < deepin_bot> rofl
+12:47 < chen> hao
+12:47 < deepin_bot> xDDDDD
+12:48 < chen> 有没有觉得字体和windows相比，感觉颗粒感更大？
+13:03 < deepin_bot> [debian_news] Updated Debian 7: 7.6 released https://www.debian.org/News/2014/20140712 - 2014-07-12 - 12:00:00 AM -
+13:50 < tmacy> hello?
+13:50 < deepin_bot> yo :D
+13:52 <@s991533> tmacy: Hi?
+13:52 < tmacy> :)
+15:24 < kingskill> hi everyon
+15:24 < deepin_bot> hi :P
+15:25 < kingskill> The words is too small to see....
+15:25 < kingskill> I use the HexChat
+15:28 <@s991533> kingskill: hi
+15:29 < kingskill> yes?
+15:30 <@s991533> good afternoon
+15:30 < kingskill> Afternoon :)
+15:30 < kingskill> How R U doing?
+15:30 <@s991533> fine
+15:31 < kingskill> My final version is ok, after install the nvidia-current
+15:31 <@s991533> great
+15:36 < kingskill> I have to say, I can't bear the process
+15:37 < kingskill> Nvidia card must be feed back...
+18:51 < H4DH> hello
+18:51 < deepin_bot> yo :D
+18:51 < H4DH> i just installed deepin
+18:52 < H4DH> and im loving it lol
+18:57 < Guest52871> 大家好啊
+20:33 < deepin_bot> [planet_ubuntu] Lubuntu Blog: Box support for MATE http://lubuntublog.blogspot.com/2014/07/box-support-for-mate.html - 2014-07-15 - 12:23:04 PM -
+20:58 < deepin_bot> [debian_news] Updated Debian 7: 7.6 released https://www.debian.org/News/2014/20140712 - 2014-07-12 - 12:00:00 AM -
+21:03 < deepin_bot> [planet_ubuntu] Sebastian K&uuml;gler: Plasma 5 Ingredients http://vizZzion.org/blog/2014/07/plasma-5-ingredients/ - 2014-07-15 - 12:54:18 PM -
+21:18 < deepin_bot> [planet_ubuntu] Lubuntu Blog: Box support for MATE http://lubuntublog.blogspot.com/2014/07/box-support-for-mate.html - 2014-07-15 - 12:57:51 PM -
+22:45 < GMY> hello,I have a question,about the 2014 version
+22:45 < deepin_bot> yo :D
+22:46 < GMY> is there anyone here
+22:46 < hualet_deepin> GMY: I'm with you :P
+22:47 < GMY> thank you very much
+22:47 < hualet_deepin> GMY: so what's the problem?
+22:47 < GMY> I have installed the IPTUX
+22:48 < GMY> but I cannt change the window size
+22:48 < GMY> only set the minimu or max
+22:49 < GMY> the ICO cannt be changed too
+22:50 <@s991533> hmmmm ..., I don't use UPTUX, can't help
+22:51 < GMY> thank you too
+22:52 < ONeZetty> hello, nice work on Deepin, I been using it and it so cool.
+22:52 < deepin_bot> Welcome ?
+22:52 < hualet_deepin> GMY: I installed iptux, and saw the strange problem...
+22:52 < ONeZetty> deepin_bot: lol
+22:52 < GMY>  I think there is a bug about this maybe, not only to IPTUX
+22:53 < GMY> IPtux is just found
+22:53 < hualet_deepin> GMY: It seems that 2013 has the same problem
+22:54 < GMY> o ,NO,2013 is OK,just update to 2014 ,this problem is here
+22:56 < hualet_deepin> GMY: oh, yeah, I remeber that we sovled this problem by a patch to iptux
+22:57 < GMY> oh,can you share to me ,thanks ^_^
+22:58 < GMY> it is the IPTUX wrong ,not matter the system?
+23:00 < hualet_deepin> GMY: perhaps, or the problem of compiz...don't know
+23:01 < GMY> dont
+23:01 < GMY>  dont like compiz ,
+23:02 < hualet_deepin> GMY: i don't know, but compiz always causes some weird problems...
+23:04 < GMY> the iptux patch ,where I can get
+23:04 < GMY> so it is
+23:07 < hualet_deepin> GMY: i'm not sure if i can find it right now, it's midnight here in China now, our programmers are all off of work..
+23:07 < GMY> 哈哈，你是deepin的？
+23:08 < GMY> 谢谢你，这么晚了还帮忙解决问题
+23:08 < hualet_deepin> 我去。。。
+23:08 < GMY> 本来我英语就不好
+23:09 < hualet_deepin> 早说是中国人么，你哪个问题要不我明天问一下我们的包管理人员
+23:09 < hualet_deepin> 我不负责那一块，只是知道当时有一个补丁
+23:09 < GMY> 好呀，我还发现一个问题，就是我们的图标虽然配置了好几套方案，但是不能更换呀
+23:10 < GMY> 最好是把官方的源直接打上不定，我重新安装一下就好了
+23:10 < hualet_deepin> 图标主题好像最近确实出了些小问题
+23:10 < hualet_deepin> 嗯，好的，谢谢反馈啦
+23:10 < GMY> 估计也是compiz闹的
+23:11 < GMY> 没什么，我认为应该支持你们
+23:11 < GMY> 挺喜欢深度的
+23:11 < hualet_deepin> 哈哈，谢谢支持啦
+23:11 < GMY> 我都准备我女儿大了先教她用深度哈哈
+23:12 < GMY> 另外还遇到一个可能不算问题的问题，我在公司用代理联咱们的IRC频道很困难
+23:13 < GMY> 不知道是代理的问题，还是因为服务器在国外的问题呀，我猜的
+23:13 < hualet_deepin> 我已经打电话告诉我们的包管理者了，他应该会处理好的
+23:13 < GMY> 恩好的，谢谢你呀，就是喜欢你们的敬业精神，因为我自己也很敬业
+23:14 < GMY> 大半夜不睡觉哈哈哈哈
+23:14 < hualet_deepin> 想做好一个操作系统不容易啊。。。。
+23:15 < GMY> 坚持住，做任何事情都一样
+23:15 < hualet_deepin> 嗯，是的啊
+23:16 < GMY>  主要是中国的freeshare氛围还稍不足
+23:16 < GMY> 把free光理解成免费啦
+23:17 < hualet_deepin> 慢慢会好的，Deepin不是也一直在努力推广开源分享的理念么，我们也会慢慢将社区做大的
+23:18 < GMY> 我是个工程师，也是个电脑爱好者，很愿意能尽点自己的义务
+23:18 < GMY> 可是我对编程只是初级菜鸟级的也帮不上忙
+23:19 < hualet_deepin> 国内如果有更多像你这样理解Deepin的人就更好了
+23:20 < GMY> 慢慢会多起来的，至少我就在影响周围的人，原来他们都不了解深度，我给他们做系统都用的是深度的哈哈
+23:20 < GMY> 所以你们要挺住
+23:20 < hualet_deepin> 嗯，一定的
+23:21 < GMY> 顶住压力，与天斗其乐无穷，与地斗起了无穷，与人斗更无穷呀
+23:21 < GMY> 你是做什么的
+23:22 < GMY> 明天不上班呀，这么晚还不睡
+23:23 < hualet_deepin> 要修bug啊~~~
+23:23 < hualet_deepin> 哈哈
+23:24 < hualet_deepin> 早点休息吧，我也要回去休息了~
+23:26 < GMY> 晚安，辛苦了
