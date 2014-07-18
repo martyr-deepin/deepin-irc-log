@@ -1,0 +1,64 @@
+01:34 < zwwsyy> ......
+01:35 < zwwsyy> GN
+03:29 < deepin_bot> [planet_debian] Daniel Pocock: MH17 and the elephant in the room http://danielpocock.com/mh17-and-the-elephant-in-the-room - 2014-07-17 - 07:09:17 PM -
+09:46 < Guo> what is this?
+13:18 < arthur__> any one active
+13:29 < GMY> hi
+13:29 < deepin_bot> Hello :-D
+13:50 < lsjun1> hi
+13:50 < deepin_bot> Hello (y)
+13:51 < GMY> hi
+13:51 < deepin_bot> hi (y)
+14:10 <@s991533> GMY: Hi~
+14:11 <@s991533> arthur__: Hello~
+14:21 < arthur__> ah!
+14:21 < arthur__> hi  hi!
+14:21 < arthur__> guys
+14:21 < deepin_bot> hey ~
+14:22 < arthur__> i am trying to install deepin on my computer
+14:22 < arthur__> its amd  9850, 3 GB ram 6800 intgrated gfx
+14:23 < arthur__> using amd64 iso,.
+14:23 < arthur__> and when i boot into it
+14:23 < arthur__> using usb
+14:23 < arthur__> breated by yumi
+14:23 < arthur__> created * by yumi
+14:23 < arthur__> the screen comes to the stage where it asks : choose the language
+14:24 < arthur__> but it shows no options
+14:25 < arthur__> nvidia ge force 8200 * integrated gfx not 6800
+14:25 < arthur__> s991533:
+14:28 < arthur__> works acceptable in a vm live mode
+14:28 < arthur__> but installing it gives me 640x480 resolution only
+14:29 < arthur__> installing in vm
+14:29 < arthur__> on actual hardware , it does not give options to move past the select language screen
+15:35 < Youthlin> #kubuntu
+17:45 <@s991533> arthur__: they don't recommend to install in a vm
+22:22 < arthur__> s991533:  I am tying a machine install
+22:22 < arthur__> but it wont show the language options
+22:27 <@s991533> arthur__: really?
+22:27 <@s991533> arthur__: can you take a screenshot?
+22:27 <@s991533> or take a pic/photo
+22:31 < arthur__> i could try
+22:31 < arthur__> i was wondering if there is a cli option
+22:35 < arthur__> brb
+22:42 <@s991533> hmmmm ...
+22:42 <@s991533> I have no problem at this part, so don't know why
+22:42 < arthur__> got the pic
+22:43 <@s991533> share with us?
+22:43 <@s991533> you can upload to imgur.com
+22:43 < deepin_bot> Hi , How do you do?
+22:43 <@s991533> deepin_bot: Good
+22:45 < arthur__> doing it :P
+22:52 < arthur__> http://imgur.com/xysJAAl
+22:52 < deepin_bot> [ imgur: the simple image sharer ] - imgur.com
+22:52 < arthur__> s991533:
+23:48 <@s991533> arthur__: o.O
+23:48 <@s991533> no idea now
+23:48 < arthur__> yes
+23:49 <@s991533> strange ...
+23:49 < arthur__> the is what shows up
+23:49 <@s991533> I got you
+23:49 < arthur__> so would there be a cli way to install it
+23:50 <@s991533> I don't think so
+23:51 < arthur__> or to change the config
+23:51 < arthur__> so as to get higher resolution ,
+23:51 < arthur__> the vm worked fine
