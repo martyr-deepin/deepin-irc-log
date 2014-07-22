@@ -1,0 +1,92 @@
+00:49 < deepin_bot> [planet_ubuntu] Elizabeth K. Joseph: The Official Ubuntu Book, 8th Edition now available! http://princessleia.com/journal/?p=9585 - 2014-07-21 - 04:21:22 PM -
+01:11 <@s991533> Hi arthur__ ~
+01:11 < deepin_bot> hey  :)
+01:12 <@s991533> arthur__: they are trying to find out the problem you faced
+01:12 <@s991533> I'll tell you the result
+01:29 < deepin_bot> [planet_debian] Daniel Pocock: Australia can't criticize Putin while competing with him http://danielpocock.com/australia-cant-criticize-putin-while-competing-with-him - 2014-07-21 - 05:00:41 PM -
+02:00 < arthur__> s991533:  thanks a bunch!
+02:01 < arthur__> I really want to try it !
+02:01 < arthur__> it does work fine ; though terribly slow in vm , live session
+02:02 < arthur__> gave it 2gb ram 2 cores, 128 mb gfx. and 16 GB HDD , 3d acceleration support.
+02:03 < arthur__> when i installed though , in the vm , it ran at 640x 480
+02:03 < arthur__> on real hardware , nothing at all. that screen .
+02:17 <@s991533> haha ...
+02:17 < deepin_bot> XDDDD
+02:29 < deepin_bot> [planet_debian] Ian Campbell: sunxi-tools now available in Debian http://www.hellion.org.uk/blog/posts/sunxi-tools-in-debian/ - 2014-07-21 - 06:10:23 PM -
+02:44 < deepinEwb1> hey guys quick Q, where is disk utility in the live version of deepin?
+02:44 < deepinEwb1> i am a newb to deepin
+02:45 < deepinEwb1> I
+02:45 < deepinEwb1> I'd rather not do everything in terminal
+02:45 <@s991533> oops, I don't have a live now ...
+02:45 <@s991533> do you search in the menu?
+02:46 <@s991533> keywords like : part , disk
+02:46 < deepinEwb1> yeah i searched terminal and found nothing
+02:46 < deepinEwb1> well it does have gparted
+02:47 < deepinEwb1> I guess thats sufficient
+02:47 < deepinEwb1> how do you like deepin so far?
+02:48 < arthur__> well enough to install it on actual hardware :)
+02:48 < deepinEwb1> tru
+02:48 < arthur__> gparted is one of the best disk monitoring tools
+02:48 < deepinEwb1> tru
+02:49 < deepinEwb1> I'm thinking about install it. It definitely looks great
+02:51 < deepinEwb1> anyone found obvious flaws
+02:51 < deepinEwb1> or bugs?
+02:51 < arthur__> what is your configuration
+02:53 < deepinEwb1>  I'm running 64bit on an amd gateway laptop. So far all hardware is supported, which is nice.
+02:55 < deepinEwb1> the lap top is an old athlon x2
+02:56 < deepinEwb1> 4gigs of ram
+02:56 < deepinEwb1> everything seems smooth
+02:57 < deepinEwb1> whats ur config?
+02:59 < deepinEwb1> adios
+03:49 < deepin_bot> [planet_ubuntu] Jonathan Riddell: Barcelona, such a beautiful horizon https://blogs.kde.org/2014/07/21/barcelona-such-beautiful-horizon - 2014-07-21 - 07:22:00 PM -
+07:54 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+08:09 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+08:24 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+08:29 < deepin_bot> [planet_debian] Hideki Yamane: GeoIP support for installer is really nice http://henrich-on-debian.blogspot.com/2014/07/geoip-support-for-installer-is-really.html - 2014-07-22 - 12:10:15 AM -
+08:34 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+08:44 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+08:54 < deepin_bot> [debian_news] Updated Debian 6.0: 6.0.10 released https://www.debian.org/News/2014/20140719 - 2014-07-19 - 12:00:00 AM -
+08:54 < deepin_bot> ...
+08:59 < deepin_bot> [debian_news] Updated Debian 6.0: 6.0.10 released https://www.debian.org/News/2014/20140719 - 2014-07-19 - 12:00:00 AM -
+09:04 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+09:14 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+09:24 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+09:34 < deepin_bot> [planet_ubuntu] The Fridge: Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+09:39 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+09:54 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+10:09 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+10:19 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+10:29 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+10:44 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+10:54 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+11:04 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+11:14 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+11:24 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+11:29 < kryptalivian> hey\
+11:30 < kryptalivian> I keep getting a malformed file on boot telling me to hit any key to continue. Anyone had this problem?
+11:34 < deepin_bot> [ubuntu_fridge] Ubuntu Weekly Newsletter Issue 375 http://fridge.ubuntu.com/2014/07/21/ubuntu-weekly-newsletter-issue-375/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-375 - 2014-07-21 - 11:42:43 PM -
+13:14 < deepin_bot> [debian_news] Updated Debian 6.0: 6.0.10 released https://www.debian.org/News/2014/20140719 - 2014-07-19 - 12:00:00 AM -
+14:34 < deepin_bot> [planet_ubuntu] Martin Pitt: autopkgtest 3.2: CLI cleanup, shell command tests, click improvements http://www.piware.de/2014/07/autopkgtest-3-2-cli-cleanup-shell-command-tests-click-improvements/ - 2014-07-22 - 06:16:56 AM -
+14:39 < deepin_bot> [planet_debian] Martin Pitt: autopkgtest 3.2: CLI cleanup, shell command tests, click improvements http://www.piware.de/2014/07/autopkgtest-3-2-cli-cleanup-shell-command-tests-click-improvements/ - 2014-07-22 - 06:16:56 AM -
+16:55 < axiom> helloo
+16:55 < deepin_bot> Hello  :)
+17:26 < qInCI> help
+17:27 < qInCI> !!help
+18:24 < deepin_bot> [deepin_facebook] Would You Like to Help Us? &#x2014;&#x2014;Through Deepin Topic on Stack Exchangehttp://plan... https://www.facebook.com/photo.php?fbid=884819291531483&set=a.834644646548948.1073741828.829563693723710&type=1 - 2014-07-22 - 10:13:56 AM -
+18:34 < deepin_bot> [planet_ubuntu] Lubuntu Blog: Box support for MATE http://lubuntublog.blogspot.com/2014/07/box-support-for-mate.html - 2014-07-22 - 10:24:00 AM -
+18:48 < cup319> help
+18:48 < cup319> --!
+18:48 < cup319> 这个crossover怎么安装cad2012啊？求相关教程啊
+18:51 <@s991533> cup319: autocad?
+18:54 < cup319> 恩
+18:56 <@s991533> cup319: You may want to try this: http://www.omgubuntu.co.uk/2011/03/autocad-clone-draftsight-hits-linux-beta
+19:01 < cup319> (⊙v⊙)嗯   ok   got it
+19:44 <@s991533> (Y)
+20:39 < deepin_bot> [omgubuntu] Firefox 31 Arrives With New Tab Search Bar and Malware Scanning http://www.omgubuntu.co.uk/2014/07/firefox-31-adds-search-bar-to-new-tab-page-malware?utm_source=rss&utm_medium=rss&utm_campaign=firefox-31-adds-search-bar-to-new-tab-page-malware - 2014-07-22 - 12:29:30 PM -
+21:19 < deepin_bot> [planet_ubuntu] Rick Spencer: The Community Team http://theravingrick.blogspot.com/2014/07/the-community-team.html - 2014-07-22 - 12:56:00 PM -
+21:41 < marc_> hello guys... i'm very curious about the 2014 release. can somebody tell me something about the ram usage? could it run smoothly on a 1gb ram netbook?
+21:41 < deepin_bot> hello (y)
+21:56 <@s991533> marc_: I don't think so
+21:56 <@s991533> marc_: 4GB up will be better
+21:56 < marc_> haha, alright... than i just won't bother trying. thanks a lot
+21:56 < deepin_bot> haha
