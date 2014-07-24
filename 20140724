@@ -1,0 +1,54 @@
+00:30 < xzeal> !!help
+01:54 < deepin_bot> [debian_news] Updated Debian 6.0: 6.0.10 released https://www.debian.org/News/2014/20140719 - 2014-07-19 - 12:00:00 AM -
+02:04 < deepin_bot> [planet_ubuntu] Matthew Helmke: Open Source Resources Sale http://matthewhelmke.net/2014/07/open-source-resources-sale/ - 2014-07-23 - 05:40:51 PM -
+04:39 < deepin_bot> [planet_debian] Michael Prokop: Book Review: The Docker Book http://michael-prokop.at/blog/2014/07/23/book-review-the-docker-book/ - 2014-07-23 - 08:16:34 PM -
+05:04 < deepin_bot> [planet_debian] Petter Reinholdtsen: 98.6 percent done with the Norwegian draft translation of Free Culture http://people.skolelinux.org/pere/blog/98_6_percent_done_with_the_Norwegian_draft_translation_of_Free_Culture.html - 2014-07-23 - 08:40:00 PM -
+05:34 < deepin_bot> [planet_debian] Lior Kaplan: Testing PHPNG on Debian/Ubuntu http://liorkaplan.wordpress.com/2014/07/23/testing-phpng-on-debianubuntu/ - 2014-07-23 - 09:01:07 PM -
+07:59 < deepin_bot> [planet_debian] Russ Allbery: WebAuth 4.6.1 http://www.eyrie.org/~eagle/journal/2014-07/006.html - 2014-07-23 - 10:59:00 PM -
+08:49 < deepin_bot> [planet_debian] Matthew Palmer: First Step with Clojure: Terror http://www.hezmatt.org/~mpalmer/blog/2014/07/24/first-step-with-clojure-terror.html - 2014-07-24 - 12:30:22 AM -
+09:13 < lsjun> hihi
+09:13 < deepin_bot> hey ~~~
+09:27 <@s991533> lsjun1: morning
+09:31 < lsjun1> 昨天买了一个e乐充 用来给北京公交卡充值   是个usb的nfc设备    deepin下能识别到么？
+09:39 <@s991533> don't know
+09:40 <@s991533> if it provides dirver for linux, it should work
+10:34 < deepin_bot> [planet_ubuntu] Dustin Kirkland: Improving Random Seeds in Ubuntu 14.04 LTS Cloud Instances http://blog.dustinkirkland.com/2014/02/random-seeds-in-ubuntu-1404-lts-cloud.html - 2014-07-24 - 02:15:27 AM -
+17:42 < kmahyyg> !!help
+17:42 < kmahyyg> who can tell me how to use it
+17:59 < deepin_bot> [planet_debian] Martin Pitt: vim config for Markdown+LaTeX pandoc editing http://www.piware.de/2014/07/vim-config-for-markdownlatex-pandoc-editing/ - 2014-07-24 - 09:38:59 AM -
+18:00 < Godod> !!help
+18:00 < Godod> help
+18:00 < Godod> ^)
+18:00 < Godod> =)
+18:04 < deepin_bot> [planet_ubuntu] Martin Pitt: vim config for Markdown+LaTeX pandoc editing http://www.piware.de/2014/07/vim-config-for-markdownlatex-pandoc-editing/ - 2014-07-24 - 09:38:59 AM -
+19:04 < deepin_bot> [planet_ubuntu] Oli Warner: Building a kiosk computer with Ubuntu 14.04 and Chrome http://feedproxy.google.com/~r/OliUbuntu/~3/J4O6XfvEAn0/ - 2014-07-24 - 10:36:34 AM -
+20:44 < deepin_bot> [omgubuntu] 50 Classic PC Games Now Available on Linux Through GOG http://www.omgubuntu.co.uk/2014/07/50-classic-pc-games-now-available-linux-gog?utm_source=rss&utm_medium=rss&utm_campaign=50-classic-pc-games-now-available-linux-gog - 2014-07-24 - 12:35:04 PM -
+20:44 < deepin_bot> [planet_debian] Craig Small: PHP uniqid() not always a unique ID https://enc.com.au/2014/07/24/php-uniqid-not-always-a-unique-id/ - 2014-07-24 - 12:17:02 PM -
+23:25 < zhuchx> !!help
+23:26 <@s991533> zhuchx: ?
+23:38 <@s991533> arthur__: bad news,
+23:38 <@s991533> arthur__: there is no way to install via text ui now
+23:38 < arthur__> what happened
+23:38 <@s991533> !!help
+23:39 < arthur__> !!hel[
+23:39 < arthur__> !!help
+23:39 < arthur__> !help
+23:39 < arthur__> s991533:
+23:39 <@s991533> !!help mail
+23:39 < arthur__> !!help mail
+23:39 < arthur__> what am i doing :P
+23:39 < arthur__> also , wouldnt there be a way to change configs /
+23:39 < arthur__> ?
+23:40 < deepin_bot> Hi :P
+23:40 <@s991533> no, they said you can change after installation ...
+23:40 < arthur__> yes
+23:40 <@s991533> I am still asking for another way
+23:40 < arthur__> my problem comes at installation :P
+23:41 < arthur__> so they know english or all chinese
+23:44 < arthur__> i ask that so if i could help out , i would
+23:44 < arthur__> also in translations
+23:44 < deepin_bot> hello :D
+23:44 < arthur__> I could help too
+23:44 <@s991533> good
+23:45 <@s991533> !!help mail
+23:46 <@s991533> !!mail pete3 about your question : does anybody here know how to add other compiz effects to deepin, like fire or water? Currently you can not, Compiz has been modified be deepin team, if you forced to add these effects, compiz may not be able to run.
