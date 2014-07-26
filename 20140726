@@ -1,0 +1,24 @@
+00:39 < ONeZetty> Hi!
+00:39 < deepin_bot> hi :P
+01:04 < deepin_bot> [planet_ubuntu] Ronnie Tucker: Ladies and gentlemen, Full Circle #87 has arrived. http://fullcirclemagazine.org/2014/07/25/ladies-and-gentlemen-full-circle-87-has-arrived/ - 2014-07-25 - 04:47:00 PM -
+02:59 < deepin_bot> [planet_debian] Juliana Louback: Extending an XTuple Business Object http://julianalouback.com/tech/2014/07/25/extending-an-xtuple-business-object/ - 2014-07-25 - 03:06:52 PM -
+03:34 < deepin_bot> [planet_ubuntu] Xubuntu: Xubuntu 14.04.1 released http://xubuntu.org/news/xubuntu-14-04-1-released/ - 2014-07-25 - 06:55:54 PM -
+06:14 < deepin_bot> [planet_debian] Richard Hartmann: Release Critical Bug report for Week 30 http://richardhartmann.de/blog/posts/2014/07/25-Debian_Release_Critical_Bug_report_for_Week_30/ - 2014-07-25 - 09:58:53 PM -
+09:58 < lsjun> hello  结果昨晚的一顿折腾  我的2013已经升级到2014了
+09:58 < deepin_bot> hey (y)
+11:56 < cross_> hello
+11:56 < deepin_bot> yo :D
+11:56 < cross_> anyone?
+11:57 < cross_> 讲中文吧
+11:57 < cross_> 能收到吗
+11:57 < cross_> 双显卡设置真是麻烦死了
+12:28 < lsjun> lsjun@lsjun-pc:~$ deepin-movie
+12:28 < lsjun> /usr/lib/pymodules/python2.7/ass/__init__.py:7: UserWarning: Could not load renderer: /usr/lib/x86_64-linux-gnu/libass.so.4: undefined symbol: ass_set_storage_size
+12:28 < lsjun>   warnings.warn("Could not load renderer: " + str(e))
+12:28 < lsjun> 2014-07-26 12:22:32,892 - DMovie - INFO - set movie_file
+12:28 < lsjun> <class 'Xlib.protocol.request.QueryExtension'>
+12:28 < lsjun> This application failed to start because it could not find or load the Qt platform plugin "xcb".
+12:28 < lsjun> Reinstalling the application may fix this problem.
+12:28 < lsjun> 已放弃
+12:29 < lsjun> deepin movie和115网盘冲突么？
+20:34 < deepin_bot> [planet_debian] Holger Levsen: 20140726-the-future-is-now http://layer-acht.org/thinking/blog/20140726-the-future-is-now/ - 2014-07-26 - 12:08:58 PM -
