@@ -1,0 +1,61 @@
+05:59 < Jef91> Evening folks
+07:42 < deepinoob> im trying deepin live and for the brief bit, i like it. my only question would be, will it run smoother if i install rather than running live? i know that is the general idea, but just would like a little confirmation considering my specs: hp mini 210 netbook, 2gb ram, 1.66ghz, windows 7 primarily installed. thinking of dual booting with deepin...
+07:43 < deepinoob> it just seems a bit laggy running live. also, being ubuntu based, i have many repository options for software add ons?
+08:02 < deepinoob> anyone have any pos vs neg opinions on the distro?
+21:51 < Bruin> 怎样使用ssh翻墙呢？
+22:44 < dev_> 弱弱问一下这个是干嘛的呢？
+22:51 <@s991533> dev_: for caht
+22:51  * s991533 for chat
+22:51 <@s991533> discuss, asking, etc ...
+22:58 < dev_> 哦哦
+22:58 < dev_> 是不是必须用英语交流呀？
+23:03 <@s991533> dev_: English will be better
+23:03 < dev_> Ok
+23:04 < dev_> my english is not fluent
+23:05 < dev_> This is a good room for me to practice english
+23:07 <@s991533> yeah, welcome to join us
+23:07 <@s991533> a little bit cold here for now, hope to be popular
+23:08 < dev_> Thanks, it's my honour
+23:08 <@s991533> dev_: we have a bot here, you can play with it xD
+23:08 <@s991533> try : help!!
+23:08 < dev_> deepin_bot ？
+23:08 <@s991533> it will tell you how to use it
+23:08 < dev_> help
+23:08 <@s991533> dev_: yep
+23:08 <@s991533> dev_: help!!
+23:08 < dev_> help!!
+23:08 <@s991533> not help
+23:08 < dev_> ?
+23:08 <@s991533> yeah, did he told you?
+23:09 <@s991533> like ...
+23:09 <@s991533> .wiki deepin
+23:09 < deepin_bot> "In computing, a desktop environment (DE) is an implementation of the desktop metaphor made of a bundle of programs running on top of a computer operating system, which share a common graphical user interface (GUI). The desktop environment was seen mostly on personal computers until the rise of mobile..." - http://en.wikipedia.org/wiki/Desktop_environment
+23:09 < dev_> no ...
+23:09 <@s991533> help!!
+23:09 <@s991533> deepin_bot: help!!
+23:09 < deepin_bot> s991533: Hi, I'm a bot. Say ".commands" to me in private for a list of my commands, or see http://willie.dftba.net for more general details. My owner is s991533.
+23:09 < dev_> help!!
+23:09 <@s991533> deepin_bot:  ->  deepin_bot: help!!
+23:09 <@s991533> .wiki ubuntu
+23:09 < dev_> deepin_boot:
+23:09 < deepin_bot> "Ubuntu may refer to:Ubuntu (philosophy), an ethical conceptUbuntu Local Municipality, Northern Cape, South AfricaUbuntu Party, South African political partyUbuntu Cola, a soft drink..." - http://en.wikipedia.org/wiki/Ubuntu
+23:10 <@s991533> .help
+23:10 < deepin_bot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+23:10 < dev_> deepin_boot:help!!
+23:10 <@s991533> .commands
+23:10 < deepin_bot> s991533: I am sending you a private message of all my commands!
+23:10 <@s991533> dev_: you can also try .commands
+23:10 < dev_> .commands
+23:10 < deepin_bot> dev_: I am sending you a private message of all my commands!
+23:11 <@s991533> dev_: have fun :) I got to go, see you next time
+23:11 < dev_> ok
+23:11 < dev_> see you
+23:12 < dev_> feel like crying for save life when I type 'help'
+23:13 <@s991533> haha ...
+23:13 < deepin_bot> xDDDDD
+23:13 <@s991533> bye
+23:13 < deepin_bot> see ya (flee)
+23:13 < dev_> bye
+23:13 < deepin_bot> bye ~~~
+23:13 < dev_> action
+23:15 < dev_> what can I do to use this in emacs?
