@@ -1,0 +1,107 @@
+00:59 < ice9> can anybody paste the content of the .desktop file for gdm please?
+02:05 < Sarah33> hello everyone, I have a problem with rhythmbox, I have installed visualizer plugin but in the interface when I'm going to Visual effects, all the possible effects are in grey (not clickable)
+02:05 < deepin_bot> hi !
+08:31 < OERIAS> Salam
+09:22 < mimitsw> what
+09:35 < deepin_bot> [planet_ubuntu] Mathieu Trudel: Focusing and manual skills http://blog.cyphermox.net/2014/08/focusing-and-manual-skills.html - 2014-08-17 - 01:09:06 AM -
+09:44 < OERIAS> Anyone here for me ask a question
+12:36 <@s991533>   OERIAS Hi?
+12:36 <@s991533> Don't ask to ask, just ask :)
+12:37 <@s991533> OERIAS: when somebody see your question, then he/she will answer you
+12:38 < OERIAS> can you trust the deepin desktop environment?
+12:41 <@s991533> what do you mean "trust"? are you afraid of personal data leaks?
+13:22 < Naah> hey
+13:22 < Naah> did have any one here?
+13:25 < Naah> - -
+13:26 < Naah> 有中国人么
+13:27 < Naah> oh
+13:28 < Naah> any one?
+13:28 < Maxil> 好久没来论坛 不知道深谈是不是有测试版啥的？
+13:28 < Naah> 终于有人了啊
+13:29 < Maxil> 呵呵  这个地方见个人不容易啊
+13:29 < Naah> 是啊
+13:29 < Naah> 真心不容易啊
+13:29 < Naah> 我去了好几个频道了
+13:29 < Maxil> 是不是得相拥而泣一下 哈哈
+13:31 < Maxil> 话说回来  深谈有消息么
+13:51 <@s991533> Naah: hi
+13:51 <@s991533> Maxil: hi
+13:51 < OERIAS> yes s991533
+13:52 <@s991533> OERIAS: because made in china ?? xD
+13:53 < OERIAS> No, I can care less what CCP knows about
+13:53 <@s991533> CCP?
+13:53 <@s991533> what's CPP stand for?
+13:56 < OERIAS> Chinese Communist Party
+13:57 <@s991533> oh, then you care about .. ?
+14:00 <@s991533> I am not afraid of using deepin
+14:01 < OERIAS> Because it is made in China
+14:01 <@s991533> but if you have sensitive information on your computer, you may want to make sure it's secure, you can audit/review the source code and build binary or trust the community
+14:01 <@s991533> that's the way how open source community work
+14:02 < OERIAS> Yes i know that
+14:02 <@s991533> many electric device made in china, haha
+14:02 <@s991533> I can just say:
+14:03 <@s991533> If you are afraid of it, don't use it
+14:03 <@s991533> vice versa
+14:04 <@s991533> Ubuntu's Unity, have risk too
+14:15 < OERIAS> But Unity is made by non commies
+14:15 < OERIAS> It is made by capitalists.
+15:06 <@s991533> OERIAS: then I can't help you
+15:07 <@s991533> by the way, I'm not sure if there are some commies in deepin, becare about the words, haha ...
+15:07 < OERIAS> Okay I was joking, but honestly, can you trust the desktop?
+15:08 <@s991533> I can, and I can't, it depends, I don't even believe in Apple, Google, Microsoft and Yahoo, what do you think? I think it depends ...
+15:09 <@s991533> why don't you just jump in to audit the source code and the behavior and give us your answer? haha ...
+15:13 < OERIAS> true. But they are providers of hardware and software.
+15:14 <@s991533> yeah, hardware is even dangerous, haha ... if they did some trick in the chip :P
+18:43 < Naah> hai
+18:43 < deepin_bot> XDDDD
+18:43 < Naah> can you speak Chninese
+18:45 < Naah> any one?
+18:45 < Naah> where are you from
+18:47 <@s991533> Naah: bot only speaks English
+18:55 < Naah> ok
+18:55 < Naah> can you speak chiniese?
+18:56 < Naah> chinese?
+19:35 <@s991533> Naah: I can, but on IRC channel, English will be better
+19:52 < wakou2> Hi I have dd to a USB. Boots, but freezes when I 'select language' (US English) Ay ideas?
+19:52 < deepin_bot> hello ?
+19:52 < wakou2> hello
+19:52 < deepin_bot> Welcome :-D
+19:52 < wakou2> boot
+19:53 < wakou2> !boot
+19:58 <@s991533> wakou2: hi
+19:58 < wakou2> Hi.
+19:58 < deepin_bot> hello :D
+19:59 <@s991533> have you tried to use other method?
+19:59 < deepin_bot> xDDDDD
+19:59 <@s991533> like ubootnetin
+19:59 < wakou2> Trying deepin from USB. Freezes after delect lang.
+19:59 <@s991533> I mean if you use other method to create bootable usb drive
+20:00 < wakou2> Surely dd is the most direct, and has fewest chances to go wrong..
+20:00 <@s991533> wakou2: yeah, I believe
+20:03 < wakou2> hmm. Now an attempt at a vBox install has frozen too. Still using 100% cpu tho..
+20:10 <@s991533> wakou2: hmmmm ...
+20:11 <@s991533> they'll check IRC log, hope can be fix in next release
+20:12 < wakou2> I will try with suse imagewriter...
+20:14 <@s991533> have you checked the checksum of your image?
+20:14 < deepin_bot> xDDDDD
+20:14 <@s991533> deepin_bot: shut up, bot
+20:15 < wakou2> s991533: :)
+20:15 < wakou2> Yes, md5 sum checked
+20:15 <@s991533> hmmmm ...
+20:15 <@s991533> don't know how to help :/
+20:16 < wakou2> np, and ty for trying ..
+20:34 < wakou2> Have it doing a first boot. In French. Which is not ideal, but it is progress!
+20:34 < deepin_bot> XDDDD
+20:34 < wakou2> In a vBox VM
+20:35 < wakou2> deepin_bot: shut up
+22:08 < Naah> are u
+22:08 < Naah> are u chinese
+22:17 < Naah_> did anyone online
+22:36 <@s991533> Naah_: ?
+22:37 < Naah_> can u speak chinese
+22:37 < Naah_> @s991533
+22:38 <@s991533> Naah_: can you speak English?
+22:38 < Naah_> yes
+22:38 < Naah_> but i can speak a little
+22:40 < Naah_> ...
+22:42 < Naah_> do u know how to set up channel?
