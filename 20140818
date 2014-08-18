@@ -1,0 +1,51 @@
+00:27 < wangwei> deepin安装后，没有了开机启动项。选择不了其他系统，怎么破
+00:31 < wangwei> I have installed Deepin on my machine,but It doesn't display boot options when my system is started up.
+08:55 < deepin_bot> [planet_debian] Andrew Pollock: [tech] Solar follow up http://blog.andrew.net.au/2014/08/17#solar_followup - 2014-08-17 - 05:32:00 PM -
+17:32 < zk> hello everyone
+17:32 < deepin_bot> hello !
+17:33 < zk> hi   bot
+17:33 < deepin_bot> yo  :)
+17:33 < zk> where are you from
+17:34 <@s991533> hi
+17:34 < deepin_bot> yo :P
+17:35 < zk> china
+17:39 <@s991533> zk: I am from Taiwan :D
+17:40 < zk> hehe
+17:54 < Cathy-Deepin> Welcome to our deepin channel.
+18:03 < wakou> hi Cathy-Deepin
+18:03 < deepin_bot> Welcome ;)
+18:03 < wakou> Are you a bot as well?
+18:03 <@s991533> deepin_bot is a bot, haha!
+18:03 < Cathy-Deepin> No, I am not.'
+18:03 <@s991533> wakou: you can try to play with hime
+18:03 <@s991533> wakou: you can try to play with him
+18:03 <@s991533> .help
+18:03 < deepin_bot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+18:04 < wakou> I tried yesterday, he is vwery annoying.
+18:04 <@s991533> xD ...
+18:04 < deepin_bot> haha
+18:04 < wakou>  <wakou2> deepin_bot: shut up
+18:04 <@s991533> because too few people here
+18:05 < wakou> Cathy-Deepin: Are you a mod/admin or a dev on deepin project?
+18:06 < Cathy-Deepin> Yes, I am.
+18:08 < wakou> Cathy-Deepin: did you read the log from yesterday? I tried to use deepin, I had no luck at all..
+18:08 < Cathy-Deepin> I'm off duty now.
+18:08 < Cathy-Deepin> Let's call it a day.
+18:09 < Cathy-Deepin> See you tomorrow.
+18:09 < Cathy-Deepin> I'll quit.
+18:09 < Cathy-Deepin> Bye-bye.
+18:43 < wakou> .commands
+18:43 < deepin_bot> wakou: I am sending you a private message of all my commands!
+19:47 < wakou> deepin_bot: help tell
+19:47 < deepin_bot> wakou: Give someone a message the next time they're seen
+19:47 < deepin_bot> e.g. Willie, tell Embolalia he broke something again.
+19:51 < wakou> tell Cathy-Deepin I tried to join the forum. Di not get activation code. Asked three times, no email sent, no code received. Advice on forum is "contact board admin". But can't because not a member!
+20:29 < wakou> Succeeded by starting complete new member, had to use a new email. Then found that community in Eng is at linuxquestions. So whole thing was a waste of time.
+20:31 < wakou> .tell Cathy-Deepin  Succeeded by starting complete new member, had to use a new email. Then found that community in Eng is at linuxquestions. So whole thing was a waste of time.
+20:31 < deepin_bot> wakou: I'll pass that on when Cathy-Deepin is around.
+20:31 < wakou> ps admin..
+20:32 < wakou> s991533 Bot example is wrong, please correct it! ^^ example says this "deepin_bot> e.g. Willie, tell Embolalia he broke something again."
+20:33 < wakou> s991533: Which does not work, missing the leading dot should be ".tell <name> foobar etc etc"
+22:22 < deepin> Woo!
+22:23 < deepin> Got it to wor, using unetbootin. need to add nomodeset and disable splash.
+22:24 < deepin> (was wakou) now running live from USB
