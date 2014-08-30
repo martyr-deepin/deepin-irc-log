@@ -1,0 +1,33 @@
+01:03 < xx1182> H-Hey
+01:03 < xx1182> Where i can download deepin boot maker?
+01:03 < xx1182> On the official site it redirects me to a chinese page
+01:06 < xx1182> Ching chong?
+01:29 < xx1182> Ghing Chong pin pon?
+01:32 <@s991533> ?
+01:32 <@s991533> hi
+01:32 < deepin_bot> hello (Y)
+01:33 <@s991533> xx1182: you use windows or linux?
+01:33 < xx1182> Linux
+01:33 < xx1182> I can't find the boot maker
+01:34 <@s991533> xx1182: https://gitcafe.com/Deepin/deepin-boot-maker?locale=en
+01:34 < deepin_bot> SSLError: The read operation timed out (file "/usr/lib/python2.7/ssl.py", line 160, in read)
+01:34 < xx1182> b-but i don't want to compile it!
+01:34 <@s991533> hmmmmm ...
+01:35 <@s991533> what about using unetbootin?
+01:35 < xx1182> http://pan.baidu.com/disk/home#from=share_pan_logo this is from the wiki
+01:35 < deepin_bot> [ 百度云 网盘-自由存，随心享 ] - pan.baidu.com
+01:35 < xx1182> i actually found the ching chong version
+01:36 < xx1182> i hate ching chongs
+01:37 <@s991533> what's that?
+01:37 < xx1182> chinese xD
+01:45 <@s991533> ~"~
+07:51 < honza0118> hi
+07:51 < deepin_bot> Welcome ~~~
+07:51 < honza0118> :))
+07:56 < honza0118> i just want ask something ..
+07:57 < honza0118> how fast u can downloading packages ?
+07:58 < honza0118> cuz i need to download 428 MB of (which normally took ~20 min. with full speed for me)
+08:02 < honza0118> now i can reach max 26 kB / s (that was the best what i saw long time ago .. :P)
+17:30 <@s991533> .tell honza0118 you should choose a nearby mirror site as your source before downloading packages
+17:30 < deepin_bot> s991533: I'll pass that on when honza0118 is around.
+20:47 < Anyways> what is it ?
