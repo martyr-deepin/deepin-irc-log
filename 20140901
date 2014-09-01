@@ -1,0 +1,55 @@
+12:41 < movaie> ?
+15:34 < albert_> Hi
+15:35 < albert_> Is there a way to change the dpi scaling
+15:35 < deepin_bot> yo xD
+15:35 < albert_> after installing the nvidia drivers everything is big
+15:40 < fasheng> you mean screen resolution or dpi?
+15:40 < deepin_bot> hi , How do you do?
+15:43 < albert_> Hello
+15:43 < deepin_bot> hello , How do you do?
+15:43 < albert_> Hi
+15:43 < deepin_bot> hello ?
+15:43 < albert_> Hello?
+15:43 < fasheng> if you want to change the screen resolution, display module in deepin control center is what you are finding
+15:43 < deepin_bot> Welcome ;)
+15:43 < albert_> fasheng I don't meant to change the resolution
+15:43 < albert_> the display scaling is what I mean
+15:44 < albert_> DPI
+15:44 < fasheng> OK, I see... Let me have a look...
+15:44 < albert_> the resolution is my monitor's native resolution, but title bars are too big
+15:48 < fasheng> well, I'm afraid you have to run xrandr command manually, just like this: xrandr --dpi 144
+15:48 < fasheng> more information to see https://wiki.archlinux.org/index.php/Xorg#Display_size_and_DPI
+15:48 < deepin_bot> [ Xorg - ArchWiki ] - wiki.archlinux.org
+15:50 < albert_> Thank you
+16:19 < deepin_bot> [planet_ubuntu] Valorie Zimmerman: Steven Pinker's The Blank Slate: The Modern Denial of Human Nature http://linuxgrandma.blogspot.com/2014/09/steven-pinkers-blank-slate-modern.html - 2014-09-01 - 08:04:44 AM -
+17:04 < deepin_bot> [debian_news] Updated Debian 6.0: 6.0.10 released https://www.debian.org/News/2014/20140719 - 2014-07-19 - 12:00:00 AM -
+20:34 <@s991533> .tell zj "17:44 < zj> 问下，系统里的深度翻译 怎么关闭呀" -> 托盘中右键关闭 。
+20:34 < deepin_bot> s991533: I'll pass that on when zj is around.
+20:57 < rydhwan> hello all
+20:57 < deepin_bot> hi ;)
+20:58 < rydhwan> after install login is refused cause pass is wrong ?
+21:00 < rydhwan> fresh install and  fresh password
+21:00 < rydhwan> any idea
+21:03 < fasheng> maybe is a terrible issue, but you could just switch to tty by pressing ctrl+alt+f1. And login, you could enter desktop through `startx startdde`
+21:06 < rydhwan> i log in recovry method and change pass but no ok
+21:07 < rydhwan> thanks for response it's best desk
+21:09 <@s991533> hi
+21:09 < deepin_bot> Hi (y)
+21:09 <@s991533> really? strange
+21:10 <@s991533> fasheng: you mean you changed the password again but not work at all?
+21:12 < fasheng> I'm not sure. In fact,  I did not encounter this problem.
+21:13 < rydhwan> in recovry method i log by startx but in root desk apear but no responsice any more
+21:13 < rydhwan> in recovry method i log by startx but in root desk apear but no responsive any more
+21:14 < rydhwan> i reinstall deepin whith new pass same issue
+21:16 < fasheng> I see...Let me have a look, just wait for minutes...
+21:17 < rydhwan> thanks
+21:36 < fasheng> hi rydhwan, if you have a network, you could try to fix the issue like this:
+21:36 < deepin_bot> hello  :)
+21:36 < fasheng> sudo apt-get install lightdm-gtk-greeter
+21:37 < fasheng> sudo ln -svf /usr/sbin/lightdm-gtk-greeter /usr/bin/lightdm-deepin-greeter
+21:37 < fasheng> sudo restart lightdm
+21:39 < rydhwan> thanks i will do that and report issue
+22:06 < gansteed> 主设备号、次设备号定义在哪个头文件里呢？
+23:49 < fbigun> 嘿嘿
+23:49 < fbigun> 有人 ？？？
+23:59 < fbigun> 怎么回事呢
