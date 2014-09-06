@@ -1,0 +1,16 @@
+00:25 <@s991533> .ban
+00:25 <@s991533> .help
+00:25 < deepin_bot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+00:25 <@s991533> .commands
+00:25 < deepin_bot> s991533: I am sending you a private message of all my commands!
+00:34 <@s991533> .help ban
+00:34 < deepin_bot> s991533: This give admins the ability to ban a user.The bot must be a Channel Operator for this command to work.
+00:34 <@s991533> .help ban
+00:34 <@deepin_bot> s991533: This give admins the ability to ban a user.The bot must be a Channel Operator for this command to work.
+00:34 <@s991533> .ban kamran_
+00:34 <@s991533> .ban kamran
+12:00 < juan_> alguien en español
+12:00 <@deepin_bot> hi ~~~
+12:00 < juan_> hola
+12:01 < juan_> una aplicacion para configurar notificaciones en depping
+13:09 <@deepin_bot> [debian_news] Updated Debian 6.0: 6.0.10 released https://www.debian.org/News/2014/20140719 - 2014-07-19 - 12:00:00 AM -
