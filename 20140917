@@ -1,0 +1,56 @@
+01:39 < fenrig> Hi
+01:39 <@deepin_bot> hey (Y)
+01:40 < fenrig> I want to instlall deepin besides windows 7
+01:40 < fenrig> but the installer doesn't list the partitions
+01:40 < fenrig> it just says the whole disk is "freespace"
+01:40 < fenrig> -.- which it obvious ly isn't
+01:42 < fenrig> oh
+01:42 < fenrig> it's maybe not a dos formatted partition list
+01:42 < fenrig> but a gpt one
+01:44 < fenrig> hhhmmm
+01:44 < fenrig> gparted has issues with it too
+01:44 < fenrig> but then again lsblk doesn't
+01:46 < fenrig> nobody has any help to offer?
+02:31 < MCDeepin> hello
+02:31 <@deepin_bot> Welcome (y)
+02:31 < MCDeepin> thank you
+02:31 < MCDeepin> i need help please
+02:32 < MCDeepin> can any one here can see if he can help me with a problem in my lap
+02:33 < MCDeepin> i can't read the arabic language when am surfing on internet with google chrome i don't know why ?
+02:34 < MCDeepin> please ?
+03:04 < MCDeepin> hii
+03:04 <@deepin_bot> yo , How do you do?
+03:04 < MCDeepin> am fine thank you
+03:04 < MCDeepin> and you ?
+03:05 < MCDeepin> do you use deepin os as i do ?
+16:09 <@deepin_bot> [deepin_facebook] English Version of Deepin2014 Community Trailer http://youtu.be/97ChPXmVuao http://www.facebook.com/deepinlinux/posts/917128104967268 - 2014-09-17 - 08:02:19 AM -
+23:35 < Vault108> Could i get some help,  i installed the 3.17 kernel and it broke my wifi and my login, the only way i can login is if i go to TTY 2 and log in then type startx. could some one please help me?
+23:36 < Vault108> IF all also fails i understand i may have to do a clean install.
+23:49 <@s991533> hi
+23:49 < Vault108> hello
+23:49 <@deepin_bot> Hello :-D
+23:49 <@deepin_bot> yo :P
+23:50 <@s991533> it's very dangerous, if you are not familiar with it
+23:50 <@s991533> Vault108: so if you can enter window environment or not? by startx
+23:51 < Vault108> s991533: i understand i accualty tried to update to 3.16 and thats what broke it then some one said to try to istall 3.17 rc and thats what i have installed. and yes i can enter the window enviroment
+23:52 <@s991533> so, have you tried to downgrade your kernel?
+23:53 < Vault108> yes  i have but im not sure i did it correctly
+23:53 <@s991533> and I want to know the method you upgrade your kernel
+23:53 <@s991533> how did you downgrade it?
+23:53 <@s991533> did you upgrade from a packaged deb?
+23:54 < Vault108> i belive so i used the following commands
+23:54 < Vault108> cd /tmp/  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.16-utopic/linux-headers-3.16.0-031600-generic_3.16.0-031600.201408031935_amd64.deb  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.16-utopic/linux-headers-3.16.0-031600_3.16.0-031600.201408031935_all.deb  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.16-utopic/linux-image-3.16.0-031600-generic_3.16.0-031600.201408031935_amd64.deb  sudo dpkg -i linux-headers
+23:54 < Vault108> those where used to upgrade to 3.16 then i used this to update to 3.17
+23:55 <@s991533> okay, got it
+23:55 < Vault108> to upgrade to 3.17 i just followed what it said for the 3.16 guide and replace teh links with the 3.17 rc5
+23:55 <@s991533> and did you remove your old kernel? like `apt-get autoremove`, `apt-get remove linux-xxxxx`
+23:57 < Vault108> I dont beive i did
+23:57 <@s991533> okay, let me think ...
+23:57 < Vault108> but the odd thing is i was able to update to 3.16 and then to 3.17 with no problem and cant downgrade. and take your time
+23:58 <@s991533> haha
+23:58 <@deepin_bot> XDDDD
+23:58 <@deepin_bot> lol
+23:58 < Vault108> s991533: yes?
+23:58 <@s991533> deepin_bot: let me think ...
+23:58 <@s991533> Vault108: let me think ...
+23:58 < Vault108> kk
