@@ -1,0 +1,44 @@
+00:00 <@s991533> what's your result of this command: `dpkg -l | grep linux-image-3.1 | awk '{print $2}'` ?
+00:00 < Vault108> is there a way i can run that command useing a different distro that has deepin on it
+00:01 <@s991533> sorry, not really understand, what's that mean?
+00:01 < Vault108> let me rephrase that, i have a different distro on the same computer with deepin, can i run that command with out changing to deepin?
+00:02 <@s991533> you mean fix that problem on another os on the same machine?
+00:02 <@deepin_bot> Welcome ?
+00:02 <@s991533> deepin_bot: shut up
+00:02 <@s991533> Vault108: if you used deb package to upgrade kernel, I think it should be easy to downgrade
+00:02 <@s991533> Vault108: jut remove the new kernel
+00:03 <@s991533> s/jut/just/
+00:03 <@deepin_bot> s991533 meant to say: Vault108: just remove the new kernel
+00:03 < Vault108> should i tru  to use synaptic to do it?
+00:03 <@s991533> deepin_bot: wow, awesome! thanks!
+00:03 < Vault108> *try
+00:03 <@s991533> Vault108: it's fine, I like apt-get better
+00:04 < Vault108> s991533: i wil try it later tonight and post back the results.
+00:04 <@s991533> no problem
+00:32 < Vault108> s991533: Out put was  linux-image-3.13.0-32-generic: command not found
+08:11 < Guest86986> l
+08:13 < derry> Hello
+08:13 <@deepin_bot> hello ~
+10:09 <@s991533> .tell Vault108 Command not found?
+10:09 <@deepin_bot> s991533: I'll pass that on when Vault108 is around.
+21:42 < Vault108> Quick question how do i instal libudev0
+21:42 <@deepin_bot> Vault108: 2014-09-18 - 02:09:53 <s991533> tell Vault108 Command not found?
+21:43 < Vault108> s991533: hello again i have the out put of that comand for you as wel
+21:43 < Vault108> *well
+21:44 <@s991533> Vault108: can you give me that again?
+21:45 <@s991533> is so strange it contains 'command not found'
+21:45 < Vault108> ok i can re brief you about what hapened, so i had a kernel issue i updated to 3.17 and could not downgrade remember? you told me to run
+21:45 < Vault108> `dpkg -l | grep linux-image-3.1 | awk '{print $2}'` ?
+21:46 <@s991533> yep
+21:46 < Vault108> out put was
+21:46 < Vault108> linux-image-3.13.0-32-generic: command not found
+21:46 <@s991533> hmmmm ... strange
+21:46 <@s991533> waht about `dpkg -l | grep linux-image-3.1`
+21:46 < Vault108> stupid question sould the apostre be infront of dpkg?
+21:47 < Vault108> Ill have to run that later, LOL im at school atm, but maybe you can help with the libudev0 install>
+21:48 < Vault108> *>
+21:48 < Vault108> **?
+21:48 < Vault108> lol sorry cant type this morning
+21:48 <@s991533> you dont need to input `
+21:48 <@deepin_bot> yo ~~~
+21:51 <@s991533> libudev0 was removed from ubuntu 14.04, maybe you can try `apt-get install libudev1`
