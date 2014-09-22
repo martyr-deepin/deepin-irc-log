@@ -1,0 +1,12 @@
+06:26 < Schoening> Hello! I have a question. I am using a custom DVORAK keyboard layout on windows. Any suggestions how I would implement this on Deepin?
+06:26 <@deepin_bot> Hello ~~~
+15:49 < potianji> 悲剧了，双显卡，亮度不能调节
+16:15 < potianji> Hello,everyboy!
+16:15 <@deepin_bot> hey  :)
+16:16 < potianji> Can you install HHVM in your system ?
+16:17 < potianji> 你们可以在Deepin上面安装HHVM么？
+16:24 <@s991533> Havn't try it
+16:24 <@deepin_bot> XDDDD
+16:54 < jcxmej> new deepin user here... cursor moves little weird when using touchpad on the laptop.. not accurate to click on small icons.. any drivers to be installed
+20:23 < potianji> 哈哈，亮度不能调节问题解决了。解决办法是在/etc/rc.local写入echo 0 >> /sys/class/backlight/acpi_video0/brightness
+20:23 < potianji> 这样以后就可以在控制面板里面使用亮度调节了
