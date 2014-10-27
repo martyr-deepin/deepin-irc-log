@@ -1,0 +1,75 @@
+08:23 < fs_> i've changed my hosts for breaking the GFW
+08:23 < fs_> is that ok?
+09:28 <@s991533> .tell fs ?
+09:28 < deepin_bot> s991533: I'll pass that on when fs is around.
+09:29 < Luff`U> hi
+09:29 < deepin_bot> Hello xD
+09:29 < Luff`U> who know how to use key to change keyboard layout in deepin
+09:30 < Luff`U> no anyone here?
+09:32 <@s991533> Luff`U: hi
+09:32 <@s991533> Luff`U: dpkg-rexonfigure?
+09:34 <@s991533> https://wiki.debian.org/Keyboard
+09:34 < deepin_bot> [ Keyboard - Debian Wiki ] - wiki.debian.org
+09:34 < Luff`U> i am cambodia
+09:35 < Luff`U> i want use khmer keyborad and english
+09:35 < Luff`U> how can i change english to khmer khmer to english keyboard?
+12:29 < mistylinux> 我去，原来有人在线啊
+12:30 < mistylinux> 不过真是太冷清了
+12:41 <@s991533> mistylinux: haha ...
+13:11 < mistylinux> ......
+13:11 < mistylinux> 听说deepin要做聊天工具，个人觉得，有很大发展，不要像qq哪样，
+13:12 < mistylinux> 我感觉这个软件如果人多的论或许很热门，因为这个软件的模式，相当于大众聊天一样
+13:13 < mistylinux> 只要在一个频道都可参与
+13:13 < mistylinux> 这个模式很好。。可以借鉴哦
+16:14 <@s991533> Cathy-Deepin: Hi
+16:18 < Cathy-Deepin> Hi
+16:18 < deepin_bot> hey ~
+16:18 < Cathy-Deepin> s991533:Long time no see.
+16:19 <@s991533> Cathy-Deepin: yeah :D
+16:19 <@s991533> still cold here, haha
+16:20 <@s991533> mistylinux: (Y)
+16:21 <@s991533> .tell Luff`U you still have problem with keyboard mapping?
+16:21 < deepin_bot> s991533: I'll pass that on when Luff`U is around.
+21:36 < Luff`U> how to set APN for usb moderm in deepin
+21:36 < deepin_bot> Luff`U: 2014-10-27 - 08:21:26 <s991533> tell Luff`U you still have problem with keyboard mapping?
+21:41 < Luff`U> no problem with keyboard any more, now i can switch keyboard layout by shift+ctrl ! but just we can't see notify icon to show which keyboard we use
+21:43 <@s991533> hmmm ...
+21:43 <@s991533> I don't use APN ... don't know how to help
+21:43 <@s991533> .wiki APN
+21:43 < deepin_bot> "The Apple Push Notification Service is a service created by Apple Inc. that was launched together with iOS 3.0 on June 17, 2009. It forwards notifications of third party applications to the Apple devices; such notifications may include badges, sounds or custom text alerts. In iOS 5, Notification Center..." - http://en.wikipedia.org/wiki/Apple_Push_Notification_Service
+21:44 <@s991533> Luff`U: have you googled it?
+21:44 <@s991533> Luff`U: you can google it with keyword 'ubuntu', cause deepin is based on ubuntu, very similar
+21:46 < Luff`U> am use ubuntu for along time, but now i just test deepin
+21:48 < Luff`U> ubuntu is easy to config usb moderm . but deepin i can't find where to create it
+21:54 <@s991533> hmmm ...
+21:54 <@s991533> good question
+21:54 <@s991533> I'll ask for you, haha
+21:54 < Luff`U> thank
+21:55 <@s991533> maybe you can ask to the developers on the online meeting
+21:55 < Luff`U> deepin is long time support?
+21:55 <@s991533> Luff`U: not sure, but 2014 is based on 14.04 LTS, so maybe, maby not
+21:56 <@s991533> is hard to support with LTS
+21:56 <@s991533> s/with/without/
+21:56 < deepin_bot> s991533 meant to say: is hard to support without LTS
+21:56 < Luff`U> oh,developer i dont know which one
+21:56 <@s991533> they'll have a meeting on IRC channel
+21:56 <@s991533> not sure which day
+21:56 < Luff`U> oh
+21:56 <@s991533> you can stay here to fetch that info
+21:56 < deepin_bot> Hello  :)
+21:57 <@s991533> or follow facebook page
+21:57 <@s991533> //fb.com/deepinlinux
+21:57 <@s991533> https://fb.com/deepinlinux
+21:57 < deepin_bot> [ Deepin - Wuhan, China - Non-Profit Organization | Facebook ] - fb.com
+21:58 < Luff`U> why they develop deepin os. linux os have alot, but have alittle that alway continue they work
+21:59 < Luff`U> in china can play fb? government off facebook
+22:00 <@s991533> Luff`U: they develop it for non-geek, haha
+22:00 <@s991533> you mean the great fire wall? not hard to break it
+22:00 < deepin_bot> yo !
+22:01 < Luff`U> hehehehe
+22:02 < Luff`U> i just want to know, they will develop for long time, or just develop for short time..
+22:04 < Luff`U> some linux os, they develop alittle and then stop
+22:24 <@s991533> .tell Luff`U I think will be long time
+22:24 < deepin_bot> s991533: I'll pass that on when Luff`U is around.
+22:25 <@s991533> .tell Luff`U Where are you from?
+22:25 < deepin_bot> s991533: I'll pass that on when Luff`U is around.
