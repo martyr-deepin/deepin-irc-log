@@ -1,0 +1,159 @@
+06:00 < deepin> hi s991533
+06:00 < deepin_bot> Welcome :-D
+06:04 < deepin> s991533: u there ?
+09:17 <@s991533> .tell deepin hi
+09:17 < deepin_bot> s991533: I'll pass that on when deepin is around.
+10:00 <@s991533> http://www.linux.com/learn/tutorials/793877-how-to-find-the-best-linux-distribution-for-a-specific-task
+10:00 < deepin_bot> [ How to Find the Best Linux Distribution for a Specific Task | Linux.com ] - www.linux.com
+10:12 <@s991533> .rss add linux http://www.linux.com/feeds/all-content
+10:12 < deepin_bot> s991533: Add a feed to a channel, or modify an existing one.
+10:12 < deepin_bot> s991533: Set mIRC-style foreground and background colour indices using fg and bg.
+10:12 < deepin_bot> s991533: Usage: .rss add <#channel> <Feed_Name> <URL> [fg] [bg]
+10:12 < deepin_bot> [ Linux.com - All Content ] - www.linux.com
+10:13 <@s991533> .rss add #deepin linux http://www.linux.com/feeds/all-content
+10:13 < deepin_bot> s991533: Successfully added the feed to the channel.
+10:13 < deepin_bot> [ Linux.com - All Content ] - www.linux.com
+10:17 < deepin_bot> [linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:22 < deepin_bot> [linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:27 < deepin_bot> [linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:29 <@s991533> .rss
+10:29 < deepin_bot> s991533: Usage: .rss <command>
+10:29 < deepin_bot> s991533: Available RSS commands: add, del, disable, enable, fetch, help, list, start, stop
+10:29 <@s991533> .rss list
+10:29 < deepin_bot> s991533: Showing 8 of 8 RSS feeds in the database:
+10:29 < deepin_bot>   #deepin linux_kernel https://www.kernel.org/feeds/kdist.xml
+10:29 < deepin_bot>   #deepin planet_ubuntu http://planet.ubuntu.com/rss20.xml
+10:29 < deepin_bot>   #deepin omgubuntu http://www.omgubuntu.co.uk/feed
+10:29 < deepin_bot>   #deepin debian_news https://www.debian.org/News/news
+10:29 < deepin_bot>   #deepin planet_debian http://planet.debian.org/rss20.xml
+10:29 < deepin_bot>   #deepin ubuntu_fridge http://fridge.ubuntu.com/feed/
+10:29 < deepin_bot>   #deepin deepin_facebook https://www.facebook.com/feeds/page.php?format=rss20&id=829563693723710
+10:29 < deepin_bot>   #deepin linux http://www.linux.com/feeds/all-content
+10:32 < deepin_bot> [linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:37 < deepin_bot> [linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:42 <@s991533> .wiki irc
+10:42 < deepin_bot> "Internet Relay Chat (IRC) is an application layer protocol that facilitates transfer of messages in the form of text. The chat process works on a client/server model of networking. IRC clients are computer programs that a user can install on their system. These clients are able to communicate with chat..." - http://en.wikipedia.org/wiki/Internet_Relay_Chat
+10:42 <@s991533> .google linuxdeepin
+10:42 < deepin_bot> s991533: http://www.linuxdeepin.com/index.en.html
+10:42 <@s991533> .rss list
+10:42 < deepin_bot> s991533: Showing 8 of 8 RSS feeds in the database:
+10:42 < deepin_bot>   #deepin ,linux_kernel https://www.kernel.org/feeds/kdist.xml
+10:42 < deepin_bot>   #deepin ,planet_ubuntu http://planet.ubuntu.com/rss20.xml
+10:42 < deepin_bot>   #deepin ,omgubuntu http://www.omgubuntu.co.uk/feed
+10:42 < deepin_bot>   #deepin ,debian_news https://www.debian.org/News/news
+10:42 < deepin_bot>   #deepin ,planet_debian http://planet.debian.org/rss20.xml
+10:42 < deepin_bot>   #deepin ,ubuntu_fridge http://fridge.ubuntu.com/feed/
+10:42 < deepin_bot>   #deepin ,deepin_facebook https://www.facebook.com/feeds/page.php?format=rss20&id=829563693723710
+10:42 < deepin_bot>   #deepin ,linux http://www.linux.com/feeds/all-content
+10:43  * s991533 I just upgrade our bot, hjaha
+10:44 <@s991533> s/hjaha/haha
+10:44 < deepin_bot> s991533 I just upgrade our bot, haha
+10:44 <@s991533> .info
+10:44 < deepin_bot> Can't do that, start meeting first
+10:44 <@s991533> .htlp
+10:44 <@s991533> .help
+10:44 < deepin_bot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+10:44 <@s991533> .commands
+10:44 < deepin_bot> s991533: I am sending you a private message of all my commands!
+10:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+10:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:00 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:05 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:10 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:15 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:20 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:25 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:30 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:35 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:40 < deepin_bot> [,planet_debian] Tiago Bortoletto Vaz: A few words on the recent Brazilian elections http://acaia.ca/~tiago/posts/a-few-words-on-the-recent-brazilian-elections/ - 2014-11-04 - 03:14:26 AM -
+11:40 < deepin_bot> [,deepin_facebook] At some point in the day, we all smash our fingers against some form of keyboard... http://www.facebook.com/deepinlinux/posts/945567512123327 - 2014-11-04 - 03:37:23 AM -
+11:40 < deepin_bot> ...
+11:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+11:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:00 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:05 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:10 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:15 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:17 <@s991533> deepin_bot: are you crazy ... ?
+12:20 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+12:20 < deepin_bot> ...
+12:25 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:30 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:35 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+12:35 < deepin_bot> ...
+12:40 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:45 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+12:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+12:55 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+12:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:00 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:05 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+13:05 < deepin_bot> ...
+13:10 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:15 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:20 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+13:20 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:25 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:30 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 390 http://fridge.ubuntu.com/2014/11/04/ubuntu-weekly-newsletter-issue-390/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-390 - 2014-11-04 - 03:57:22 AM -
+13:30 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:35 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:40 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+13:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:00 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:05 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:10 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:15 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:20 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:25 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:30 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:35 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:40 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+14:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:00 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:05 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:10 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:15 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:20 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:25 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:30 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:35 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:40 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+15:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:00 < deepin_bot> [,planet_ubuntu] Raphaël Hertzog: My Debian LTS report for October 2014 http://raphaelhertzog.com/2014/11/04/my-debian-lts-report-for-october-2014/ - 2014-11-04 - 07:49:23 AM -
+16:00 < deepin_bot> ...
+16:04 <@s991533> shut up deepin_bot
+16:05 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:10 < deepin_bot> [,planet_debian] Rapha&#235;l Hertzog: My Debian LTS report for October 2014 http://raphaelhertzog.com/2014/11/04/my-debian-lts-report-for-october-2014/ - 2014-11-04 - 07:49:23 AM -
+16:10 < deepin_bot> ...
+16:15 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:20 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:25 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:30 < deepin_bot> [,planet_debian] Junichi Uekawa: emacs-gdb interfaces. http://www.netfort.gr.jp/~dancer/diary/daily/2014-Nov-4.html.en#2014-Nov-4-17:10:57 - 2014-11-04 - 08:10:57 AM -
+16:30 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:35 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:40 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:45 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:50 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+16:55 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+17:00 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+17:05 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+17:10 < deepin_bot> [,linux] CoreOS: A Lean, Mean Virtualization Machine http://www.linux.com/news/enterprise/cloud-computing/794134-coreos-a-lean-mean-virtualization-machine/ - 2014-11-03 - 11:22:43 PM -
+17:15 <@s991533> .rss
+17:15 < deepin_bot> s991533: Usage: .rss <command>
+17:15 < deepin_bot> s991533: Available RSS commands: add, del, disable, enable, fetch, help, list, start, stop
+17:15 <@s991533> .rss disable linux
+17:15 < deepin_bot> s991533: Successfully disabled 1 feed.
+17:45 < deepin_bot> [,planet_ubuntu] Didier Roche: Just released Ubuntu Developer Tools Center 0.1.1 http://blog.didrocks.fr/post/Just-released-Ubuntu-Developer-Tools-Center-0.1.1 - 2014-11-04 - 09:27:07 AM -
+17:50 < deepin_bot> [,deepin_facebook] Hello, everybody. In this issue of community interview, we are honored that we&#x2019;v... http://www.facebook.com/deepinlinux/posts/945671218779623 - 2014-11-04 - 09:47:38 AM -
+19:15 < deepin_bot> [,planet_ubuntu] Canonical Design Team: Community interview: Riccardo Padovani & Filippo Scognamiglio http://design.canonical.com/2014/11/community-interview-riccardo-padovani-filippo-scognamiglio/ - 2014-11-04 - 10:56:41 AM -
+22:40 < deepin_bot> [,omgubuntu] Trisquel 7.0 Released kernel 3.13 http://www.omgubuntu.co.uk/2014/11/download-trisquel-7-0-kernel-3-13 - 2014-11-04 - 02:35:32 PM -
+23:45 < deepin_bot> [,planet_ubuntu] Oli Warner: Putting the Secure in SSH; easy tips to harden your shell server against most attacks http://feedproxy.google.com/~r/OliUbuntu/~3/Vanr_ykTH9c/ - 2014-11-04 - 03:36:33 PM -
