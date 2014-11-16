@@ -1,0 +1,44 @@
+12:19 < deepin> 连上了？
+12:20 < deepin> 挂了？
+12:33 < sunboy> hello
+12:33 < deepin_bot> Hello ~~~
+12:34 < sunboy> can you speak chinese
+12:35 < sunboy> ？？
+12:36 < sunboy> 用中文聊天
+20:11 < deepin> ID写什么？
+20:16 < deepin> 我就是贴吧里的廖1显2然，论坛里的liaoxianran
+20:21 < liaoxianran> 我又回来了，我是刚才的deepin
+20:23 < liaoxianran>  HexChat: 2.9.6 ** OS: Linux 3.13.0-29-generic x86_64 ** Distro: Debian wheezy/sid ** CPU: 2 x Pentium(R) Dual-Core  CPU      E5400  @ 2.70GHz (GenuineIntel) @ 1.20GHz ** RAM: Physical: 2.0GB, 76.4% free ** Disk: Total: 18.6GB, 47.4% free ** VGA: NVIDIA Corporation GF108 [GeForce GT 630] ** Sound: HDA-Intel - HDA Intel1: HDA-Intel - HDA NVidia ** Ethernet: Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet ** Uptime: 11h 1
+20:23 < liaoxianran> m 44s **
+21:39  * jney 
+21:43 < jney> hi. just tried to install deepin. but my computer doesn't boot. is there some known grub issues
+21:43 < deepin_bot> hello ~~~
+21:58 <@s991533> jney: no screen?
+21:59 <@s991533> jney: do you have error message?
+22:00 <@s991533> liaoxianran: hi
+22:01 <@s991533> liaoxianran: what's up?
+22:05 < jney> grub (or whatever the boot loader is) doesn't appear. it just reboot and reboot again showing bios config
+22:09 <@s991533> hmmmm ...
+22:10 <@s991533> jney: what's your hardware platform?
+22:14 < jney> x86_64
+22:14 < jney> Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz
+22:28 < jney> the installation was successfull. and then, on final reboot, it just can start
+22:28 < jney> sorry : "it just can't start"
+22:34 <@s991533> hmmmm ...
+22:34 <@s991533> so you installed it ...
+22:34 <@s991533> have you tried login in terminal?
+22:34 < deepin_bot> xDDDDD
+22:34 <@s991533> deepin_bot: shut up
+22:35 <@s991533> jney: what's your graphics hardware? intel hd graphics?
+22:53 < jney> it's a laptop. with a nvidia card. i think there's also a motherboard integrated card
+22:58 <@s991533> what's its model and manufacturer?
+22:58 <@s991533> if it didn't have additional graphics chip, it may use the intergrated graphic in your cpu, will be intel graphics
+22:59 <@s991533> i'm not sure if is driver's problem
+22:59 < jney> nvidia gk107m [geforce GT 640M]
+23:06 < jney> i can put the content of /proc/cpuinfo
+23:23 <@s991533> jney: oh, so you can login in terminal?
+23:24 <@s991533> jney: maybe deepin engineer can help you to figure out this problem tomirror
+23:24 < jney> no. i gave up and installed gnome-ubuntu
+23:24 <@s991533> s/tomirror/tomorrow/g
+23:24 < deepin_bot> s991533 meant to say: jney: maybe deepin engineer can help you to figure out this problem tomorrow
+23:24 <@s991533> jney: oops, so sad
