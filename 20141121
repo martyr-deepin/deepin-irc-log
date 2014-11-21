@@ -1,0 +1,19 @@
+00:57 < MichaelP> How do i choose a faster repo mirror ?
+07:56 < arun_> s991533: hello
+12:59 <@s991533> good afternoon
+17:52 < huanlee1993> Deepin播放avi视频会闪屏，一套avi视频，其中有部分在播放时会闪屏，是固定的那些，不是有时候这个闪屏，有时候那个闪屏，会闪屏的视频在百度网盘、Windows、Linux Mint 17、Fedora 20、Ubuntu Gnome等系统下正常，Ubuntu 14.10，Ubuntu Kylin 14.10下一样闪屏，
+17:52 < huanlee1993> 有谁知道是什么问题吗？
+17:55 < saleem> hi, im trying to install deepin wallpapers but i get this error and this package is not available on repos : deepin-system-settings-module-individuation
+17:55 < deepin_bot> hey xD
+17:56 < saleem> deepin-default-wallpapers:
+17:56 < saleem>  Depends: deepin-system-settings-module-individuation  but it is not installable
+17:57 < saleem> another package also fails due to missing dependencies
+17:57 < saleem> deepin-session-fastup:
+17:57 < saleem>  Depends: deepin-session  but it is not installable
+17:57 < saleem>  Depends: deepin-desktop-environment-dock  but it is not installable
+17:57 < saleem>  Depends: deepin-desktop-environment-desktop  but it is not installable
+17:57 < saleem>  Depends: deepin-system-tray  but it is not installable
+17:59 < saleem> so many missing dependencies
+18:05 < saleem> looks like this channel is stale
+20:02 < arun_> s991533:
+20:12 < wind> 有人吗？
