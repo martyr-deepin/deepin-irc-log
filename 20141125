@@ -1,0 +1,230 @@
+00:47 < arun__> hi s991533
+00:47 < deepin_bot> hello ~
+01:00 <@s991533> \hey
+01:02 < brainy> Hi
+01:02 < deepin_bot> hi !
+01:06 <@s991533> brainy: have you tried new version of deepin?
+01:07 < brainy> s991533, Yes but it works very slowly on my laptop, I don't know why :-(
+01:08 < brainy> s991533, my laptop is only 3 years old, but 2014.1 still very slow
+06:58 < deepin_bot> [,planet_ubuntu] Jono Bacon: Ubuntu Governance Reboot: Five Proposals http://www.jonobacon.org/2014/11/24/ubuntu-governance-reboot-five-proposals/ - 2014-11-24 - 10:35:59 PM -
+09:08 < willump> 是不是我看到的都是Robots啊
+09:08 < willump> 这个聊天系统感觉不像有人在的样子
+09:31 < sjd_zeus> hi all
+09:31 < deepin_bot> hello !
+09:51 < brainy> Hi all.
+09:51 < deepin_bot> Welcome , How do you do?
+09:59 <@s991533> brainy: hi
+10:07 < brainy> hi s991533
+10:07 < deepin_bot> hi  :)
+10:11 <@s991533> brainy: how's your hardware environment?
+10:11 <@s991533> brainy: you said that 2014.1 is very for you, haha
+10:16 <@s991533> sjd_zeus: hi
+10:17 < brainy> s991533, yep it's very strange. It cannot be my computer. Maybe the image wasn't burned correctly on the DVD.
+10:17 < brainy> s991533, but as I said, I prefer the look of 12.06.
+10:18 < brainy> s991533, It looks very nice :-))
+10:19 <@s991533> brainy: but the softwares were old
+10:19 <@s991533> brainy: did you check its checksum?
+10:20 <@s991533> I think use a usb stick is easier and faster than DVD
+10:20 < brainy> s991533, Yes I will try with USB again.
+10:20 < brainy> s991533, isn't 12.06 based on Ubuntu 12.04 which has support till 2017 ?
+10:21 <@s991533> brainy: remember to check it's checksum
+10:21 <@s991533> brainy: LTS won't update its software, security update only
+10:21 < brainy> s991533, ooohh I see!
+10:21 <@s991533> brainy: its software were old
+10:21 <@s991533> brainy: where are you from?
+10:21 <@s991533> Germany?
+10:22 < brainy> s991533, Yes, and you ?
+10:22 <@s991533> Taiwan
+10:22 < brainy> Nice!
+10:22 <@s991533> :D
+10:22 < brainy> s991533, I love Deepin distribution :-))
+10:23 <@s991533> brainy: does deepin 12.06 has German?
+10:24 <@s991533> or you are using with English?
+10:24 < brainy> s991533: I don't know, I am using the English version.
+10:24 < brainy> Yes, English.
+10:24 <@s991533> Okay, I guess not
+10:24 <@s991533> If you love it, I guess you can join to help translate on transifex
+10:25 <@s991533> brainy: https://www.transifex.com/organization/linuxdeepin
+10:25 < deepin_bot> [ Deepin localization ] - www.transifex.com
+10:26 < brainy> s991533, I will have a look.
+10:26 <@s991533> (Y)
+10:26 <@s991533> brainy: how long have you use deepin?
+10:26 <@s991533> didn't see you on IRC before, haha
+10:26 < brainy> s991533, I used 12.06 when it came out for 6 months, now I installed it again :-))
+10:27 < chuanyu2015> hello
+10:27 < brainy> s991533, I used Linux Mint and others in between.
+10:27 < deepin_bot> yo (Y)
+10:27 <@s991533> chuanyu2015: hi
+10:27 < brainy> hi chuanyu2015
+10:27 < deepin_bot> hey ;)
+10:27 <@s991533> brainy: oh, I love linux deepin
+10:27 < chuanyu2015> yes
+10:27 < brainy> Yes :-))
+10:27 <@s991533> brainy: oh, I love linux deepin and linux mint
+10:27 < chuanyu2015> i's great!
+10:27 < brainy> :-D
+10:28 <@s991533> linuxmint is very cool
+10:28 <@s991533> by the way, deepin may changed to use Debian as base in the future
+10:28 <@s991533> so it'll be debian based
+10:28 <@s991533> chuanyu2015: how are you?
+10:29 < brainy> I used Slackware for many, many years.
+10:29 < brainy> But package management is not good.
+10:29 <@s991533> brainy: wow
+10:29 < brainy> You have to compile many programs.
+10:29 < deepin_bot> hey :P
+10:30 <@s991533> brainy: apt is cool
+10:30 < chuanyu2015> now,opensuse
+10:30 < brainy> s991533, yes.
+10:30 <@s991533> chuanyu2015: you mean you are using opensuse?
+10:31 < chuanyu2015> yes
+10:32 < brainy> opensuse has very good configuration tools!
+10:32 < chuanyu2015> But I have used two
+10:32 < brainy> Many, many options.
+10:32 < chuanyu2015> yes
+10:32 < chuanyu2015> very good
+10:33 < chuanyu2015> Although I do not know programming, but I like the wonderful world of open source
+10:33 < deepin_bot> hi ~~~
+10:33 < chuanyu2015> hi
+10:33 < deepin_bot> yo :P
+10:34 < brainy> :-D
+10:35 <@s991533> open source and free software is really good
+10:35 <@s991533> even Microsoft opens sourced its .Net
+10:36 < chuanyu2015> en
+10:36 <@s991533> https://github.com/Microsoft/dotnet
+10:36 < deepin_bot> [ Microsoft/dotnet · GitHub ] - github.com
+10:38 <@s991533> -> http://distrowatch.com/deepin
+10:38 < deepin_bot> [ DistroWatch.com: Deepin ] - distrowatch.com
+10:46 < brainy> s991533, do you have to upgrade whenever a new version of Deepin comes out?
+10:46 < brainy> s991533, or can you use a version for a longer time?
+10:46 <@s991533> I don't remember, I jut install the latest version
+10:47 < brainy> s991533, okay but data get lost ?!
+10:47 < brainy> s991533, Then I must backup all my data first.
+10:47 < brainy> before upgrade
+10:47 <@s991533> brainy: store your data in another partition
+10:49 < brainy> s991533, OK
+10:51 <@s991533> so it'll be easy to install another version/distro
+10:51 <@s991533> just preserve your home directory
+10:53 < brainy> Okay.
+11:14 < brainy> Bye-bye :-)
+11:15 < bet0x> anyone from Deepin staff?
+11:20 <@s991533> bet0x: I think you are looking for Cathy-Deepin
+11:20 <@s991533> seems she didn't come here today
+11:23 <@s991533> Cathy-Deepin: hi
+11:24 <@s991533> Cathy-Deepin: bet0x is waiting for you
+11:24 < Cathy-Deepin> s991533: Hi
+13:43 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 393 http://fridge.ubuntu.com/2014/11/25/ubuntu-weekly-newsletter-issue-393/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-393 - 2014-11-25 - 05:33:34 AM -
+13:48 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 393 http://fridge.ubuntu.com/2014/11/25/ubuntu-weekly-newsletter-issue-393/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-393 - 2014-11-25 - 05:33:34 AM -
+13:53 < bet0x> anyone here?
+13:53 < guille> hi? i need help? :c
+13:53 < deepin_bot> hello !
+13:53 < bet0x> En que puedo ayudarte
+13:54 < bet0x> Guillermo, hablamos español tambiewn
+13:54 < guille> bet0x hablas español? :O mejor :P
+13:54 < bet0x> tambien*
+13:54 < guille> :P xD
+13:54 < guille> bueno mira te cuento necesito ayuda con un problemita
+13:55 < bet0x> Si lo comentas directamente va a ser mas rapido
+13:55 < bet0x> :P
+13:56 < guille> resulta que queria instalar el deepin en mi compu de escritorio pero no se puede despues de seleccionar el idioma  se queda en negro ._. solo se ve el mouse :v
+13:56 < bet0x> Tenes placa de video?
+13:56 < guille> lei en internet que es culpa del controlador nvidia ._.
+13:56 < bet0x> mm
+13:57 < guille> sep ._.
+13:57 < bet0x> Tenes una onboard tambien?
+13:57 < guille> creo xD
+13:57 < bet0x> instala con la OnBoard
+13:57 < bet0x> y luego al terminar cambias a la nvidia
+13:57 < bet0x> ;)
+13:57 < guille> y como lo hago?
+13:58 < guille> soy nuevo en esto ._. hace 2 dias me pase a linux :P
+13:58 < bet0x> mira podes A:
+13:58 < bet0x> ejecutar lo siguiente
+13:58 < bet0x> --without-wm
+13:59 < bet0x> pasas eso como parametro y listo
+13:59 < bet0x> abri una consola grafica
+13:59 < bet0x> (Deepin Terminal)
+13:59 < bet0x> y ejecuta: pkexec deepin-installer --without-wm
+14:02 < guille> sere bruto xD pero como abro la consola grafica y el deepin terminal? :P
+14:04 < bet0x> tecla de windows
+14:04 < bet0x> te abre algo para escribir
+14:04 < bet0x> lo ves?
+14:07 < guille> ahora no estoy probando en la compu xD
+14:07 < guille> seria apretar la tecla de windows estando en el boot no?
+14:08 < guille> en la parte que dice default, check no se cuanto y eso?
+14:09 < bet0x> no
+14:09 < bet0x> entra al desktop
+14:09 < bet0x> y dale tiempo
+14:09 < bet0x> demora aveces
+14:09 < bet0x> a mi me sucedia algo parecido
+14:11 < guille> pero no llega xD se queda en negro :v
+14:16 < bet0x> ejecutalo desde la Shell
+14:16 < bet0x> Control + Alt + F1
+14:17 < guille> y ahi ejecuto el pkexec....?
+14:18 < bet0x> probalo con o sin
+14:18 < bet0x> :P
+14:20 < guille> y ahi despues de ejecutar, teoricamente se instalaria o se veria el desktop no? o que tengo que hacer despues? xD
+14:21 < bet0x> verias el desktop o al menos el instalador
+14:23 < guille> ok che, mil gracias :D voy a tomar notas de todo e ir a probar otra vez :P me estaba desesperando no poder instalarlo xD
+14:23 < bet0x> no te hagas drama
+14:23 < bet0x> cuando quieras te venis aca
+14:23 < bet0x> saludos!
+14:26 < guille> si no funca, voy a volver xD es que de todas las distros que probe esta es la mas me encanto xD no me voy a dar por vencido tan facilmente jajaja gracias de nuevo che... que estes bien :D
+14:26 < bet0x> Mira esta muy estilizada
+14:26 < bet0x> Yoe stoy acomodando todo el soporte en español
+14:26 < deepin_bot> Hi xD
+14:26 < bet0x> Por que el Market y el Game Market esta en chino
+14:26 < bet0x> y me rompe los huevos verlo asi
+14:26 < bet0x> :p
+14:27 < bet0x> deepin_bot hey
+14:27 < bet0x> deepin_bot who's behind?
+14:28 < bet0x> WHY on hell Deeping developers MIXED Go and C++
+14:28 < bet0x> WHY WHY WHY!
+14:28 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 393 http://fridge.ubuntu.com/2014/11/25/ubuntu-weekly-newsletter-issue-393/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-393 - 2014-11-25 - 05:33:34 AM -
+14:33 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 393 http://fridge.ubuntu.com/2014/11/25/ubuntu-weekly-newsletter-issue-393/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-393 - 2014-11-25 - 05:33:34 AM -
+14:38 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 393 http://fridge.ubuntu.com/2014/11/25/ubuntu-weekly-newsletter-issue-393/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-393 - 2014-11-25 - 05:33:34 AM -
+14:43 < deepin_bot> [,ubuntu_fridge] Ubuntu Weekly Newsletter Issue 393 http://fridge.ubuntu.com/2014/11/25/ubuntu-weekly-newsletter-issue-393/?utm_source=rss&utm_medium=rss&utm_campaign=ubuntu-weekly-newsletter-issue-393 - 2014-11-25 - 05:33:34 AM -
+17:05 <@s991533> bet0x: is guille German? I can't understand your conversation, haha
+17:39 < bet0x> its Argentinian
+17:39 < bet0x> that was Spanish
+17:52 <@s991533> bet0x: oh, cool
+17:52 <@s991533> it'll be better to use English here, haha
+17:53 <@s991533> bet0x: BTW, deepin_bot is jut a but
+17:53 <@s991533> s/jut a but/just a bot/g
+17:53 < deepin_bot> s991533 meant to say: bet0x: BTW, deepin_bot is just a bot
+17:53 <@s991533> .isup linuxdeepin.com
+17:53 < deepin_bot> http://linuxdeepin.com looks fine to me.
+17:53 <@s991533> .google Deepin
+17:53 < deepin_bot> s991533: http://www.linuxdeepin.com/index.en.html
+17:53 <@s991533> .wiki Linux
+17:53 < deepin_bot> "Linux (/ˈlɪnəks/ LIN-uks or, less frequently used, /ˈlaɪnəks/ LYN-uks) is a Unix-like and mostly POSIX-compliant computer operating system assembled under the model of free and open-source software development and distribution. The defining component of Linux is the Linux kernel, an operating system..." - http://en.wikipedia.org/wiki/Linux
+17:53 <@s991533> .tell bet0x hi
+17:53 < deepin_bot> s991533: I'll pass that on when bet0x is around.
+17:55 <@s991533> https://www.facebook.com/deepinlinux/photos/np.24153193.100002790169731/958224490857629/?type=1&notif_t=notify_me
+17:55 < deepin_bot> [ Facebook ] - www.facebook.com
+17:55 <@s991533>  > Deepin 2014.2 will carry crossover Deepin special edition. All Deepin users will be able to use Crossover for free. Deepin 2014.2 will carry the most popular QQ6.2 communication software in China. In the later period we will adjust and test the most commonly used 20 pieces of software under Windows nowadays to let users directly install and use!
+17:55 <@s991533> Pretty cool!
+18:33 < bet0x> Yes
+18:33 < deepin_bot> bet0x: 2014-11-25 - 09:53:54 <s991533> tell bet0x hi
+18:33 < bet0x> but i prefer to fix more important issues
+18:33 < bet0x> like the broken languages
+18:33 < bet0x> the game "store"
+18:33 < bet0x> wich is on asian language
+18:34 < bet0x> if you want users and success
+18:34 < bet0x> then fix the languages part
+18:34 < bet0x> its broken
+18:34 < bet0x> s991533 also why the screenshoots
+18:34 < bet0x> are different from the 2014.1 ?=
+18:34 < bet0x> i mean i don't see a dock
+19:50 < guille> Hola Buenos dias :v
+19:50 < guille> bet0x andas vivo? necesito que me ilumines un poco xD
+20:55 <@s991533> guille: English please
+21:39 < LiuLang> 嗨~
+21:56 <@s991533> bet0x: what do you mean?
+21:57 <@s991533> between 2014.1 vs 2014.2 ?
+22:18 < brainy> Hi all :D
+22:18 < deepin_bot> Welcome (Y)
+22:22 < brainy> hi s991533
+22:22 < deepin_bot> Hello , How do you do?
+23:25 <@s991533> brainy: hi
+23:54 < brainy> hi erhandsome
+23:54 < deepin_bot> Welcome (Y)
