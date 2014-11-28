@@ -1,0 +1,70 @@
+00:08 < brainy> Hi xD
+00:08 < deepin_bot> brainy: 2014-11-27 - 15:38:43 <s991533> tell brainy maybe you can try this : http://www.linuxdeepin.com/forum/14/24083 Deepin 2014.2 Internal Testing Group xDDDD
+00:08 < deepin_bot> Hello xD
+00:09 < brainy> Thanks s991533 lol
+00:11 <@s991533> brainy: :)
+00:11 < brainy> s991533, "Server not found" :-(
+00:12 < brainy> I cannot access linuxdeepin homepage :S
+00:18 <@s991533> hmmmm ...
+00:18 <@s991533> strange
+00:20 < brainy> s991533, Maybe German IP's are blocked!
+00:38 < brainy> hi yousong
+00:38 < deepin_bot> hello ;)
+01:11 < brainy> s991533, Now I can connect again :-)
+01:15 <@s991533> brainy: great
+03:12 <@s991533> .tell brainy did you register that event?
+03:12 < deepin_bot> s991533: I'll pass that on when brainy is around.
+05:15 < brainy> hi arun_ xD
+05:15 < deepin_bot> brainy: 2014-11-27 - 19:12:22 <s991533> tell brainy did you register that event?
+05:15 < deepin_bot> hi xD
+05:15 < arun_> hi brainy
+05:15 < deepin_bot> hey ~~~
+05:15 < arun_> u know web development ? brainy
+05:15 < brainy> arun_, Not at all, sorry :-(
+05:16 < arun_> brainy: ok
+09:32 < brainy> hi Cathy-Deepin
+09:32 < deepin_bot> hey ~~~
+09:33 < Cathy-Deepin> brainy: Hi
+10:28 < deepin_bot> [,planet_debian] Ian Wienand: rstdiary https://www.technovelty.org/web/rstdiary.html - 2014-11-28 - 02:15:13 AM -
+11:01 < brainy> hi leaeasy
+11:01 < deepin_bot> Hi :P
+11:12 < leaeasy> ^_^
+12:42 < Juerchen_> hiiii
+12:42 < deepin_bot> Hi (y)
+12:42 < Juerchen_> hi  everbody
+12:42 < deepin_bot> hey (y)
+12:42 < Juerchen_> how are  you
+18:14 < maoxuan> 啥呀
+18:15 < maoxuan> 咋设置网络共享呀
+21:58 < brainy> hi arun_ :-D
+21:59 < deepin_bot> hi ~~~
+21:59 < brainy> OMG this bot is here again xD
+22:20 < Fernandos> hi
+22:20 < deepin_bot> Hi :-D
+22:21 < Fernandos> By all honestly, deepin looks really damned good. I hope it supports tiling/floating and stacking mode. Does it?
+22:24 < brainy> hi Fernandos xD
+22:24 < deepin_bot> Hi (Y)
+22:24 < brainy> I'm a fan of Deepin too xD
+22:27 < Fernandos> brainy: just removed the xfce desktop. I've tried out openbox/kde/gnome/cinnamon and i3. I like i3 and think openbox is ok. But deepin (if it's memory consumption is less than 250MB) will be my favorite.
+22:28 < Fernandos> How much memory is used when you boot to your desktop and have no open applications in a default Deepin install?
+22:28 < Fernandos> free -mh (tell me what you see in the "Used"  column)
+22:28 < Fernandos> enter that into a terminal
+22:30 < brainy> Fernandos, I am still using old version 12.06, I have about 300 MB used memory after boot I think
+22:31 < brainy> Fernandos, which version are you using?
+22:36 < Fernandos> brainy: dunno, just pulling the lastest from the arch repos
+22:37 < Fernandos> brainy: dde-workspace-20141125.b8337cf-0
+22:40 < Fernandos> I'm getting an error pulling the files with pacman! :(
+22:40 < brainy> Fernandos, Okay...but I think the current version of Deepin has a higher memory consumption from what I have seen in some videos on youtube.
+22:40 < Fernandos> error: failed retrieving file blah.pkg.tar.xz' from download.opensuse.org : Maximum file size exceeded
+22:41 < brainy> Hmmm...Maybe try a different mirror..?
+22:43 < Fernandos> yeah I just did that, but the opensuse mirror should be removed, or fixed if they "don't allow" such small file-sizes
+22:44 < Fernandos> oh yeah.. funny.. I get the exact same error as someone else.. you've corrupted files on that 2nd mirror..
+22:44 < Fernandos> Please update the md5sum of: /var/cache/pacman/pkg/dde-api-20141027.4c66b5e-0-x86_64.pkg.tar.xz
+22:45 < Fernandos> and /var/cache/pacman/pkg/startdde-20141105.e0f1f8b-0-x86_64.pkg.tar.xz
+22:46 < Fernandos> brainy: did you also get that error?
+22:47 < brainy> Fernandos, no, sorry :-(
+22:51 < Fernandos> k, I just tried pacman -Sc // cleaning the package cache
+22:51 < Fernandos> "seems to work"
+22:54 < brainy> Great :D
+22:56 < Fernandos> ok, logging out and going to try deepin now :)
+22:56 < Fernandos> thanks brainy, cu!
