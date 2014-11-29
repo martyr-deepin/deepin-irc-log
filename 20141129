@@ -1,0 +1,178 @@
+00:16 < Fernandos> Wow that DE is soo awesome!!
+00:17 < Fernandos> going home now, cu later! will need some help reducing the graphics effects to a minimum
+01:02 <@s991533> .tell Fernandos hi, which version are you using?
+01:02 < deepin_bot> s991533: I'll pass that on when Fernandos is around.
+01:06 < brainy> Hi all xD
+01:06 < deepin_bot> hi ~
+01:11 <@s991533> brainy: hi
+01:36 <@s991533> Fernandos hi
+01:38 <@s991533> hi Fernandos
+01:39 < deepin_bot> hey (y)
+01:48 < Fernandos> hi s991533 :)
+01:48 < deepin_bot> Fernandos: 2014-11-28 - 17:02:35 <s991533> tell Fernandos hi, which version are you using?
+01:48 < deepin_bot> Welcome xD
+01:49 < Fernandos> heh, I forgot starting dhcpd and I wondered why many, but not all links were broken :D
+01:49 < brainy> hi Fernandos
+01:50 < deepin_bot> Hi xD
+01:50 < brainy> Fernandos, do you install via network?
+01:50 < Fernandos> Version: 20141125.b8337cf-0
+01:51 < Fernandos> I've installed via the arch repos :)
+01:51 < brainy> Ah ok
+01:51 < Fernandos> So far I'm more than happy with it, except that things are quite slow due to heavy desktop effects
+01:52 < brainy> Yeah that's my impression too
+01:52 < brainy> I used only in Virtualbox but it seemed heavy.
+01:53 < Fernandos> It seems that just nobody knows about deepin. I'm missing an "engineer-mode", which strips down all fancy and uses a tiling windows manager by default. That would make it very attractive for 90% of my arch friends.
+01:53 < brainy> I will stick with version 12.06 for now.
+01:53 < brainy> It's 2 years old but still fine for me.
+01:54 < brainy> Fernandos, hmmm I see what you mean.
+01:54 < Fernandos> The only reason seemingly all my friends use i3, is because they enjoy the keyboard and tiling window manager and low-footprint.
+01:55 < brainy> i3 looks very minimal xD
+01:55 < Fernandos> imho, that can easily be achieved with deepin too. just falling back to a thin scriptable panel in engineer-mode and abstracting away the search of the fullscreen menu to a keybinding would do it.
+01:57 < Fernandos> I'm not sure if all control-panel settings are available through a library, but if that's the case, someone could writean  ncurses or similar cli gui.
+01:58 < brainy> Fernandos, is it not possible to replace the default WM of deepin with something else?
+01:58 < Fernandos> s991533: Can you please help me disabling some or all desktop effects?
+01:59 < Fernandos> brainy: idk. have used deeping the first time now. Have to read it's docs and API.
+01:59 < brainy> Fernandos, ok :D
+01:59 < Fernandos> s991533: I'm not sure, but I'm willing to contribute to deeping. Am a dev/sysadmin and graphics designer. I know that's a rare combination, but it exists :)
+02:01 <@s991533> Fernandos: hmmm ... I'm happy to help, but I have something important to do, I'll work with windows untill 2015
+02:02 <@s991533> Fernandos: but don't worry, there will be a deepin staff here
+02:02 <@s991533> Fernandos: Her name is Cathy, she'll be here from Mon to Friday
+02:03 <@s991533> Fernandos: or maybe some other users have help you too
+02:03 <@s991533> Fernandos: but if you have some gereral problems about debian based linux, I can help you easier, I am fimilar with it
+02:04 < Fernandos> s991533: No worries, I'm not a linux fanatic. I actually work with osx,linux and windows if neccessary. Whatever is required to do the job. However I'm using linux about 15years now.
+02:05 <@s991533> Fernandos: great, I believe that you are a guru
+02:05 < Fernandos> And freebsd, but less with solaris altough I often work on a sun cluster.
+02:05 < brainy> Fernandos, nice. Me too but I must say I still don't know many things about Linux.
+02:05 <@s991533> me too
+02:05 <@s991533> I just need to use windows now, something important
+02:06 <@s991533> so I won't use Linux for maybe 1 ~ 2 month
+02:06 <@s991533> Fernandos: which distro is your favorite?
+02:06 < Fernandos> I guess deepin is using compiz, otherwise it must have implemented it's own effects engine ontop or into a composition manager. Will have to find out, if it's even configurable, or if I need to patch it.
+02:07 < Fernandos> s991533: hmm.. favorite for what kind of usage?
+02:07 <@s991533> Fernandos: I think you are right, I remember it's compiz
+02:07 < Fernandos> s991533: I used slackware, switched to gentoo and now I'm on arch. I like the latter. But my favorite is nixos and freebsd, simply as that.
+02:07 <@s991533> Fernandos: as a desktop?
+02:08 <@s991533> wow
+02:08 <@s991533> you are really a geek
+02:08 < deepin_bot> yo !
+02:08 <@s991533> it'll spend much time on setting up these distros
+02:09 < Fernandos> not with nixos. You only do that once. Then you have your configuration file which can be used for any other machine. It's easily deployable and everything is atomic and reproducable.
+02:10 < Fernandos> So basically set that nixos desktop up in a VM, tweak and configure it whenever you've time and when you think it's perfect. You just copy that configuration file and use it for the real setup onto the metal.
+02:10 < Fernandos> http://nixos.org
+02:10 < deepin_bot> [ NixOS Linux ] - nixos.org
+02:11 < brainy> Do you guys do regular backups of your installations with clonezilla? I love that tool !
+02:11 < brainy> So many things can go wrong with Linux :D
+02:13 < Fernandos> I use rsync :) 1:1 bit cloning isn't 100% reliable. I haven't used it, but I believe that http://relax-and-recover.org/ is a good solution.
+02:13 < deepin_bot> [ Relax-and-Recover - Linux Disaster Recovery ] - relax-and-recover.org
+02:14 < Fernandos> Anyways, if you've got zfs, then you'll have less issues with backups ;)
+02:14 < brainy> Fernandos, thanks I'll have a look.
+02:15 <@s991533> brainy: hey, it's made in Taiwan
+02:15 < brainy> s991533, that's true lol
+02:15 <@s991533> brainy: I know them, I also use DRBL
+02:15 <@s991533> Fernandos: thanks for your info
+02:15 <@s991533> Fernandos: I'll try it next year
+02:15 <@s991533> brainy: I have their T-shirt, haha
+02:16 < brainy> s991533, lol nice
+02:17 <@s991533> Steven is the team leader
+02:17 < brainy> s991533, it's a very good project! :-)
+02:17 <@s991533> I invited him to give us a speech at my school before
+02:17 <@s991533> brainy: yeah, they also have other coll projects
+02:18 <@s991533> like DRBL, ezilla
+02:18 < brainy> Nice :-))
+02:18 < brainy> Fernandos, I'll have a look at rsync now.
+02:19 < Fernandos> backintime is a nice gui, if you need it.
+02:19 < brainy> Thank you Fernandos
+02:19 <@s991533> I use rsync and clonezilla
+02:20 < brainy> s991533, why both? It's better?
+02:20 <@s991533> brainy: no no
+02:21 <@s991533> brainy: for different usage
+02:21 <@s991533> clonezilla for the OS
+02:21 <@s991533> rsync for data only
+02:21 <@s991533> clonezilla also helps me backup windows
+02:21 < brainy> s991533, Ah, okay :D
+02:22 < Fernandos> I never need to have copied of the OS, therefore I only use rsync. And if I have to deploy an OS, I usually have images and configuration management. (ansible,vagrant)
+02:22 < Fernandos> have to take a look at lxc, but imho it's inferior to bsd jails
+02:22 < deepin_bot> XD
+02:23 < brainy> cu later all xD
+02:23 < Fernandos> It takes me 15min to install the os. I never delete /home so, I've instantly all original settings.
+02:24 < Fernandos> s/copied/copies/g
+02:24 < deepin_bot> Fernandos meant to say: I never need to have copies of the OS, therefore I only use rsync. And if I have to deploy an OS, I usually have images and configuration management. (ansible,vagrant)
+02:24 < Fernandos> awesome bot!
+02:27 < Fernandos> Ok, deepin-compiz is a fork of compiz. Need to figure if and how I can conifgure the effects. Didn't find infos in the chiese wiki on that.
+02:38 < Fernandos> hmm not sure if they fixed ccsm breaking deepin, hope they fork ccsm. http://www.linuxdeepin.com/forum/8/23223?&hilit=compiz+effects
+02:38 < deepin_bot> [ Deepin Forum • Please remove CCSM from Deepin Store ] - www.linuxdeepin.com
+02:42 <@s991533> I'm not sure
+02:46 <@s991533> gtg
+02:46 < deepin_bot> have a nice day  :)
+02:46 <@s991533> seeya
+02:46 < deepin_bot> see ya :D
+03:35 < brainy> Hi xD
+03:35 < deepin_bot> hello ~
+03:47 < brainy> hi arun_ xD
+03:47 < deepin_bot> hello :P
+03:48 < arun_> hi brainy how are u ?
+03:48 < deepin_bot> yo  :)
+03:48 < arun_> u deepin_bot deepin_bot deepin_bot  hi, don't know who cursed u
+03:54 < brainy> arun_, lol
+03:54 < brainy> I'm fine thanks xD
+06:55 < brainy> Hi deepin_bot
+06:55 < deepin_bot> Hello brainy!
+06:55 < deepin_bot> hello :D
+06:55 < brainy> xD
+06:55 < deepin_bot> haha
+15:22 < zswnic> 什么时候出深谈呢
+15:22 < zswnic> 用这个聊天不太方便
+16:19 <@s991533> hello all
+16:19 < deepin_bot> hey  :)
+17:10 < T1960CT> Hello, I'm trying to install deepin 2013 with a USB key and it's giving me error -110
+17:10 < deepin_bot> hi (y)
+17:11 < T1960CT> How do I boot from USB?
+17:14 < arun_> T1960CT: how did u create the USB Bootable?
+17:15 <@s991533> T1960CT: what's the error message?
+17:15 < T1960CT> I used Linux Live USB creator, LiLi has never given me any problems before, and the error message is -110, I'll get the full code, hold on
+17:16 < T1960CT> The error is: USB 1-1: device not accepting address x, error -110
+17:17 < T1960CT> where x is it trying from 2 to 5
+17:17 < T1960CT> and then it finishes with hub 1-0: unable to enumerate USB device on port 1
+17:17 < T1960CT> I've tried multiple ports
+17:19 < T1960CT> Just tried with a new key, new port, same problem
+17:20 < T1960CT> Trying now with Unetbootin
+17:23 < T1960CT> Trying now with YUMI
+17:25 < arun_> T1960CT: try with Unetbootin shouldn't give a problem, hey can u check ur md5sum of that iso ??
+17:25 < arun_> the iso may be corrupt as well
+17:27 < T1960CT> The ISO boots to the GRUB menu with no problems and I've used it in Virtualbox without any problems, Unetbootin did not show an option to boot from Deepin only to "try to install it" and it did not do anything.
+17:28 < T1960CT> arun_: What's the MD5 for the original ISO?
+17:28 < T1960CT> I'm getting: cf52d9f2ef6ef8c3415e06ed4e9ecc51
+17:31 <@s991533> T1960CT: check it out on the website
+17:31 <@s991533> T1960CT: dd is another choice to creat live usb
+17:32 < T1960CT> I'm on windows at the moment, dd seems to be linux terminal only, right?
+17:33 < T1960CT> MD5 matches
+17:37 < brainy> hi T1960CT
+17:37 < deepin_bot> hi !
+17:37 < T1960CT> Hello
+17:37 < deepin_bot> yo :-D
+17:39 < T1960CT> How are you, brainy?
+17:40 < brainy> I'm good thanks xD
+17:40 < brainy> Are you using virtualbox inside your Windows, T1960CT ?
+17:41 < T1960CT> To install Deepin? No, I'm trying to install it on my laptop.
+17:41 < brainy> Ah!
+17:42 < brainy> For me the installation program stops after a while :-(
+17:42 < brainy> Can't get it to work.
+17:43 < T1960CT> Sorry 'bout that.
+17:43 < brainy> T1960CT, welcome back xD
+17:43 < T1960CT> Thanks
+17:44 < brainy> How much RAM does your laptop have, T1960CT ?
+17:44 < T1960CT> 4GB
+17:44 < brainy> Ok!
+17:45 < brainy> That should be enough I think xD
+17:45 < T1960CT> It suggests 1GB for Deepin 2013, 2GB being comfortable, I think 4 will be good :D
+17:46 < brainy> Yea :D
+17:47 < T1960CT> So any ideas as to what could be causing this?
+17:52 < arun_> due, use UNetbootin and make sure u have 1st boot as usb in ur BIOS setting..
+17:53 < T1960CT> I do. I've used Linux many a time, Deepin is the only distro to give me this problem.
+17:56 <@s991533> T1960CT: yes, if you are using windows now, I think UltraISO is also a great tool to do this
+18:00 < T1960CT> s991533: Giving it a shot now
+18:01 < arun_> s991533: best I have used is YUMI
+19:28 < deepin_bot> [,planet_ubuntu] Ubuntu Podcast from the UK LoCo: S07E35 – The One with the Sharks http://podcast.ubuntu-uk.org/2014/11/29/s07e35-the-one-with-the-sharks/ - 2014-11-29 - 11:07:35 AM -
+20:57 <@s991533> arun_: okay, I'll try it next time
+21:07 < arun_> s991533: ??
+23:00 <@s991533> arun_: you said YUMI
