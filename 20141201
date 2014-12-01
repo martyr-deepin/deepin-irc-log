@@ -1,0 +1,103 @@
+00:47 < john__> do yous make deepin?
+01:48 < deepin_bot> [,omgubuntu] Linux Distro Releases Round Up for November 2014 http://www.omgubuntu.co.uk/2014/11/linux-distro-releases-round-november-2014 - 2014-11-30 - 04:47:31 PM -
+08:47 < brainy> hi s991533_aws
+08:47 < deepin_bot> Hello :-D
+09:13 < brainy> hi fasheng
+09:13 < deepin_bot> hello ;)
+09:33 < fno> hello
+09:33 < deepin_bot> Hello !
+09:34 < fno> deepin_bot: ru a robot?
+09:34 < fno> any human here?
+09:35 < fno> so quiet
+09:42 < brainy> hi fno :)
+09:42 < deepin_bot> yo !
+09:42 < brainy> are you using deepin, fno ?
+09:43 < fno> yeah
+09:43 < fno> im doing
+09:45 < brainy> nice! xD
+09:45 < fno> brainy: Germany?
+09:45 < brainy> fno, Yep!
+09:46 < fno> China here
+09:50 < fno> what's the time in Germany now?
+09:51 < brainy> fno, 2:49 am
+09:51 < brainy> xD
+09:51 < deepin_bot> xDDDDD
+09:51 < brainy> I will be back later, cu fno!
+09:53 < fno> bye...
+20:21 < brainy> Hi all xD
+20:21 < deepin_bot> Hi xD
+20:24 < brainy> xD
+20:24 < deepin_bot> XDDDD
+20:32 < brainy> hi uloong
+20:32 < deepin_bot> hello (Y)
+20:47 <@s991533> hi brainy
+20:47 < deepin_bot> yo ?
+20:48 < hanxi> 可以说中文吗？
+20:48 < hanxi> can I speak chinese?
+20:49 < hanxi> 深度终端的vim如何配置solarized主题？
+20:50 < hanxi> how to use solarized colorsheme in deepin console for vim?
+20:56 <@s991533> hanxi: English please
+20:56 < deepin_bot> haha
+20:56 <@s991533> .google vim colorscheme
+20:56 < deepin_bot> s991533: https://github.com/flazz/vim-colorschemes
+20:56 <@s991533> .google vimrc colorscheme
+20:56 < deepin_bot> s991533: http://stackoverflow.com/questions/2975994/how-to-set-default-vim-colorscheme
+20:57 < hanxi> ok...
+20:57 < hanxi> thanks
+20:58 < hanxi> the problem in here. look that picture.
+20:58 < hanxi> http://www.linuxdeepin.com/forum/7/25685?&hilit=solarized#p119993
+20:59 < deepin_bot> [ Deepin Forum • DeepinTerminal不支持配置调色方案 ] - www.linuxdeepin.com
+21:00 <@s991533> hmmmmm ....
+21:09 <@s991533> I don't know :P
+21:13 < hanxi> thanks too.
+21:16 < brainy> xD
+21:16 < deepin_bot> haha
+21:20 < erhandsome> bot...
+21:52 <@s991533> http://www.omgubuntu.co.uk/2014/11/budgie-desktop-0-8-released-big-changes
+21:52 < deepin_bot> [ Budgie Desktop 0.8 Released With Improved Menu, Panel ] - www.omgubuntu.co.uk
+21:52 <@s991533> cool
+21:54 <@s991533> .tell arun https://evolve-os.com/
+21:54 < deepin_bot> s991533: I'll pass that on when arun is around.
+21:54 < deepin_bot> [ Evolve OS | To develop or achieve gradually: evolve a style of one's own. ] - evolve-os.com
+22:16 < brainy> .tell s991533 hi
+22:16 < deepin_bot> brainy: I'll pass that on when s991533 is around.
+22:16 < brainy> :-))
+22:16 < brainy> It works for me too! haha
+22:16 <@s991533> =,=...
+22:16 < deepin_bot> s991533: 2014-12-01 - 14:16:19 <brainy> tell s991533 hi
+22:16 <@s991533> I'm here ...
+22:16 <@s991533> brainy: try .command
+22:16 < brainy> .command
+22:17 <@s991533> .command
+22:17 <@s991533> hmmm ... did I remember a wrong command?
+22:17 <@s991533> .help
+22:17 < deepin_bot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+22:17 <@s991533> oops ... miss s
+22:17 <@s991533> it's .commands
+22:17 <@s991533> haha ...
+22:17 < deepin_bot> haha
+22:18 < brainy> xD
+22:18 < deepin_bot> haha
+22:18 < brainy> .commands
+22:18 < deepin_bot> brainy: I am sending you a private message of all my commands!
+22:19 < brainy> s991533, wow so many commands xD
+22:19 <@s991533> yep
+22:19 <@s991533> it's willie bot
+22:19 <@s991533> you can googled it and setup one
+22:19 < deepin_bot> hey ~
+22:19 <@s991533> deepin_bot: hey what?
+22:20 < brainy> Okay :D
+22:20 <@s991533> brainy: and it's on github, you can easily sumbit your codes
+22:21 <@s991533> I sent some commits into willie-extra before
+22:21 < brainy> s991533, Nice!
+22:21 <@s991533> a set of the enhance features
+22:39 < brainy> .wiki linux
+22:39 < deepin_bot> "Linux (/ˈlɪnəks/ LIN-uks or, less frequently used, /ˈlaɪnəks/ LYN-uks) is a Unix-like and mostly POSIX-compliant computer operating system assembled under the model of free and open-source software development and distribution. The defining component of Linux is the Linux kernel, an operating system..." - http://en.wikipedia.org/wiki/Linux
+23:54 < brainy> hi acgtyrant
+23:54 < deepin_bot> hi :-D
+23:55 < brainy> .quiet deepin_bot
+23:56 <@s991533> it's set in cnofig, haha
+23:56 <@s991533> maybe I'll decrease its freq when we have more people here
+23:56 <@s991533> s/cnofig/config/
+23:56 < deepin_bot> s991533 meant to say: it's set in config, haha
+23:59 < brainy> Okay :-)
