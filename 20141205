@@ -1,0 +1,248 @@
+00:01 < brainy> Hmmm, linuxdeepin.com is down
+00:01 <@s991533> brainy: yep
+00:01 <@s991533> brainy: http://planet.linuxdeepin.com/announcement-of-deepin-official-websites-being-kept-on-record/?nomobile
+00:01 < deepin_bot> [ Announcement of Deepin Official Website Being Made Internet Content Provider (ICP) Registration Record » Announcement of Deepin Official Website Being Made Internet Content Provider (ICP) Registration ] - planet.linuxdeepin.com
+00:02 <@s991533> china's law, haha
+00:02 < brainy> Oh :-((
+00:03 <@s991533> brainy: there is another backup url in that artical
+00:03 < brainy> Okay s9
+00:03 < brainy> Okay s991533
+00:03 <@s991533> s/artical/article
+00:03 < deepin_bot> s991533 meant to say: brainy: there is another backup url in that article
+00:03 <@s991533> type ...
+00:03 <@s991533> s/type/typo/
+00:03 < deepin_bot> s991533 meant to say: typo ...
+00:03 <@s991533> typo again =,= ...
+00:03 <@s991533> too tired today
+00:03 < brainy> hahaha
+00:03 < deepin_bot> XDDDD
+00:03 <@s991533> I even lost my w-wallet
+00:04 <@s991533> s/w-wallet/e-wallet/
+00:04 < deepin_bot> s991533 meant to say: I even lost my e-wallet
+00:04 <@s991533> so sad ...
+00:04 < brainy> s991533, oohh
+00:04 <@s991533> tooooooo tired today
+00:04 < brainy> sorry to hear :-(
+00:04 <@s991533> I need to take a rest
+00:04 < brainy> s991533, I think it's midnight in Taiwan ?
+00:04 <@s991533> brainy: thanks
+00:04 <@s991533> brainy: yep
+00:04 <@s991533> 00:03
+00:04 < brainy> ok s991533
+00:05 <@s991533> let me take a shower ... I need to make my body relax ...
+00:05 <@s991533> seeya brainy
+00:05 <@s991533> bye ~
+00:05 < brainy> s991533, bye!
+00:05 <@s991533> hmmm ... where is deepin_bot ?
+00:05 <@s991533> hi deepin_bot
+00:05 < deepin_bot> Go away s991533
+00:05 <@s991533> ...
+00:05 < brainy> haha
+00:06 < deepin_bot> haha
+00:06 < deepin_bot> hm
+00:06 < deepin_bot> Hi ;)
+00:06 <@s991533> deepin_bot: you wanna be killed huh?
+00:06 <@s991533> gtg
+00:06 <@s991533> bye~
+00:06 < deepin_bot> byebye  :)
+00:06 < brainy> lol
+00:06 < brainy> cu tomorrow s991533
+00:06 < deepin_bot> lol
+00:06 <@s991533> deepin_bot: go away
+00:06 <@s991533> brainy: okay, see you
+00:07  * s991533 zzzzzzz ...
+01:18 < arun_> hi all
+01:18 < deepin_bot> yo ~~~
+05:36 < brainy> hi bet0x
+05:36 < deepin_bot> Welcome :-D
+05:36 < brainy> Where are you frawm?
+10:15 < iyzsong> deepin-jenkins: help
+10:15 < deepin-jenkins> Available commands:
+10:15 < deepin-jenkins> abort <job> - specify which job to abort
+10:15 < deepin-jenkins> alias [<alias> [<command>]] - defines a new alias, deletes one or lists all existing aliases
+10:15 < deepin-jenkins> botsnack [<snack>] - om nom nom
+10:15 < deepin-jenkins> build <job> [now|<delay>[s|m|h]] [<parameterkey>=<value>]* - schedule a job build, with standard, custom or no quiet period
+10:15 < deepin-jenkins> cb - list jobs which are currently in progress
+10:15 < deepin-jenkins> comment <job> <build-#> <comment> - adds a description to a build
+10:15 < deepin-jenkins> currentlyBuilding - list jobs which are currently in progress
+10:15 < deepin-jenkins> h [<job>|-v <view>] - show the health of a specific job, jobs in a view or all jobs
+10:15 < deepin-jenkins> health [<job>|-v <view>] - show the health of a specific job, jobs in a view or all jobs
+10:15 < deepin-jenkins> jobs [<job>|-v <view>] - show the status of a specific job, jobs in a view or all jobs
+10:15 < deepin_bot> Welcome , How do you do?
+10:15 < deepin-jenkins> q - show the state of the build queue
+10:15 < deepin-jenkins> queue - show the state of the build queue
+10:15 < deepin-jenkins> s [<job>|-v <view>] - show the status of a specific job, jobs in a view or all jobs
+10:15 < deepin-jenkins> schedule <job> [now|<delay>[s|m|h]] [<parameterkey>=<value>]* - schedule a job build, with standard, custom or no quiet period
+10:15 < deepin-jenkins> status [<job>|-v <view>] - show the status of a specific job, jobs in a view or all jobs
+10:15 < deepin-jenkins> testresult [<job>|-v <view>] - show the test results of a specific job, jobs in a view or all jobs
+10:15 < deepin-jenkins> userstat <username> - prints information about a Jenkins user
+10:16 < iyzsong> deepin-jenkins: cb
+10:16 < deepin-jenkins> Currently building:
+10:16 < deepin-jenkins> - No jobs are running.
+10:16 < iyzsong> deepin-jenkins: q
+10:16 < deepin-jenkins> build queue is empty
+10:16 < iyzsong> deepin-jenkins: cb
+10:16 < deepin-jenkins> Currently building:
+10:16 < deepin-jenkins> - dragon#1: startdde-deb (Elapsed time: 25 sec, Estimated remaining time: N/A)
+10:17 < iyzsong> deepin-jenkins: s startdde-deb
+10:17 < deepin-jenkins> startdde-deb(BUILDING: 42 sec and counting): last build: 1 (18 min ago): ABORTED: http://10.0.0.210:8080/job/startdde-deb/1/
+11:40 <@s991533> Cathy-Deepin: hey
+11:40 <@s991533> cool, the jenkins bot
+11:40 <@s991533> I don't know that deepin is using jenkins
+12:09 < Cathy-Deepin> s991533: Hi
+12:09 < cubarco> why there is no A record for www.linuxdeepin.com?
+12:10 < cubarco> 这里是中文irc channel么。。
+12:11 < Cathy-Deepin> cubarco: 　　From December 3rd, 2014 on, Deepin official website will be made Internet Content Provider (ICP) Registration Record, which is expected to last for about seven days. During this period, Deepin official website will be closed temporarily. Please visit the new temporary address. Some services may be affected during this period. Please forgive us.
+12:11 < Cathy-Deepin> After Deepin official website is finished being made Internet Content Provider (ICP) Registration Record, its original address will resume to be visited normally.
+12:11 < Cathy-Deepin> English
+12:12 < Cathy-Deepin> You'd better speak English here.
+12:12 < deepin_bot> Hi ?
+12:12 < Cathy-Deepin> Hi.
+12:12 < deepin_bot> Hello !
+12:13 < cubarco> got it
+12:23 < Cathy-Deepin> 　　 All users:
+12:23 < Cathy-Deepin> 　　 From December 3rd, 2014 on, Deepin official website will be made Internet Content Provider (ICP) Registration Record, which is expected to last for about seven days. During this period, Deepin official website will be closed temporarily. Please visit the new temporary address: http://linuxdeepin.shendu.com/index.en.html
+12:23 < Cathy-Deepin> 　　  Some services may be affected during this period. Please forgive us.
+12:23 < Cathy-Deepin>      After Deepin official website is finished being made Internet Content Provider (ICP) Registration Record, its original address will resume to be visited normally.
+12:23 < Cathy-Deepin> Deepin Team
+12:23 < deepin_bot> [ Deepin ] - linuxdeepin.shendu.com
+12:25 < Cathy-Deepin> Or please visit the new temporary address: http://linuxdeepin.shendu.com/index.cn.html
+12:25 < deepin_bot> [ Deepin ] - linuxdeepin.shendu.com
+14:02 < deepin-jenkins> Project ~merge build #1322: SUCCESS in 1.5 sec: http://10.0.0.210:8080/job/%7Emerge/1322/
+14:02 < deepin-jenkins> Parameters:
+14:02 < deepin-jenkins> GERRIT_EVENT_TYPE=change-merged
+14:02 < deepin-jenkins> GERRIT_EVENT_HASH=-1223109462
+14:02 < deepin-jenkins> GERRIT_BRANCH=master
+14:02 < deepin-jenkins> GERRIT_TOPIC=leaeasy/add_extract_method_detect
+14:02 < deepin-jenkins> GERRIT_CHANGE_NUMBER=1783
+14:02 < deepin-jenkins> GERRIT_CHANGE_ID=I9aac756fd13ff9c3a35fd94dfe8df7819bb1ee3b
+14:03 < deepin-jenkins> GERRIT_PATCHSET_NUMBER=4
+14:03 < deepin-jenkins> GERRIT_PATCHSET_REVISION=0501554df6ede77f9d0d99feb589753adcc33217
+14:03 < deepin-jenkins> GERRIT_REFSPEC=refs/changes/83/1783/4
+14:03 < deepin-jenkins> GERRIT_PROJECT=deepin-installer
+14:03 < deepin-jenkins> GERRIT_CHANGE_SUBJECT=add DI_EXTRACT_METHOD detect add unionfs-fuse to depends
+14:03 < deepin-jenkins> GERRIT_CHANGE_COMMIT_MESSAGE=YWRkIERJX0VYVFJBQ1RfTUVUSE9EIGRldGVjdAphZGQgdW5pb25mcy1mdXNlIHRvIGRlcGVuZHMKCkNoYW5nZS1JZDogSTlhYWM3NTZmZDEzZmY5YzNhMzVmZDk0ZGZlOGRmNzgxOWJiMWVlM2IKdG93ZXI6IGh0dHBzOi8vdG93ZXIuaW0vcHJvamVjdHMvOGYxOWYwYmYwZTc1NGYwYjgyZWYyYzI0YmMyMzA5NzMvdG9kb3MvYTRlOWY4MmZmYTgxNGRmZGEyNTI1NzMxNDI1ZmU0ZjIvCg==
+14:03 < deepin-jenkins> GERRIT_CHANGE_URL=http://121.40.93.113:8080/1783
+14:03 < deepin-jenkins> GERRIT_CHANGE_OWNER=\"leaeasy\" <leaeasy@gmail.com>
+14:03 < deepin-jenkins> GERRIT_CHANGE_OWNER_NAME=leaeasy
+14:03 < deepin-jenkins> GERRIT_CHANGE_OWNER_EMAIL=leaeasy@gmail.com
+14:03 < deepin_bot> [ Gerrit Code Review ] - 121.40.93.113:8080
+14:03 < deepin-jenkins> Project ~merge build #1323: SUCCESS in 0.88 sec: http://10.0.0.210:8080/job/%7Emerge/1323/
+14:03 < deepin-jenkins> Parameters:
+14:03 < deepin-jenkins> GERRIT_EVENT_TYPE=change-merged
+14:03 < deepin-jenkins> GERRIT_EVENT_HASH=-1019660869
+14:03 < deepin-jenkins> GERRIT_BRANCH=develop
+14:03 < deepin-jenkins> GERRIT_TOPIC=titlebar_ui_little_fixup
+14:03 < deepin-jenkins> GERRIT_CHANGE_NUMBER=1832
+14:03 < deepin-jenkins> GERRIT_CHANGE_ID=I4c9b59d8c18b88d03aa809c14b64732533af94ee
+14:03 < deepin-jenkins> GERRIT_PATCHSET_NUMBER=3
+14:03 < deepin-jenkins> GERRIT_PATCHSET_REVISION=9d2f0829f0529680a3cf4fba8733018763e09ab7
+14:03 < deepin-jenkins> GERRIT_REFSPEC=refs/changes/32/1832/3
+14:03 < deepin-jenkins> GERRIT_PROJECT=deepin-movie
+14:03 < deepin-jenkins> GERRIT_CHANGE_SUBJECT=v2.2/feature:TitleBar&ControlBar UI little fixup
+14:03 < deepin-jenkins> GERRIT_CHANGE_COMMIT_MESSAGE=djIuMi9mZWF0dXJlOlRpdGxlQmFyJkNvbnRyb2xCYXIgVUkgbGl0dGxlIGZpeHVwCgp0b3dlcjogaHR0cHM6Ly90b3dlci5pbS9wcm9qZWN0cy9kNGUwZmY2NDE1ODY0NWYyOGQ5OWE5Y2E3MmQwYzI3Yi90b2Rvcy85ZDcxYTFiZTg0ZjI0NmQ5YmFjZTJhMDkwZGRlN2UwOC8KCkNoYW5nZS1JZDogSTRjOWI1OWQ4YzE4Yjg4ZDAzYWE4MDljMTRiNjQ3MzI1MzNhZjk0ZWUK
+14:03 < deepin-jenkins> GERRIT_CHANGE_URL=http://121.40.93.113:8080/1832
+14:03 < deepin-jenkins> GERRIT_CHANGE_OWNER=\"WangYaohua\" <mr.asianwang@gmail.com>
+14:03 < deepin-jenkins> GERRIT_CHANGE_OWNER_NAME=WangYaohua
+14:03 < deepin-jenkins> GERRIT_CHANGE_OWNER_EMAIL=mr.asianwang@gmail.com
+14:03 < deepin-jenkins> GERRIT_PATCHSET_UPLOADER=\"WangYaohua\" <mr.asianwang@gmail.com>
+14:04 < deepin_bot> [ Gerrit Code Review ] - 121.40.93.113:8080
+14:29 < deepin-jenkins> Project dde-workspace-ci build #716: SUCCESS in 2 min 16 sec: http://10.0.0.210:8080/job/dde-workspace-ci/716/
+14:29 < deepin-jenkins> liliqiang: res:launcher:: fix new install software problem.
+14:32 < deepin-jenkins> Project dde-workspace-ci build #717: ABORTED in 1 min 17 sec: http://10.0.0.210:8080/job/dde-workspace-ci/717/
+14:32 < deepin-jenkins> liliqiang: res:launcher:: fix font problem.
+14:40 < deepin-jenkins> Project dde-daemon-ci build #718: FAILURE in 4 min 44 sec: http://10.0.0.210:8080/job/dde-daemon-ci/718/
+14:40 < deepin-jenkins> liliqiang: launcher:: do not using dpkg to get package name.
+14:55 < deepin-jenkins> Yippee, build fixed!
+14:55 < deepin-jenkins> Project dde-daemon-ci build #719: FIXED in 6 min 5 sec: http://10.0.0.210:8080/job/dde-daemon-ci/719/
+14:55 < deepin-jenkins> liliqiang: launcher:: do not using dpkg to get package name.
+15:05 < deepin-jenkins> Project dde-workspace-ci build #718: SUCCESS in 2 min 34 sec: http://10.0.0.210:8080/job/dde-workspace-ci/718/
+15:05 < deepin-jenkins> liliqiang: lib:: fix the bug that cannot copy files on desktop to desktop.
+15:09 < deepin-jenkins> Project deepin-screenshot-v3-ci build #1: SUCCESS in 12 sec: http://10.0.0.210:8080/job/deepin-screenshot-v3-ci/1/
+15:11 < deepin-jenkins> Project deepin-internal-debug-ci build #9: FAILURE in 27 sec: http://10.0.0.210:8080/job/deepin-internal-debug-ci/9/
+15:12 < deepin-jenkins> Project dde-control-center-ci build #435: SUCCESS in 1 min 33 sec: http://10.0.0.210:8080/job/dde-control-center-ci/435/
+15:12 < deepin-jenkins> yangwanqing: Update display module
+15:16 <@s991533> Cathy-Deepin: oops ... too many msgs ...
+15:16 <@s991533> Cathy-Deepin: maybe these build logs should be in internal channel only?
+15:20 < Cathy-Deepin> s991533: What do you mean? It seems that I haven't got your idea.
+15:27 < deepin-jenkins> Project ~merge build #1324: SUCCESS in 2.2 sec: http://10.0.0.210:8080/job/%7Emerge/1324/
+15:27 < deepin-jenkins> Project ~merge build #1325: SUCCESS in 1.1 sec: http://10.0.0.210:8080/job/%7Emerge/1325/
+15:28 < deepin-jenkins> Project ~merge build #1326: SUCCESS in 0.92 sec: http://10.0.0.210:8080/job/%7Emerge/1326/
+15:41 < iyzsong> s991533: disable, my bad
+15:47 < bet0x> what you use for automated packages
+15:47 < bet0x> and build?
+15:51 < iyzsong> not special, just jenkins, with slaves running simple commands(mainly debuild)
+15:52 < bet0x> There is any doc of how to remake the iso of Deepin?
+15:52 < bet0x> i want to remove the non-english packages
+15:52 < bet0x> until they are fully translated
+15:52 < bet0x> included their content
+15:52 < bet0x> example, the games portal
+15:55 < iyzsong> bet0x: sorry, not possiable now, it's a mess.. next year, If We end with using live-build from debian, will release scripts public. :(
+15:55 < bet0x> Means i can't rebuild iso?
+15:59 < bet0x> Well i can follow the Ubuntu guide right?
+15:59 < bet0x> https://help.ubuntu.com/community/LiveCDCustomization https://help.ubuntu.com/community/InstallCDCustomization
+15:59 < deepin_bot> [ LiveCDCustomization - Community Help Wiki ] - help.ubuntu.com
+15:59 < deepin_bot> [ InstallCDCustomization - Community Help Wiki ] - help.ubuntu.com
+16:04 < iyzsong> bet0x: not sure, but don't you think it's too verbose?
+16:04 < bet0x> iyzsong, what do you mean?
+16:05 < bet0x> with verbose
+16:08 < iyzsong> I'll want something like this: http://live.debian.net/gitweb/?p=live-images.git;a=tree;f=images/standard;h=e0225ff7ea795a776463858956aaac936d7290c1;hb=HEAD
+16:08 < deepin_bot> [ live-systems.org Gitweb ] - live.debian.net
+16:08 < iyzsong> git clone the repo, run `lb config; lb build` should give me a iso same as debian
+16:34 <@s991533> iyzsong: thanks
+16:39 < deepin-jenkins> Project ~merge build #1327: SUCCESS in 1.5 sec: http://10.0.0.210:8080/job/%7Emerge/1327/
+16:44 < deepin-jenkins> Project ~merge build #1328: SUCCESS in 1.3 sec: http://10.0.0.210:8080/job/%7Emerge/1328/
+16:51 < leaeasy> iyzsong: ↑ :-D
+19:08 < brainy> Hi
+19:08 < deepin_bot> yo , How do you do?
+19:09 < brainy> I'm fine deepin_bot and you ??
+19:35 < brainy> hi cubarco
+19:35 < deepin_bot> hey ~~~
+19:39 < cubarco> hi brainy you know me?
+19:39 < deepin_bot> hi :P
+19:51 < brainy> hi cubarco no :D
+19:51 < deepin_bot> hey , How do you do?
+19:52 < brainy> just saying hi xD
+20:01 < cubarco> hi again!
+20:01 < deepin_bot> Hello :-D
+20:01 < cubarco> XDDDD
+20:01 < deepin_bot> XD
+20:03 < cubarco> so spamming this boot.. >:-|
+20:04 < cubarco> s/boot/bot/
+20:04 < deepin_bot> cubarco meant to say: so spamming this bot.. >:-|
+20:08 < brainy> cubarco, Yeah, we must find the off-button of this bot!
+20:08 < brainy> xD
+20:08 < deepin_bot> XDDDD
+20:09 < brainy> Or activate self-destruction mechanism
+20:09 < cubarco> lol
+20:09 < cubarco> !help
+20:09 < deepin_bot> lol
+20:09 < cubarco> .help
+20:09 < deepin_bot> cubarco: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+20:10 < cubarco> .help stop
+20:10 < brainy> haha
+20:10 < cubarco> .commands
+20:10 < deepin_bot> cubarco: I am sending you a private message of all my commands!
+20:10 < deepin_bot> hmmmm...
+20:10 < deepin_bot> XDDDD
+20:10 < cubarco> maybe there is a way!
+20:11 < brainy> Together we are strong xD
+20:12 < brainy> But only s991533 has the master password :D
+20:13 < cubarco> yeah...   we have no permission to fire op's employees XD
+20:14 < brainy> haha
+20:14 < deepin_bot> XDDDD
+20:14 < deepin_bot> hm
+20:23 < zhangyu> 我更新不了怎么办？
+20:32 < nagas> eclipse error
+20:32 < nagas> I quit eclipse, and cannot find it back
+20:33 < nagas> the store says it's installed
+20:33 < nagas> but I can't run it from launcher
+20:33 < nagas> when I try to run it from terminal, answer was "The program 'eclipse' is currently not installed. You can install it by typing:
+20:33 < nagas> sudo apt-get install eclipse-platform
+20:33 < nagas> "
+20:39 < cubarco> find / -name "*eclipse*"
+20:40 < cubarco> find /usr /opt -name "*eclipse*"
+20:40 < cubarco> this one may be enough
+22:08 < brainy> cubarco, which web browser do you prefer?
+22:33 < cubarco> I'm using Chrome
+22:34 < cubarco> it's simple at the first sight ;-)
