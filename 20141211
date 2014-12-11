@@ -1,0 +1,926 @@
+00:00 <@s991533> huangfz: great
+00:00 < huangfz> will i come into this channel next time?
+00:00 <@s991533> huangfz: any time
+00:00 <@s991533> huangfz: 'what' do you do, means how are you.
+00:01 < huangfz> o
+00:01 < brainy> hey huangfz
+00:01 <@s991533> huangfz: 'what' do you do, means how are you.sorry
+00:01 <@s991533> huangfz: 'how' do you do, means how are you.
+00:01 <@s991533> 'what' is a wrong version
+00:01 < huangfz> forgive my poor English
+00:01 <@s991533> 'how' do you do, means how are you.
+00:01 <@s991533> what do you do, is asking your job
+00:02 <@s991533> huangfz: no problem
+00:02 <@s991533> huangfz: I'm also a student
+00:02 <@s991533> huangfz: we can practice English here togetjer
+00:02 < huangfz> I'm fine.just want to pee
+00:02 < huangfz> good idea
+00:02 <@s991533> huangfz: come here to chat with us every day
+00:02 <@s991533> I promice you, your English skill will get better
+00:03 <@s991533> s/promice/promise/
+00:03 < deepin_robot> s991533 meant to say: I promise you, your English skill will get better
+00:03 < huangfz> I believe that
+00:03 < brainy> loool huangfz
+00:03 <@s991533> typo, haha
+00:03 < brainy> huangfz, you want to pee? :D
+00:03 < huangfz> where are you?
+00:04 <@s991533> huangfz: brainy comes from Germany
+00:04 < brainy> Germany and you?
+00:04 < brainy> Yes.
+00:04 < huangfz> Xi'an
+00:04 <@s991533> huangfz: I guess brainy don't know Xi'an, haha
+00:04 <@s991533> brainy: it's a city of China
+00:04 < brainy> I will use Google XD
+00:04 < brainy> Thank you s991533
+00:04 <@s991533> np
+00:05 < huangfz> he is not Chinese?
+00:05 < brainy> I am from Germany xD
+00:05 < brainy> 7 hours time difference
+00:06 < huangfz> I know your language is hard to learn
+00:06 <@s991533> huangfz: I think Chinese is harder, haha
+00:07 < brainy> haha
+00:07 < deepin_robot> XDDDD
+00:07 < deepin_robot> hm
+00:07 < brainy> German grammar is not easy I think.
+00:07 < brainy> It has many rules
+00:09 <@s991533> both hard, haha
+00:09 <@s991533> English is easier ...
+00:09 <@s991533> any way, we jut learned
+00:09 <@s991533> s/jut/just/
+00:09 < foob> 为什么我感觉深度终端有点卡？
+00:09 < deepin_robot> s991533 meant to say: any way, we just learned
+00:09 <@s991533> foob: only deepin terminal?
+00:10 < foob> s991533: 没装别的终端，感觉深度终端不是很流畅
+00:10 <@s991533> foob: hmmmm ...
+00:10 <@s991533> foob: try terminator? I'm not sure if your hardware is too slow
+00:10 < huangfz> I write codes on ubuntu
+00:10 < foob> s991533: 比如，按Tab补全时，有卡顿现象
+00:11 < brainy> huangfz, which language do you use?
+00:11 <@s991533> huangfz: graat, with which programming language
+00:11 < brainy> I mean programming language.
+00:11 <@s991533> brainy: haha, we are asking the same problem
+00:12 <@s991533> foob: 其他軟體也會嗎? 還是只有終端機? 不確定是不是硬體不夠快的問題~
+00:12 < huangfz> c and python
+00:12 <@s991533> huangfz: both are commonly used in linux development, great
+00:13 <@s991533> deepin also uses python
+00:13 < foob> s991533: 我还才装好的系统，除了终端外，其它的卡顿不多，只是刚才浏览器Tab开多了，卡了一下
+00:13 < brainy> Nice
+00:14 < huangfz> my computer is smooth
+00:14 <@s991533> foob: what's your hardware environment?
+00:15 < foob> s991533: 联想LG470
+00:15 < brainy> Python is good for system programming?
+00:15 < foob> i32.6,4G
+00:15 <@s991533> brainy: fast in development
+00:15 < huangfz> I'm freshman in university,haha
+00:15 <@s991533> not in its performance
+00:15 < foob> s991533: I3 2.2G Ram:4G
+00:15 <@s991533> foob: looks okay
+00:16 <@s991533> hey arun_, nice to see you again, join us!
+00:16 <@s991533> foob: what's your graphic card?
+00:16 < brainy> I can only program in Pascal haha. But not much
+00:16 < brainy> There is Lazarus project. very good
+00:16 < foob> s991533: 配置没问题，至少我前几天用Debian的Gonme-terminal速度很好
+00:16 <@s991533> foob: okay ..
+00:17 <@s991533> brainy: wow, cool
+00:17 < foob> s991533: 集成的，独显我禁了
+00:17 < foob> s991533: 应该 不是我的硬件问题
+00:17 < foob> 我记得以前装的Ubuntu
+00:17 <@s991533> foob: got it
+00:17 < foob> 他的终端用起来感觉也有点卡
+00:17 <@s991533> foob: you can try 'terminator' or 'konsole'
+00:18 < huangfz> ubuntu?
+00:18 < huangfz> it's faster than deepin I think
+00:18 <@s991533> xDDDDDD
+00:18 < deepin_robot> XD
+00:18 < foob> huangfz: 咱俩说中文 英文我一句不懂的，全靠百度
+00:19 <@s991533> have you guys tried Lubuntu ?
+00:19 < huangfz> but I load KDE
+00:19 < deepin_robot> XDDDD
+00:19 < huangfz> I try kubuntu
+00:19 < huangfz> that's great
+00:19 <@s991533> foob huangfz 我們還是練習英文吧，都讓老外看不懂不太禮貌，這個頻道基本上用英文的
+00:19 < brainy> Yes I tried Lubuntu but I don't like the look :D
+00:19 <@s991533> KDE is beautiful!
+00:19 <@s991533> brainy: okay
+00:20 < brainy> Yes
+00:20 < huangfz> I have trier Xubuntu
+00:20 <@s991533> brainy: but it uses less resource, very low, and runs very fast
+00:20 <@s991533> Xubuntu is also cool
+00:20 < huangfz> I don't like its look
+00:21 < brainy> s991533, it's true
+00:22 <@s991533> brainy: btw, made in Taiwan like clonezilla, haha
+00:22 < brainy> lol
+00:22 < brainy> Nice xD
+00:22 <@s991533> by PCMan, a very cool guy, he's a doctor, not a computer science student
+00:22 <@s991533> but learn progamming by himself
+00:22 < huangfz> don't have your cake and eat it
+00:23 <@s991533> he wrote the 'most' famous bbs client in taiwan
+00:23 <@s991533> haha
+00:23 < deepin_robot> haha
+00:23 < deepin_robot> rofl
+00:23 <@s991533> huangfz: ?
+00:23 < foob> s991533: Okay, I had to Baidu.
+00:23 <@s991533> foob: don't be said, we can learn English together
+00:24 < huangfz> I meant if you want nice look,you have to lost cpu
+00:24 <@s991533> huangfz: correct, haha, or gpu
+00:24 <@s991533> memory
+00:24 < brainy> Yes
+00:25 < brainy> s991533, he wrote PCManFM?
+00:25 <@s991533> yep
+00:25 < foob> s991533: I'm English to 'ABC‘ only.
+00:25 < brainy> haha nice
+00:25 < deepin_robot> XDDDD
+00:26 < brainy> s991533, you know all famous Taiwanese computer people haha
+00:26 < huangfz> I know acer is made in Taiwan
+00:26 <@s991533> foob: 沒關係，學一些英文，對溝通以及學期其他技術很有幫助的
+00:26 < foob> Look can service no more 'Deepin'
+00:27 <@s991533> huangfz: Taiwan brand, but made in China, haha
+00:27 <@s991533> brainy: many, but not all, haha
+00:27 < foob> s991533: I spell it right?
+00:27 <@s991533> foob: I'm not sure
+00:27 <@s991533> foob: 中文的意思是? 我確認一下
+00:28 < foob> s991533: 看上去深度可禁的服务不多
+00:28 < foob> 面试翻译的
+00:28 <@s991533> huangfz: ASUS also comes from Taiwan
+00:28 < foob> 百度翻译
+00:28 < huangfz> Giant
+00:28 < huangfz> the bike
+00:28 <@s991533> foob: if you know about linux, you can do it by command line
+00:29 < huangfz> made in Taiwan as well
+00:29 <@s991533> huangfz: oh yeah, you are right!
+00:29 <@s991533> I have one, very good
+00:29 <@s991533> foob: 透過終端機.命令界面都可以做到, 但要懂比較多背後的東西
+00:30 < brainy> Iphone from Taiwan too?? :D
+00:30 <@s991533> no no no
+00:30 < foob> s991533: 我刚刚看过Deepin的服务了，只禁了个蓝牙，其它的貌似都不能禁
+00:30 <@s991533> but foxconn's boss is Taiwanese
+00:30 < brainy> wow
+00:30 <@s991533> who made many iPhone for apple
+00:31 <@s991533> foob: 很多背後的東西要直接下命令 ... 你會的話就能做
+00:31 <@s991533> foxconn is a Taiwan company
+00:31 < foob> s991533: 我会一些基本的命令
+00:31 <@s991533> but made iphone in china
+00:31 < foob> s991533: 我玩过Dos，哈哈
+00:31 <@s991533> foob: very different
+00:31 <@s991533> foob: are you using Linux now? or Windows?
+00:32 < foob> s991533: Windows = Games
+00:32 < huangfz> Linux use bash
+00:32 <@s991533> so what are you using now foob ?
+00:32 <@s991533> huangfz: DOS is a OS
+00:32 <@s991533> bash is a shell
+00:32 < foob> s991533: Deepin
+00:32 <@s991533> defferent level
+00:33 <@s991533> foob: great, let's learn linux together!
+00:33 <@s991533> s/defferent/different/
+00:33 < deepin_robot> s991533 meant to say: different level
+00:33 < huangfz> yep
+00:33 <@s991533> btw, I'm using FreeDOS now
+00:33 < huangfz> but I have to sleep
+00:33 <@s991533> to repair my harddisk, haha
+00:33 < foob> huangfz: Dos很古老，在97年以前，基本都是Dos的天下
+00:33 <@s991533> huangfz: great, see you tomorrow
+00:34 < huangfz> I have lessons tomorrow
+00:34 <@s991533> huangfz: me too
+00:34 <@s991533> jsut come when you have time :)
+00:34 < foob> s991533: 你很和谐哥们
+00:34 <@s991533> Engineering Math is very hard ... haha ...
+00:34 <@s991533> foob: 不太懂, 什麼意思
+00:34 < foob> 我先去深度的论坛注册下
+00:34 < foob> s991533: 很友好的意思
+00:35 <@s991533> foob: thanks!
+00:35 <@s991533> brainy: he told me that I'm friendly, haha
+00:37 < brainy> haha nice
+00:37 < deepin_robot> XD
+00:37 <@s991533> deepin_robot: you are not friendly at all
+00:37 < brainy> foob, some games work in Linux too!
+00:37 < brainy> lol s991533
+00:37 < brainy> foob, I use PlayOnLinux
+00:37 <@s991533> oh, cool, haha
+00:38 <@s991533> I know that
+00:38 < brainy> :D
+00:38 <@s991533> hey brainy, welcome to Taiwan for vacation when you have time
+00:38 < brainy> s991533, thank you! Now I have become interested xD
+00:38 <@s991533> :)
+00:38 < brainy> I will look some videos about Taiwan on youtube haha
+00:39 <@s991533> you know Lucy? the movie?
+00:39 < deepin_robot> hi (y)
+00:39 < brainy> Hmm no sorry :-(
+00:40 <@s991533> no problem, haha
+00:40 <@s991533> what about Pi?
+00:40 <@s991533> AngLee's Movie
+00:40 <@s991533> Life of Pi
+00:41 < brainy> s991533, hmmm maybe in German it has a different name
+00:41 < brainy> many movies have a German name when they come to Germany haha
+00:41 <@s991533> brainy: maybe
+00:41 <@s991533> http://en.wikipedia.org/wiki/Life_of_Pi_(film)
+00:41 < deepin_robot> [ Life of Pi (film) - Wikipedia, the free encyclopedia ] - en.wikipedia.org
+00:41 <@s991533> http://en.wikipedia.org/wiki/Lucy_%282014_film%29
+00:41 < deepin_robot> [ Lucy (2014 film) - Wikipedia, the free encyclopedia ] - en.wikipedia.org
+00:41 < foob> brainy: 我用Linux也是娱乐，我对电脑感觉兴趣，业余就玩这些
+00:41 <@s991533> brainy: take a look at wiki, maybe you know that
+00:42 < brainy> Ok!
+00:42 < foob> brainy: 一直想学写程序，脑子各种不够用。
+00:42 < brainy> foob, me too, haha
+00:42 < brainy> (I use Google Translate lol)
+00:42 <@s991533> brainy: he said that he uses Linux for entertainment, he's interesting in computer science and wants to lear programming
+00:42 < brainy> Very good
+00:42 <@s991533> hey guys, I have to leave, see you tomorrow!
+00:43 < brainy> cu s991533 ! :D
+00:43 <@s991533> s/lear/learn/
+00:43 < deepin_robot> s991533 meant to say: brainy: he said that he uses Linux for entertainment, he's interesting in computer science and wants to learn programming
+00:43 < brainy> ok xD
+00:43 <@s991533> gtg
+00:43 < deepin_robot> see ya ~
+00:43 <@s991533> bye~
+00:43 < foob> plugin-containe CPU占用40-50%,我风扇老转肯定他干的
+00:43 <@s991533> hahahaha ...
+00:43 < deepin_robot> xDDDDD
+00:43 <@s991533> hope you can figure it out, bye
+00:43 <@s991533> foob: see you
+00:43 < brainy> bye bye
+00:44 < deepin_robot> have a nice day (flee)
+00:45 < foob> s991533: what?
+00:48 < brainy> foob, see you = bye bye
+00:48 < foob> brainy: see you 不是看到你？
+00:49 < brainy> see you = 再见
+00:49 < foob> 哦。。。这个我想学英文太难了得从头学’‘
+00:49 < brainy> Yes :-D
+00:50 < brainy> foob, I am going, see you !
+01:17 < deepin_robot> [planet_ubuntu] Daniel Holbach: Ubuntu Community Discussions distilled, in a hangout, in work items https://daniel.holba.ch/blog/2014/12/ubuntu-community-discussions-distilled-in-a-hangout-in-work-items/ - 2014-12-10 - 04:56:12 PM -
+01:32 < deepin_robot> [planet_ubuntu] Scott Moser: Snappy Ubuntu Core and uvtool http://ubuntu-smoser.blogspot.com/2014/12/snappy-ubuntu-core-and-uvtool.html - 2014-12-10 - 05:19:00 PM -
+02:47 < deepin_robot> [planet_ubuntu] Costales: ¿Está triunfando Unity? Sí, con los temas, como Numix http://thinkonbytes.blogspot.com/2014/12/esta-triunfando-unity-si-con-los-temas.html - 2014-12-10 - 06:28:31 PM -
+04:47 < deepin_robot> [planet_ubuntu] Dustin Kirkland: It's a Snap! http://blog.dustinkirkland.com/2014/12/its-a-snap.html - 2014-12-10 - 08:31:59 PM -
+12:16 <@s991533> hello all
+12:16 < deepin_robot> Hi ~~~
+12:28 < foob> Hello alll
+12:28 < deepin_robot> Hello ~
+12:31 <@s991533> foob: hi, nice to see you again
+12:38 < foob> s991533: me too
+12:39 < foob> s991533: I want to eat.
+13:45 < huangfz> hello
+13:45 < deepin_robot> Welcome ~~~
+13:45 < huangfz> I find sth. interesting
+13:47 < huangfz> there are some files which are encrypted in windows
+13:47 < huangfz> but I can open these files in deepin
+13:56 < huangfz> nobody's home?
+14:22 < deepin_robot> [deepin_facebook] Deepin Boot Maker V1.0 Released !http://planet.linuxdeepin.com/deepin-boot-make... http://www.facebook.com/deepinlinux/photos/a.834644646548948.1073741828.829563693723710/967736713239740/?type=1 - 2014-12-11 - 06:16:47 AM -
+16:17 < deepin_robot> [deepin_facebook] Advance Notice of &#x201c;the 1st IRC Conference of Deepin Community&#x201d;http://planet.li... http://www.facebook.com/deepinlinux/posts/967768803236531 - 2014-12-11 - 08:12:22 AM -
+17:20 < foob> Linux deepin runs on older machines is very dull
+17:26 <@s991533> hahahahaha ....
+17:26 < deepin_robot> XDDDD
+17:28 < foob> Pentium Dual-Core E6300 x2  Ram: 4G, n card: 620, 很慢
+17:34 <@s991533> it's too old for deepin~ haha
+17:35 < movaie> ?
+17:35 <@s991533> hi movaie
+17:35 < deepin_robot> Hi (Y)
+17:37 < movaie> 哈哈
+17:37 < movaie> 你们好
+17:38 < movaie> 现在终于有人了
+17:39 < movaie> oo？
+17:40 <@s991533> hi movaie
+17:40 < deepin_robot> hello :P
+17:41 <@s991533> oo ?
+17:41 <@s991533> hi mx__
+17:41 < deepin_robot> Hello (Y)
+17:41 < movaie> me china
+17:41 <@s991533> movaie: do you speak Chinese?
+17:42 <@s991533> oops ... wrong question
+17:42 <@s991533> movaie: do you speak English? I guess you speak Chinese
+17:43 < movaie> I speak Chinese, I come from Chinese, so
+17:44 <@s991533> what about English?
+17:44 < movaie> This is the translation I use Baidu, hey, I only know some English
+17:44 <@s991533> okay
+17:44 <@s991533> it's okay
+17:45 < movaie> Yes, I can translation tools
+17:46 < movaie> Would you some Chinese?
+17:46 <@s991533> movaie: I can speak Chinese
+17:47 < movaie> You are Chinese?
+17:47 < deepin_robot> hello !
+17:47 <@s991533> kind of
+17:48 < movaie> Where are you from?
+17:48 <@s991533> Taiwan
+17:48 < movaie> deepin 你是不是中国的啊？
+17:48 < movaie> 噢噢！is Taiwan
+17:49 <@s991533> your neighbor, haha
+17:49 < deepin_robot> hello , How do you do?
+17:49 < movaie> 是不是这个软件没法发中文呢？
+17:49 <@s991533> We use English here
+17:49 < movaie> Is it right? This software can't send Chinese?
+17:50 <@s991533> You mean the IRC client I'm using? It can ~
+17:50 < deepin_robot> hey :P
+17:51 < movaie> 是不是不能用中文啊？
+17:52 <@s991533> Please use English here
+17:52 < movaie> I only have a junior high school, and English is very poor!
+17:52 <@s991533> movaie: it's okay, we can practice English with each other
+17:52 < movaie> Why?
+17:53 <@s991533> it's a good chance for us to improve our English skill
+17:53 <@s991533> we just use English here
+17:53 <@s991533> there are many non-Chinese here
+17:53 <@s991533> use Chinese that they can not understand
+17:53 <@s991533> will be very rude
+17:54 < movaie> But only is a person in here, not much.
+17:55 <@s991533> [ wenjie198881] [ haroldwu    ] [ ShaMoon    ] [ yousong     ]  [ acgtyrant]   [ tmh_       ]
+17:55 < movaie> I've been using Baidu translate the words, oh, forget
+17:55 <@s991533> I don't use baidu. haha, but I use Google and Bing
+17:55 < movaie> You are with what system?
+17:55 < deepin_robot> yo ~~~
+17:56 <@s991533> movaie: you mean which operating system I'm using?
+17:56 <@s991533> Windows, FreeBSD, GNU/Linux - Debian / Ubuntu / LinuxMint / Deepin ... etc ...
+17:56 < movaie> You are outside it, is of course with Google these.
+17:56 < deepin_robot> Hi , How do you do?
+17:57 < movaie>  yo ~~~？
+17:57 < wenjie198881> 呼叫我的名字干嘛？我能大致看懂你们的聊天，说就不行了。手机上的浏览器，翻译不方便，就只看看不说话了。
+17:57 < deepin_robot> Hello :-D
+17:57 <@s991533> movaie: is Bing oh for you movaie ?
+17:57 <@s991533> wenjie198881: hi, you are also a Chinese? haha
+17:57 < movaie> A lot of ah
+17:58 < wenjie198881> Yes,I am a chinese.
+17:58 < movaie> I'm very well thank you
+17:58 <@s991533> wenjie198881: let's practice English here, haha
+17:58 <@s991533> wenjie198881: there are foreign friends at night
+17:59 <@s991533> maybe few hours later
+17:59 < movaie> I am Baidu translate, guon
+17:59 <@s991533> should be 'I `use` Baidu translate'
+18:00 < movaie> I am the mainland
+18:01 < wenjie198881> Me too.
+18:01 <@s991533> I come from Taiwan
+18:02 < movaie> English is very strange, it is difficult to clearly express feelings such as Chinese, may be the problem of translation tools
+18:02 < movaie> haha！
+18:02 < deepin_robot> XDDDD
+18:02 <@s991533> movaie: nonono
+18:02 < movaie> chi fan 去
+18:02 < wenjie198881> I come from Sichuan.
+18:02 <@s991533> movaie: the problem comes from the translate tool, haha
+18:03 < movaie> me guangxi
+18:05 < wenjie198881> I go to dinner.See you later.
+18:05 < Maxximo88> Hi to all
+18:05 < deepin_robot> hey , How do you do?
+18:05 < Maxximo88> I'm Max from Italy
+18:12 < Maxximo88> anyone here?
+18:13 < ShaMoon> s991533, Welcome!
+18:14 <@s991533> ShaMoon: hi
+18:14 < Maxximo88> Hi Shamoon
+18:14 < deepin_robot> Hi ?
+18:15 < Maxximo88> Hi s991533
+18:15 < deepin_robot> Hello (Y)
+18:15 < ShaMoon> Hi.
+18:15 < ShaMoon> Maxximo88, Hi.
+18:15 < deepin_robot> hello :D
+18:18 < ShaMoon> I am in Wuhan.Are you Chinese,Maxximo88 ?
+18:23 < Maxximo88> No ShaMoon, I'm from MIlan, Italy, Europe
+18:24 < wenjie198881> I come back.
+18:24 < ShaMoon> WoW
+18:24 < Maxximo88> ShaMoon I'm the italian translator of Deepin. :)
+18:26 < wenjie198881> It is now in use the computer to access the Internet.Chat with the Baidu translation tool.
+18:26 < ShaMoon> Nice meeting you. I am a Chinese undergraduate.
+18:27 < ShaMoon> BTW,Can I follow you in twitter?
+18:27 < Maxximo88> nice!I'm graduated, in Economics. Yes, add me on Twitter, my nickname is Maxximo88
+18:28 < wenjie198881> It has been three years since she graduated from Sichuan Normal University.
+18:28 < Maxximo88> Guys, all of you are in the Dev Team?
+18:28 < Maxximo88> (developer team)
+18:29 < ShaMoon> I'm not. Me in school now.
+18:32 < Maxximo88> Does anyone know at what time the meeting start?
+18:33 < wenjie198881> I am a general user.
+18:34 <@s991533> Maxximo88: on a weekend night
+18:34 < wenjie198881> nobody.
+18:35 < ShaMoon> My nickname is sha_moon_t
+18:35 < wenjie198881> Not for any particular time.----By deepin weibo.
+18:38 <@s991533> hi ShaMoon
+18:38 < deepin_robot> Hi (y)
+18:39 < wenjie198881> deepin_robot: you are a robot ?
+18:39 < ShaMoon> Hi.
+18:39 < deepin_robot> Hello :D
+18:39 < movaie> haha
+18:39 < deepin_robot> haha
+18:39 <@s991533> wenjie198881: yes, it is
+18:39 <@s991533> .help
+18:39 < deepin_robot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+18:39 < ShaMoon> s991533, Where are you work?
+18:39 < movaie> hrlp
+18:39 <@s991533> I'm a student ShaMoon
+18:39 < movaie> help
+18:39 <@s991533> movaie: ,help
+18:39 <@s991533> movaie: .help
+18:39 <@s991533> .help
+18:40 < deepin_robot> s991533: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+18:40 <@s991533> .wiki Linux
+18:40 < deepin_robot> "Linux (/ˈlɪnəks/ LIN-uks or, less frequently used, /ˈlaɪnəks/ LYN-uks) is a Unix-like and mostly POSIX-compliant computer operating system assembled under the model of free and open-source software development and distribution. The defining component of Linux is the Linux kernel, an operating system..." - http://en.wikipedia.org/wiki/Linux
+18:40 < ShaMoon> s991533, Are you in Wuhan?
+18:40 <@s991533> ShaMoon: No, I come from Taiwan
+18:40 <@s991533> .google DeepinLinux
+18:40 < deepin_robot> s991533: http://www.linuxdeepin.com/
+18:40 < ShaMoon> s991533, We are students haha.
+18:40 <@s991533> ShaMoon: yeah~
+18:40 < movaie> <s991533> You use a computer?
+18:40 < ShaMoon> I am from hubei provence.
+18:41 < movaie> <s991533> You use a computer?
+18:41 < movaie> s991533: You use a computer?
+18:42 < ShaMoon> s991533, May I follow you in twitter?
+18:42 < movaie> deepin2014.2 hao yong a
+18:42 < jetfire> hey guys
+18:42 < movaie> ke xi wo zai da lu bu neng shang tui te
+18:43 < jetfire> i understand only english my friend
+18:43 <@s991533> ShaMoon: I don't have twitter account
+18:43 < jetfire> anyone from the developer team here ?
+18:44 <@s991533> no
+18:44 < jetfire> k :(
+18:44 <@s991533> sometimes
+18:44 < ShaMoon> Oh. any time~~
+18:44 <@s991533> but you can asking questions or discuss with us
+18:44 < wenjie198881> .commands
+18:44 < deepin_robot> wenjie198881: I am sending you a private message of all my commands!
+18:44 < movaie> I have a twitter
+18:44 < jetfire> does anyone faces the same problem deepin lagging
+18:44 <@s991533> ShaMoon: what about github account?
+18:44 < jetfire> or getting hand while using eiskalt dc++
+18:44 < jetfire> i used deepin 2014.1
+18:44 <@s991533> jetfire: yes, it uses too much resources, haha ...
+18:45 < jetfire> dc++ or deepin :P
+18:45 <@s991533> I'm going to have my dinner now
+18:45 <@s991533> see you later guys
+18:45 < movaie> GitHub also has a
+18:45 <@s991533> bye
+18:45 < deepin_robot> have a nice day :P
+18:45 < ShaMoon> s991533, git would be better. haha .
+18:45 < movaie> i used deepin 2014.2 haha
+18:45 <@s991533> ShaMoon: no no no
+18:45 <@s991533> git is a version control system
+18:45 < jetfire> is deepin 2014.2
+18:45 < jetfire> out for downloading
+18:45 <@s991533> github is a online platform using git
+18:46 <@s991533> jetfire: not yet, will be released soon
+18:46 < movaie> Deepin2014.2 fashion
+18:46 <@s991533> gtg
+18:46 < deepin_robot> bye (y)
+18:46 <@s991533> bye
+18:46 < deepin_robot> see ya (y)
+18:46 < jetfire> can please someone give me the download link
+18:47 < ShaMoon> Yes. I mean github would be better. Sorry I just used to say git...
+18:47 < jetfire> its okay friend
+18:47 < movaie> download link？
+18:47 < jetfire> we got it what you said
+18:47 < jetfire> yes please
+18:48 < jetfire> for deepin 2014.2
+18:48 < jetfire> testing release
+18:48 < jetfire> or release candidate
+18:48 < Maxximo88> @s991533 Deepin 2014.2 will be released before Christmas?
+18:48 < jetfire> i wish
+18:48 < jetfire> i want to use deepin <3
+18:49 < movaie> I use now, the feeling is very good
+18:49 < jetfire> in better and faster and more efficient way
+18:49 < movaie> 2014.2
+18:49 < jetfire> how
+18:49 < jetfire> ?
+18:49 < Maxximo88> The BETA of Deepin 2014.2 is here but you need to be allowed to download it: http://www.linuxdeepin.com/forum/20/25972
+18:49 < jetfire> thanks
+18:49 < deepin_robot> [ Deepin Forum • 【结束】Deepin 2014.2 内测镜像测试活动&Event of Internally Testing ISO.. ] - www.linuxdeepin.com
+18:50 < movaie> 机器人？
+18:50 < movaie> 会自动冒话？
+18:51 < jetfire> and the password is ?
+18:51 < jetfire> to download
+18:51 < movaie> me hava
+18:51 < Maxximo88> Ask in that topic to became a betatester. ;)
+18:52 < jetfire> here only ?
+18:57 < movaie> i dont english
+19:00 < foob> 唉。。。看了半天天书
+19:06 < ShaMoon> 有没有武汉的小伙伴呢？
+19:08 < movaie> 么哎哟
+19:08 < movaie> 没有啊
+19:09 < ShaMoon> --
+19:09 < foob> 还是看中文好，英文真心不懂
+19:10 < movaie> 哈哈，天书既不时中文也不是英文
+19:10 < foob> 嗯 ，我看到了拼音和英文的结合体，哈哈
+19:10 < movaie> 之前突然想学会英语
+19:10 < movaie> 在哪里？
+19:12 < movaie> oo
+19:17 < foob> 上面
+19:17 < foob> 他们都说英文 ，很郁闷的
+19:22 < Maxximo88> what time is in China?
+19:24 < foob> Maxximo88: 2014/12/11 19：22
+19:24 < Maxximo88> here in Italy 12:23
+19:25 < Maxximo88> maybe in the next hour some other users wiil come to this IRC conversation
+19:25 < wenjie198881> .help
+19:25 < deepin_robot> wenjie198881: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+19:25 < wenjie198881> .help c
+19:25 < deepin_robot> wenjie198881: Evaluate some calculation.
+19:25 < deepin_robot> e.g. .c 5 + 3
+19:26 < wenjie198881> .commands
+19:26 < deepin_robot> wenjie198881: I am sending you a private message of all my commands!
+19:26 < foob> Italy?
+19:34 < ShaMoon> Italy noodles ^^
+19:37 <@s991533> hi
+19:37 < deepin_robot> hi ~~~
+19:37 <@s991533> I'm back
+19:38 < Maxximo88> UHuahauha NOODLES are "Tagliatelle" in italian language
+19:47 < deepin_robot> [planet_ubuntu] Raphaël Hertzog: Freexian’s fourth report about Debian Long Term Support http://raphaelhertzog.com/2014/12/11/freexians-fourth-report-about-debian-long-term-support/ - 2014-12-11 - 11:32:32 AM -
+19:53 < foob> ShaMoon: Lanzhou noodles ^_^
+19:53 < ShaMoon> foob, 呃。。
+19:54 < foob> 我想学点东西 没事了可以有事做
+19:55 < foob> 比如 ，我现在已经在W3C上看完了HTML5/CSS/Javascript，但还是什么都不会的样子了
+19:56 < foob> 我该怎么做？
+19:56 < foob> who can help me ?
+19:57 < ShaMoon> 哈哈。你可以做一个博客试试。
+19:59 < foob> ShaMoon: 一头雾水，怀念当年Dos的单纯
+20:00 < foob> ShaMoon: 你是做什么的？
+20:00 < ShaMoon> foob, 呃，我不知道啥叫Dos.我接触电脑比较晚。
+20:00 < ShaMoon> 我还在上学啦。
+20:01 < foob> ShaMoon: 学习的方向是什么？
+20:01 < ShaMoon> 既然你学了这些，你可以在本地搞个LAMP环境，然后开始编网页啊。
+20:01 < foob> s991533: You study direction is?
+20:02 < ShaMoon> foob, 我也不知道我的学习方向是什么。我对什么都感兴趣，可是什么都不会。
+20:02 < foob> ShaMoon: 有那打算，其实我之前还试着学过Python看完简明教程以后就不知道干嘛了
+20:02 < foob> ShaMoon: 现在的专业呢？
+20:02 < ShaMoon> 通信专业。
+20:04 < foob> ShaMoon: 学生时代最好了
+20:04 < ShaMoon> 学过Python可以做做爬虫，这个比较有意思。
+20:05 < ShaMoon> foob, 你是做什么的呢？
+20:05 < foob> ShaMoon: Nodejs应该 也能做爬虫吧
+20:05 < foob> ShaMoon: 我是农民
+20:06 < ShaMoon> foob, 呃，不知道，我不会。
+20:10 < foob> ShaMoon: 我感觉语言这东西学会两种就够了，多了无用，你觉得呢
+20:10 < huangfz> what?
+20:11 <@s991533> hey guys
+20:11 <@s991533> I study in computer science and engineering
+20:12 < ShaMoon> foob, I have no idea...
+20:12 <@s991533> Start from C++, and use shell-scripts/php/python/node-js
+20:12 < huangfz> how to look up chat record
+20:14 < ShaMoon> Row up the mouse wheel...
+20:14 <@s991533> depends on the client you are using
+20:16 < huangfz> I think only learning computer science is less useful than learning more things and combine they together
+20:16 < foob> s991533: wow, These I will be a very happy...
+20:17 < wenjie198881> foob: 我是做一个个人网页玩，还有个留言板没有发布。URL:http://邱文杰.中国/
+20:17 < deepin_robot> [ 木本水源 ] - xn--7dv95bg37e.xn--fiqs8s
+20:18 < huangfz> the more close to the life,the more easy to success
+20:19 < huangfz> this is what I think
+20:19 < foob> wenjie198881: 谢谢了，有源码看了
+20:19 < foob> ^_^
+20:20 < huangfz> wow
+20:20 < huangfz> I log in your web
+20:22 < huangfz> which language do you use on your web?js or php?
+20:23 < foob> huangfz: it is ASP
+20:24 < huangfz> oh,my phone can't F12
+20:24 <@s991533> ShaMoon: https://github.com/PeterDaveHello
+20:25 < deepin_robot> [ PeterDaveHello (Peter Dave Hello) · GitHub ] - github.com
+20:25 < acgtyrant> 这频道混杂着英文和中文太蛋疼了……
+20:26 < foob> acgtyrant: 其实我根本看不懂英文
+20:27 < huangfz> that's interesting
+20:27 <@s991533> Let's learn and practice English together
+20:27 < huangfz> we can improve our English,don't you think so?
+20:27 < wenjie198881> foob: I studied  computer language ：LOGO in elementary school，QBASIC in junior high，Visual Basic 6.0、Visual FoxPro 6.0、HTML in senior high school ，Only to learn a bit of C language in high school.in university。
+20:28 <@s991533> English is very very important if you are interesting in computer science
+20:28 <@s991533> huangfz: I agree
+20:28 <@s991533> wenjie198881: very cool!
+20:28 < wenjie198881> huangfz: My website is ASP.
+20:28 <@s991533> wenjie198881: don't you use aspx?
+20:29 < wenjie198881> I'm not
+20:29 < foob> wenjie198881: 大神
+20:30 < wenjie198881> never learned aspx
+20:31 < ShaMoon> s991533, Yeah, get it.
+20:31 < huangfz> do you try screenfetch in Deepin?
+20:31 <@s991533> ShaMoon: okay
+20:31 < huangfz> why the screenfetch is ubuntu
+20:34 < wenjie198881> foob: I am not God.Just older。
+20:34 < huangfz> oh,I unzip ubuntu's file
+20:34 < foob> wenjie198881: 我中专学的Qbasic，不过已经忘光
+20:34 < foob> 后来自觉过C，但是Dos下的
+20:35 < foob> 然后到现在基本都是在各种游戏中度过的
+20:35 < wenjie198881> foob: Me too,Almost forgotten。
+20:36 < foob> wenjie198881: 你不能在我面前说老，因为我比你老
+20:36 < foob> wenjie198881: 要不咱们一起学Basic吧，呵呵
+20:36 < foob> 貌似VB都能在Linux下用了
+20:37 < foob> MonoDevelop
+20:37 < wenjie198881> foob: 1988/08/01 my birthday。
+20:37 < foob> wenjie198881: 82
+20:37 < wenjie198881> foob: Big brother
+20:37 < huangfz> 26
+20:38 < huangfz> not to old
+20:38 < ShaMoon> There's a game in Ubuntu software Center named laby. I think it's very interesting.
+20:38 < huangfz> but now I use Deepin
+20:39 < wenjie198881> huangfz: deepin 2014.1
+20:39 < foob> wenjie198881: haha
+20:39 < foob> wenjie198881: 不过我都白活了，一事无成
+20:39 < foob> 就这点爱好还在，只是什么都学不会
+20:39 < wenjie198881> Me too.
+20:40 < ShaMoon> foob, 一直学就行了，相信你会成功的。
+20:40 < huangfz> yep
+20:40 < ShaMoon> 但管努力，莫问前程。
+20:40 < huangfz> but I don't know why the screenfetch is ubuntu
+20:40 < wenjie198881> translate deepin
+20:40 < foob> ShaMoon: 纯业余爱好，我的老本行是电焊，哈哈
+20:40 < wenjie198881> .translate deepin
+20:40 < deepin_robot> wenjie198881: "deepin" (nl to en, translate.google.com)
+20:41 < ShaMoon> 您是不知道山东电焊村全村都移民了吗？电焊是们好手艺啊。
+20:41 < ShaMoon> 哈哈。
+20:41 < huangfz> .translate ..
+20:41 < deepin_robot> huangfz: "..." (ko to en, translate.google.com)
+20:41 < foob> ShaMoon: 哈哈，破坏与创造
+20:42 < wenjie198881> .translate 电焊
+20:42 < deepin_robot> wenjie198881: "Electric welding" (zh-CN to en, translate.google.com)
+20:42 < huangfz> .translate what?
+20:42 < deepin_robot> huangfz: "what?" (en to en, translate.google.com)
+20:42 < wenjie198881> A useful tool .translate
+20:42 < foob> .translate monodevelop
+20:42 < deepin_robot> foob: "monodevelop" (fr to en, translate.google.com)
+20:43 < huangfz> wow
+20:43 < huangfz> how interesting
+20:43 < huangfz> Deepin is 深度
+20:43 < huangfz> a os
+20:43 < wenjie198881> .translate 深度
+20:43 < deepin_robot> wenjie198881: "Depth" (zh-CN to en, translate.google.com)
+20:43 < huangfz> but why you translate it?
+20:44 < wenjie198881> Interesting。
+20:47 < huangfz> byebye
+20:47 < deepin_robot> see you :-D
+20:47 < foob> hi guys
+20:47 < deepin_robot> Hello :D
+20:48 < foob> 换了个客户端
+20:49 < foob> wenjie198881: 你这个页面布局全用的table啊
+20:50 < wenjie198881> I hate the start menu in deepin. The default click location is not good.Effect of I use browser。
+20:51 < wenjie198881> foob: I don't know.I forget it.
+20:52 < foob> wenjie198881: 嗯，用工具做的吧
+20:52 < wenjie198881> dreamware
+20:53 < wenjie198881> Dreamweaver
+20:54 < huangfz> that's a great software
+20:54 < wenjie198881> Agreed.
+20:59 < wenjie198881> .translate erhandsome
+20:59 < deepin_robot> wenjie198881: "erhandsome" (da to en, translate.google.com)
+21:00 < wenjie198881> .translate fengyunlj
+21:00 < deepin_robot> wenjie198881: "fengyunlj" (is to en, translate.google.com)
+21:00 < wenjie198881> .translate arun
+21:00 < deepin_robot> wenjie198881: "arun" (en to en, translate.google.com)
+21:01 < erhandsome> 0.0
+21:01 < huangfz> you are so bored
+21:01 < deepin_robot> Hello (y)
+21:03 < huangfz> =_=。
+21:03 < wenjie198881> ~_~
+21:04 < wenjie198881> Why robot nonresponse？
+21:04 < huangfz> because he is off
+21:05 <@s991533> response for what?
+21:05 < ShaMoon> He need to recharge.
+21:06 < ShaMoon> needs
+21:06 < wenjie198881> 21:04 now,it went to sleep。
+21:06 <@s991533> he doesn't need it
+21:06 < ShaMoon> --!
+21:06 <@s991533> .isup linuxdeepin.com
+21:06 < deepin_robot> http://linuxdeepin.com looks fine to me.
+21:06 <@s991533> .wiki python
+21:06 < deepin_robot> "A python is a constricting snake belonging to the Python (genus), or, more generally, any snake in the family Pythonidae (containing the Python genus)...." - http://en.wikipedia.org/wiki/Python
+21:06 <@s991533> he is still alive
+21:07 < wenjie198881> Returned to life
+21:09 < wenjie198881> .help isup
+21:09 < deepin_robot> wenjie198881: isup.me website status checker
+21:09 < wenjie198881> .help wiki
+21:10 < wenjie198881> .help action
+21:10 < deepin_robot> wenjie198881: Log an action in the meeting loghttps://github.com/embolalia/willie/wiki/Using-the-meetbot-module
+21:10 < deepin_robot> e.g. .action elad will develop a meetbot
+21:11 < wenjie198881> .help addtrace
+21:11 < deepin_robot> wenjie198881: Add a traceback to a GitHub issue.This pulls the traceback from the exceptions log file. To use, put .addtracefollowed by the issue number to add the comment to, then the signature ofthe error (the message shown to the channel when the error occured). Thiscommand will only work for errors from unhandled exceptions.
+21:11 < wenjie198881> .help agreed
+21:11 < deepin_robot> wenjie198881: Log an agreement in the meeting log.https://github.com/embolalia/willie/wiki/Using-the-meetbot-module
+21:11 < deepin_robot> e.g. .agreed Bowties are cool
+21:12 < wenjie198881> .help announce
+21:12 < deepin_robot> wenjie198881: Send an announcement to all channels the bot is in
+21:12 < deepin_robot> e.g. .announce Some important message here
+21:12 < wenjie198881> .help at
+21:12 < deepin_robot> wenjie198881: Gives you a reminder at the given time. Takes hh:mm:ssTimezonemessage. Timezone is any timezone Willie takes elsewhere; the best choicesare those from the tzdb; a list of valid options is available athttp://dft.ba/-tz . The seconds and timezone are optional.
+21:12 < deepin_robot> e.g. .at 13:47 Do your homework!
+21:13 < brainy> Hi all :D
+21:13 < deepin_robot> hey ~~~
+21:14 < wenjie198881> Hello.
+21:14 < deepin_robot> yo ?
+21:14 < wenjie198881> .help ban
+21:14 < deepin_robot> wenjie198881: This give admins the ability to ban a user.The bot must be a Channel Operator for this command to work.
+21:15 < wenjie198881> .help blocks
+21:15 < deepin_robot> wenjie198881: Manage Willie's blocking features.https://github.com/embolalia/willie/wiki/Making-Willie-ignore-people
+21:15 < wenjie198881> .help btc
+21:15 < deepin_robot> wenjie198881:
+21:15 < deepin_robot> e.g. .btc 20 EUR
+21:16 < brainy> foob, Ni Hao xD
+21:16 < wenjie198881> .help c
+21:16 < deepin_robot> wenjie198881: Evaluate some calculation.
+21:16 < deepin_robot> e.g. .c 5 + 3
+21:16 < wenjie198881> .c 5 + 3
+21:16 < deepin_robot> wenjie198881: 8
+21:17 < wenjie198881> .help chairs
+21:17 < deepin_robot> wenjie198881: Set the meeting chairs.https://github.com/embolalia/willie/wiki/Using-the-meetbot-module
+21:17 < deepin_robot> e.g. .chairs Tyrope Jason elad
+21:18 < wenjie198881> .help channeltz
+21:18 < deepin_robot> wenjie198881: Set the preferred time zone for the channel.
+21:18 < deepin_robot> e.g. .chantz America/New_York
+21:18 < wenjie198881> .help choose
+21:18 < deepin_robot> wenjie198881: .choice option1|option2|option3 - Makes a difficult choice easy.
+21:19 < wenjie198881> .help comment
+21:19 < deepin_robot> wenjie198881: Log a comment, to be shown with other comments when a chair uses .comments.Intended to allow commentary from those outside the primary group of peoplein the meeting.Used in private message only, as `.comment <#channel> <comment to add>`https://github.com/embolalia/willie/wiki/Using-the-meetbot-module
+21:19 < wenjie198881> .help console
+21:19 < deepin_robot> wenjie198881: Starts an interactive IPython console
+21:20 < wenjie198881> .help countdown
+21:20 < deepin_robot> wenjie198881: .countdown <year> <month> <day> - displays a countdown to a given date.
+21:20 < brainy> wenjie198881, you can also send this command to the robot by private message :D
+21:20 < foob> brainy: Ni hao
+21:20 < wenjie198881> Thanks.
+21:20 < wenjie198881> I do it.
+21:21 < brainy> Ok xD
+21:22 < huangfz> .c 1*1
+21:22 < deepin_robot> huangfz: 1
+21:23 < huangfz> haha
+21:23 < deepin_robot> haha
+21:23 < huangfz> you are smart
+21:23 < deepin_robot> Hello :P
+21:23 < brainy> xD
+21:23 < deepin_robot> haha
+21:24 < huangfz> are you robot?
+21:24 < huangfz> really?
+21:25 < brainy> Crazy robot xD
+21:26 < arun_> any windows user here?
+21:26 < brainy> I think s991533 is using.
+21:27 <@s991533> yes
+21:28 < huangfz> I use windows do sth.
+21:28 < huangfz> for example,QQ
+21:28 < wenjie198881> Me too.
+21:29 < wenjie198881> Me too.Wangwang
+21:29 < wenjie198881> 12/12 taobao
+21:29 < foob> I use Windows to play the game.
+21:29 < huangfz> lol?
+21:29 < foob> LOL
+21:30 < deepin_robot> rofl
+21:30 < wenjie198881> ROFL abbr.[网络俚语]rolling/roll on the floor laughing （笑得满地打滚，我哈哈大笑，太可笑了等意思），此俚语常见于美国和加拿大青少年之间。
+21:32 < huangfz> you are really funning
+21:32 < deepin_robot> Welcome , How do you do?
+21:32 < brainy> haha
+21:32 < deepin_robot> XDDDD
+21:33 < wenjie198881> And you ?
+21:33 < huangfz> I want to pee because of scary
+21:33 < huangfz> means 吓尿了 in Chinese
+21:35 < brainy> :D
+21:35 < wenjie198881> 233
+21:36 < brainy> Have you seen "spider dog" on Youtube? It's really scary haha
+21:36 < deepin_robot> XDDDD
+21:36 < huangfz> we don't have Youtube
+21:36 < brainy> Ok
+21:37 < huangfz> because we are Chinese
+21:37 < brainy> Hmmm..
+21:38 < huangfz> hey,anybody can teach you how to over the wall
+21:39 < wenjie198881> The Great Firewall of China
+21:39 < fengyunljp> 我觉得这就是一群中国人飚英语的地方。。。
+21:39 < foob> fengyunljp: 呵呵，人家练习英文呢
+21:40 < huangfz> 不是人家，是大家
+21:40 < huangfz> 少了一
+21:41 < wenjie198881> fengyunljp: 联系英语，想哪天去考公共英语呢。至少能多拿个证，和外国人做生意啥的。
+21:41 < wenjie198881> fengyunljp: 练习
+21:41 < foob> huangfz: 不能包括我啊，我发的英文全是百度的，我一句看不懂的
+21:42 < huangfz> No problem
+21:42 <@s991533> haha
+21:42 < wenjie198881> foob: Really？
+21:42 < deepin_robot> haha
+21:43 < foob> wenjie198881: yes
+21:43 < huangfz> never too old to learn
+21:43 < fengyunljp> foob:进来半天全洋文，仔细看看昵称又好像没有洋人。。。
+21:43 < foob> fengyunljp: 我也是第一次进来 以为来错地方了呢
+21:43 < huangfz> brainy is German
+21:43 < brainy_> Yes
+21:44 < huangfz> this is a chat software?
+21:45 < huangfz> is this ...
+21:45 < brainy_> Yes, x-chat :D
+21:45 < foob> 我看东西了
+21:45 < fengyunljp> brainy_:can you know what we chat in chinese?
+21:45 < brainy_> Why are there 2 brainy? haha
+21:45 < brainy_> fengyunljp, No I don't understand Chinese. But you can chat in Chinese, for me it's no problem :D
+21:46 < huangfz> do this software log in windows?
+21:46 < brainy> I think yes
+21:46 < brainy> You can look at settings, huangfz
+21:46 < deepin_robot> hey (Y)
+21:48 < huangfz> but it says "OS:linux 3.13.0-32-genertic"
+21:49 < brainy> Then you are using Linux :D
+21:49 < brainy> I thought you have Windows.
+21:50 < huangfz> I'm using Linux
+21:51 < brainy> Nice
+21:51 < huangfz> Because I think Linux can work as well as windows
+21:51 < brainy> Yes but some programs are difficult on Linux
+21:51 < huangfz> and Linux is faster than windows
+21:51 < brainy> For example Games :-(
+21:52 < huangfz> this problem is easy to solve
+21:52 < huangfz> I don't play games
+21:52 < fengyunljp> linux can't run qq well...
+21:52 < brainy> haha
+21:52 < deepin_robot> XD
+21:53 < huangfz> web qq
+21:53 < fengyunljp> terrible
+21:53 < brainy> I saw QQ in Deepin Software Center.
+21:53 < brainy> Does it work?
+21:53 < huangfz> wine qq
+21:53 < huangfz> I don't have tried
+21:54 < foob> huangfz: haha
+21:54 < fengyunljp> no linux can run qq smoothly
+21:54 < brainy> Nice fengyunljp
+21:54 < huangfz> it's easy to breakdown
+21:55 < brainy> qq is like Skype?
+21:55 < huangfz> I think 90% on earth don't know Linux
+21:55 < brainy> haha maybe
+21:55 < deepin_robot> XD
+21:55 < huangfz> it's a chat software
+21:56 < brainy> ok
+21:56 < huangfz> most Chinese get used to log QQ
+21:57 < huangfz> if they find a computer which can't run QQ,they will be crazy
+21:57 < fengyunljp> because we have no other chat software
+21:57 < Maxximo88> hi guys, I'm max.
+21:57 < Maxximo88> from italy
+21:58 < deepin_robot> Hello (Y)
+21:58 < huangfz> hi
+21:58 < huangfz> cool
+21:58 < deepin_robot> yo :P
+21:58 < foob> In Chinese 90% use QQ
+21:58 < brainy> foob, wow
+21:59 < brainy> Hey Maxximo88
+21:59 < foob> brainy: May be even more
+21:59 < Maxximo88> In Italy and Europe most users use: Skype, Google Hangout, Whatsapp, Telegram, Viber.
+21:59 < huangfz> I think there must be much sunshine and beauty in Italy
+22:00 < brainy> I use Pidgin haha
+22:00 < huangfz> oh,I know whatsapp
+22:00 < Maxximo88> huangfz I live in Milan, north Italy. Yes, it is a beautiful place, in my University I met lot of chinese students (awesome).
+22:01 < huangfz> that's too far for me
+22:01 < Maxximo88> Erasmus program allow you to come in Italy
+22:02 < Maxximo88> learn Italian and became an international student
+22:02 < Maxximo88> see my university_ http://mibe.unipv.it/
+22:02 < deepin_robot> [ Università di Pavia - Faculty of Economics ] - mibe.unipv.it
+22:03 < huangfz> but I want to go to Finland
+22:03 < foob> Who is playing LOL?
+22:03 < huangfz> just a dream
+22:04 < huangfz> my roommates
+22:04 < fengyunljp> i am writing my homework...
+22:04 < huangfz> hightree work
+22:04 < deepin_robot> Hi !
+22:05 < huangfz> I'm not saying hi to you
+22:05 < brainy> foob, can you play LOL on Linux?
+22:05 < brainy> foob, Or only Windows?
+22:05 < foob> brainy: only Windows
+22:05 < brainy> foob, ok..
+22:06 < huangfz> Tencent abandon Linux
+22:06 < foob> brainy: dota2 and HoN support Linux
+22:06 < Maxximo88> use Wine to play windows software on linux, no problem there..
+22:07 < huangfz> what HoN?
+22:07 < foob> huangfz: yes
+22:07 < huangfz> I only know WoW
+22:07 < fengyunljp> maxximo88:include game?
+22:07 < brainy> foob, good!
+22:07 < foob> brainy: :)
+22:08 < foob> 百度还是有用的，汗个
+22:08 < foob> huangfz: HoN 国服名叫超神英雄
+22:08 < huangfz> oh
+22:08 < Maxximo88> yes
+22:09 < foob> huangfz: Tencent agent.
+22:09 < foob> :(
+22:09 < brainy> :-(
+22:10 < huangfz> =_=
+22:11 < foob> brainy: Only China agent not provide an Linux Client.
+22:12 < foob> brainy: You can play American
+22:12 < huangfz> they think Linux is minority
+22:12 < huangfz> they only see money
+22:13 < fengyunljp> 我第一眼看上去：你可以玩美国人
+22:13 < huangfz> so they don't give people Linux Client
+22:14 < foob> fengyunljp: 晕了，少打了个单词
+22:14 < huangfz> you should say American server
+22:14 < deepin_robot> Hello ~~~
+22:16 < foob> HoN native support for Linux.
+22:18 < brainy> foob, oh okay :-(
+22:19 < foob> huangfz: WoW Level 100.....
+22:19 < huangfz> I know
+22:19 < brainy> I play only "Battlefield 1942"
+22:19 < brainy> This game is from 2002 haha
+22:19 < brainy> But it works on Linux
+22:20 < huangfz> oh,that's a interesting game
+22:20 < brainy> yes :D
+22:20 < huangfz> I liked it when I was a kid
+22:20 < brainy> :-D
+22:21 < brainy> Sorry now I must go, see you all :-D
+22:21 < foob> brainy: I play FPS games dizzines
+22:21 < huangfz> bye
+22:21 < deepin_robot> see ya (wave)
+22:21 < brainy> foob, nice haha
+22:22 < huangfz> I must do my homework
+22:22 < huangfz> bye
+22:22 < deepin_robot> Good bye (wave)
+22:22 < wenjie198881_> .quit
+22:24 < wenjie198881_> Bye,I will going to taobao 12.12.
+22:24 < foob> I go to see the beautiful pictures....
+22:27 < foob> fengyunljp: article是什么意思啊
+22:40 < acgtyrant> foob, 文章
+22:40 < foob> acgtyrant: 谢谢
+22:49 < foob> .bye
+22:49 < foob> .quit
+22:49 < Maxximo88> all leaving?
+22:50 < deepin_robot> Hello :D
+22:52 <@s991533> Maxximo88: hi
+22:53 < Maxximo88> hi @s991533
+22:53 < deepin_robot> hello  :)
+22:53 < Maxximo88> stop talking Deepin_Robot!!!!
+22:53 < Maxximo88> hahaha
+22:54 < deepin_robot> haha
+23:02 <@s991533> Maxximo88: how do you do?
+23:03 <@s991533> bot is cool, haha
+23:27 < deepin_robot> [deepin_facebook] Do you like Deepin? Let&#039;s vote Deepin as the Best Linux Distro Releases of 2014! http://www.facebook.com/deepinlinux/posts/967985619881516 - 2014-12-11 - 03:23:15 PM -
+23:48 <@s991533> deepin_robot: great!
+23:54 < huangfz> =_=
+23:55 < huangfz> a-'A':a-'a'
+23:55 < huangfz> what does it mean?
+23:56 < huangfz> C
+23:59 <@s991533> I think you just give a incomplete sentence
