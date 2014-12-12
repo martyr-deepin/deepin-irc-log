@@ -1,0 +1,199 @@
+00:17 < huangfz> I'm coming back
+00:17 < huangfz> what does it mean
+00:26 <@s991533> .tell huangfz I think you just give a incomplete sentence
+00:26 < deepin_robot> s991533: I'll pass that on when huangfz is around.
+00:32 < brainy> hi s9
+00:32 < brainy> hi s991533
+00:32 < deepin_robot> hello , How do you do?
+00:32 < deepin_robot> hello :P
+01:35 < brainy> hi arthur____
+01:35 < deepin_robot> Welcome  :)
+01:35 < arthur____> ^^
+01:45 < brainy> arthur____, where are you from?
+02:20 < arthur____> home
+02:21 < brainy> me too
+03:17 < deepin_robot> [ubuntu_fridge] Welcome new and returning members of the Ubuntu	LoCo Council! http://fridge.ubuntu.com/2014/12/11/welcome-new-and-returning-members-of-the-ubuntuloco-council/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-new-and-returning-members-of-the-ubuntuloco-council - 2014-12-11 - 07:12:39 PM -
+03:27 < deepin_robot> [ubuntu_fridge] Welcome new and returning members of the Ubuntu	LoCo Council! http://fridge.ubuntu.com/2014/12/11/welcome-new-and-returning-members-of-the-ubuntuloco-council/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-new-and-returning-members-of-the-ubuntuloco-council - 2014-12-11 - 07:12:39 PM -
+03:28 < brainy> Thanks deepin_robot
+03:28 < deepin_robot> brainy: You're welcome.
+03:29 < brainy> lol
+03:29 < deepin_robot> lol
+03:32 < deepin_robot> [planet_ubuntu] Scott Moser: Snappy Ubuntu Core and cloud-init http://ubuntu-smoser.blogspot.com/2014/12/snappy-ubuntu-core-and-cloud-init.html - 2014-12-11 - 07:14:00 PM -
+12:17 < deepin_robot> [planet_ubuntu] Serge Hallyn: Where does lxd fit in http://s3hh.wordpress.com/2014/12/12/where-does-lxd-fit-in/ - 2014-12-12 - 03:56:37 AM -
+13:05 <@s991533> hi huangfz
+13:05 < deepin_robot> Hello ~
+13:05 < huangfz> hello
+13:05 < deepin_robot> huangfz: 2014-12-11 - 16:26:46 <s991533> tell huangfz I think you just give a incomplete sentence
+13:05 < deepin_robot> Hi xD
+13:09 < huangfz> the electricity is stop
+13:09 < huangfz> =_=。
+13:11 <@s991533> oops
+13:11 <@s991533> so sad
+13:16 < huangfz> my computer will die in 11 mins
+17:22 < deepin_robot> [planet_debian] Joey Hess: a brainfuck monad http://joeyh.name/blog/entry/a_brainfuck_monad/ - 2014-12-12 - 05:02:52 AM -
+17:42 < huangfz> hey,guys
+17:42 < deepin_robot> [planet_debian] EvolvisForge blog: Tip of the day: don’t use –purge when cross-grading http://evolvisforge.blog.tarent.de/archives/122 - 2014-12-12 - 09:04:27 AM -
+17:44 < huangfz> 0.c: In function ‘main’:
+17:44 < huangfz> 0.c:8:2: warning: ‘gets’ is deprecated (declared at /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+17:44 < huangfz>   gets(e);
+17:44 < huangfz>   ^
+17:44 < huangfz> 0.c:(.text+0x34): 警告： the `gets' function is dangerous and should not be used.
+17:44 < huangfz> how to solve this problem?
+17:57 < yani> hi
+17:57 < deepin_robot> Hello :-D
+17:59 < huangfz> 0.c: In function ‘main’:
+17:59 < huangfz> 0.c:8:2: warning: ‘gets’ is deprecated (declared at /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+17:59 < huangfz>   gets(e);
+17:59 < huangfz>   ^
+17:59 < huangfz> 0.c:(.text+0x34): 警告： the `gets' function is dangerous and should not be used.
+17:59 < huangfz> how to solve this problem
+18:17 < deepin_robot> [planet_ubuntu] Michael Hall: Big improvements come from small changes http://mhall119.com/2014/12/big-improvements-come-from-small-changes/ - 2014-12-12 - 10:00:18 AM -
+18:32 < deepin_robot> [planet_ubuntu] Ubuntu Podcast from the UK LoCo: S07E37 – The One on the Last Night http://podcast.ubuntu-uk.org/2014/12/12/s07e37-the-one-on-the-last-night/ - 2014-12-12 - 10:00:26 AM -
+18:37 < brainy> hi huangfz
+18:37 < deepin_robot> hey :-D
+18:49 < huangfz> hi
+18:49 < deepin_robot> Hello xD
+18:50 < huangfz> can you solve my problem?
+18:50 < huangfz> 0.c: In function ‘main’:
+18:50 < huangfz> 0.c:8:2: warning: ‘gets’ is deprecated (declared at /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+18:50 < huangfz>   gets(e);
+18:50 < huangfz>   ^
+18:50 < huangfz> 0.c:(.text+0x34): 警告： the `gets' function is dangerous and should not be used.
+18:50 < huangfz> I don't know why
+18:51 < huangfz> ..
+18:53 < huangfz> when I run program the computer prompt "bus error"
+19:04 < Huangfz_0> hi
+19:04 < deepin_robot> Welcome ~~~
+19:04 < Huangfz_0> wow
+19:04 < Huangfz_0> I logo on iphone
+19:04 < huangfz> and computer
+19:07 < brainy> lol
+19:08 < huangfz> cool
+19:17 < deepin_robot> [planet_debian] Daniel Leidert: Issues with Server4You vServer running Debian Stable (Wheezy) http://www.wgdd.de/2014/12/issues-with-server4you-vserver-running.html - 2014-12-12 - 10:51:44 AM -
+21:15 < brainy> hi
+21:15 < deepin_robot> hey ;)
+21:23 < brainy> hi fengyunljp
+21:23 < deepin_robot> yo (y)
+21:24 < fengyunljp> brainy:hi
+21:51 < foob> Hi all
+21:51 < deepin_robot> Hello ;)
+21:51 < brainy> hi foob :D
+21:51 < deepin_robot> yo ;)
+21:52 < foob> brainy: hi brainy.
+21:56 < foob> fengyunljp: 可以用摄像头录像的那个软件叫什么来着
+21:58 < fengyunljp> foob:我用的多的软件还是录制桌面。。。
+22:02 < foob> fengyunljp: 我百度下吧，忘了叫什么了
+22:05 < foob> brainy: At works?
+22:06 < brainy> foob, no, at home :-D
+22:06 < brainy> foob, I love Linux Deepin! :-D
+22:07 < foob> brainy: :)
+22:09 < fengyunljp> if deepin can run lol,i'll delete windows right now
+22:09 < foob> brainy: it is a beauty.
+22:10 < foob> fengyunljp: You are server name?
+22:10 < foob> fengyunljp: 那个区的，什么段位？
+22:11 < brainy> fengyunljp, Your deepin doesn't work? :-(
+22:13 < fengyunljp> foob:随便玩玩，不出丑了
+22:14 < fengyunljp> brainy:no,but the game can only play on windowa
+22:14 < brainy> fengyunljp, Oh :-(
+22:15 < fengyunljp> brainy:to be honest i havn't install deepin...but i install it in the past
+22:15 < foob> fengyunljp: 我网通区的你网通的话，可以开黑玩
+22:15 < brainy> ok fengyunljp
+22:15 < foob> fengyunljp: 三个区，四个白银号~_~
+22:16 < fengyunljp> foob:我巨神的号,我再练两年再开黑出丑吧
+22:16 < fengyunljp> foob:因为是学生，时间不多
+22:16 < foob> fengyunljp: 过度谦虚=骄傲，我承认自己是坑，巨坑，哈哈
+22:17 < foob> fengyunljp: 巨神貌似是电信
+22:17 < fengyunljp> foob.对的，电七
+22:17 < fengyunljp> foob,有的时候虐铂金，有的时候巨坑
+22:18 < foob> fengyunljp: 这游戏看队友，除非自己是神，要不都看队友。队友太坑 若风也没办法
+22:19 < foob> 黄金三以上的就得小心了，其实都一样
+22:19 < foob> 其它的都差不多
+22:19 < fengyunljp> foob,你在哪个区，有些网通区我也有号
+22:19 < foob> 青铜的也有神级表现
+22:19 < foob> 网一，网四，网六
+22:19 < foob> 其它都小号
+22:20 < fengyunljp> 我s3就基本没打排位，定级上来打了5局都有人掉线，就搁置了半年没玩大号
+22:21 < fengyunljp> foob,你也是windows和deepin双系统么
+22:25 < foob> fengyunljp: 是的，不过我现在用的笔记本，玩不了LOL
+22:25 < foob> fengyunljp: 我打完定级就玩匹配了
+22:25 < foob> 我很少打排位
+22:25 < fengyunljp> foob,总感觉双系统有强迫症，相同功能的软件安装两遍
+22:26 < fengyunljp> 我也是，基本匹配
+22:27 < foob> 匹配就可以了
+22:28 < foob> brainy: What games do you play?
+22:29 < fengyunljp> League of Legends
+22:29 < fengyunljp> League of Legends=lol
+22:30 < fengyunljp> 我只在恕瑞玛有号，哎
+22:30 < foob> fengyunljp: 那区我小号
+22:30 < foob> 不知道有10级没？
+22:30 < fengyunljp> 我也是小号
+22:30 < fengyunljp> 不到20级
+22:31 < foob> 我已经很久没玩了，年纪有点大了，反应什么的不行了
+22:31 < fengyunljp> brainy:we play League of Legends,which is called lol in china
+22:32 < brainy> Yes I heard of that game.
+22:32 < fengyunljp> foob,看状态了
+22:32 < brainy> foob, I play "Battlefield 1942"
+22:32 < brainy> foob, It's a game about Second World War
+22:32 < fengyunljp> brainy:lol is the most popular games in china .most of the youth play it
+22:32 < deepin_robot> [planet_ubuntu] Kubuntu: Calligra 2.8.7 is Out http://www.kubuntu.org/news/calligra-287-out - 2014-12-12 - 02:02:52 PM -
+22:33 < brainy> fengyunljp, Can it play on Linux ??
+22:33 < fengyunljp> brainy:battlefield can't play online
+22:33 < fengyunljp> no
+22:33 < brainy> Oh :-((
+22:34 < fengyunljp> so i have to install windows and deepin
+22:34 < brainy> Yes I understand.
+22:34 < brainy> I have Windows 7 and Deepin
+22:35 < fengyunljp> me too brainy
+22:35 < brainy> :-D
+22:37 < brainy> fengyunljp, Do you have a laptop or a Desktop PC?
+22:38 < fengyunljp> brainy:no ...i'am just a student
+22:38 < brainy> ok fengyunljp
+22:40 < fengyunljp> brainy: does your country have many people use linux?
+22:42 < brainy> fengyunljp, hmmm I think most people use Windows.
+22:42 < brainy> fengyunljp, I think many people know about Linux but they prefer Windows for playing games etc.
+22:43 < brainy> fengyunljp, But for server, Linux is very popular.
+22:43 < fengyunljp> few people know linux around
+22:43 < foob> I am a farmer
+22:44 < foob> fengyunljp: 我估计我要在这长期待下去的话，将来也能来两句English。：-）
+22:45 < brainy> foob, Nice :-D
+22:45 < foob> 明天往手机上装个背单词的软件 :-D
+22:46 < liteIRC_> oh,bad network
+22:47 < brainy> hi liteIRC_
+22:47 < deepin_robot> hey xD
+22:47 < deepin_robot> [planet_ubuntu] Ali Jawad: What a great meeting for Kibo Team http://amjjawad.net/what-a-great-meeting-for-kibo-team/ - 2014-12-12 - 02:30:07 PM -
+22:48 < foob> I found IRC is very dangerous, to see IP
+22:49 < brainy> foob, hmmm...
+22:49 < fengyunljp> foob,nobody will attack you haha
+22:49 < brainy> :-D
+22:49 < foob> I will not...~_~
+22:52 < brainy> foob, I cannot see your IP :-D
+22:52 < deepin_robot> [planet_debian] Jingjie Jiang: Week1 http://sophiejjj.wordpress.com/2014/12/12/week1/ - 2014-12-12 - 02:37:57 PM -
+22:53 < brainy> Welcome back fengyunljp haha
+22:55 < fengyunljp> you know what means haha?
+22:55 < deepin_robot> Hello ?
+22:55 < fengyunljp> wow
+22:55 < brainy> haha = lol ?
+22:55 < deepin_robot> xDDDDD
+22:56 < fengyunljp> yes
+22:56 < brainy> :-D
+22:56 < fengyunljp> brainy:but in chinese lol isn't happy
+22:56 < fengyunljp> it's only a game...
+22:56 < brainy> fengyunljp, why ??
+22:56 < brainy> fengyunljp, haha Okay
+22:57 < fengyunljp> i donlt know
+22:58 < foob> brainy: I applied for the invisibility cloak
+22:59 < fengyunljp> .translate invisibility
+22:59 < deepin_robot> fengyunljp: "invisibility" (en to en, translate.google.com)
+22:59 < brainy> foob, hmm sorry, I don't understand. :-(
+23:00 < foob> brainy: The function of IRC
+23:01 < brainy> foob, Oh, Now I understand! Good :-D
+23:01 < foob> brainy: It can help you to hide IP.
+23:01 < brainy> Yes.
+23:01 < fengyunljp> foob:what's that
+23:02 < fengyunljp> foob:how touse
+23:02 < fengyunljp> foob:it's seems good
+23:03 < foob> fengyunljp: 以前在别的房间让人帮我申请的
+23:03 < foob> fengyunljp: 具体怎么做我也不清楚
+23:04 < fengyunljp> 好吧，我百度
+23:07 < brainy> Bye-bye all
+23:47 < deepin_robot> [planet_ubuntu] Daniel Holbach: Summarising the last CC meeting https://daniel.holba.ch/blog/2014/12/summarising-the-last-cc-meeting/ - 2014-12-12 - 03:20:32 PM -
