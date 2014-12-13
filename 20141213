@@ -1,0 +1,42 @@
+00:17 < deepin_robot> [planet_ubuntu] Costales: Cambia el naranja de las carpetas en Ubuntu ¡Juega con los colores! http://thinkonbytes.blogspot.com/2014/12/cambiar-color-naranja-carpetas-ubuntu.html - 2014-12-12 - 04:07:53 PM -
+00:32 < deepin_robot> [planet_ubuntu] Costales: Cambia el naranja de las carpetas en Ubuntu ¡Juega con los colores! http://thinkonbytes.blogspot.com/2014/12/cambiar-color-naranja-carpetas-ubuntu.html - 2014-12-12 - 04:22:21 PM -
+01:29 < fengyunljp> .help
+01:29 < deepin_robot> fengyunljp: Say .help <command> (for example .help c) to get help for a command, or .commands for a list of commands.
+01:34 < fengyunljp> .help c
+01:34 < deepin_robot> fengyunljp: Evaluate some calculation.
+01:34 < deepin_robot> e.g. .c 5 + 3
+01:35 < fengyunljp> .help commands
+01:35 < deepin_robot> fengyunljp: Return a list of bot's commands
+01:35 < fengyunljp>  Return a list of bot's commands
+01:35 < fengyunljp> .commands
+01:35 < deepin_robot> fengyunljp: I am sending you a private message of all my commands!
+01:50 < fengyunljp> .version
+01:50 < deepin_robot> fengyunljp: Willie v. 4.4.1-git at unknown commit.
+02:42 < deepin_robot> [planet_debian] Gregor Herrmann: GDAC 2014/12 http://info.comodo.priv.at/blog/gdac_2014_12.html - 2014-12-12 - 06:12:12 PM -
+04:22 <@s991533> hi~
+04:22 < deepin_robot> hey ;)
+05:32 < deepin_robot> [planet_ubuntu] Robert Ancell: Tips for contributing code to open source projects http://bobthegnome.blogspot.com/2014/12/tips-for-contributing-code-to-open.html - 2014-12-12 - 09:13:47 PM -
+07:12 < deepin_robot> [planet_debian] Daniel Kahn Gillmor: a10n for l10n http://debian-administration.org/users/dkg/weblog/111 - 2014-12-12 - 11:00:00 PM -
+08:27 < deepin_robot> [planet_debian] Thorsten Glaser: WTF is Jessie; PA4 paper size https://www.mirbsd.org/permalinks/wlog-10-tg_e20141212-tg.htm#e20141212-tg_wlog-10-tg - 2014-12-12 - 11:56:00 PM -
+09:37 < arun_> any developer
+16:42 < deepin_robot> [planet_debian] Keith Packard: present-compositor http://keithp.com/blogs/present-compositor/ - 2014-12-13 - 08:28:06 AM -
+17:56 < ding> hello
+17:56 < deepin_robot> Welcome (y)
+17:56 < ding> new user,first use Deepin
+17:56 < ding> very slow
+17:57 < ding> 擦……卡的受不了了
+17:57 < ding> Bug 能在这反馈不
+17:57 < ding> 没人了，我先去吃饭，亲人们慢慢玩。
+17:57 < ding> 主要问题 ，卡
+17:58 < ding> 我是狠狠心，格掉WIN7装的
+17:58 < ding> 物理机，ACER 4741G的笔记本
+17:59 < ding> CHROME 大概开8个网页左右开始卡，10个卡的半天没动静。真心支持deepin 啊，官人看下我是不是哪个地方没弄好
+18:00 < ding> 屏幕 亮度老是自动变，有时候太亮，有时候太暗。有时候变黄。
+18:01 < ding> 如果用Fn快捷键调整亮度，声音,等，系统卡的半天还没反应过来。可能你按完快捷键十几秒了，才出现对应的动作
+18:03 < ding> 另外，软件商店也有小问题。主要表现为 更新不稳定。我刚装上系统的时候2014.1 ，想升级系统，点系统更新死活没反应，等了半天也没见自动推送更新
+18:05 < ding> 重启了几次后，弹出了系统推送更新。管理员可以尝试在软件商店搜索 启动盘。有两个软件，点下载，却只出来一个下载项
+18:05 < ding> 就是下载多个软件，有时候不能全显示在下载列表，最后还是命令 搞定下载
+18:06 < ding> 而且下载很不稳定，网络很好，有时候下载列表就是不走流量
+21:27 < foob> Hello all
+21:27 < deepin_robot> Welcome (Y)
+21:41 < fengyunljp> 看上来没几个人
