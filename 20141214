@@ -1,0 +1,101 @@
+00:27 < deepin_robot> [planet_debian] Holger Levsen: having fun cardboard-crack.com.gif http://layer-acht.org/thinking/blog/having_fun_cardboard-crack.com.gif - 2014-12-13 - 04:11:02 PM -
+00:30 < jetfire> hey guys
+00:30 < jetfire> hello
+00:30 < deepin_robot> yo !
+00:31 < jetfire> how can i be a part of testing iso team
+00:31 < jetfire> so that even i can have a pre look at deepin 2014.2
+00:56 < jetfire>     
+02:14 < cypress> ?
+02:47 < deepin_robot> [planet_ubuntu] Lubuntu Blog: Happy Christmas http://lubuntublog.blogspot.com/2014/12/happy-christmas.html - 2014-12-13 - 06:28:30 PM -
+03:19 < brainy> hi arun_
+03:20 < deepin_robot> Hi ;)
+03:29 < arun_> hi brainy how are u ?
+03:29 < deepin_robot> hi ?
+03:30 < brainy> thanks good arun_ and you?
+03:32 < gnorf> Hello! :D
+03:32 < deepin_robot> Hello :D
+03:32 < gnorf> Hello mr deepin_robot how are you today?
+03:32 < deepin_robot> Welcome !
+03:33 < gnorf> deepin_robot, How much are 1+1?
+03:34 < gnorf> Thanks you deepin_robot
+03:34 < deepin_robot> gnorf: You're welcome.
+03:34 < deepin_robot> gnorf: You're welcome.
+03:34 < gnorf> What are you up to?
+03:34 < brainy> hi gnorf
+03:34 < deepin_robot> hi :-D
+03:35 < gnorf> Hi brainy
+03:35 < deepin_robot> Hello ~
+03:35 < gnorf> I really love deepin xD
+03:35 < brainy> me too!
+03:35 < gnorf> The design!
+03:35 < gnorf> Amazing
+03:36 < brainy> its a very good distro
+03:36 < gnorf> Too bad the nvidia drivers does'nt work
+03:38 < brainy> hmmm for me it works.....
+03:38 < brainy> do you have a laptop with optimus technology?
+03:39 < brainy> For me it didn't work at first but then I installed bumblebee, and now it's working, gnorf
+03:42 < gnorf> No
+03:42 < gnorf> I have a nvidia 580 gtx
+03:42 < gnorf> and not a laptop
+03:43 < brainy> gnorf, And the drivers are not installed by Deepin or what's the problem?
+03:43 < gnorf> No, they are not?
+03:43 < brainy> Hmmmmmmm
+03:43 < gnorf> When i installed the 343 drivers it did'n boot
+03:43 < gnorf> didn't
+03:43 < gnorf> Did not*
+03:44 < brainy> Did you try a manual install from the Nvidia website?
+03:44 < gnorf> No, i did not
+03:44 < brainy> Ok
+03:44 < gnorf> I have tried to do that in debian but i could not get it to work
+03:45 < brainy> Hmmm..
+03:45 < gnorf> Im a bit of a noob
+03:46 < brainy> I'm not an expert either...
+03:46 < brainy> Are you using Deepin 2014.1 ?
+03:46 < gnorf> Yes
+03:46 < gnorf> I will reinstall deepin
+03:46 < gnorf> And update it
+03:46 < gnorf> and go here
+03:47 < gnorf> and if you still are here we can try to get the nvidia drivers to work xD
+03:47 < deepin_robot> [planet_ubuntu] Ian Weisser: Say, what are you doing this afternoon? http://cheesehead-techblog.blogspot.com/2014/12/say-what-are-you-doing-this-afternoon.html - 2014-12-13 - 07:28:27 PM -
+03:48 < brainy> Ok gnorf
+04:02 < arun_> any deepin developer around?
+05:57 < deepin_robot> [planet_debian] Gregor Herrmann: GDAC 2014/13 http://info.comodo.priv.at/blog/gdac_2014_13.html - 2014-12-13 - 08:48:35 PM -
+06:32 < deepin_robot> [planet_ubuntu] Matt Bruzek: Software Engineering checklist http://bruzer.net/2014/12/13/software-engineering-checklist/ - 2014-12-13 - 10:19:50 PM -
+07:12 < odae> hello
+07:12 < deepin_robot> Welcome ~
+08:02 < deepin_robot> [planet_ubuntu] Lubuntu Blog: Happy Christmas http://lubuntublog.blogspot.com/2014/12/happy-christmas.html - 2014-12-13 - 11:51:37 PM -
+09:42 < deepin_robot> [planet_debian] Dirk Eddelbuettel: rfoaas 0.0.4.20141212 http://dirk.eddelbuettel.com/blog/2014/12/13#rfoaas_0.0.4.20141212 - 2014-12-14 - 12:20:00 AM -
+12:02 < deepin_robot> [planet_ubuntu] Ali Jawad: My Ultimate Goal http://amjjawad.net/my-ultimate-goal/ - 2014-12-14 - 03:50:40 AM -
+14:41 < wenjie198881> Hello everyone,I'm back.The meet has stareted?
+14:41 < deepin_robot> Hello :D
+19:07 < Huangfz> hi
+19:07 < deepin_robot> hello :-D
+20:21 < brainy> hi foob :D
+20:21 < deepin_robot> hello xD
+20:21 < foob> hi brainy
+20:21 < deepin_robot> hey ?
+20:32 < deepin_robot> [omgubuntu] Ubuntu 15.04 to Include GNOME 3.14, Updates to Default Apps http://www.omgubuntu.co.uk/2014/12/ubuntu-15-04-include-gnome-3-14-updates-default-apps - 2014-12-14 - 12:29:24 PM -
+20:49 < foob> s991533: 人少了
+21:48 < gnorf> hello
+21:48 < deepin_robot> hey xD
+21:48 < gnorf> hello deepin_robot how are you today?
+21:48 < deepin_robot> Hi (y)
+21:49 < gnorf> deepin_robot, how was your day?
+22:02 < gnorf> my deepin just hangs
+22:03 < gnorf> i think it is becuse acpi is on
+22:03 < gnorf> and i think if i can install the nvidia drivers it will work fine
+22:13 < deepin_robot> [planet_debian] Daniel Leidert: Issues with Server4You vServer running Debian Stable (Wheezy) http://www.wgdd.de/2014/12/issues-with-server4you-vserver-running.html - 2014-12-14 - 01:58:00 PM -
+22:56 <@s991533> gnorf: hi
+22:56 < gnorf> hello s991533
+22:56 < deepin_robot> yo ?
+22:57 <@s991533> gnorf: you mean everything is okay if acpi is off?
+22:58 < gnorf> s991533, i do not know but in ubuntu 14.04 lts, if i turn off acpi it works
+22:58 < gnorf> and deepin is built on ubuntu?
+22:58 <@s991533> yes
+22:59 < gnorf> which nvidia drivers should i install?
+22:59 < gnorf> current?
+23:00 < gnorf> I tried the latest
+23:00 <@s991533> I'm not sure, I am using intergrated graphics
+23:00 <@s991533> but I'll try current instead of latest
+23:03 < gnorf> yes
+23:57 < deepin_robot> [planet_debian] Enrico Zini: html5-sse http://www.enricozini.org/2014/html5-sse/ - 2014-12-14 - 03:32:10 PM -
