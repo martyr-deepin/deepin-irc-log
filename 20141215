@@ -1,0 +1,124 @@
+00:27 < deepin_robot> [planet_debian] Gregor Herrmann: RC bugs 2014/49-50 http://info.comodo.priv.at/blog/rc_bugs_2014_49_50.html - 2014-12-14 - 04:01:21 PM -
+01:16 < gnorf> anyone from china here?
+01:16 < gnorf> yousong, :D
+01:16 < deepin_robot> hello xD
+01:17 < gnorf> deepin_robot, how is your family?
+01:18 < gnorf> deepin_robot, what do you want for Christmas?
+01:19 < gnorf> deepin_robot, any presents?
+01:23 <@s991533> gnorf: haha
+01:24 <@s991533> gnorf: are you Chinese?
+01:24 < gnorf> s991533, no
+01:24 < gnorf> Im sweedish
+01:24 <@s991533> oh cool, I come from Taiwan
+01:24 < gnorf> That is so far
+01:24 < gnorf> What is the time over there?
+01:25 <@s991533> 01:23 AM
+01:25 < gnorf> is that in the night?
+01:25 < gnorf> it is 18:23 here
+01:26 < gnorf> s991533, what nvidia drivers should i use?
+01:27 <@s991533> try nvidia-current
+01:27 < gnorf> what version is that? 304?
+01:29 <@s991533> 304.125
+01:29 < gnorf> yes
+01:30 < gnorf> it's very old :\
+01:32 < gnorf> winder if it's vsync works
+01:33 < gnorf> wonder
+01:33 < gnorf> How is life in Taiwan s991533?
+01:38 < gnorf> do i need to run nvidia-xconfig in deepin?
+01:38 <@s991533> gnorf: good
+01:38 <@s991533> you and install newer versions
+01:38 < deepin_robot> Hi :-D
+01:38 <@s991533> like nvidia-{310,313,319}
+01:39 < gnorf> not 343?
+01:39 <@s991533> and nvidia-331
+01:39 <@s991533> there is no 343 in repo
+01:39 < gnorf> yes
+01:39 <@s991533> unless you want to manually install it ...
+01:39 <@s991533> not a good choice
+01:39 < gnorf> i know
+01:39 < gnorf> ill try 331 :D
+01:39 < gnorf> do i need to run xconfig too?
+01:40 < gnorf> how does xorg.conf work in deepin?
+01:41 < gnorf> i will try it out now
+01:41 < gnorf> brb
+01:41 <@s991533> hmmmm ...
+01:46 <@s991533> gtg
+01:46 < deepin_robot> have a nice day  :)
+01:46 <@s991533> .tell gnorf gtg, see you
+01:46 < deepin_robot> s991533: I'll pass that on when gnorf is around.
+01:53 < gnorf> it does not start up after i install the nvidia drivers
+01:53 < deepin_robot> gnorf: 2014-12-14 - 17:46:52 <s991533> tell gnorf gtg, see you
+02:26 < deepin> very nice linux distro
+02:26 < deepin> loving it
+02:27 < deepin> ^ ^
+04:57 < gnorf> hello arun_
+04:57 < deepin_robot> hi :P
+04:57 < gnorf> tell s991533 he is a nice guy
+05:02 < gnorf> deepin_robot tell arun_ he is late for work
+05:02 < deepin_robot> gnorf: I'll pass that on when arun_ is around.
+05:02 < deepin_robot> [planet_debian] Mario Lang: Data-binding MusicXML http://blind.guru/xsdcxx-musicxml.html - 2014-12-14 - 08:30:00 PM -
+05:48 < deepin_robot> [planet_ubuntu] Adnane Belmadiaf: Fishing as a hobby http://daker.me/2014/12/fishing-as-a-hobby.html - 2014-12-14 - 09:00:00 PM -
+06:02 < deepin_robot> [planet_debian] Gregor Herrmann: GDAC 2014/14 http://info.comodo.priv.at/blog/gdac_2014_14.html - 2014-12-14 - 09:27:37 PM -
+06:52 < arun_> gnorf: hi
+06:52 < deepin_robot> arun_: 2014-12-14 - 21:02:37 <gnorf> tell arun_ he is late for work
+06:53 < arun_> gnorf: which work you mean >?
+06:58 < gnorf> arun_, i don't know
+06:59 < gnorf> do you have a job? xD
+06:59 < gnorf> I'v been trying to install nvidias driver in deepin with no success
+06:59 < gnorf> It installs but it won't boot up
+06:59 < gnorf> I ran nvidia-xconfig too
+06:59 < gnorf> Any idea?
+07:11 < gnorf> later
+11:30 < felixonmars> acgtyrant: 之前还没注意到有这个频道 :P
+11:31 < huntxu> acgtyrant: 之前还没注意到有这个频道 :P
+11:31 < acgtyrant> ……
+11:32 < acgtyrant> 这里大概只有两个群体：中文开发者和英文用户
+11:33 < huntxu> 我是中文非用戶
+11:33 < huntxu> 第三群體
+11:34 < erhandsome> ...
+12:02 < deepin_robot> [planet_ubuntu] Benjamin Kerensa: Give a little http://benjaminkerensa.com/2014/12/14/give-a-little - 2014-12-15 - 03:43:28 AM -
+12:49 < jetfire> hello :)
+12:49 < deepin_robot> Hi ;)
+12:50 < jetfire> can anyone tell me the procedure to be a part of deepin iso testing community so that even i can have a glimpse at deepin 2014.2
+13:01 < jetfire> can anyone tell me the procedure to be a part of deepin iso testing community so that even i can have a glimpse at deepin 2014.2
+16:17 < gnorf> deepin_robot tell gnorf that he is handsome
+16:17 < deepin_robot> You can tell yourself that.
+16:20 < erhandsome> 0.0
+16:20 < gnorf> erhandsome, do you know why the nvidia drivers does not work on my deepin install?
+16:24 <@s991533> gnorf: all the versions?
+16:24 < gnorf> s991533, i have tried 311 and 434
+16:24 < gnorf> 331*
+16:25 <@s991533> hmmmm ...
+16:25 < gnorf> yes i know
+16:26 <@s991533> what about 304 & 310 ?
+16:26 <@s991533> gnorf: what's your graphic card model?
+16:26 < gnorf> gtx 580
+16:27 < deepin_robot> [planet_debian] Thomas Goirand: Supporting 3 init systems in OpenStack packages http://thomas.goirand.fr/blog/?p=212 - 2014-12-15 - 08:15:24 AM -
+16:29 <@s991533> gnorf: very powerful!
+16:29 < gnorf> [     3.523] (EE) NVIDIA(0): Failed to initialize the NVIDIA kernel module. Please see the
+16:29 < gnorf> [     3.523] (EE) Screen(s) found, but none have a usable configuration.
+16:30 <@s991533> gnorf: any detail in log?
+16:30 < gnorf> cat nvidia-prime-upstart.log
+16:30 < gnorf> Sorry but your hardware configuration is not supported
+16:31 < gnorf> i need to go
+16:32 < gnorf> to my shrink
+16:32 < gnorf> be back later
+16:34 <@s991533> seeya
+16:34 < deepin_robot> see ya (wave)
+17:57 < gnorf> hey
+17:58 < gnorf> s991533, which logs? I'v got em all
+20:32 < wangxuan> hello
+20:32 < deepin_robot> hello xD
+20:33 < wangxuan> hi
+20:33 < deepin_robot> hi ;)
+20:33 < wangxuan> you are a robot
+20:33 < deepin_robot> Hello ~~~
+20:33 < wangxuan> right?
+20:33 < wangxuan> ???
+20:35 <@s991533> gnorf: dmesg?
+20:43 < acgtyrant> https://github.com/linuxdeepin/deepin-screenshot/issues/9
+20:44 < deepin_robot> [#9]title: 请增加等比例截图功能 | 我记得 QQ 内置截图工具，在截图的时候按 Alt, 截图大小会自动变成正方形，即等比例。
+20:45 <@s991533> acgtyrant: ???
+20:57 < deepin_robot> [omgubuntu] Dropbox 3.0.3 Stable Linux Desktop Build Released http://www.omgubuntu.co.uk/2014/12/dropbox-3-0-3-stable-linux-desktop-build-released - 2014-12-15 - 12:55:13 PM -
+22:02 < deepin_robot> [deepin_facebook] Do you like Opera on Linux ? http://www.facebook.com/deepinlinux/posts/970610539619024 - 2014-12-15 - 01:58:25 PM -
+23:47 < deepin_robot> [planet_ubuntu] Daniel Holbach: Scope training materials https://daniel.holba.ch/blog/2014/12/scope-training-materials/ - 2014-12-15 - 03:27:41 PM -
