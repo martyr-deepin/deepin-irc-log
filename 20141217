@@ -1,0 +1,160 @@
+00:15 < fengyunljp> .tell help
+00:15 < deepin_robot> fengyunljp: tell help what?
+00:16 < fengyunljp> .tell
+00:16 < deepin_robot> fengyunljp: tell whom?
+00:16 < fengyunljp> .tell gnorf
+00:16 < deepin_robot> fengyunljp: tell gnorf what?
+00:17 < fengyunljp> .tell gnorf you can install sshfs,mout and sftp to local and you can play it
+00:17 < deepin_robot> fengyunljp: I'll pass that on when gnorf is around.
+01:02 < deepin_robot> [planet_ubuntu] Thomas Ward: NGINX PPAs: Updated http://dark-net.net/?p=46 - 2014-12-16 - 04:52:30 PM -
+01:47 < deepin_robot> [planet_ubuntu] Ubuntu Kernel Team: Kernel Team Meeting Minutes – December 16, 2014 http://voices.canonical.com/kernelteam/2014/12/16/kernel-team-meeting-minutes-december-16-2014/ - 2014-12-16 - 05:23:19 PM -
+02:32 < deepin_robot> [planet_ubuntu] Dustin Kirkland: A Snappy Ubuntu Walkthrough on Google Compute Engine http://blog.dustinkirkland.com/2014/12/a-snappy-ubuntu-walkthrough-on-google.html - 2014-12-16 - 06:13:54 PM -
+06:20 < deepin_> Hola
+07:17 < deepin_robot> [planet_ubuntu] Stephen Michael Kellat: Looking Lovely In Pictures http://erielookingproductions.info/ubuntu/2014/12/61-looking-lovely-in-pictures/ - 2014-12-17 - 12:00:01 AM -
+07:17 < deepin_robot> [planet_debian] Gregor Herrmann: GDAC 2014/16 http://info.comodo.priv.at/blog/gdac_2014_16.html - 2014-12-16 - 10:46:58 PM -
+07:42 < deepin_robot> [omgubuntu] 6 Ideal Last Minute Linux Xmas Gift Ideas http://www.omgubuntu.co.uk/2014/12/6-great-last-minute-linux-xmas-gift-ideas - 2014-12-16 - 12:36:47 PM -
+08:02 < deepin_robot> [omgubuntu] 6 Ideal Last Minute Linux Xmas Gift Ideas http://www.omgubuntu.co.uk/2014/12/6-great-last-minute-linux-xmas-gift-ideas - 2014-12-16 - 10:36:47 PM -
+14:47 < deepin_robot> [planet_ubuntu] Joe Liau: Documenting the Death of the Dumb Telephone – Part 6: Ulterior Motives http://blog.josephliau.com/documenting-the-death-of-the-dumb-telephone-part-6-ulterior-motives/ - 2014-12-17 - 06:38:04 AM -
+16:02 < deepin_robot> [planet_ubuntu] Jono Bacon: The Impact of One Person http://www.jonobacon.org/2014/12/17/the-impact-of-one-person/ - 2014-12-17 - 07:35:24 AM -
+16:37 < deepin_robot> [deepin_facebook] To Test New Deepin Forum Publicly&#x2014;Inviting You to Join!http://planet.linuxdeep... http://www.facebook.com/deepinlinux/photos/a.834644646548948.1073741828.829563693723710/971469732866438/?type=1 - 2014-12-17 - 08:31:52 AM -
+17:32 < deepin_robot> [planet_ubuntu] Stuart Langridge: The Matasano crypto challenges http://www.kryogenix.org/days/2014/12/17/the-matasano-crypto-challenges/ - 2014-12-17 - 09:01:00 AM -
+17:57 < deepin_robot> [planet_debian] Keith Packard: MST-monitors http://keithp.com/blogs/MST-monitors/ - 2014-12-17 - 09:36:43 AM -
+18:17 < deepin_robot> [planet_ubuntu] Michael Hall: On Democratic Republics and Meritocratic Oligarchies http://mhall119.com/2014/12/on-democratic-republics-and-meritocratic-oligarchies/ - 2014-12-17 - 10:00:29 AM -
+19:13 < foob> Hi all
+19:14 < deepin_robot> Hi ;)
+19:33 < s991533_> hi foob
+19:33 < deepin_robot> s991533_: 2014-12-16 - 14:55:17 <gnorf> tell s991533_ that it works now. I am so happy im running in circles
+19:33 < deepin_robot> Welcome  :)
+19:34 < s991533_> .tell gnorf great, with which version?
+19:34 < deepin_robot> s991533_: I'll pass that on when gnorf is around.
+20:00 < foob> s991533_: You played Raspberry PI?
+20:04 < s991533_> foob: oh yes, before, not now, too busy to play, and it's too slow for me, haha
+20:04 < s991533_> I think bananapi or cubieboard is better
+20:04 < s991533_> or beagleboard black black edition
+20:05 < s991533> foob: what about you? do you play any one board computer?
+20:07 < foob> s991533: I think to buy a Raspberry Pi
+20:08 < foob> s991533: Recently I know there is this thing
+20:10 < foob> s991533: It looks like the cubieborad is better.
+20:13 < foob> I do not know what to buy that
+20:18 < foob> s991533: Can you give some advice?
+20:47 < deepin_robot> [planet_ubuntu] Ronnie Tucker: U.S. Marine Corps Wants to Change OS for Radar System from Windows XP to Linux http://fullcirclemagazine.org/2014/12/17/u-s-marine-corps-wants-to-change-os-for-radar-system-from-windows-xp-to-linux/ - 2014-12-17 - 12:32:05 PM -
+21:17 < s991533> foob: I would like to choose one of bananaPi or cubieboard or beagleboard black edition
+21:24 < foob> s991533: pcDuino?
+21:25 < s991533> foob: I haven't use it yet, can't give you advice on it
+21:31 < foob> s991533: Thanks
+21:31 < s991533> foob: no problem
+21:57 < deepin_robot> [omgubuntu] New SuperTuxKart Beta Features a Powerful New Graphics Engine http://www.omgubuntu.co.uk/2014/12/supertuxkart-beta-new-levels-graphics-engine - 2014-12-17 - 01:45:45 PM -
+22:19 < jetfire>  
+22:20 < s991533> ??
+22:23 < foob> s991533: 查了好久了，我准备买个Banana Pi配置高一些，系统总要快点的
+22:23 < foob> 主要，我不会DIY硬件，只是想要个小巧的电脑
+22:25 < s991533> BananaPi is cool, and faster than raspberry pi
+22:26 < foob> s991533: yes, I is the value of this
+22:40 < s991533> brainy: hi, long time no see
+22:41 < brainy> hi s991533
+22:41 < deepin_robot> hi (Y)
+22:43 < foob> brainy: hi brainy
+22:43 < brainy> hey foob
+22:44 < brainy> This channel is getting full now. :D
+22:44 < foob> brainy: haha
+22:45 < brainy> foob :-D
+22:48 < deepin_robot> [deepin_facebook] Deepin Experience Machine Plan Season 2&#x2014;Installation http://www.facebook.com/deepinlinux/posts/971608666185878 - 2014-12-17 - 02:41:24 PM -
+23:05 < s991533> brainy: not really
+23:05 < s991533> but will~
+23:05 < foob> haha, Found a new things
+23:05 < deepin_robot> haha
+23:05 < s991533> what's that foob ?
+23:05 < foob> s991533: RISC OS
+23:08 < foob> an PandaBorad
+23:08 < foob> and
+23:12 < brainy> RISC OS is old I think
+23:12 < foob> brainy: yes
+23:16 < foob> brainy: I'm going to buy a Raspberry Pi
+23:17 < foob> and I like new things.
+23:17 < brainy> foob, nice!
+23:20 < foob> OH~,It didn't Chinese tutorial
+23:24 < brainy> foob, only English ?
+23:25 < s991533> foob: oh, I forgot PandaBoard, haha
+23:25 < foob> brainy: I don't know, but no Chinese
+23:25 < s991533> foob: I don't think so, you should google it
+23:26 < s991533> there are many one board PC's resource in china
+23:27 < foob> s991533: 我在大陆，google参与棱镜了，所以。。。
+23:27 < s991533> raspberry pi has the most resource
+23:27 < s991533> foob: oops, sorry, maybe baidu can help
+23:27 < s991533> foob: do you have microsoft's bing search engine in mainland china?
+23:28 < foob> s991533: baidu result full is English
+23:28 < s991533> foob: hmmmm ... did you look for some forums about one board in china?
+23:29 < foob> s991533: yes, bing
+23:30 < foob> s991533: thanks
+23:32 < deepin_robot> [planet_ubuntu] Dustin Kirkland: Hollywood Technodrama -- There's an App for that! http://blog.dustinkirkland.com/2014/12/hollywood-technodrama.html - 2014-12-17 - 03:11:32 PM -
+23:34 < brainy> s991533, are you not an operator anymore?
+23:34 < s991533> brainy: let me check ...
+23:34 < s991533> brainy: oops ...
+23:34 < s991533> brainy: you are right!
+23:34 < s991533> wait a min ...
+23:35 <@s991533> brainy: hi~ I'm back~
+23:36 <@s991533> brainy: that's because the connection issue
+23:36 <@s991533> connection reset
+23:36 <@s991533> and s991533 -> s991533_
+23:36 <@s991533> so ... no op xD
+23:36 < brainy> s991533, welcome back haha
+23:36 <@s991533> brainy: thank you
+23:37 <@s991533> foob: did you get the info you nedd now?
+23:37 <@s991533> bing is really cool for English users
+23:38 < brainy> s991533, what's the advantage of bing?
+23:38 < foob> s991533: no, Only a brief introduction.
+23:39 <@s991533> brainy: very smart
+23:39 <@s991533> foob: I'll help you to find it when I have time
+23:39 <@s991533> foob: raspberry pi, right?
+23:40 < foob> s991533: Thank you , Don't use
+23:40 < foob> I'm think buy Banana Pi
+23:41 <@s991533> foob: okay, I remember that was found by Chinese team, so there should be chinese resources
+23:41 <@s991533> foob: it's also popular in Taiwan
+23:42 <@s991533> brainy: you should try it, I don't know if it has that feature in Germany
+23:42 < foob> s991533: I was just curious about it.
+23:43 < brainy> ok s991533 xD
+23:44 < foob> haha, 'German' I just learn word.
+23:44 < deepin_robot> XDDDD
+23:46 < brainy> foob :-D
+23:47 < foob> http://www.baike.com/wiki/RISC+OS, just found this
+23:47 < deepin_robot> [ RISC OS,_搜索_互动百科 ] - www.baike.com
+23:49 <@s991533> foob: good,
+23:49 <@s991533> keep learning new words
+23:49 <@s991533> your English will be very good
+23:49 < deepin_robot> yo :-D
+23:49 < foob> brainy: Come here, I'm ready to start learning English.
+23:49 <@s991533> foob: I think 'Come here' is not very polite, haha
+23:50 < brainy> haha No problem
+23:50 < deepin_robot> xDDDDD
+23:50 < foob> s991533: 我这全是百度翻译的
+23:50 < foob> 我不会英文
+23:50 < foob> s991533: 来到这里以后怎么讲？
+23:51 <@s991533> foob: you should just say `Let's talk in English` :)
+23:52 <@s991533> foob: `Come here` is a little bit rude I think xD
+23:52 < foob> brainy: sorry, I use translation software.
+23:52 <@s991533> but brainy is nice, he didn't mind :)
+23:52 < brainy> It's not a problem, foob xD
+23:52 < foob> brainy: Thanks
+23:52 < foob> :)
+23:52 < brainy> foob, your translation software is very good haha
+23:53 < brainy> foob, I understand everything you are saying.
+23:53 < jetfire> hello friends
+23:53 < jetfire> :)
+23:53 < deepin_robot> Hi ;)
+23:53 < brainy> hi jetfire
+23:53 < deepin_robot> hello !
+23:54 < jetfire> brainy i need help with deepin
+23:54 < jetfire> its lagging a lot lately im using 2014.1 version
+23:54 <@s991533> brainy: oh, I think it's very baaaaaaaaaad xD
+23:54 <@s991533> jetfire: hi
+23:55 < jetfire> can i expect any performance improvements with deepin 2014.2
+23:55 < brainy> jetfire, I haven't succeeded in installing 2014.1 :-(
+23:55 <@s991533> jetfire: I think cxbiii can answer you :)
+23:55 <@s991533> hi cxbiii
+23:55 < brainy> But from what I have seen it's a bit slow.
+23:55 < deepin_robot> Hello ?
+23:55 <@s991533> hi brainy foobm, cxbiii is staff in Deepin~
+23:55 < deepin_robot> yo (y)
+23:55 < brainy> s991533, nice!
+23:58 < brainy> s991533, do you have lag too in Deepin 2014.1 ?
+23:58 <@s991533> brainy: a little bit
