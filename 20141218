@@ -1,0 +1,138 @@
+00:02 < foob> I also use Deepin 2014.1
+00:02 <@s991533> foob: is it slow?
+00:03 < foob> Because I downloaded this
+00:05 < foob> Excuse me, I want to sleep. Bye...
+00:05 < foob> bye brainy
+00:05 < brainy> bye foob !
+00:05 < foob> bye s991533
+00:06 <@s991533> oops...
+00:06 <@s991533> too late, haha
+00:06 <@s991533> what time is it brainy ? It's 00:04 AM here
+00:07 < brainy> Yes I know, you are 7 hours ahead.
+00:07 < brainy> s991533, it's 05:05 pm here, haha
+00:07 <@s991533> brainy: are you in GMT +1 TZ ?
+00:07 < brainy> Yes
+00:08 <@s991533> brainy: got it
+00:10 < brainy> s991533, I find very interesting that with Linux there is almost no disk fragmentation.
+00:11 < brainy> With Windows you always have to run defrag program from time to time.
+00:11 < brainy> Or your hard disk will become slow.
+00:11 <@s991533> brainy: good, that's because of its difference in the filesystem
+00:11 <@s991533> you should google ext.x and xfs filesystem
+00:11 < deepin_robot> hi ?
+00:11 < brainy> Yes I know, but I think it's very good, s991533 :D
+00:11 <@s991533> it different structure made this difference
+00:12 <@s991533> brainy: okay, seems I misunderstand your words, sorry
+00:12 <@s991533> it's very good, yeah, I agree
+00:15 <@s991533> brainy: our online meeting will be  Dec 26th, 21:00 PM in GMT +8
+00:15 <@s991533> will you like to join us?
+00:15 <@s991533> Saturday night
+00:15 <@s991533> oh
+00:15 <@s991533> afternoon for you :)
+00:16 < brainy> s991533, I think I can be there haha
+00:16 <@s991533> great, please invite your friends :)
+00:17 < brainy> Ok, but none of my friends are using Linux haha
+00:17 < brainy> I must give them Deepin DVD
+00:18 <@s991533> brainy: haha, it's a hard work, but very good, everybody should learn
+00:18 <@s991533> Android based on Linux
+00:19 <@s991533> Even Mac OS X use FreeBSD's codes
+00:19 <@s991533> open source and free software is very very nice
+00:19 < brainy> s991533, Yep
+00:19 <@s991533> oops, I have something important to do, got to go
+00:20 <@s991533> see you tomorrow brainy
+00:20 <@s991533> bye :)
+00:21 < brainy> bye bye s991533 !
+01:29 <@s991533> brainy: /names
+01:29 <@s991533> hi
+01:29 <@s991533> I'm back, haha
+01:29 < deepin_robot> hey ;)
+01:36 < brainy> s991533, welcome back lol
+01:36 <@s991533> brainy: :D
+01:37 <@s991533> but still busy ... haha ...
+01:47 < deepin_robot> [planet_ubuntu] Charles Butler: Container Networking with Flannel http://blog.dasroot.net/container-networking-with-flannel/ - 2014-12-17 - 05:30:03 PM -
+02:03 < brainy> Thanks deepin_robot
+02:03 < deepin_robot> brainy: You're welcome.
+02:14 <@s991533> brainy: if you want to add some rss feed about linux, you can try .rss add
+02:14 <@s991533> brainy: don't know if you need additional permission
+02:14 <@s991533> or I can help you
+02:15 < jetfire>  
+02:15 < brainy> thanks s991533
+02:15 < brainy> hi jetfire lol
+02:15 < brainy> welcome back
+02:15 < deepin_robot> Welcome ;)
+02:15 < jetfire> brainy sorry i went offline
+02:16 < jetfire> some internet connection problem
+02:16 < brainy> oops ok
+02:18 <@s991533> jetfire: welcome back
+02:19 <@s991533> jetfire: where are you from?
+02:19 < jetfire>     
+02:19 <@s991533> ??
+02:19 < jetfire> im from india
+02:19 <@s991533> oh cool
+02:19 < jetfire> are u one of the developer  ?
+02:22 < jetfire>  to be released ?
+02:22 < jetfire> when will be deepin 2014.2 be released ?
+02:24 <@s991533> jetfire: no
+02:24 <@s991533> jetfire: not sure, will be soon
+02:25 < jetfire> im eager to try out new one
+02:25 < jetfire> as the last one had performances issues
+02:25 < jetfire> so unwilling i had to remove deepin
+02:25 < jetfire> :'(
+02:26 <@s991533> jetfire: you can join internal test team, haha
+02:27 < jetfire> i want to but have no idea
+02:27 < jetfire> where
+02:27 < jetfire> as on site there is info and all in their native language
+02:27 < jetfire> english version is not there
+02:27 < jetfire> btw
+02:27 <@s991533> hmmm ... on the forum
+02:28 < jetfire> where are u from
+02:28 < jetfire> yes
+02:28 <@s991533> jetfire: Taiwan
+02:28 < brainy> jetfire, I'm using old version 12.06, it's very fast haha
+02:28 < jetfire> (y)
+02:28 <@s991533> not a good news for deepin haha
+02:28 <@s991533> hey jetfire
+02:28 < jetfire> sure not
+02:28 <@s991533> what time is it?
+02:28 < jetfire> 11:57
+02:29 < jetfire> pm
+02:29 < jetfire> :p
+02:29 <@s991533> we'll have a online meeting on IRC channel with deepin staff on Dec. 26 (Sat) 21:00 PM (GMT+8)
+02:29 < jetfire> oh great !!
+02:29 <@s991533> welcome to join us at that time
+02:30 < jetfire> ok
+02:30 < jetfire> u from the support team in deepin ?
+02:33 < jetfire> hey arun :)
+02:34 <@s991533> jetfire: no
+02:35 < jetfire> then as u seem to know much abut deepin
+02:38 < jetfire> k good night :)
+02:51 < brainy> bye bye
+02:51 < deepin_robot> Good bye ~
+06:57 < deepin_robot> [planet_debian] Gregor Herrmann: GDAC 2014/17 http://info.comodo.priv.at/blog/gdac_2014_17.html - 2014-12-17 - 10:30:08 PM -
+09:47 < deepin_robot> [planet_ubuntu] Randall Ross: The Future is Open, and It's POWERful http://randall.executiv.es/the-future-is-open - 2014-12-18 - 01:31:27 AM -
+16:16 <@s991533> good afternoon
+18:22 < deepin_robot> [planet_debian] Mario Lang: deluXbreed #2 is out! http://blind.guru/deluxbreed2.html - 2014-12-18 - 09:47:00 AM -
+19:55 <@s991533> hi arun_
+19:55 < deepin_robot> hi ~
+19:55 <@s991533> arun_: are you there? long time no see.
+19:55 <@s991533> arun_: we'll have IRC meeting on Dec. 26
+20:03 < arun_> s991533: hi
+20:03 <@s991533> arun_: at 21:00 PM (GMT+8)
+20:03 < arun_> ohhh ok cool s991533
+20:03 < arun_> s991533: so what will be mine ? Nepal
+20:03 < arun_> ? time
+20:04 <@s991533> next hour~
+20:04 < arun_> s991533: I was sort of bg with my projects
+20:04 <@s991533> it's 20:02 here ~
+20:04 < arun_> s991533: ok
+20:04 <@s991533> remember to join us, haha
+20:04 < arun_> s991533: sure :)
+20:04 < arun_> will try my best to :)
+20:05 <@s991533> :)
+21:47 < deepin_robot> [planet_ubuntu] Ronnie Tucker: Major NVIDIA Stable Driver Released http://fullcirclemagazine.org/2014/12/18/major-nvidia-stable-driver-released/ - 2014-12-18 - 01:33:45 PM -
+21:50 < brainy> Hi all.
+21:50 < deepin_robot> hello  :)
+21:59 <@s991533> hi brainy
+21:59 < deepin_robot> Hello  :)
+22:08 < brainy> hi s991533
+22:08 < deepin_robot> yo ;)
+22:47 < deepin_robot> [omgubuntu] Canonical, China Mobile Team Up for Ubuntu Phone ‘Innovation Contest’ http://www.omgubuntu.co.uk/2014/12/canonical-china-mobile-team-ubuntu-phone-innovation-contest - 2014-12-18 - 02:10:37 PM -
