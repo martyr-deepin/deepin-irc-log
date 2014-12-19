@@ -1,0 +1,67 @@
+00:08 < brainy> hi arun_
+00:08 < deepin_robot> hi :D
+00:09 <@s991533> ping arun_
+00:12 < brainy> s991533, I found out that the game that I play is not as fast on Linux as on Windows :-(
+00:12 < brainy> Even with Nvidia driver enabled.
+00:12 < brainy> Just for 1 game I must still use Windows :-(
+00:12 <@s991533> haha, it's normal, don't be sad
+00:12 < deepin_robot> haha
+00:12 < brainy> :-D
+00:12 <@s991533> brainy: did you try SteamOS before?
+00:13 < brainy> s991533, No but I have heard about it.
+00:13 <@s991533> great
+00:36 < brainy> s991533, what will be the topic on 20 Dec ?
+00:37 <@s991533> I guess ... any suggestions for deepin, any feature you want, and how to make Linux more friendly to the new user
+00:37 <@s991533> PS ... it's Dec.26
+00:38 < brainy> Okay
+00:57 < brainy> brb
+01:39 <@s991533>  /names
+01:47 < deepin_robot> [planet_ubuntu] Svetlana Belkin: Rethinking the Ubuntu Community in Terms of LaunchPad http://ubuntusense.com/2014/12/18/rethinking-the-ubuntu-community-in-terms-of-launchpad/ - 2014-12-18 - 05:25:43 PM -
+01:52 < deepin_robot> [omgubuntu] Bq Ubuntu Phone Launches In Europe This February http://www.omgubuntu.co.uk/2014/12/bq-ubuntu-phone-launches-in-europe-this-february - 2014-12-18 - 05:37:00 PM -
+02:52 < brainy> hi all, lol
+02:53 < deepin_robot> Hello ;)
+02:57 < deepin_robot> [planet_debian] John Goerzen: Aerial Photos: Our Little House on the Prairie http://changelog.complete.org/archives/9278-aerial-photos-our-little-house-on-the-prairie - 2014-12-18 - 06:37:18 PM -
+03:02 < brainy> s991533, what are these links by deepin_robot ? lol
+03:02 <@s991533> ???
+03:02 <@s991533> by rs
+03:02 <@s991533> by rss
+03:02 <@s991533> .rss help
+03:02 < deepin_robot> s991533: For help on a command, type: .rss help <command>
+03:02 < deepin_robot> s991533: Available RSS commands: add, del, disable, enable, fetch, help, list, start, stop
+03:02 <@s991533> .rss list
+03:02 < deepin_robot> s991533: Showing 8 of 8 RSS feeds in the database:
+03:02 < deepin_robot>   #deepin linux_kernel https://www.kernel.org/feeds/kdist.xml
+03:02 < deepin_robot>   #deepin planet_ubuntu http://planet.ubuntu.com/rss20.xml
+03:02 < deepin_robot>   #deepin omgubuntu http://www.omgubuntu.co.uk/feed
+03:02 < deepin_robot>   #deepin debian_news https://www.debian.org/News/news
+03:02 < deepin_robot>   #deepin planet_debian http://planet.debian.org/rss20.xml
+03:02 < deepin_robot>   #deepin ubuntu_fridge http://fridge.ubuntu.com/feed/
+03:02 < deepin_robot>   #deepin deepin_facebook https://www.facebook.com/feeds/page.php?format=rss20&id=829563693723710
+03:02 < deepin_robot>   #deepin linux http://www.linux.com/feeds/all-content (disabled)
+03:03 < brainy> But why does he post these message here? lol
+03:27 <@s991533> brainy: it's linux related
+03:27 <@s991533> we can easily get the latest news
+03:27 <@s991533> why not?
+03:28 <@s991533> and have more topics to discuss
+03:34 <@s991533> ping brainy
+04:02 < deepin_robot> [planet_ubuntu] Dustin Kirkland: Hollywood Technodrama -- There's an App for that! http://blog.dustinkirkland.com/2014/12/hollywood-technodrama.html - 2014-12-18 - 07:46:51 PM -
+04:10 <@s991533> https://github.com/24pullrequests/24pullrequests
+04:10 < deepin_robot> [ 24pullrequests/24pullrequests · GitHub ] - github.com
+04:11 <@s991533> http://24pullrequests.com/
+04:11 < deepin_robot> [ 24 Pull Requests ] - 24pullrequests.com
+04:47 <@s991533> arun_ brainy : try this daily live if you want to try 2014.2, haha -> http://cdimage.linuxdeepin.com/daily-live/20141219/
+04:47 < deepin_robot> [ Index of /daily-live/20141219/ ] - cdimage.linuxdeepin.com
+04:48 < deepin_robot> [deepin_facebook] Another Linux Distro vote, let&#039;s vote for Deepin! http://www.muylinux.com/2014/1... http://www.facebook.com/deepinlinux/posts/972256086121136 - 2014-12-18 - 08:43:39 PM -
+04:56 < brainy> s991533,  thank you
+04:57 <@s991533> np
+04:57 <@s991533> http://24pullrequests.com/
+04:57 < deepin_robot> [ 24 Pull Requests ] - 24pullrequests.com
+04:57 <@s991533> sesson for sending PRs, haha
+05:03 < arun_> ok , thanks s991533
+05:03 < arun_> no good internet speed here
+05:19 < brainy> hi arun_
+05:19 < deepin_robot> Hi (Y)
+05:22 <@s991533> arun_: sorry
+05:26 <@s991533> arun_: hope you can have good internet service soon
+05:34 < arun_> s991533: yeah
+05:43 < brainy> lol erhhjfgjdfgj
