@@ -1,0 +1,124 @@
+01:49 < brainy> hi s991533
+01:49 < deepin_robot> Welcome  :)
+01:49 < brainy> deepin_robot, I wasn't talking to you :S
+10:53 < lv> 聊天用
+10:55 < lv> 刚才桌面突然停止运行了
+11:14 < brainy> hi all ,lol
+11:14 < deepin_robot> hey :D
+13:31 <@s991533> .tell foob you mean how to install the OS? download a image and write to a sd card
+13:31 < deepin_robot> s991533: I'll pass that on when foob is around.
+13:49 <@s991533> .tell brainy Hi, 2014.2 rc released, did you try it?
+13:49 < deepin_robot> s991533: I'll pass that on when brainy is around.
+16:05 < wenjie198881> Why nobady speak.
+17:13 < wang_> 123456
+17:13 < wang_> 有人?
+17:13 < Guest8483> 怎么弄?
+17:13 < Guest8483> what should i 都
+17:14 < Guest8483> good bye
+17:14 < deepin_robot> have a nice day :D
+17:14 < Guest8483> o
+17:15 < Guest8483> real man?
+18:10 <@s991533> .tell brainy http://richg42.blogspot.tw/2014/11/state-of-linux-gaming.html
+18:10 < deepin_robot> s991533: I'll pass that on when brainy is around.
+18:10 < deepin_robot> [ Rich Geldreich's Tech Blog: State of Linux Gaming ] - richg42.blogspot.tw
+18:10 <@s991533> .tell arun http://richg42.blogspot.tw/2014/11/state-of-linux-gaming.html
+18:10 < deepin_robot> s991533: I'll pass that on when arun is around.
+18:10 < deepin_robot> [ Rich Geldreich's Tech Blog: State of Linux Gaming ] - richg42.blogspot.tw
+18:40 < wakakawaka> is anyone here?
+18:43 < finnishdude> hello
+18:43 < deepin_robot> hi !
+18:44 < finnishdude> skrillex 6/5
+22:27 < foob> Hi
+22:27 < deepin_robot> foob: 2014-12-20 - 05:33:08 <s991533> tell foob you mean how to install the OS? download a image and write to a sd card
+22:27 < deepin_robot> Hi xD
+22:30 < brainy> hi foob
+22:30 < deepin_robot> brainy: 2014-12-20 - 05:51:24 <s991533> tell brainy Hi, 2014.2 rc released, did you try it?
+22:30 < deepin_robot> brainy: 2014-12-20 - 10:12:26 <s991533> tell brainy http://richg42.blogspot.tw/2014/11/state-of-linux-gaming.html
+22:30 < deepin_robot> hello ~~~
+22:32 < brainy> .tell s991533 Thank you
+22:32 < deepin_robot> brainy: I'll pass that on when s991533 is around.
+22:37 < foob> I'm waiting, my Raspberry Pi
+22:37 < foob> But for a long time.
+22:39 < brainy> foob, Oh :-(
+22:40 <@s991533> hi brainy 
+22:40 < deepin_robot> s991533: 2014-12-20 - 14:34:14 <brainy> tell s991533 Thank you
+22:40 < deepin_robot> Welcome , How do you do?
+22:40 <@s991533> foob: oh
+22:40 <@s991533> foob: so you choosed raspberry pi?
+22:41 <@s991533> foob: not banana pi or cubieboard?
+22:41 < brainy> hi s991533
+22:41 < deepin_robot> hi ?
+22:41 < foob> s991533: no, I'm choose Banana Pi
+22:44 < foob> s991533: tody I downloaded Puppy Linux
+22:48 < foob> but, I'm Will not Chinesization
+22:48 < brainy> Is Banana Pi better than Raspberry Pi ?
+22:48 <@s991533> raspberry pi is too slow for me, haha
+22:48 <@s991533> hope it'll be enough for you
+22:49 < foob> brainy: Banana Pi Configuration better.
+22:50 <@s991533> brainy: yes, especially the performance
+22:51 < brainy> ok foob s991533
+22:51 < brainy> I will have a look on youtube, haha
+22:52 < foob> Slitaz and Puppy that better.
+22:54 < brainy> foob, Why not Lubuntu?
+22:56 < foob> brainy: I want install a mini system to U disk
+22:57 < brainy> ok foob
+22:59 < brainy> foob, now I am eating a Banana, haha
+22:59 < foob> brainy:
+22:59 < foob> brainy: haha
+23:05 <@s991533> brainy: are you downloading deepin 2014.2 rc?
+23:05 < brainy> s991533, No but I will later
+23:06 < brainy> s991533, I am still so happy with 12.06 haha
+23:06 < brainy> Everything is working 100%
+23:09 <@s991533> xD
+23:09 < deepin_robot> XD
+23:10 <@s991533> they maight be sad to hear this
+23:11 < brainy> Yes I know :-(
+23:18 < foob> sorry, I'm reboot comput for test 'slitaz linux'
+23:19 <@s991533> brainy: but it's not your problem
+23:19 <@s991533> they should consider to handle this issue
+23:21 < brainy> Yes I agree.
+23:34 < brainy> s991533, can you give me the download link for 2014.2 rc again please?
+23:35 <@s991533> http://cdimage.linuxdeepin.com ?
+23:35 <@s991533> brainy: I think you should choose a mirror on the web
+23:35 <@s991533> for faster downloading
+23:35 < deepin_robot> [ Index of / ] - cdimage.linuxdeepin.com
+23:35 < brainy> Ok
+23:36 < brainy> too slow haha
+23:36 < brainy> I will try a mirror
+23:36 < brainy> 12 kb/s haha
+23:36 <@s991533> you should better always download from mirror sites
+23:36 < deepin_robot> hello  :)
+23:37 <@s991533> especially, it's a chinese distro
+23:37 < brainy> Like old times with Modem 56k
+23:37 < brainy> ok s991533
+23:37 <@s991533> the network cross the mainland china will be filtered by a 'great firewall'
+23:37 <@s991533> I mean, go in/out mainland china
+23:37 < brainy> Oh...
+23:38 <@s991533> so, as you know, it's very very slow
+23:38 <@s991533> don't try to download anything from mainland china ... haha
+23:38 <@s991533> I just suggested them to move the main server outside mainland china
+23:41 < brainy> but where did you download from?
+23:42 < brainy> Can you give me the mirror please, s991533 ?
+23:42 <@s991533> brainy: linuxdeepin.com/mirrors.en.html#iso
+23:42 <@s991533> brainy: I owned a mirror site in Taiwan, haha ...
+23:43 <@s991533> http:linuxdeepin.com/mirrors.en.html#iso
+23:43 <@s991533> http://linuxdeepin.com/mirrors.en.html#iso
+23:43 < deepin_robot> [ Deepin ] - linuxdeepin.com
+23:43 < brainy> Ok thank you s991533 xD
+23:44 <@s991533> brainy: you should directly go to their website next time xD
+23:44 <@s991533> just choose the one nearby your location
+23:45 < brainy> oops, the 2014.2 rc is not available on those mirror sites
+23:45 < brainy> there is only a file "MD5SUM"
+23:45 < brainy> But no .iso
+23:46 < brainy> Ok now I found one mirror
+23:46 < brainy> Downloading with full speed xD
+23:47 < brainy> s991533, does Taiwan have a great firewall?
+23:48 <@s991533> of course not
+23:48 < brainy> ok
+23:48 <@s991533> brainy: try this http://ftp.yzu.edu.tw/Linux/deepin-cd/2014.2-rc/
+23:48 < deepin_robot> [ Index of /Linux/deepin-cd/2014.2-rc/ ] - ftp.yzu.edu.tw
+23:49 <@s991533> brainy: but don't know the speed for you
+23:52 < brainy> s991533, I am arleady downloading from a German mirror site, thank you
+23:52 < brainy> Almost finished xD
+23:52 < deepin_robot> hello !
+23:52 <@s991533> brainy: great!
