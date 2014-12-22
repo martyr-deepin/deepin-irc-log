@@ -1,0 +1,342 @@
+02:57 < saleem> hi , i cant find deepin-system-settings-module-individuation on repos, has it been removed?
+02:57 < deepin_robot> hi , How do you do?
+02:58 < saleem> deepin-session-fastup also cant be installed due to missing dependencies
+03:00 < saleem> can someone help me whats causing these missing dependencies?
+03:26 <@s991533> hi saleem 
+03:26 < deepin_robot> Welcome !
+03:26 <@s991533> saleem: which version are you using?
+03:31 < boom016> hello
+03:31 < deepin_robot> Hi xD
+03:31 < boom016> how are u
+03:36 <@s991533> hi boom016 
+03:36 < deepin_robot> hey ~
+03:36 <@s991533> boom016: how do you do?
+03:36 <@s991533> boom016: I come from Taiwan, you Australia?
+03:37 <@s991533> saleem: are you there?
+03:57 < saleem> s991533, hello, im using 2014 version and keep it updated daily
+03:57 <@s991533> saleem: hmmmm ...
+03:58 <@s991533> saleem: did you try aptitude to help you fix the dependency issue?
+03:58 < saleem> plus i have enabled nooslab PPA for deepin
+03:59 <@s991533> saleem: BTW, we'll have a online meeting here, on Dec.26 @ 21:00 PM (GMT+8)
+03:59 < saleem> i use apt on terminal and synaptic commonly
+03:59 <@s991533> saleem: did you try to disable it?
+03:59 <@s991533> saleem: aptitude is better for fixing dependency, try it!
+03:59 < saleem> yes i did disable it but it did not help the missing dependencies are coming for packages from deepin own sources
+03:59 <@s991533> saleem: welcome to join us on online meeting to talk about deepin and linux things
+04:00 <@s991533> saleem: what about just try aptitude now :)
+04:00 < saleem> thanks s991533 i will try to join you
+04:00 < saleem> sure i can give it a try
+04:00 <@s991533> it always provide more solution for dependency issue
+04:05 < saleem> s991533, aptitude reports the same error No candidate version found for deepin-system-settings-module-individuation
+04:06 < saleem> deepin wallpapers need this package and its not available on repos
+04:06 <@s991533> oops .. 'No candidate version found' ... too bad
+04:07 <@s991533> I think they didn't release all the packages ...
+04:07 < saleem> try installing deepin-default-wallpapers package and you will see the error im getting
+04:07 <@s991533> saleem: maybe you should take a look at the installation image
+04:07 <@s991533> I mean it may be in the ISO image
+04:08 < saleem> hmm i will download the iso and extract its conents
+04:09 < saleem> s991533, are you on deepin atm?
+04:09 <@s991533> atm?
+04:09 <@s991533> what does atm mean here?
+04:09 < saleem> at moment
+04:09 <@s991533> didn't get your question ...
+04:09 <@s991533> xD
+04:09 < deepin_robot> XD
+04:09 < saleem> i mean are you on deepin at this moment?
+04:10 <@s991533> no
+04:10 < saleem> :(
+04:10 <@s991533> but I have deepin on certain PC
+04:19 < saleem> i changed repo to default one from china , though its slow but may be it has the missing packages
+04:20 <@s991533> I don't think so
+04:20 <@s991533> unless your local mirror is broken
+04:21 <@s991533> the connect in/out to china will be filtered by a great firewall, so it'll be very very slow
+04:21 <@s991533> even unstable
+04:21 <@s991533> not recommanded
+04:21 < saleem> great wall and great firewall of china are both great :)
+04:22 <@s991533>  hahaha ...
+04:22 < deepin_robot> XDDDD
+04:22 <@s991533> you must be kidding
+04:22 < deepin_robot> Welcome !
+04:22 <@s991533> deepin_robot: shut up ...
+04:22 < saleem> btw im downloading the iso as well to check if it has the packages
+04:23 < saleem> nah the missing packages are still mssing even from the china server
+04:24 < saleem> even i cant install deepin-jockey-gtk package :(
+04:26 <@s991533> saleem: okay
+04:26 <@s991533> hi arun 
+04:26 < deepin_robot> yo ;)
+04:26 <@s991533> saleem: it's 04:26 AM here, I should go to rest, haha
+04:27 <@s991533> seeya
+04:27 < deepin_robot> have a nice day !
+04:27 < saleem> good night s991533 , 1:27 am here too
+04:27 < deepin_robot> Good bye :D
+04:27 < arun> hi s991533
+04:27 < deepin_robot> hi :D
+04:27 < saleem> i will sleep in a while
+04:27 < arun> saleem: hi
+04:27 < saleem> hello arun
+04:27 < deepin_robot> hey :P
+04:27 < arun> u from where saleem ?
+04:28 < arun> looks arabic name..
+04:28 < saleem> pakistan and you arun ? india?
+04:28 < arun> saleem: nope, I am from Nepal
+04:29 < saleem> ok
+04:29 <@s991533> hi arun, I am going to sleep now, talk to you tomorrow
+04:29 <@s991533> bye arun saleem 
+04:29 < deepin_robot> yo ~~~
+04:29 < saleem> good night s991533
+04:29 < deepin_robot> byebye :P
+04:29 < arun> s991533: ok bye cya.. good night sweet dreams
+04:30 <@s991533> thank you arun 
+11:06 < chema> hello
+11:07 < deepin_robot> hello :-D
+11:08 < chema> are you a real robot?
+11:12 < chema> hello hello hello
+11:12 < deepin_robot> Hi (Y)
+11:12 < chema> are you a real robot?
+14:46 < PHSOPIN> Test-- in deepin,i'm first use IRC 0.0
+14:47 < PHSOPIN> 试试是否支持显示中文
+15:41 <@s991533> hi PHSOPIN 
+18:54 < xeirrr> hi
+19:21 < ihipop> 火星喵也在？
+19:27 <@s991533> hi ihipop 
+20:46 < Saven> :D
+21:16 < Leo> test
+21:16 < Leo> Anyone here?
+21:17 <@s991533> hi Leo 
+21:17 < Leo> Is this deepin OS channel?
+21:17 <@s991533> yes
+21:18 <@s991533> hi brainy 
+21:20 < brainy> hey s991533
+21:20 < brainy> Good evening :-)
+21:21 <@s991533> I temporarily remove our bot, haha
+21:21 < brainy> thank you haha
+21:22 <@s991533> I think you may just want to disable ai module
+21:23 <@s991533> but my server is going to expire
+21:23 <@s991533> will find another home for it
+21:26 < brainy> Okay
+21:28 < brainy> I think the bot is good but he shouldn't always say "hi" or "lol"
+21:28 < brainy> :-D
+21:28 < brainy> The bot is good for general information.
+21:34 < brainy> s991533, I know that deepin_bot is your friend haha
+21:35 < Super> no body?
+21:36 < brainy> hi Super
+21:36 < Super> hi
+21:36 < Super> use English or Chinese?
+21:36 < cyy> chinese
+21:37 < Super> 好的
+21:37 < brainy> Sorry I don't speak Chinese, haha
+21:37 < brainy> hi foob xD
+21:37 < foob> brainy: hi
+21:37 < cyy> haha
+21:37 < foob> s991533: 香蕉派不能直接用树莓派的系统啊，我郁闷
+21:37 < cyy> 我就是提前进来看看
+21:38 < Super> 不是9点开始么
+21:46 < brainy> foob, do you like Slitaz Linux? is it good?
+21:47 < foob> brainy: No
+21:48 < foob> brainy: I don't like it
+21:48 < Super> I have used CDlinux，It's simple
+21:48 < brainy> Hmmm, Ok
+21:48 < Super> But I can't find many document of it
+21:48 < brainy> Super, I will have a look at CDlinux
+21:49 < foob> brainy: Maybe, I will download 'Lubuntu'.
+21:49 < brainy> foob, Yes, you should try it. :-D
+21:49 < foob> Maybe, I use 'Deepin LiveCD'
+21:50 < Super> ubuntu is unstable and slow
+21:50 < brainy> But Deepin is based on Ubuntu... ?
+21:50 < foob> Super: Agree
+21:51 < foob> Who play 'Banana Pi'?
+21:52 < Super> I have a cubieboard,an A10 board
+21:52 <@s991533> hmmmm ...
+21:53 <@s991533> brainy: you can help improve its aimodule on github
+21:53 < foob> s991533: Banana Pi不能用树莓派的系统
+21:53 < brainy> s991533, hmmm I'm not an expert.
+21:53 <@s991533> foob: it has its own image
+21:53 <@s991533> foob: different structure
+21:54 < foob> s991533: hmmmmmmm
+21:54 <@s991533> so you bought bananapi?
+21:56 <@s991533> not raspberry?
+21:56 <@s991533> brainy: not very hard
+21:56 <@s991533> brainy: it's using python
+21:57 < foob> s991533: Do you know "Bananian" the default user name and password?
+21:59 <@s991533> root:pi
+21:59 <@s991533> maybe
+21:59 < freddy4212> Test
+22:00 < freddy4212> 這裡是Deepin嗎？
+22:04 < freddy4212> Test
+22:05 <@s991533> freddy4212: hi
+22:05 < brainy> hi freddy4212
+22:05 <@s991533> freddy4212: this is Deepin channel
+22:06 < freddy4212> Great
+22:06 < freddy4212> Hello
+22:06 <@s991533> hi
+22:07 < freddy4212> Do you use Deepin OS?
+22:07 <@s991533> yes
+22:07 <@s991533> did you try 2014.2 rc
+22:07 < freddy4212> And where are you come from?
+22:07 < freddy4212> Yeah
+22:07 < freddy4212> I try it
+22:07 <@s991533> me? same as you
+22:08 < freddy4212> Sorry, I come from Taiwan
+22:08 <@s991533> me too
+22:08 < freddy4212> 你好
+22:08 < brainy> haha nice
+22:08 <@s991533> Hi
+22:08 <@s991533> We use english here
+22:08 < brainy> What does Deepin mean?
+22:09 < freddy4212> Ok
+22:09 <@s991533> Deep-in, very deep?I guess
+22:09 < freddy4212> Deepin is a Linux distro
+22:09 <@s991533> brainy: ask them in meeting, haha
+22:10 <@s991533> freddy4212: he know that
+22:10 <@s991533> but dont know the meaningof the word
+22:11 < freddy4212> Long story
+22:11 < brainy> s991533, lol
+22:11 < freddy4212> Haha
+22:11 <@s991533> freddy4212: so uou know that?
+22:11 <@s991533> s/uou/you/
+22:12 < freddy4212> Yeah
+22:12 <@s991533> freddy4212: cool
+22:12 < freddy4212> From its Chinese name
+22:12 <@s991533> hi tx
+22:12 < freddy4212> Mean so deep
+22:12 < brainy> freddy4212, ah ok
+22:13 < brainy> This Linux is very deep, haha
+22:13 <@s991533> that is what i said
+22:13 < freddy4212> I can not use itc
+22:13 < freddy4212> Irc
+22:13 <@s991533> ?
+22:13 <@s991533> you arr usingnow
+22:14 <@s991533> you are using now
+22:14 < freddy4212> You know Deepin will have a meeting in IRC?
+22:14 <@s991533> yeah
+22:14 <@s991533> Dec.26
+22:14 < freddy4212> So I try it
+22:15 <@s991533> Sat. 21:00
+22:15 < freddy4212> But my English is so poor
+22:15 <@s991533> it's okay
+22:15 <@s991533> just practice with us
+22:15 < freddy4212> Thanks:)
+22:17 <@s991533> no problem
+22:17 < freddy4212> But I think the meeting will in chinese
+22:17 <@s991533> no
+22:17 < freddy4212> Right?
+22:17 <@s991533> will in English
+22:18 < freddy4212> Because they only release the message in weibo not in Facebook
+22:18 <@s991533> really
+22:18 < freddy4212> Yeah
+22:18 <@s991533> I'll check it
+22:18 <@s991533> maybecxbii forgot it...
+22:18 < freddy4212> I will ask cxbii
+22:18 <@s991533> I guess he forgot it...
+22:19 < brainy> I must install 2014.2 first, but it didn't work for me haha
+22:20 <@s991533> what is thatmran 
+22:21 < brainy> s991533, what? :D
+22:22 < freddy4212> IRC meeting
+22:24 < freddy4212> @s991533 Do you use Deepin in English?
+22:30 < freddy4212> s991533 you are Peter Dave Hello?
+22:32 < brainy> freddy4212, sometimes s991533 is busy, haha
+22:33 < freddy4212> Haha right
+22:33 < freddy4212> @brainy Where are you come from?
+22:40 < brainy> freddy4212, I come from Germany
+22:43 < freddy4212> @brainy And why you know Deepin?
+22:43 <@s991533> what is didnt work for you mean here brainy 
+22:43 < brainy> freddy4212, I was looking for a new Linux distro and so I found Deepin haha
+22:44 < brainy> freddy4212, And I liked it very much. I am using version from 2012
+22:44 <@s991533> freddy4212: is 鄭 your last name?
+22:44 < freddy4212> Yeah
+22:44 < brainy> s991533, After I install it, it only shows me a wallpaper, no panels, icons, nothing
+22:44 < brainy> Mouse clicks don't work
+22:44 <@s991533> so sad
+22:45 < freddy4212> brainy update to least version?
+22:46 < brainy> Doesn't work :-(
+22:46 < freddy4212> @s991533 you are Peter Dave Hell?o
+22:46 < brainy> I might try again..but maybe my hardware is problem for this distro
+22:47 < freddy4212> brainy my machine is Atom and only 2GB ram
+22:47 < brainy> wow
+22:47 < freddy4212> But  I also can use deepin
+22:47 < freddy4212> I think your machine also can
+22:47 < brainy> freddy4212, I can use Deepin old version...but not the newest one
+22:47 < brainy> I will try again xD
+22:48 < freddy4212> What is your machine?
+22:48 < brainy> My laptop is 3 years old, I don't think it's the problem, I have 6 GB RAM
+22:48 < freddy4212> I can help you feedback
+22:48 < freddy4212> Your CPU?
+22:48 < brainy> freddy4212, but after I install, my desktop is empty and nothing works !
+22:48 < brainy> I installed 3 times
+22:48 < freddy4212> Gpu?
+22:49 < brainy> intel core i5-2450m
+22:49 < brainy> CPU
+22:50 < freddy4212> First I also can not use
+22:50 < freddy4212> Sorry,I busy now
+22:50 < brainy> ok
+22:52 < brainy> s991533, my linux partition is 20 GB, I think it's enough ?!
+22:59 < freddy4212> @brainy What is your laptop model?
+23:01 < lollipop> Will be held the first meeting of Deepin here on Saturday?
+23:01 < freddy4212> Yeah
+23:02 < lollipop> Oh, this's my first time to use HexChat.
+23:02 < freddy4212> But not check it is Chinese only or English
+23:02 < freddy4212> I also use IRC first
+23:03 < freddy4212> But I think it is not easy use
+23:03 < freddy4212> I use IRC in cellphone
+23:04 < lollipop> Because we can't send pictures easily.
+23:05 < freddy4212> Yeah
+23:06 < freddy4212> It is not easy to solve probkem
+23:06 < freddy4212> Problem
+23:06 < freddy4212> s
+23:07 < brainy> IRC is very old xD
+23:08 < freddy4212> In Deepin's country they use QQ
+23:08 < brainy> Yes I heard about this program
+23:08 < brainy> It's very popular in China.
+23:08 < freddy4212> It look like IRC
+23:08 < freddy4212> But have many functions
+23:08 < lollipop> Oh, I see. And the version of HexChat is old, too.
+23:10 < freddy4212> IRC is a open platform
+23:10 < freddy4212> Many program can use IRC
+23:11 < freddy4212> But QQ only use QQ's program
+23:11 < freddy4212> And QQ can't run in Deepin
+23:12 < brainy> You can also use Pidgin to run IRC, I think.
+23:12 < brainy> Maybe it's easier to use.
+23:12 < brainy> freddy4212, does QQ work with Wine?
+23:12 < freddy4212> Deepin 2014.2 offer Crossover because of QW
+23:13 < freddy4212> QQ
+23:13 < lollipop> It can run on Deepin 2014 RC2.
+23:13 < freddy4212> Yeah
+23:13 < brainy> Okay
+23:13 < lollipop> Because of Crossover.
+23:13 < lollipop> And it's free on Deepin 2014 RC2, too.
+23:14 < freddy4212> Yeah
+23:14 < freddy4212> You can run Photoshop in Deepin :)
+23:14 < freddy4212> But not so good :-(
+23:15 < brainy> Yes I know, haha
+23:15 < brainy> Wine is a nice program.
+23:15 < freddy4212> Crossover is based on Wine
+23:15 < lollipop> But I can't run Flash CS6 well. :(
+23:16 < freddy4212> No way:'(
+23:16 < brainy> lollipop, can you run it in a virtual machine?
+23:17 < freddy4212> Linux have less user
+23:17 < brainy> freddy4212: that's true
+23:17 < lollipop> I often use Gimp instead of PhotoShop.
+23:18 < freddy4212> Deepin 2014 series can't run in VM
+23:18 < freddy4212> But 2015 maybe can run in it
+23:18 < brainy> But you can run a VM in Deepin?
+23:18 <@s991533> brainy: enough
+23:18 < brainy> I mean Windows VM inside Deepin
+23:18 < brainy> ok s991533
+23:19 < freddy4212> Yeah
+23:19 < lollipop> And they will use Gala instead of Compiz so that we can run faster.
+23:19 < freddy4212> 2015will kill Compiz and use Gala for Window Manager
+23:20 < freddy4212> Yeah
+23:20 < lollipop> Compiz is too slow in my computer.
+23:21 < freddy4212> Wait for 2015:)
+23:21 < lollipop> Good night. :)
+23:21 < freddy4212> Good night :)
+23:31 < brainy> hi freddy4212 :D
+23:31 < freddy4212> Hi
+23:31 < freddy4212> I use in smartphone
+23:31 < brainy> Ahh okay
+23:32 < freddy4212> But it sometimes Disconnection
+23:36 < freddy4212> I have a work to make a video
+23:36 < freddy4212> Sorry
+23:37 < brainy> Ok freddy4212
+23:37 < freddy4212> I have to leave
+23:37 < brainy> see you later xD
