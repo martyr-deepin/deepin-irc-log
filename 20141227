@@ -1,0 +1,712 @@
+00:37 <@s991533> arun: after 20 hours
+01:46 <@s991533> arun: after 20 hours
+10:49 < axl1> hi
+15:48 < frecel> hello
+15:49 < frecel> anyone here
+15:50 <@s991533> hi frecel 
+15:51 < frecel> hi s991533, I was just looking at the deepin website and I'm wondering if the deepin desktop enviroment is opensource
+15:51 < frecel> because I can't see the sources anywhere
+15:55 <@s991533> frecel: did you check it on github?
+15:57 < frecel> s991533: oh cool, I didn't see the link to your github repo on the website anywhere
+15:57 <@s991533> frecel: https://github.com/linuxdeepin
+15:58 <@s991533> frecel: BTW, we'll have a deepin online meeting after 5 hours at this IRC channel, welcome to join us
+15:59 < frecel> s991533: oh that's cool, I'm trying to get a group of developers together (five or more people) to switch to the same distro and contribute to the project
+15:59 <@s991533> frecel: great
+15:59 < frecel> s991533: so now we are trying to choose the distribution
+16:00 <@s991533> frecel: you can try Deepin, 2014.2 is comming soon, it's RC now
+16:02 < frecel> s991533: I downloaded 2014.1, do you think it's better if I try 2014.2?
+16:02 <@s991533> yes, but it's only RC now
+16:02 <@s991533> not a stable version
+20:26 < cxbii> s991533, Hi
+20:26 < cxbii> s991533, You do online?
+20:41 < cxbii> s991533,  Hi
+20:43 < foob> Hi
+20:43 < foob> 今天人好多啊
+20:44 < cxbii> 你居然是个中国人。。请说英语
+20:46 < foob> cxbii: Your nationality?
+20:47 < sky_> hello
+20:48 < cxbii> iceleaf, Hi
+20:48 < iceleaf> Hello
+20:49 < sky_> only 19p?
+20:51 < cxbii> Please
+20:51 < cxbii> Wait
+20:55 <@s991533> hi
+20:55 < Tmacy> 今晚是在这里聊天么？
+20:55 <@s991533> Tmacy: yes
+20:55 <@s991533> cxbii: hi, I'm here
+20:55 <@s991533> Hello all!!!
+20:55 < Tmacy> 好久不用irc了。。。
+20:55 <@s991533> haha
+20:56 < cxbii> Please use English
+20:56 < sky_> T_T
+20:56 < Tmacy> 。。。。。
+20:56 < Tmacy> ok
+20:56 < foob> cxbii: Why are you surprised I'm Chinese?
+20:56 <@s991533> foob: Hey, nice to see you
+20:57 <@s991533> foob: didn't notice you are online
+20:57 < foob> s991533: me too
+20:57 <@s991533> foob: how do you do?
+20:57 < foob> s991533: Not so bad
+20:57 <@s991533> foob: great, I'm fine
+20:58 <@s991533> I just installed Deepin 2014.2 RC yesterday, very beautiful
+20:59 < foob> s991533: I still 2014.1
+20:59 < sky_> I think deepin is unstable for developer but enough for daily
+20:59 <@s991533> Hello all, our IRC meeting start now!
+20:59 < tcstory> 我去 才11个人
+20:59 < tcstory> 21
+20:59 <@s991533> Please use English to talk with each others!
+21:00 < tcstory> ok
+21:01 < tcstory> how many foreigners in here?
+21:01 < sky_> i don't know
+21:01 < xzh> I am Chinese
+21:01 < yang_> ／／／
+21:01 <@s991533> hey guys, who is onlince now? raise your hand xD
+21:01 < tcstory> me too,my english is poor
+21:01 < Tmacy> I just saw the nitice on Weibo few minutes ago
+21:02 <@s991533> tcstory: that's fine
+21:02 < lollipop> Is it holding the meeting?
+21:02 < yang_> hi man your good  , shen me gui ???
+21:02 < tcstory> i come from sina weibo.........
+21:02 < sky_> = =
+21:02 < xzh> i come from weibo too
+21:03 < cxbii> Hello everybody, my name is cxbii, I deepin Community Manager
+21:03 < sky_> i'm using hexchat
+21:03 <@s991533> I am using irssi xD
+21:03 < lollipop> Oh, I can't click the window now
+21:03 < xzh> hello
+21:03 <@s991533> Hi cxbii 
+21:03 < Tmacy> I'm using Xchat
+21:03 < yang_> cxbii
+21:03 < acgtyrant> Hexchat.
+21:03 < tcstory> cxbii:  gan cui mian
+21:03 < yang_> gan cui mian
+21:03 < lollipop> Hello, cxbii
+21:04 < tcstory> i'm using deepin 2014.1
+21:04 <@s991533> what's `gan cui mian` means?
+21:04 < sky_> hardly understand gan cui mian
+21:04 <@s991533> is it chinese words?
+21:04 <@s991533> can't understand
+21:04 < Tmacy> Is anyone here come from other country?
+21:04 < yang_> you don't know 'gan cui mian '??
+21:04 < circ-user-3tVtv> 确定全程用英文了？ @cxbii
+21:04 < Tmacy> haha
+21:04 <@s991533> I come from Taiwan!
+21:04 < Tmacy> Taiwan .....
+21:05 <@s991533> yeah
+21:05 < yang_> shen me gui
+21:05 < sky_> i don't know what is 'gan cui mian'
+21:05 <@s991533> what's `shen me gui` mean?
+21:05 < xzh> My english is not very good
+21:05 < Tmacy> haha
+21:05 <@s991533> xzh: it's okay, me too
+21:05 <@s991533> just practice with each others :)
+21:05 < Tmacy> 干脆面。。。
+21:05 < huch> zai
+21:05 < lollipop> @cxbii Why not program an application just like KDE Open?
+21:05 < yang_> it's a qute animals
+21:06 <@s991533> okay
+21:06 < ArchStacker> s991533: http://gd2.alicdn.com/bao/uploaded/i2/16162027334617164/T1P4qAFdldXXXXXXXX_!!0-item_pic.jpg_400x400.jpg
+21:06 < xzh> what will talk about
+21:06 < tcstory> s991533:  gan cui mian is a instant noodles
+21:06 < sky_> kde open?
+21:06 <@s991533> xzh: anything about deepin
+21:07 < sky_> junck food ?
+21:07 < Tmacy> yes
+21:07 < huch> 都是国际友人的说。。
+21:07 < iceleaf> `gan cui mian` is a Chinese snack noodle, it's also a nick name for @cxbii in Chinese.
+21:07 < lollipop> And it can manage application association quickly.
+21:07 <@s991533> lollipop: you mean open source?
+21:07 < cxbii> lollipop, My English is not good, most of the problems will have to reply to my colleague for help. Sorry
+21:08 < xzh> I also think deepin needs to optimize memory operation
+21:08 <@s991533> xzh: agree
+21:08 < yang_> CUTE ANIMALS
+21:08 <@s991533> lollipop: you there? do you mean open source as KDE ?
+21:08 < hualet> xzh: we all know that, I think it's under progress now ;)
+21:09 < cxbii> xzh,
+21:09 < cxbii> We have been to optimize the system, please give us time, thank you
+21:09 < Tmacy> Is anyone in Deepin company
+21:09 < xzh> ok
+21:09 <@s991533> hualet: do you come from deepin developer team?
+21:09 < xzh> wo will wait for you
+21:09 <@s991533> Tmacy: cxbii 
+21:09 < hualet> s991533: yep
+21:09 <@s991533> hualet: okay, nice to meet you
+21:09 < cxbii> hualet  is the developer deepin movie
+21:10 <@s991533> oh cool
+21:10 < hualet> s991533: nice to meet you to, thank you for hosting this meeting ;)
+21:10 < sky_> wow~
+21:10 <@s991533> hualet: no problem
+21:11 <@s991533> Mocos: hi
+21:11 < xzh> i also think deepin is no good for developer
+21:11 <@s991533> hi nexpro 
+21:11 < lollipop> Is Crossover for Deepin free to other issues?
+21:11 < hualet> xzh: why's that ?
+21:12 <@s991533> xzh: Deepin is developed for the windows users xD
+21:12 <@s991533> hi yuhang 
+21:12 < xzh> Deepin integrated development environment should be some, such as sunjdk
+21:12 < hualet> ;)
+21:12 <@s991533> hi Wolkan 
+21:12 < xzh> Openjdk cannot be developed
+21:13 < yuhang> 不能说中国话吗
+21:13 < hualet> xzh:
+21:13 < lollipop> Oh, I can't click, now. X_X
+21:13 <@s991533> yuhang: English will be better
+21:13 < yang_> 可以
+21:13 < foob> yuhang: 不全是中国人
+21:13 <@s991533> yang_: no
+21:13 < cxbii> foob, 使用英文方便所有人的交流 ：）
+21:13 <@s991533> yeah
+21:13 < tcstory> qihu are about to release 360 for linux,
+21:13 <@s991533> use English please
+21:13 < foob> cxbii: OK
+21:13 < lollipop> It's a problem on Deepin
+21:14 <@s991533> lollipop: click on what?
+21:14 < tcstory> omg
+21:14 < huch> qihoo
+21:14 < sky_> xzh:open jdk is ok
+21:14 < lollipop> Windows
+21:14 < yang_> how do you think about of that 360 for linux
+21:14 <@s991533> lollipop: what's your deepin version?
+21:14 < xzh> but openjdk can't be uesd to develop Android
+21:14 < xzh> sunjdk is better
+21:15 <@s991533> hmmmmm ...
+21:15 < lollipop> 2014 RC 2
+21:15 < sky_> xzh: i build roms and apks via open jdk
+21:15 <@s991533> really?
+21:15 <@s991533> lollipop: every windows?
+21:15 < lollipop> Yes
+21:15 < cxbii> yang_, Now, we can not reply to this question, I'm sorry
+21:15 <@s991533> lol
+21:15 < hualet> ;)
+21:15 <@s991533> lollipop: what programs are running now?
+21:15 <@s991533> lollipop: I think I don't have that problem
+21:16 < lollipop> I think is a problem of compiz
+21:16 < sky_> eclipse and android studio work well by openjdk7
+21:16 <@s991533> lollipop: is this problem can be re-produced?
+21:16 <@s991533> sky_: +1
+21:16 < yang_> I think the 360 for linux is a good start
+21:16 < cxbii> lollipop, We will replace compiz, please wait
+21:16 < xzh> but if i try to make aosp or cm , it will have some problems
+21:16 < sky_> qihoo......
+21:17 < lollipop> Only once...
+21:17 <@s991533> yang_: really xDDDDDD
+21:17 < sky_> xzh: i build cm11 via openjdk7+openjdk6
+21:17 <@s991533> cxbii: is there a schedule for this change?
+21:17 < lollipop> but except flash for Firefox
+21:17 < xzh> but i can't use
+21:17 <@s991533> hmmmmm ...
+21:18 < hualet> s991533: in one version or two, i think
+21:18 < sky_> im a developer in FIUI which based on CM11
+21:18 < cxbii> s991533,  We plan to complete in deepin 2015
+21:18 <@s991533> sky_: CM is a very very good os for android
+21:18 < xzh> sky_ i can't use
+21:19 < yang_> s991533_ : that is a bold move
+21:19 < xzh> cm is very difficulty to make
+21:19 <@s991533> hi ahfahkfk 
+21:19 < cxbii> ahfahkfk,  hi
+21:19 < lollipop> It's a pity that Flash for Linux didn't update any more
+21:19 < ahfahkfk> hi
+21:20 < rav_> hi
+21:20 < xzh> fiui is only a theme on cm11
+21:20 < huch> like flyme
+21:21 < lollipop> I think Deepin Desktop Environment shouldn't depend too much on Gnome.
+21:21 < sky_> xzh: i dont want to explain it again and again
+21:21 <@s991533> lollipop: why?
+21:21 < xzh> #sky_ ok
+21:22 < lollipop> Because it's DDE not Gnome.
+21:22 < xzh> sky: but i think music on deepin should have online music
+21:23 < xzh> now the music only can linsten to local music
+21:23 < sky_> xzh: deepin music can play online music via plugins
+21:23 < cxbii> xzh, Soon after, we will have an online music
+21:23 < lollipop> And Gnome also doesn't fit Deepin Deepin Environment.
+21:23 <@s991533> I didn't try it yet
+21:23 <@s991533> cxbii: great!
+21:24 <@s991533> Don't know if you guys tri Deepin 2014.2 RC
+21:24 < sky_> xzh: if u want to play online musics you should enable douban fm and baidu plugins
+21:24 <@s991533> I think it is very beautiful xD
+21:24 < cxbii> lollipop, However, we have not rely gnome up
+21:25 < xzh> gnome always crash
+21:25 < Campanula> does deepin have the plan to rewrite the DDE in other program languages to make it faster than HTML5?
+21:25 <@s991533> hi liujianfeng mattewd 
+21:27 < liujianfeng> nobody say something?
+21:27 < cxbii> liujianfeng,  hi
+21:27 < Tmacy> I usually use chrome to listen to online muisc
+21:27 <@s991533> liujianfeng: hi
+21:27 < hualet> Campanula: we use HTML5 build the UI of DDE, not the entire project
+21:27 < sky_> Campanula: i dont think so
+21:27 < rav_> not being able to use 3G USB dongles is huge problem in our country because most of us use such devices
+21:28 < lollipop> Why not put dde-dock and dde-applet together?
+21:28 < sky_> rav_: i can use it
+21:28 < yanghy__> html5 performance on my PC is bad
+21:28 <@s991533> rav_: where are you from?
+21:28 < yanghy__> DDE
+21:28 < xzh> Deepin has not considered a server edition
+21:29 <@s991533> yanghy__: how's your hardware platform?
+21:29 < yanghy__> AMD
+21:29 < hualet> yanghy__: are you sure it has nothing to do with compiz?
+21:29 < xzh> dell
+21:29 < rav_> There is no way of adding in network manager and Deepin confirm that in Fb page too
+21:29 < yanghy__> I don't know, but other linux and compiz are very smooth
+21:30 < hualet> xzh: it's a long overdue plan...
+21:30 < cxbii> xzh,  We have a server version.
+21:30 <@s991533> yanghy__: AMD CPU? what's its model?
+21:30 < Tmacy> what 's they different
+21:31 < rav_> and still no plans for Mobile broadband I guess?
+21:31 < xzh> i will leave a minute ,i will change the system to windows
+21:31 <@s991533> see you xzh 
+21:31 < rav_> wonder anyway to install ubuntu network manager
+21:31 < yanghy__> Don't remember, just sent it back to my pareants few weeks ago
+21:32 < yanghy__> they are using windows 7 now...
+21:32 < liujianfeng> when will deepin build all the packages by itself, not using ubuntu's packages?
+21:32 < Tmacy> I am in windows 7 now
+21:32 <@s991533> liujianfeng: it's a very hard work
+21:32 < sky_> linux mint 17.2
+21:32 <@s991533> liujianfeng: even linuxmint built on ubuntu
+21:32 < liujianfeng> s991533: just as ubuntu did
+21:32 <@s991533> liujianfeng: it's very very hard ...
+21:33 <@s991533> you have to deal with all the things ...
+21:33 < sky_> liujianfeng: cant be true
+21:33 < yanghy__> But it's so bad that deepin lags a lot on my hardware while other linux are very smooth, so I think it must have somthing to do with html5
+21:33 <@s991533> even LinuxMintDebienEdition will drop their own debian repo
+21:33 < cxbii> yang_, Because compiz for unity optimized, resulting in not compatible with other desktop environments
+21:33 <@s991533> it's hard to maintain
+21:33 < liujianfeng> ubuntu built all packages by itself, not using debian's package
+21:33 < yanghy__> at that time I don't know it was using html5
+21:34 <@s991533> lollipop: hi man, are you there now? I think my firefox on Deepin 2014.2 works fine with flashplayer
+21:34 < lollipop> dde-dock takes up too much CPU load. http://thumbsnap.com/i/tn3s2FAf.png?1227
+21:34 <@s991533> let me see ...
+21:34 < hualet> yanghy__: plz see what cxbii said ;)
+21:35 < iceleaf> there are some driver problems for 3G USB dongles support, but we have a plan for Mobile broadband after release 2014.2
+21:35 < lollipop> @<s991533> But I can't click the Flash Setting
+21:35 < cxbii> lollipop, Please tell the system version? Thank you
+21:36 <@s991533> lollipop: let me try ...
+21:36 < cxbii> mattewd,  hi
+21:36 < lollipop> Deepin 2014 RC 2 with Compiz
+21:36 < yanghy__> anyway, good to see deepin is hard working on the usabily on linux
+21:36 < rav_> <iceleaf> but if you are based on ubuntu why not deepin doesn't support mobile broadband?
+21:37 <@s991533> lollipop: oh yeah, you are right
+21:37 <@s991533> BTW lollipop : http://imgur.com/E7BKvfb
+21:37 <@s991533> my dde-dock works fine, what's your processor?
+21:37 < yanghy__> But I still don't think a DE using html5 is a good idea...
+21:38 <@s991533> lollipop: my cpu is Intel(R) Core(TM)2 CPU          6420  @ 2.13GHz
+21:38 < iceleaf> there is a deepin-wm package for test probably when 2014.2 release
+21:38 < yanghy__> is hualet, huangjinhua?
+21:38 < yanghy__> huahua?
+21:38 < hualet> yanghy__: :O
+21:39 < yanghy__> am I right?
+21:39 < yanghy__> :)
+21:39 < Campanula> haha^_^
+21:39 <@s991533> hi brig 
+21:39 < hualet> yanghy__: Nope, WangYaohua in Chinese pinyin ;)
+21:39 < iceleaf> DDE's compiz is not the compiz in ubuntu
+21:39 < brig> hello :)
+21:40 < hualet> hi, brig
+21:40 < brig> hello
+21:40 < sky_> s991533: mine is intel core i5-2450m
+21:41 < yanghy__> hualet I see haha
+21:42 <@s991533> sky_: better then mine
+21:42 < yanghy__> why are you using English, I think most of us are chinese :)
+21:42 <@s991533> hi gth 
+21:42 < hualet> yanghy__: are you a developer or just a common deepin user?
+21:43 < yanghy__> I'm a developer, used to be a kernel developer, now working on QEMU/XEN
+21:43 < hualet> yanghy__: that'll be not that nice to our foreign friends :)
+21:43 <@s991533> hey lollipop, I think it's not deepin's problem
+21:43 < hualet> yanghy__: sounds cool
+21:43 <@s991533> lollipop: I try to click the setting on menu in firefox on linuxmint 17.1
+21:43 <@s991533> also can not click it
+21:44 < yanghy__> hualet, but I'm also a linux user
+21:44 <@s991533> lollipop: are you there?
+21:44 < cxbii> lollipop, This is flash problem.
+21:44 <@s991533> +1
+21:45 < hualet> yanghy__: there's a fan of deepin who's also a kernel developer, now preparing to publish a book about that, is that you?
+21:45 <@s991533> hi erhandsome 
+21:45 < hualet> yanghy__: of course ;)
+21:45 < yanghy__> hualet, not me? do you know the guys name?
+21:45 < yanghy__> not me
+21:45 < brig> I am just a common user, I use windows 8.1 on one computer, and Deepin 2014,2 on two of my old computers.  I have used many Linux OS, and Deepin is by far my favorite, for several reasons.  I am in US.
+21:46 < lollipop> No, I can click on Kubuntu, openSUSE or Fedora without Compiz.
+21:46 < Tmacy> nice to meet you
+21:46 < sky_> brig: Deepin is still unstable for me :p
+21:47 <@s991533> sky_: really?
+21:47 <@s991533> brig: cool
+21:48 < liujianfeng> joke: I am an opensuse user.
+21:48 < brig> have you tried 2014.2?  Also, maybe many people do not realize they can go the the preferences to automatically find the fastest connection.
+21:48 <@s991533> hi HuanLee1993 
+21:49 < HuanLee1993> Hi
+21:49 < lollipop> I find that the QT application notifies can't be shown on Deepin. :(
+21:50 <@s991533> hmmmm ... 
+21:50 <@s991533> lollipop: deepin should hire you as a tester xDDDD
+21:50 < hualet> yanghy__: he's called LMOS_KERNAL on Sina Weibo, but I have no idea what his name is in real world
+21:50 < cxbii> hualet is deepin movie developer, you can ask questions about the deepin movie.
+21:51 < brig> I would put Deepin on my windows 8.1 new computer, but windows has locked the ability to reboot into it.........and many linux OS.  I hope a solution is found to this problem .............
+21:52 < hualet> lollipop: what notifies?
+21:52 <@s991533> brig: you meant you can't reboot to another OS, right?
+21:52 < sky_> brig: u should disable fastreboot
+21:52 < Tmacy> in BIOS
+21:52 < yanghy__> hualet thanks, I searched about him, I think I don't know either
+21:53 < brig> I did disable that, still not able to reboot to a usb or disc other than windows.  Any help, suggestions, instructions MORE than welcome.........THANK YOU :)
+21:54 < hualet> yanghy__: np
+21:54 < cxbii> Campanula,  hi
+21:54 <@s991533> hi cubarco 
+21:54 < lollipop> Just like Clementine
+21:54 <@s991533> lollipop: ?????
+21:54 < Campanula> hi???in fact i am arthurdeepin
+21:54 < sky_> where u installed grub?
+21:55 < lxh112210> one?
+21:55 <@s991533> hi lxh112210 
+21:56 < cubarco> s991533: hi
+21:56 <@s991533> cubarco: where are you from?
+21:56 < Campanula> brig,can it show grub list when you boot?
+21:56 <@s991533> cubarco: I come from Taiwan
+21:56 < cubarco> s991533: I'm Chinese ;-)
+21:56 < Tmacy> maybe u should try EasyBCD
+21:57 < brig> I did find several videos on how to redo the settings in BIOS, but they do not say they are able to boot into any linux system, only latest UBUNTU as a dual bood........I am studying them, but not certain enough of my understanding to try it on my computer.
+21:57 < sky_> brig: if u installed grub in /dev/sda u can boot from grub but if u ind grub in /dev/sda* u should try easybcd
+21:57 <@s991533> brig: I think it's because of your boot loader, not bios, as sky_ said
+21:58 <@s991533> Tmacy: EasyBCD is a cool tool xD
+21:58 < Campanula> maybe it is the issue of the secure boot
+21:59 <@s991533> brig: did you try to disable secureboot?
+21:59 < brig> sky, at present my computer is 8.1 factory, with fastboot disabled.  How do I go about resetting my boot loader?  If you have time,to explain, I appreciate the help VERY MUCH
+21:59 < sky_> i installed win8.1+Linuxmint17.2
+21:59 < brig> yes, I did disable secure boot via the power button settings.
+21:59 <@s991533> brig: when you installing a linux distro, install it's boot loader on 'devide' like /dev/sda. not partition like /dev/sda*, as sky_ said
+21:59 < cxbii> If you still can not solve the problem, please go to our forum for help
+22:00 < lxh112210> gpt?
+22:00 < cxbii> We support GPT and mbr
+22:00 < sky_> i agree
+22:01 < yang_> I use gpt+uefi ,no problem
+22:02 < sky_> brig: maybe i can help u via remote help
+22:02 <@s991533> hi freddy4212 
+22:02 <@s991533> you are late xD
+22:02 <@s991533> sky_: nice man!
+22:02 < freddy4212> Sorry
+22:03 < cxbii> freddy4212, hi
+22:03 <@s991533> freddy4212: no problem, welcome to join us
+22:03 < freddy4212> Ok, let's talk
+22:03 < brig> looking into easybcd :)  Thank You ...that might help :)
+22:03 < lxh112210> i do not like gpt and efi,it is a trouble
+22:03 <@s991533> freddy4212: did you try 2014.2 RC? very nice xD
+22:03 < freddy4212> Yeah
+22:03 < freddy4212> But
+22:03 <@s991533> lxh112210: when you have a large disk ... you have to deal with it
+22:04 < cxbii> freddy4212, Welcome to comment
+22:04 <@s991533> brig: where are you from?
+22:04 < freddy4212> The first use tip is not good
+22:04 < brig> I am in United States
+22:04 < cxbii> freddy4212, Please elaborate more
+22:04 < sky_> s991533: i have 1TB flash disk and 640GB hard disk :D
+22:04 < lxh112210> us?
+22:04 <@s991533> freddy4212: I just skip it ...
+22:04 < freddy4212> First wizard
+22:05 <@s991533> sky_: not large enough xD
+22:05 <@s991533> brig: cool, nice to meet you
+22:05 < freddy4212> It is not good for use
+22:05 < brig> Thank You.....nice to meet all of you too :)
+22:05 <@s991533> brig: welcome to come here everyday xD
+22:06 < sky_> s991533: 1TB and 640GB are enough for me
+22:06 <@s991533> sky_: I mean the reason for using gpt xD
+22:06 < brig> I just found this discussion today from facebook lol's  I have it bookmarked now :)
+22:06 <@s991533> brig: sure
+22:07 <@s991533> hi webpowerteam 
+22:07 <@s991533> my memory is very large:
+22:07 <@s991533>              total       used       free     shared    buffers     cached
+22:07 <@s991533> Mem:     396915124   20870336  376044788          0     617264   15930676
+22:07 <@s991533> -/+ buffers/cache:    4322396  392592728
+22:07 <@s991533> Swap:      9217020          0    9217020
+22:08 < Campanula> the tips and operation mixed in the first guide so
+22:09 < Campanula> makes it not good to use,freddy?
+22:09 <@s991533> sky_: let me show you one of my raid xD
+22:09 < sky_>              total       used       free     shared    buffers     cached
+22:09 < sky_> Mem:       8077032    2649212    5427820      14896     392604    1355000
+22:09 < sky_> -/+ buffers/cache:     901608    7175424
+22:09 < sky_> Swap:      856213
+22:09 < sky_> s991533: T_T
+22:09 <@s991533> $ free -h
+22:09 <@s991533>              total       used       free     shared    buffers     cached
+22:09 <@s991533> Mem:          378G        19G       358G         0B       602M        15G
+22:09 <@s991533> -/+ buffers/cache:       4.1G       374G
+22:09 <@s991533> Swap:         8.8G         0B       8.8G
+22:10 < sky_> s991533: let me alone.
+22:10 < Campanula> a large swap,haha
+22:11 < zbw> I failed to install deepin on lenovo M495 which uses APU.
+22:12 < lxh112210> what is wrong
+22:12 < sky_>              total       used       free     shared    buffers     cached
+22:12 < sky_> Mem:          7.7G       2.5G       5.2G        14M       384M       1.3G
+22:12 < sky_> -/+ buffers/cache:       876M       6.8G
+22:12 < sky_> Swap:         8.2G         0B       8.2G
+22:12 < yang_> swap :8.2G ???
+22:12 <@s991533> one of my raid:
+22:12 <@s991533> sudo fdisk -l /dev/sdb
+22:12 <@s991533> Disk /dev/sdb: 56003.2 GB, 56003152314368 bytes
+22:12 <@s991533> 255 heads, 63 sectors/track, 6808662 cylinders, total 109381156864 sectors
+22:12 <@s991533> Units = sectors of 1 * 512 = 512 bytes
+22:12 <@s991533> Sector size (logical/physical): 512 bytes / 4096 bytes
+22:12 <@s991533> I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+22:12 <@s991533> Disk identifier: 0x00000000
+22:13 <@s991533> yang_: what's the problem with the size of swap @@?
+22:13 < lxh112210> i fu you
+22:13 < cxbii> leaeasy, 大神，说下话吧
+22:13 < lxh112210> in english
+22:13 <@s991533> free_:hi
+22:13 < free_> wa
+22:13 < nhnhwsnh> 没见到有人说话呢
+22:13 < free_> 竟然有人说话了
+22:14 < cxbii> nhnhwsnh, hi
+22:14 < yang_> s991533: i dont have swap
+22:14 < free_> 我的天
+22:14 < Campanula> I am talking ~
+22:14 < lxh112210> i never set up swap
+22:14 <@s991533> yang_: not good
+22:14 < free_> you can speak chinese?
+22:14 < yang_> s991533: only '/' '/home'
+22:14 < zbw> Why should we speak English instead of Chinese?
+22:15 < nhnhwsnh> english？
+22:15 <@s991533> yang_: swap will not be mounted
+22:15 < lxh112210> someone is us
+22:15 < zbw> OK
+22:15 < sky_> i need swap enough to build cm11
+22:15 < free_> 用深度翻译就行了吧==
+22:15 < free_> 哎
+22:16 < yang_> hi man ,ni ge diao mao
+22:16 <@s991533> yang_: only swapon, swapoff
+22:16 < nhnhwsnh> this chat room is so cool
+22:16 < Campanula> some one cannot understand chinese
+22:16 <@s991533> sky_: try zram, haha
+22:16 < leaeasy> Merry Xmas, the final release version of deepin 2014 will release soon. deepin 2014很快就会发布正式版
+22:16 <@s991533> sky_: sudo apt-get install zram-config
+22:16 <@s991533> another type of swap
+22:16 < hualet> hi, leaeasy
+22:16 <@s991533> leaeasy: we already have 2014, you meant 2014.2?
+22:17 < cxbii> leaeasy, 你终于说话了 ： ）
+22:17 <@s991533> hi nhnhwsnh 
+22:17 < free_> A cross compiler cm11
+22:17 <@s991533> hi lozzo_w 
+22:17 < free_> A cross compiler cm11？？？？
+22:17 < nhnhwsnh> hello everyone
+22:17 < free_> @sky？
+22:17 < lozzo_w> hi
+22:17 < free_> oh
+22:17 <@s991533>  A cross compiler cm11？？？？
+22:17 < nhnhwsnh> wc
+22:18 <@s991533> hi questionlee 
+22:18 < questionlee> hi..
+22:18 < free_> The sky people just
+22:18 < cxbii> leaeasy,  leaeasy is our package manager，do not you introduce yourself?
+22:18 < yang_> s991533:when ji partitin ,i dont give space to swap
+22:18 < questionlee> 大家好啊
+22:18 < cxbii> questionlee,
+22:18 < Campanula> →_→
+22:18 < lxh112210> s991533 is a robot?
+22:18 <@s991533> yang_: okay, you can use a swapfile
+22:18 < free_> 好像中国人有点少啊
+22:19 <@s991533> lxh112210: ... no
+22:19 < Campanula> hahahahahahaha
+22:19 <@s991533> yang_: do you know dd? use dd to creat a empty file, and make swap
+22:19 < lozzo_w> hahahhaha
+22:19 <@s991533> =,= ...
+22:19 < lxh112210> like
+22:19 < leaeasy> the dailylive link is http://cdimage.linuxdeepin.com/daily-live/current/ . close to the release version
+22:20 < nhnhwsnh> is there a chinese in this chat room
+22:20 < nhnhwsnh> ?
+22:20 < yang_> s991533: dd if=/home/swapfile of=/dev/null .....
+22:20 < lozzo_w>  here
+22:20 <@s991533> nhnhwsnh: many, but we use English here
+22:20 < leaeasy> hack happily
+22:20 < lxh112210> me
+22:20 < questionlee> 这个可以有
+22:20 <@s991533> yang_: wrong direction
+22:20 < free_> Chinese rarely?？
+22:20 < lxh112210> yes
+22:21 < hualet> nhnhwsnh: the most of us :)
+22:21 < free_> oh
+22:21 < yang_> s9991533:thank you
+22:22 <@s991533> no problem
+22:22 < free_> This is China release ah==So little Chinese
+22:22 < nhnhwsnh> what are you talking ahout?
+22:22 < nhnhwsnh> linux deepin?
+22:22 < free_> yes
+22:23 < lxh112210> the title is deepin
+22:23 < nhnhwsnh> why donot you speak chinese?
+22:23 < free_> oh What did I say?
+22:23 <@s991533> nhnhwsnh: we use English here
+22:24 < free_> I'm afraid you cannot read.
+22:24 <@s991533> free_: what's "So little Chinese" mean here?
+22:24 < nhnhwsnh> yes  my english is so poor
+22:24 < sky_> cxbii: how long can solve the problem in nvidia-prime
+22:24 <@s991533> nhnhwsnh: no problem
+22:25 < yang_> free_: what's "So little Chinese" mean here?
+22:25 < freddy4212> Hihi
+22:25 < cxbii> sky_,  We should be able to solve the deepin 2015...
+22:25 < nhnhwsnh> how many people now?
+22:25 < free_> Google translation and you chat, my English is very poor.
+22:25 < freddy4212> 2015?
+22:25 < safaariman> hi everyone. I would like to add compiz plugins (such as cube desktop and wobbly windows) to my computer while dde is based on compiz. is there a way to do that without damage dde?
+22:25 < lxh112210> about optimus?
+22:25 < cxbii> freddy4212, yes
+22:25 <@s991533> hey guys, thank you for join this IRC meeting here, I think it's time to end it, but you can still talk anything about linux on this channel, anytime, thank you all!
+22:26 < nhnhwsnh> meeting is over?
+22:26 < sky_> cxbii: thx
+22:26 < freddy4212> I forget the metting :'(
+22:27 < nhnhwsnh> thx
+22:27 < cxbii> freddy4212, We also have the next
+22:27 < lxh112210> ⊙▽⊙
+22:27 < yang_> i'm the first time to talk in irc.
+22:27 < nhnhwsnh>  bye
+22:27 < free_> What do you mean??
+22:27 < freddy4212> And what is 2015?
+22:27 <@s991533> nhnhwsnh: yeah, but you can still talk anything about linux on this channel
+22:27 < nhnhwsnh> me too
+22:27 <@s991533> nhnhwsnh: anytime
+22:27 <@s991533> yang_: you can talk to us here every day
+22:27 < yang_> en
+22:28 < lxh112210> we can say zh
+22:28 < yang_> ni ge diao mao
+22:28 < questionlee> http://tiny.cc/deepinIntl   ?
+22:28 < nhnhwsnh> thx , this is a very cool chat room     , this is my first time to talk in irc too
+22:29 < questionlee> http://tiny.cc/deepinIntl  打不开啊
+22:29 < lxh112210> FQ?
+22:29 < free_> Rarely see IRC chat there so much
+22:29 < free_> 是不是被。。
+22:30 <@s991533> ??
+22:30 < free_> 墙。。。。了
+22:30 <@s991533> xDDDD
+22:30 < freddy4212> Really?
+22:30 <@s991533> I don't think so
+22:30 < sky_> vpn
+22:30 < questionlee> 我搭梯子了啊
+22:30 < free_> I think it is
+22:31 < webpowerteam> Hello guys... :-)
+22:31 < free_> 梯子是不是被墙了？
+22:32 < lxh112210> 梯子就是翻墙的呀
+22:32 < free_> Is this some kind of standoff?
+22:33 < free_> 哈哈，我只是想，是不是买vpn的那个官网也被墙了
+22:33 < questionlee> 你们打得开 http://tiny.cc/deepinIntl ？
+22:33 < questionlee> fc 我打开了啊
+22:33 < sky_> questionlee: i can open it
+22:33 < sky_> questionlee: if u are in Zh_CN u must need a vpn :p
+22:34 < questionlee> yeah
+22:35 < free_> 我也进的去
+22:35 < free_> I went to ah
+22:35 < brig> I enjoyed the discussion very much....Thank You!  I look forward to others :)
+22:38 <@s991533> so many people still here, haha
+22:38 <@s991533> 22:38 [Users #deepin]
+22:38 <@s991533> 22:38 [@ChanServ   ] [ cubarco     ] [ ferran_away] [ gth     ] [ lozzo_w    ] [ tmh_        ]
+22:38 <@s991533> 22:38 [@s991533    ] [ cxbii       ] [ foob       ] [ haroldwu] [ Mocos      ] [ webpowerteam]
+22:38 <@s991533> 22:38 [ acgtyrant  ] [ dantmnf     ] [ frecel     ] [ hualet  ] [ nexpro     ] [ Wolkan      ]
+22:38 <@s991533> 22:38 [ ArchStacker] [ erhandsome  ] [ freddy4212 ] [ ldeepin ] [ questionlee] [ yang__      ]
+22:38 <@s991533> 22:38 [ Campanula  ] [ erhhjfgjdfgj] [ freddy4212_] [ leaeasy ] [ safaariman ] [ yanghy__    ]
+22:38 <@s991533> 22:38 [ Communi6161] [ felixonmars ] [ free_      ] [ lollipop] [ sky_       ] [ ypwong      ]
+22:38 <@s991533> 22:38 -!- Irssi: #deepin: Total of 36 nicks [2 ops, 0 halfops, 0 voices, 34 normal]
+22:39 < free_> what//
+22:39 < free_> ?
+22:40 <@s991533> so many people in this channel haha
+22:40 < hualet> this scene should be continued ;)
+22:40 <@s991533> sure
+22:41 < hualet> s991533: when's the next time of this kind of meeting?
+22:41 < free_> Is technology curtilage ==
+22:42 <@s991533> hualet: I'm not sure, I'll discuss with cxbii
+22:42 < free_> ==
+22:44 < hualet> s991533: alright, thank you ;)
+22:45 < cubarco> wow, rarely see chinese in IRC channels
+22:45 <@s991533> hualet: no problem
+22:45 < sky_> there are a lot of chinese.
+22:45 <@s991533> cubarco: yes
+22:45 < free_> IRC for Chinese too cold.
+22:46 < Campanula> in fact there are many Chinese who just speak in English
+22:46 < cubarco> Campanula: you mean it haha XD
+22:46 < free_> Once encountered a very embarrassing Shiqing
+22:47 < free_> 加1
+22:47 < lozzo_w> 加1
+22:47 < free_> hahahaXD
+22:48 < isunny> hello
+22:48 < free_> Once the beautiful clothing lol, I asked a sentence has no one will say Chinese, got four words will not +1
+22:49 < sky_> s991533: i sent sms to a foreign friend,but I  dont know its expensive.T_T
+22:50 < isunny> i think the gedit in deepin2014rc2 is ugly
+22:50 < foob> bye all
+22:50 < cubarco> sky_: how much did it cost?
+22:50 < gmg> 我是不是来晚了？
+22:50 < sky_> sublime-text
+22:50 < Campanula> yes
+22:51 < free_> 没有
+22:51 < free_> ==
+22:52 < Campanula> it goes on still you go to bed ^_^
+22:52 < free_> How much do you Baidu Post Bar ID ah
+22:52 < isunny> deepin terminal 's icon is very nice
+22:52 < sky_> cubarco: 50￠/tip
+22:52 < gmg> 都聊什么呢？话说老外是不是刚起床呀！
+22:52 < free_> 不知道
+22:53 < free_> 大家中国人的贴吧id多少啊。
+22:53 < free_> 眼熟眼熟
+22:53 < gmg> 不在一个时区，这会怎么开？
+22:53 < cubarco> 不玩贴吧（
+22:54 < Campanula> shy to show the ID
+22:54 <@s991533> sky_: oh, will be very expensive
+22:54 < isunny> if all Chinese Language floods the screen ,why not talk use qq than irc
+22:54 <@s991533> gmg: yes, you are late xD, it's over now
+22:54 < free_> 程序员本来就是和常人差一个时差啊。。刚好和us一个时差
+22:55 < cubarco> 2333
+22:55 < free_> In fact, very like forum, but in China, forum has been in decline
+22:55 < sky_> s991533: yep,its expensive=_=
+22:56 <@s991533> free_: no, it's different
+22:56 <@s991533> forum it's not real time
+22:57 < gmg> 官方的人不是都睡觉去了？？难道就这么瞎侃下去？
+22:57 <@s991533> and Chinese people don't like to use irc
+22:57 <@s991533> gmg: meeting it's over
+22:57 < Campanula> cxbii still online
+22:57 < free_> But you can always look at the previous comments and tutorial
+22:57 <@s991533> ping cxbii 
+22:57 < sky_> gmg: they are wring code,maybe
+22:57 <@s991533> free_: not on irc, but forum
+22:57 < Uhaw> .
+22:57 <@s991533> free_: no threads on irc like forum
+22:58 <@s991533> even no archive if you don't save it
+22:58 < ldeepin> qq
+22:58 < sky_> s991533: telnet cxbii 443 :D
+22:58 <@s991533> strange =,= ...
+22:59 < free_> Once taught my Philippines girlfriend, learning to use QQ, the process is painful
+22:59 < sky_> frecel: my friend addizle like to use QQ
+23:00 < free_> us?
+23:00 < sky_> yes
+23:00 < free_> IRC how to enter other chat room?
+23:01 < free_> I have only a few Japanese QQ users
+23:01 < sky_> #channel
+23:01 < free_> #channel
+23:01 <@s991533> free_: what's your irc client?
+23:02 < sky_> = =
+23:02 < free_> hexchat
+23:02 < cubarco> type /join #channel
+23:02 < cubarco> ummmm...
+23:02 < free_> thank
+23:02 < cubarco> how did you join this channel any way
+23:03 < cubarco> s/any way/anyway/
+23:04 <@s991533> hi free_ 
+23:04 <@s991533> hi freddy4212 
+23:04 <@s991533> sorry free_ xD
+23:04 < free_> ==
+23:04 < free_> ==|
+23:05 < sky_> ha_ha
+23:05 <@s991533> hi freddy4212_ 
+23:06 < sky_> s991533: i'm using nvidia vga how about u
+23:06 <@s991533> sky_: internal graphic xD
+23:06 < sky_> deepin cant switch vga so sad
+23:06 < ttttttttest> hi
+23:07 < freddy4212_> hi
+23:07 < free_> #linux
+23:08 < freddy4212_> tomorrow there will update https://github.com/linuxdeepin/deepin-irc-log/blob/master/20141227
+23:08 < freddy4212_> today's meeting log
+23:08 < sky_> 404 not found =.=
+23:09 < freddy4212_> haven't updated
+23:09 <@s991533> free_: not yet ...
+23:09 < free_> haha
+23:09 <@s991533> sorry free_, I meant freddy4212_ ...
+23:09 <@s991533> freddy4212_: not yet ...
+23:10 < free_> ==
+23:10 <@s991533> hi ferran_away 
+23:10 < freddy4212_> s991533
+23:10 <@s991533> hmmm
+23:11 < freddy4212_> s991533 the text not in red
+23:13 < Campanula> I am going to bed,bye everyone
+23:15 < sky_> im going to bed ,see u
+23:24 < lollipop> This is the application which I want. http://www.linuxmint.com/pictures/screenshots/petra/thumb_nemo_mime.png
+23:34 <@s991533> lollipop: that's useful
+23:38 < lollipop> Yes
