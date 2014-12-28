@@ -1,0 +1,128 @@
+00:26 < jcoleman> Hello
+00:26 < felixonmars> hi
+00:26 < jcoleman> Who on here? From Deepin?
+00:27 < felixonmars> or uses deepin, or maybe just interested in deepin, who knows :P
+00:54 < OhYash> Hi
+00:54 < OhYash> is the conference over?
+00:57 < Guest78882> 123
+00:57 < OhYash> 456
+01:59 < Guest88730> not much activity here
+02:26 < SergioAD> Hello
+02:27 < SergioAD> I am a new Deepin 2014 user, I have used Deepin 2012 - 2013.2 and my favorite one was the Deepin 2013.X series
+02:28 < SergioAD> so you can imagine that my favorite desktop layout was the Windows like one
+02:29 < SergioAD> I am using it on 2014.2 RC thanks by adding it back as an alternative desktop
+02:29 < SergioAD> but I have three questions
+02:30 < SergioAD> 1.- why GNOME 3.8 instead of the 3.12 - 3.14?
+02:31 < SergioAD> 2.- why the Ubuntu base? why not a Fedora / openSUSE tumbleweed / Manjaro / Debian base?
+02:33 < SergioAD> 3.- why your GTK 2 theme is quite diferent to the GTK 3 one?
+02:34 < SergioAD> these are my general questions
+02:35 < SergioAD> oh a fourt one, wich Ubuntu version are you using?
+02:35 < SergioAD> the LTS?
+02:43 < SergioAD> finally a fift (pardon me by the last two) why you dropped WPS as your default office suite?
+06:33 < SergioAD> Hello
+08:04 < niugao> 请问有人知道， deepin2014.2 啥时候发布么？？
+08:04 < niugao> 正式版
+13:47 < frecel> s991533: what is your dock called? I'm trying to find the source for it on github
+14:09 < hualet> hi s991533, still there, huh? ;)
+14:14 < frecel> hualet: are you using Deepin?
+14:14 < hualet> frecel: yeah, of course ;)
+14:15 < frecel> hualet: would you recommend it?
+14:16 < hualet> definitely yes ;)
+14:17 < frecel> hualet: do you live in china? It looks to me like this os is mostly meant from people in China and Taiwan
+14:19 < hualet> frecel: yeah, I'm Chinese. but the os's not meant to target only Chinese and Taiwanese
+14:20 < hualet> frecel: where are you from ?
+14:20 < frecel> hualet: Canada
+14:21 < hualet> frecel: do you know that Deepin's from China?
+14:22 < frecel> hualet: It's kind of hard to miss that fact :D
+14:22 < frecel> hualet: if you browse the wiki most pages are in chinese
+14:23 < hualet> there's much internationalization and localization work to be done for Deepin, indeed
+14:24 < hualet> frecel: yeah ;)
+14:26 < frecel> hualet: I'm considering switchin to deepin for the project that I'm trying to make
+14:26 < frecel> hualet: https://docs.google.com/document/d/19Eqpkec3ey236dEEWRNFWLZfRBdsfXLs2rBbeXlGN7E/edit?usp=sharing
+14:29 < hualet> frecel: I didn't get it
+14:30 < frecel> hualet: basically the project is to form a group of people who will all use a single Linux distro and help improve it
+14:30 < frecel> hualet: but the priority is to help people in the group
+14:31 < hualet> frecel: that's great! the Deepin community needs your help ;)
+14:31 < frecel> hualet: yea, I'm just having a hard time talking people into joining
+14:31 < hualet> how many people do you get? or it's just a plan for now?
+14:33 < hualet> frecel: send a mail to chenxiangbang@linuxdeepin.com, he's the manager of the forum of Deepin, maybe he'll help ;)
+14:33 < frecel> hualet: for now it's just me and one other guy
+14:34 < frecel> hualet: the problem is that a lot of people don't want to move away from their favourite distro or even desktop environment
+14:36 < hualet> frecel: that's indeed a problem
+14:37 < frecel> hualet: that's why I figured we should get a group of people and then vote on which operating system we should use, I would vote for Deepin
+14:38 < frecel> hualet: are you a Deepin developer or just a user?
+14:38 < hualet> I'm a developer of Deepin, for now, I'm in charge of the DMovie project ;)
+14:39 < frecel> hualet: do you work for Wuhan or are you just a community dev if you dont mind me asking?
+14:40 < hualet> frecel: I think you should probably join the Deepin community and help the people there
+14:41 < hualet> frecel: working at WuHan
+14:45 < frecel> hualet: I like what you guys do, I'm downloading deepin now and I will install it on my laptop today
+14:46 < frecel> hualet: how does deepin handle multiple monitor setups? I have two screens and I find that a lot of linux distros have a problem with that
+14:49 < hualet> frecel: I don't use two screens very often, but I tried for about 2-3 times, no problem, you can try it yourself XD
+15:39 <@s991533> good afternoon
+15:39 <@s991533> hi arthur____ 
+15:39 < arthur____> hi  !
+15:40 <@s991533> long time no see, arthur____ 
+15:41 < arthur____> yes
+15:41 <@s991533> arthur____: you didn't join us onlince conference last night xD
+15:41 < arthur____> was busy travelling
+15:41 <@s991533> oh cool, where are you going?
+15:41 < arthur____> I was online though
+15:42 < arthur____> just to the shops to refil stuff :P
+15:43 < arthur____> moving out of house is travelling for me nowadays
+16:28 <@s991533> arthur____: did you try deepin 2014.2 rc?
+16:42 < dadix> hello
+16:42 <@s991533> hi dadix 
+16:42 < dadix> how you doing?
+16:43 <@s991533> I'm fine
+16:43 < dadix> merry christmas
+16:44 < dadix> where do you from?
+16:46 <@s991533> merry christmas
+16:46 <@s991533> I come from Taiwan
+16:48 < dadix> are you a developer?
+16:51 <@s991533> for what? deepin?
+16:56 < dadix> in general, not for deepin
+17:06 < dardevelin> hi
+17:23 <@s991533> hi dadix 
+17:23 <@s991533> dadix: yes
+17:24 <@s991533> hi dardevelin 
+17:25 < dardevelin> how is everyone. first around here. haven't used deepin yet but am looking around as I feel that it might be what we end up choosing for our project.
+17:25 < dardevelin> perhaps you knows this from frecel.
+17:27 <@s991533> frecel? 
+17:27 < frecel> s991533: thats me
+17:27 < frecel> s991533: I just installed Deepin on my laptop
+17:28 <@s991533> okay
+17:28 < frecel> s991533: do you have a bug tracker or should I just file bugs on github?
+17:30 <@s991533> me? for what?
+17:31 <@s991533> frecel: are you asking bug tracker for deepin?
+17:31 < frecel> yes
+17:31 <@s991533> github will be fine
+17:31 < dadix> the bug tracker is on site
+17:31 <@s991533> frecel: https://github.com/linuxdeepin
+17:31 <@s991533> open an issue on the projects
+17:33 < dadix> www.linuxdeepin.com/mantis/my_view_page.php
+17:33 < arthur____> s991533: no
+17:34 <@s991533> ha
+17:34 < frecel> I guess that works better
+17:35 < dadix> do you have some news about Deepin 2015?
+17:36 < frecel> I installed 2014.2 RC and found a bug within 5 minutes :D
+17:36 < frecel> I really liked the installer though
+17:39 <@s991533> dadix: no, but 2014.2 will coming soon
+17:40 < dadix> i read about 2015 version will have Gala window manager instead of Compiz
+17:42 <@s991533> yeah
+19:22 <@s991533> hi chaojun 
+19:23 < chaojun> hi!
+19:27 < chaojun> I'm a new player.
+19:28 < chaojun> Just play, like Deepin Style.
+22:23 < hualet> hello guys, anybody wants to chat? ;)
+22:31 <@s991533> hey arun_ 
+22:31 <@s991533> you missed our online meeting xD
+23:46 <@s991533> hi cubarco 
+23:46 < cubarco> s991533: hi
+23:46 <@s991533> ^^
+23:46 < cubarco> s991533: I got some trouble while coding
+23:47 <@s991533> oh? which programming language?
+23:47 < cubarco> C
+23:47 < cubarco> shall we talk about it?
+23:48 <@s991533> up to you, don't know if I can help, maybe others can help you, haha
+23:56 < cubarco> someone else has solved my problem
+23:56 < cubarco> thanks anyway
