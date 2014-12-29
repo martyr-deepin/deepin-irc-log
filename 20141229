@@ -1,0 +1,261 @@
+00:02 <@s991533> no problem
+01:05 <@s991533> fg
+02:47 < frecel> s991533: did you guys develop your own dock from scratch or is this a fork of another project?
+02:47 <@s991533> frecel: never
+07:31 < arun> hi all
+07:31 < arun> s991533:
+16:20 < dardevelin> out of curiosity what is the mission statement of «deepin»
+16:20 < dardevelin> s991533, ^
+16:23 <@s991533> dardevelin: ?
+16:24 < dardevelin> s991533, sorry, I mean, I know there is the distro and that there is a company
+16:24 <@s991533> hmmmm.
+16:25 < dardevelin> I know that the company 'sells services' related to linux and deployment, but I know nothing about 'for the distro' what is the intended vision
+16:25 < dardevelin> example ubuntu wants to be a desktop OS, while they also have support and services for services.
+16:26 < dardevelin> redhat wants to have servers and fedora branch does research on 'workstation' machines
+16:26 < dardevelin> were there is minimal get out of the way tool for the business apps.
+16:27 < dardevelin> OpenSuse wants to be a place where companies can come together without exposing their 'particular' business but still contribute back and get features from the community
+16:27 < dardevelin> debian wants to be a universal operating system, pretty much make a soup of all that is out there in a consistent manner
+16:27 < dardevelin> as for deepin, i have nothing :/
+16:28 < dardevelin> what is the vision/goal
+16:28 < dardevelin> s/services for services/services for servers/g
+16:29 < dardevelin> s991533, _
+16:30 <@s991533> deepin is for all the non-geek user
+16:30 <@s991533> make linux easier for them
+16:32 < dardevelin> sorry I do have to ask, is this the vision of deepin the company as well, or the community ?
+16:32 < dardevelin> is there any roadmap somewhere ? as someone wanting to contribute, how could one 'say, see what needs doing'
+16:33  * dardevelin apologizes for his broken english
+16:36 < dardevelin> s991533, ^
+16:37 <@s991533> there is a company working on deepin
+16:37 <@s991533> you can contribute on github or gitcafe
+16:37 <@s991533> raodmap is not public for now, will be public in future
+16:38 < dardevelin> s991533, what is the 'official stance' of the company on 'free software/open source'
+16:39 < dardevelin> some companies think it 'matters as technical decision' other think is more of an ideological/moral decision
+16:39 < dardevelin> I mean, is 'deepin' committed in always _reverting_ to FOSS or some potential lock on segments/sections/all ?
+16:42 <@s991533> I'm not sure ...
+16:42 <@s991533> dardevelin: you can ask hualet, he is a official developer of deepin
+16:43 < dardevelin> s991533, my apologies, I have only spoken to you as I feel (from observation) you tend to be the most active in IRC
+16:43 < dardevelin> s991533, so are you a contributor as well, just a follower/member/user ?
+16:43 <@s991533> kind of contributor, also user
+16:44 < dardevelin> hualet, whenever you are available, i would appreciate if you said something. Thanks in advance
+17:24 <@s991533> hi hualet 
+17:24 <@s991533> are you there?
+17:24 < hualet> hi, s991533 yeah
+17:25 <@s991533> dardevelin: is looking for you :)
+17:25 <@s991533> hualet: dardevelin is looking for you :)
+17:25 < dardevelin> hualet, hi
+17:25 < hualet> just left for a moment ;)
+17:25 < dardevelin> indeed I am.
+17:25 < dardevelin> s991533, told you are one of 'the deepin company' developers
+17:26 < hualet> dardevelin: yeah, I just saw your chat
+17:26 < dardevelin> and I am looking to understand a little bit more on how the company wants to have the project playing out. from a mission statement to process. yeah
+17:26 <@s991533> -> Wuhan Deepin Technology Co.,Ltd.
+17:29 < dardevelin> s991533, i got that info from the site and even checked the company's registry
+17:29 < hualet> dardevelin: we are a company that devoted to build a Linux Distro that every common people can use easily, but the service that we provide will be targeting the government or some companies like that
+17:31 < dardevelin> as for a roadmap and how one can lets say as a contributor come to 'influence' the path. are there any provisions on how it could happen ?
+17:31 < dardevelin> hualet, ^
+17:31 < dardevelin> by the way I will take a couple minutes to reply, got a phone call. sorry.
+17:36 < hualet> dardevelin: the problem is that we are really out of lack of staff, so there's a lag building the community, indeed
+17:37 < hualet> dardevelin: you a developer?
+17:45 <@s991533> hualet: I guess so
+17:47 < hualet> s991533: so he wants to contribute to out projects, right?
+17:48 <@s991533> hualet: yeah
+18:01 <@s991533> ping dardevelin @@
+18:01 < hualet> dardevelin: I'm off work and going home now, glade that you want to contribute, you can reach me at mr.asianwang@gmail.com if you need, bye ;)
+18:37 < dardevelin> back
+18:38 < dardevelin> oh sorry. had to take care of that client
+19:04 <@s991533> dardevelin: where are you from?
+19:06 < dardevelin> s991533, I am Portuguese.
+19:06 < dardevelin> You ?
+19:07 <@s991533> dardevelin: Taiwan
+19:13 < dardevelin> ;)
+19:26 <@s991533> dardevelin: I'll respectfully suggest you and your team start from here: https://www.transifex.com/organization/linuxdeepin
+19:28 <@s991533> the fast way, and can surely make a better user experience for Portuguese users
+19:29 < dardevelin> s991533, I know that. the idea behind the work group is the following
+19:29 < dardevelin> distributions lack man power
+19:29 < dardevelin> and have their goals and visions.
+19:30 <@s991533> okay, I got your point
+19:30 <@s991533> what do you think about Deepin?
+19:31 < dardevelin> we as advanced users, tend to have our own priorities. so we will try to _from within the group_ improve our experience while we think the side effect will be the distro will improve.
+19:31 < dardevelin> translation is definitely a thing we intend to do. but again, it needs to part from the group work. as we do work for each others and submit upstream
+19:31 < dardevelin> we are still evaluating which distribution we will contribute too
+19:31 < dardevelin> hence all the questions we have been making
+19:32 < dardevelin> also we are not all from the same country, so yes, improving portuguese is definitely something I can do but not necessarily something we all can do.
+19:32 < dardevelin> most of us are developers.
+19:33 < dardevelin> s991533, deepin so far seems to have an elegant UI and seems to be creating something (visually different) from the other distros. That is in itself interesting, however we have to evaluate the rest as it will play a major role when deciding
+19:34 <@s991533> sounds interesting
+19:40 < dardevelin> :)
+19:41 <@s991533> dardevelin: do you have a github account?
+19:41 <@s991533> or your group
+19:41 <@s991533> I am interested to see the projects you are helping
+19:43 < dardevelin> s991533, this particular group is only starting out. my github account is not the best representative of my contributions. and the group itself is fairly new
+19:43 < dardevelin> but go ahead and have a look at https://github.com/dardevelin
+19:43 <@s991533> dardevelin: thanks
+19:43 < dardevelin> we will establish an organization in github when we decide on a distro
+19:43 <@s991533> good
+19:44 <@s991533> how many people are in your group?
+19:44 < dardevelin> so far about 4
+19:46 < dardevelin> some people have 'strict' criteria for the distro selection
+19:46 < hualet> hi dardevelin, s991533 ;)
+19:46 < dardevelin> hualet, heyia, welcome back
+19:46 < hualet> dardevelin: what about you ?
+19:47 < dardevelin> I am back. sorry for taking some time when I told you i had a call
+19:47 < dardevelin> had to answer a client.
+19:47 < hualet> dardevelin: never mind ;)
+19:48 < hualet> dardevelin: so I heard that you want to contribute to our project?
+19:48 <@s991533> ih hualet 
+19:48 <@s991533> dardevelin: so how do you know each others? classmate?
+19:49 < dardevelin> s991533, as an example: https://github.com/dardevelin/Go-For-It this is an app where you only see a single commit of my own
+19:49 < dardevelin> when I am more like 'his mentor'
+19:49 < dardevelin> at least on those technologies
+19:49 <@s991533> hmmmm ...
+19:50 < dardevelin> s991533, common interest. ever heard of jupiterbroadcasting ?
+19:50 <@s991533> no
+19:50 < dardevelin> difficult to be classmates (being all from different countries) :)
+19:50 < dardevelin> http://jupiterbroadcasting.com/
+19:55 <@s991533> haha xD
+19:55 < hualet> dardevelin: a fan of elementry OS?
+19:55 < dardevelin> hualet, who ?
+19:56 < hualet> the author of Go-For-It
+19:56 < dardevelin> hualet, yes and no. he likes things that look good and and is the OS he uses at the moment. thus made the app in such a away that integrates well with it
+19:57 < dardevelin> https://www.youtube.com/watch?v=mnw556C9FZQ
+19:57 < dardevelin> well the video is on the home page, so I assume you have already seen it
+19:58 < hualet> dardevelin: It looks cool, and I'm a bit fond of it ;)
+19:59 < dardevelin> hualet, why is deepin creating it's own thing instead of 'combining efforts' ?
+19:59 < dardevelin> need to have control or wanting something really different ?
+20:02 < hualet> dardevelin: you know, some of the open source communities are not very kind, we used to summit some bugs to them, but they refused to fix them
+20:02 < dardevelin> hualet, I see.
+20:02 < dardevelin> did they provided reasoning on why they wouldn't ?
+20:03 < dardevelin> have you guys tried to submit bug reports ?
+20:03 < hualet> and yes, sometimes we need more control to achieve some very difficult goals ;)
+20:03 < dardevelin> makes sense
+20:03 < dardevelin> sorry
+20:03 < dardevelin> i meant submit code*
+20:04 < dardevelin> not bug reports. sometimes I think something and type another ... muscle memory
+20:04 < hualet> dardevelin: haha, it's OK
+20:04 < hualet> some of us did
+20:05 < dardevelin> I see.
+20:06 < hualet> dardevelin: do you participate open source projects much?
+20:06 < dardevelin> not as much as id like
+20:07 < hualet> ;)
+20:09 < dardevelin> id love to do it full time. but not always possible
+20:10 < dardevelin> are you also from taiwan ?
+20:10 < dardevelin> hualet, ^
+20:11 < hualet> dardevelin: nope,  China mainland ;)
+20:11 < dardevelin> ah
+20:11 < dardevelin> :)
+20:12 < hualet> what? ;)
+20:12 < dardevelin> just acknowledgement
+20:12 < dardevelin> as understood
+20:15 < hualet> dardevelin: English is your mother tongue?
+20:16 < dardevelin> no. portuguese is. english is second. spanish, italian and french are just elementary level
+20:16 < hualet> wow, you mean you speak all these languages?
+20:17 <@s991533> cool
+20:17 <@s991533> hey hualet, I just saw gmail been blocked in mainland china, do you use it via vpn? haha
+20:18 <@s991533> cause you leave your gmail, not deepin's mail address
+20:19 < dardevelin> I speak portuguese and english. I can understand and scratch some spanish and italian. french is really hard for me to construct sentences of my own
+20:19 < dardevelin> however the later 3 I can read them fairly decently
+20:19 < dardevelin> I am fluent in pt and en though
+20:20 < hualet> s991533: every programmer need a vpn account to survive...
+20:20 <@s991533> hualet: xDDDD
+20:20 < hualet> s991533: it's essential ;)
+20:20 < dardevelin> hualet, is the company yours or you just work for the company ?
+20:21 <@s991533> yeah, you are right
+20:21 <@s991533> dardevelin: not his, haha
+20:21 < dardevelin> if selling to gov is the intention how do you feel they will feel about foreign contributors ?
+20:21 < hualet> dardevelin: of course not, I'm not than kind of guy who's able to rule many people ;)
+20:22 < dardevelin> no harm intended. just trying to know your level of impact within the company
+20:23 <@s991533> hualet: you may want to talk to manateelazycat
+20:24 < hualet> dardevelin: np, since it's totally open source, so it's ok if there's foreign contributors
+20:24 <@s991533> but he rarely comes here
+20:24 < hualet> s991533: do you know manateelazycat?
+20:25 <@s991533> yeah, your boss, right?
+20:25 < hualet> s991533: he's too busy
+20:25 <@s991533> very busy man
+20:25 < hualet> yeah, my boss, but he's very kind and sometimes childish, haha
+20:26 < hualet> s991533: I used to go to his home and watch some movies ;)
+20:26 <@s991533> oh cool
+20:27 < hualet> s991533: ever planned a travel here?
+20:27 < hualet> sorry, to here...
+20:27 <@s991533> no, not yet
+20:28 <@s991533> been there before
+20:28 <@s991533> once
+20:28 < dardevelin> how many developers worn on deepin ? if I may know
+20:28 <@s991533> work?
+20:28 < dardevelin> yes. lol
+20:28 < hualet> s991533: like here or not? ;)
+20:29 <@s991533> hualet: I like it, haha
+20:29 < dardevelin> s/worn/work/
+20:29 < hualet> s991533: you lied XD
+20:29 <@s991533> why not?
+20:29 < hualet> dardevelin: about 100
+20:29 <@s991533> Guilin is very beautiful
+20:30 < hualet> s991533: I mean the GFW thing...
+20:30 < dardevelin> that seems quite a large numbers of developers. or you mean some multiple task types
+20:30 <@s991533> that's bad, china sucks!
+20:32 < hualet> dardevelin: oh sorry, there's only about 20-30 developer out there
+20:33 < dardevelin> ah
+20:33 < dardevelin> alright. that makes more sense
+20:33 < dardevelin> normally if you have 100devs
+20:33 < dardevelin> you tend to have about more 15 people just in between
+20:34 < dardevelin> that is why I was considering a large amount
+20:36 < hualet> dardevelin: one or two months ago, we have only 10 devs at most in total
+20:37 < hualet> dardevelin: do you use Deepin now?
+20:38 < hualet> s991533: do you know Audrey Tang?
+20:42 <@s991533> hualet: no
+20:42 < dardevelin> hualet, not yet. wiped a hard drive to install and do some testing of my own and frecel did the same
+20:43 < hualet> s991533: quit a fan of her ;)
+20:44 < hualet> dardevelin: who's frecel?
+20:44 < dardevelin> friend
+20:45 < hualet> hummm...
+20:46 < dardevelin> he was here earlier
+20:50 <@s991533> hi cubarco 
+20:50 < cubarco> hi again s991533!
+21:12 <@s991533> how do you do cubarco 
+21:15 < cubarco> not so well, I got stuck on my project
+21:15 <@s991533> okay~
+21:15 <@s991533> good luck
+21:16 < cubarco> thx
+21:20 <@s991533> :)
+21:27 < brainy> hi
+21:31 <@s991533> hi brainy 
+21:32 <@s991533> brainy: you missed our online meeting xD
+21:33 < brainy> hi s991533
+21:33 < brainy> Sorry I couldn't make it
+21:33 < brainy> How was it?
+21:46 <@s991533> brainy: it's okay, haha
+21:46 <@s991533> hi iyzsong 
+21:47 < iyzsong> s991533: hi :-
+21:48 <@s991533> how do you do?
+22:13 < hualet> iyzsong: song bing :D
+22:13 < iyzsong> hualet: = =
+22:16 < hualet> sorry, song bin..lol
+22:17 <@s991533> @@?
+22:17 < brainy> hi hualet
+22:17 < hualet> hi, brainy ;)
+22:18 <@s991533> brainy: hualet is one of the official developers of deepin
+22:19 <@s991533> you can share your thoughts to hime
+22:19 < hualet> s991533: he's a colleague of mine, song bin's a nickname for him
+22:20 < hualet> s991533: I mean iyzsong
+22:20 < hualet> brainy: so do you get any problems using deeeeepin?
+22:21 < iyzsong> 0.0 ok
+22:27 < brainy> nice to meet you hualet  :)
+22:28 < hualet> brainy: hummm, nice to meet you too :)
+22:28 < brainy> hualet, Yes, unfortunately Deepin 2014 doesn't work after installation, I only get an empty desktop :-(
+22:28 < brainy> No icons etc. the keys or mouse also don't work, I can see only a wallpaper :(
+22:29 < brainy> I want to share my opionions but I can't use it. Right now I am using Deepin 12.06
+22:29 < brainy> (It's very good! ;)
+22:29 <@s991533> brainy: all the 2014 or just 2014.2 RC? I remembered that you can not use 2014.2 RC
+22:29 < brainy> s991533, all of them
+22:30 < hualet> brainy: have you tried to reboot your machine?
+22:30 < brainy> Yep, didn't work.
+22:31 < brainy> Anyway I will try again today.........
+22:31 < hualet> brainy: did you installed it as VMs or...?
+22:33 < brainy> hualet, with VM it works, but on normal machine it doesn't ;(
+22:33 < brainy> by the way, deepin is the best! ;)
+22:35 < brainy> Actually I can't remember if I tried a reboot after install, so I might try again.
+22:35 < hualet> brainy: It shouldn't be, the common case is that deepin sucks in VMs...
+22:35 < brainy> hualet, that's strange then
+22:36 < hualet> brainy: well, maybe you should try it first...
+22:37 < brainy> Ok thank you hualet
+22:39 < hualet> brainy: you are welcome ;)
+23:34 < brainy> s991533, how many people were at the Deepin meeting and was there any food? :)
