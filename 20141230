@@ -1,0 +1,162 @@
+00:34 < brainy> hi arthur____
+00:37 < arthur____> o/
+00:50 < brainy> s991533, are you there? haha
+09:28 < brainy> Good morning.
+09:30 < brainy> hi fasheng
+09:37 < hualet> hi, brainy, good morning ;)
+09:41 < brainy> hi hualet :)
+12:11 < Cathy-Deepin> s991533: Are you here? CXB is looking for you. I also left a message to you on Skype.
+12:55 <@s991533> Cathy-Deepin: ok, got it
+13:07 < Cathy-Deepin> s991533: Are you still here?
+13:08 < Cathy-Deepin> Just now I left another message for you.
+20:13 < brainy> hi s991533
+20:15 <@s991533> hi brainy 
+20:15 < brainy> s991533, what does your name mean?
+20:22 < cubarco> hi brainy nice to see you again!
+20:25 <@s991533> my id? that's one of my student ids xD
+20:26 < cubarco> ah! s991533 are you a teacher?
+20:27 < brainy> s991533, haha ok
+20:27 < brainy> hi cubarco :-D
+20:29 < brainy> cubarco, do you know a good Linux program for recording games ??
+20:30 < cubarco> brainy: What are recording games?
+20:30 < cubarco> I've never heard it before
+20:30 < brainy> cubarco, I want to make a video of the game that I play :-D
+20:30 < cubarco> uh!
+20:31 < cubarco> how about simple screen recorder?
+20:31 < brainy> Yes, I tried that it's not bad!
+20:31 < cubarco> do you prefer a better one?
+20:31 < brainy> Just looking for some more programs...I will have a look in software center :D
+20:32 < cubarco> sorry that it's the only one i knew
+20:32 < brainy> Thank you cubarco :-D
+20:32 < cubarco> no problem!
+20:52 < fuxianglong> hello
+20:52 < brainy> hi fuxianglong
+20:53 < fuxianglong> 我刚安装上 deepin
+20:54 < fuxianglong> 挺好看的
+21:52 <@s991533> hi hualet 
+21:54 < hualet> s991533: hi :)
+21:58 <@s991533> hualet: how do you do today?
+21:59 < hualet> s991533: not bad, what about you?
+22:00 <@s991533> hualet: it's okay, busy everyday, haha
+22:02 < hualet> s991533: what do you do, I remember that cxb referred you as a colleague of us, is that your part time job?
+22:03 <@s991533> hualet: I'm student
+22:03 <@s991533> hi dardevelin 
+22:03 <@s991533> hualet: your boss want me to be here to help users xD
+22:03 < hualet> s991533: cool
+22:05 < hualet> s991533: it's not that lively here, I think we need another meeting ;)
+22:06 <@s991533> hualet: yeah, it's not easy, we don't have enough users, haha
+22:06 <@s991533> but it's getting better
+22:06 <@s991533> btw, I think there are some problems with repo and mirror, I told cxbii many times ...
+22:07 <@s991533> seems the (fake) official mirror was out-dated and dead
+22:07 <@s991533> I mean japan and canada official mirror
+22:07 < brainy> hi hualet xD
+22:09 <@s991533> hi tom_ 
+22:09 < brainy> hualet, we used to have a bot here, he spoke too much haha
+22:09 < hualet> s991533: the mirror thing is really hard to settle, some of the maintainers can't be reached any more
+22:09 < hualet> brainy: hi ;)
+22:10 <@s991533> hualet: yeah, so that we should let some stable mirror use 'official-local' domain
+22:10 < hualet> brainy: since you mentioned, where's the bot now?
+22:10 <@s991533> so that we can easily change it
+22:11 < brainy> hualet, I think s991533 disabled him for some time.
+22:11 <@s991533> the 'official' mirror should be high quality, but GFW make mainland china's network outside quality  bad
+22:11 <@s991533> and jp / ca official mirror is oudate/dead
+22:11 <@s991533> very strange ...
+22:12 <@s991533> brainy: yes, I'll rent a new server for the bot
+22:12 < brainy> ca mirror is very fast
+22:12 <@s991533> brainy: or maybe put it in my school
+22:12 < brainy> s991533, haha ok
+22:12 <@s991533> brainy: but it's old ... http://ca1.cdimage.linuxdeepin.com/deepin-cd/
+22:12 <@s991533> only 2014/2014.1
+22:12 < hualet> s991533: didn't notice that before, I'll go and talk to cxb about that tomorrow...
+22:13 <@s991533> it's a bad signal for deepin ...
+22:13 <@s991533> hualet: but cxb can't decide on this topic I think
+22:13 <@s991533> I complain to him many times
+22:13 <@s991533> bad smell, haha ...
+22:14 < brainy> xD
+22:14 <@s991533> and I'll be happy to be the official mirror in Taiwan, if you guys can release the domain to me
+22:14 < hualet> s991533: there's too much things to be taken care of in deepin right now, maybe he just forget it.
+22:14 <@s991533> hualet: yeah, but this thing is important, right?
+22:14 <@s991533> people can't use the server in mainland china
+22:14 <@s991533> but the mirror outside were dead
+22:15 <@s991533> how can they feel good, haha ...
+22:15 < hualet> s991533: indeed
+22:15 <@s991533> no offence, I just want to help
+22:16 <@s991533> the mirror/repo admin should use mirror monitor to hide the outdate or broken mirrors
+22:16 <@s991533> especially the 'official' mirror ... they are worse then 'non-official' mirror ...
+22:17 <@s991533> strange signal huh ...
+22:17 <@s991533> brainy: you wanna try 2014.2 final? it's released
+22:17 <@s991533> but no available mirror yet
+22:17 < brainy> s991533, ok i will try. But first I'll make a backup.
+22:17 < hualet> s991533: I don't know the technique details, but your suggestion sounds fare enough...
+22:17 <@s991533> brainy: you should do it now xD
+22:18 <@s991533> hualet: yeah, I'm good at this things
+22:18 < brainy> I must first backup my Deepin 12.06 haha
+22:18 <@s991533> and told cxb many times, haha ...
+22:18 <@s991533> brainy: try clonezilla, haha
+22:18 < brainy> s991533, Yes it's great :)
+22:19 < brainy> Made in Taiwan!
+22:19 <@s991533> yeah!
+22:19 < brainy> hualet, Linux Deepin is an awesome distro, congratulations :)
+22:19 < hualet> s991533: clonezilla's made in Taiwan?
+22:20 < hualet> brainy: thanks ;)
+22:20 <@s991533> hualet: yes, of course
+22:20 <@s991533> I know the guys, clonezilla's fathers xD
+22:20 < brainy> :-D
+22:21 < hualet> s991533: great, I have to say that Taiwan did a great job on the open source stuff...
+22:21 < brainy> s991533, do you know Linus Torvalds personally too? haha
+22:21 <@s991533> haha
+22:21 <@s991533> brainy: no ...
+22:21 < hualet> haha
+22:22 < hualet> s991533: I'm curious why did you choose s991533 as you ID ?
+22:22 < hualet> like some auto-generated things ;)
+22:23 < hualet> no offence...
+22:23 <@s991533> hualet: brainy just asked ...
+22:23 <@s991533> it's one of my student ids... haha ...
+22:23 <@s991533> I'm lazy guy
+22:24 < hualet> well...XD
+22:25 <@s991533> btw, I'm seriously on the mirror and repo issue hualet, as I told cxb before, please foward the message to the guys working on this
+22:25 <@s991533> maybe I can help directly in winter vacation, forward message make the work slower all the times
+22:26 < hualet> s991533: OK, I promise I'll talk to him..
+22:27 < hualet> s991533: directly???
+22:27 <@s991533> hualet: yeah, if I have the permission on it, but this is minor, haha
+22:30 < hualet> s991533: maybe...haha
+22:31 <@s991533> hualet: I just send you msg in private, do you copy?
+22:33 < hualet> s991533: I've replied
+22:33 <@s991533> great
+23:19 <@s991533> hi Communi6161 
+23:20 < Communi6161> hello s99..
+23:32 < brainy> s991533, may I ask you something?
+23:32 <@s991533> ?
+23:32 < brainy> s991533, what are some traditional things that people like to eat in Taiwan?
+23:32 < Communi6161> hello s991533
+23:32 <@s991533> hi Communi6161 
+23:32 <@s991533> brainy: let me think ...
+23:33 <@s991533> hard to say, haha ... let me think about this for a frw days
+23:33 <@s991533> I don't even know their name in English
+23:33 < Communi6161> anyone in here tried DDE on archlinux that FaSheng and I are working on? ;-)
+23:36 <@s991533> no xD
+23:36 <@s991533> Communi6161: you are depinn developer?
+23:36 < Communi6161> nope, jus a archlinux user... FaSheng is though.
+23:36 <@s991533> okay, cool
+23:38 < hualet> Communi6161: Fasheng metioned you a few times, greate job ;)
+23:42 < Communi6161> hualet: there are obviously still some issues regarding DDE on archlinux... but judging by some of the responsed on archlinux DDE forum thread, it works well for some people... ;-)
+23:43 < brainy> haha ok s991533 thx
+23:47 < brainy> Archlinux is related to Deepin?
+23:48 < Communi6161> brainy: no, but long ago I really liked how DDE looked and started creating PKGBUILD files to package it for archlinux... ;-)
+23:49 < brainy> Communi6161, ah nice :D
+23:50 < lotfi_> Comment installer les driver de sa carte graphique sur deepin
+23:51 <@s991533> brainy: arch is independent distro
+23:51 <@s991533> lotfi_: English please
+23:52 < lotfi_> ummm ok
+23:52 < brainy> yes s991533
+23:53 < brainy> lotfi_, what graphics card do you have?
+23:53 < lotfi_> how to install graphic card in deepin :)
+23:54 < lotfi_> G force nvidia
+23:55 < lotfi_> Gt210
+23:56 < brainy> lotfi_, do you have a laptop or a normal Desktop PC?
+23:57 < lotfi_> normal pc
+23:57 < brainy> In "settings" there should be an option "Additional Drivers"
+23:57 < brainy> Have you tried that? It can detect your nvidia card.
+23:58 < brainy> "System Seetings"
+23:58 < brainy> Settings
+23:58 < lotfi_> one sec
