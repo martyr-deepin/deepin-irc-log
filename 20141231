@@ -1,0 +1,226 @@
+00:00 < brainy> Hmm it might be different in version 2014.1
+00:00 < brainy> s991533, do you know where to find this Additional Drivers menu in 2014.1 ?
+00:00 < lotfi_> nope
+00:00 < lotfi_> how do i check my version
+00:01 <@s991533> brainy: no, but I think maybe `sudo apt-get install nvidia-current` can also work?
+00:01 <@s991533> lotfi_: lsb_release -a
+00:01 < brainy> s991533, I think yes
+00:01 < brainy> lotfi_, try command "sudo apt-get install nvidia-current" in a console
+00:02 < brainy> or look in software center
+00:02 < lotfi_> one sec
+00:04 < lotfi_> its installing the latest drivers hopefully
+00:04 < brainy> Nice, good luck :D
+00:05 < lotfi_> thank you very much for your help guys
+00:06 < brainy> np lotfi
+00:06 < lotfi_> merci beaucoup
+00:16 < brainy> lotfi_, do you play any games?
+00:18 < lotfi_> yeah sometimes
+00:19 < lotfi_> what type of games are you into brainy?
+00:20 < brainy> lotfi_, I play only one game haha
+00:20 < brainy> for 12 years
+00:20 < brainy> it's called "Battlefield 1942"
+00:20 < lotfi_> wow thats a long time!!
+00:20 < brainy> haha yes
+00:21 < lotfi_> isnt that part of the battlefield franchise
+00:22 < lotfi_> im more into simulators
+00:22 < lotfi_> i sometimes play fps game on the ps3
+00:25 < lotfi_> what country do you live in brainy?
+00:25 < brainy> nice :D
+00:26 < brainy> I live in Germany, lotfi_
+00:26 < brainy> and you??
+00:26 < lotfi_> Algeria
+00:27 < brainy> Cool, that's why you speak French :)
+00:27 < lotfi_> one day ill visit Germany!!
+00:27 < lotfi_> yh
+00:29 < lotfi_> Hows the weather in Germany? brainy
+00:32 <@s991533> http://ftp.yzu.edu.tw/Linux/deepin-cd/2014.2/
+00:32 <@s991533> 2014.2 final
+00:33 < brainy> lotfi_, cold and snow haha
+00:33 < brainy> thx s991533 i save this link
+00:33 < brainy> now i must go, bye bye
+10:08 <@s991533> Good morning hualet 
+10:09 < hualet> s991533: morning ;)
+10:25 <@s991533> Good morning Cathy-Deepin
+10:26 < Cathy-Deepin> s991533: Good morning.
+10:27 < Cathy-Deepin> s991533: Happy New Year's Day!
+10:27 <@s991533> yeah!
+10:28 < Cathy-Deepin> Tomorrow is the first day of a brand-new year.
+10:28 < Cathy-Deepin> Will you have any celebrations?
+10:31 <@s991533> Cathy-Deepin: not for this year
+10:31 <@s991533> too busy to celebrate
+10:31 <@s991533> I would like to have a nice dream instead of celebration, haha ...
+10:33 < Cathy-Deepin> That's good.
+12:17 < tcstory> 对了
+12:17 < tcstory> deepin 2014.1可以直接升级.2吗?
+12:41 < SANTAnaut> aha
+12:51 < xx> hello,world
+12:51 < xx> !
+12:53 < SANTAnaut> bye world
+13:56 <@s991533> haha ...
+18:38 < dardevelin> 您好
+18:42 < dardevelin> what is the difference between 今天 and 今 separate of 天
+18:42 < dardevelin> doesn't 今 mean 'today'
+18:42 < dardevelin> and 天 day ?
+18:45 < cubarco> 今天 明天 后天
+18:45 < cubarco> 天 means day
+18:56 <@s991533> hi dardevelin 
+18:56 <@s991533> where are you from?
+19:01 < dardevelin> s991533, portugal. I think I told you this before.
+19:02 < dardevelin> cubarco, if you notice what i typed you will notice that I am trying to understand the 'need' of having in _today_ both as i got 今 translate to today
+19:02 < cubarco> 360safe has come for linux...
+19:02 < dardevelin> unless 今 means something different.
+19:02 <@s991533> dardevelin: oh, sorry that I forgot
+19:02 <@s991533> cubarco: crazy xD
+19:03 <@s991533> dardevelin: 今 means this time, this day
+19:03 < cubarco> dardevelin: 今 used for today in the old days of China
+19:03 <@s991533> dardevelin: 天 means day
+19:03 < cubarco> s/this/today/
+19:03 < cubarco> uhh!
+19:03 < cubarco> forget me
+19:03 < cubarco> dardevelin: 今 used for today in the old days of China
+19:03 <@s991533> so 今天 means : today,
+19:03 < dardevelin> ah I see
+19:04 < dardevelin> that makes sense :)
+19:06 <@s991533> you wanns know more words? haha
+19:06 <@s991533> 昨天:yesterday
+19:06 <@s991533> 昨means passed
+19:06 <@s991533> so I think you can easily got it
+19:06 < dardevelin> sorry taking long. I am slowing trying to 'build' my sentence
+19:06 <@s991533> it's okay
+19:07 <@s991533> you don't need to say sorry man
+19:08 < dardevelin> so for me to say : no need to apologize -> 你[you] 别 [don't] 需要 [need] 道歉 [to apologize]
+19:08 < dardevelin> 你别需要道歉
+19:09 <@s991533> I'll say ：你不需要道歉
+19:09 <@s991533> 別 = 不, but we don't use it here
+19:09 <@s991533> hard to explain ... haha
+19:09 <@s991533> let me think
+19:09 <@s991533> you can say 你別道歉, it's also okay
+19:11 < dardevelin> I have only seen this https://www.youtube.com/watch?v=MCik9yll7o8 and this https://www.youtube.com/watch?v=M4ntv1m9zEw videos
+19:11 < dardevelin> then am using google translate. and trying to break each individual word to recognize the characters.
+19:11 < dardevelin> whenever I get more then one chinese character
+19:12 < dardevelin> I break them apart to see the individual translations
+19:12 < dardevelin> once I have that. I try to build my own sentences
+19:12 < dardevelin> this way I feel I can get a a graphic vocabulary
+19:14 < ming_> Deepin 2014.1 可以升级到2014.2吗？
+19:15 <@s991533> ming_: yes you can
+19:15 <@s991533> dardevelin: it's okay, good start
+19:15 < ming_> s991533: how to do it?
+19:16 < ming_> s991533: sudo apt-get update && sudo apt-get dist-upgrade?
+19:17 < dardevelin> :)
+19:20 < ming_> 执行完了感觉没什么变化呢。主题没变，crossover和QQ也没有安装上。
+19:21 < ming_> 就是升级了一下WPS和google chrome.
+19:49 < ming_> 我手动安装了deepin-crossover，那内置的QQ安装包在哪找呢。官方原版就可以？
+19:53 < dantmnf> seems 2014.2 image is not a livecd image?
+19:58 < brainy> hi
+20:07 < brainy> hi s991533
+20:07 < brainy> Soon you have new year in Taiwan haha
+20:11 <@s991533> hi brainy 
+20:18 < brainy> Now you have 8:17 pm
+20:19 <@s991533> brainy: you are right
+20:24 < brainy> Now I am downloading 2014.2 from a Japanese mirror
+20:26 <@s991533> brainy: you can try my mirror haha
+20:27 < brainy> s991533, Yes I did, but it was a bit slow for me
+20:27 <@s991533> okay, that's bad
+20:27 <@s991533> what's the speed from my mirror?
+20:27 <@s991533> and what about japan mirror?
+20:29 < brainy> Your mirror I have 150 KB/s, and Japanese 1 Mbit/s
+20:29 < brainy> But I just tried to download again from your mirror and after 20 secs it says "failed" and stops :(
+20:29 < brainy> I tried 5 times
+20:29 <@s991533> hmmmm ... 
+20:30 < brainy> Can I upload the files to a European server too?
+20:30 < brainy> Do I have to pay for this?
+20:30 <@s991533> brainy: yes you can, no need to pay
+20:31 <@s991533> brainy: BTW
+20:31 <@s991533> brainy: I think you can try sourceforge
+20:31 <@s991533> brainy: http://sourceforge.net/projects/deepin/files/2014.2/Release/
+20:31 <@s991533> they have their own mirrors
+20:31 <@s991533> and they'll choose for you
+20:31 <@s991533> maybe it'll be faster 
+20:32 < brainy> Ok thx, that's where it showed me the Japanese mirror
+20:32 <@s991533> oh really? sourceforge redirect you to a jp mirror?
+20:32 < brainy> Hmmm no, actually I entered the iso file name into Google, and then I got that mirror haha
+20:33 < brainy> Anyway its almost finished :)
+20:33 <@s991533> xDDDDDD
+20:34 < brainy> So I can just upload to sourceforge and they will create mirrors by themselves?
+20:35 < brainy> In general I mean, not for this file.
+20:37 <@s991533> brainy: you need to setup project on it first
+20:38 < brainy> ok s991533
+20:42 < brainy> Ok now I will try to install 2014.2, see you later haha
+21:28 < brainy> hi pinganx45
+21:51 < freddy4212> Deepin2014.2 is so good!!
+21:52 < brainy> hi frecel
+21:52 < brainy> freddy4212, haha
+21:52 < brainy> I mean hi freddy4212
+21:53 < freddy4212> Do you installed 2014.2?
+21:53 < brainy> no
+21:53 < brainy> I will try later
+21:56 < freddy4212> It is so wonderful
+21:57 < freddy4212> But I think some Deepin software is too old
+21:57 < freddy4212> Like Dmusic
+21:58 < freddy4212> The UI doesn't much with system UI
+21:58 < brainy> Hmmm I think the software is new
+21:58 < brainy> It has a different UI, yes
+22:02 < freddy4212> Future Dmusic will more modern
+22:11 < brainy> freddy4212, I will install 2014.2 now
+22:11 < brainy> bye-bye
+22:28 < hualet> hi s991533 ;)
+22:53 <@s991533> hi hualet 
+22:54 < brainy> hi s991533
+22:55 < brainy> I'm using 2014.2 now
+22:56 <@s991533> good
+22:56 <@s991533> me too
+22:56 < brainy> I changed the taskbar to classic mode
+22:56 < brainy> When I move the mouse to launcher, it minimizes all windows
+22:57 < brainy> :-(
+22:57 < brainy> It's not good
+22:57 < brainy> I mean I move to the corner where the launcher button is
+22:57 < brainy> Also it feels a little bit slow to me.
+22:58 <@s991533> hmmmmm ... ping hualet for help
+22:58 <@s991533> haha
+22:58 < brainy> haha ok
+22:58 < brainy> hi hualet
+22:58 <@s991533> leave for a while
+22:58 <@s991533> will be back
+22:59 < brainy> .tell hualet There is a small thing about the installation program which I think would better
+22:59 < brainy> oops..Deepin_bot is not here haha
+23:00 < hualet> brainy: you can right click on desktop and set choose the "set hot zone" or something like that
+23:00 < hualet> brainy: you are funny,haha
+23:00 < brainy> hualet, ok but it's not good to set by default in my opinion :(
+23:00 < brainy> I will have a look, thx
+23:01 < brainy> In installation program: When I choose keyboard layout and timezone, there is not button like "OK" or "Apply"
+23:02 < brainy> It's a bit confusing
+23:02 < hualet> brainy: I disabled all of the hot zone thing except the bottom-right one
+23:02 < brainy> ok hualet
+23:03 < hualet> brainy: if my memory servers well, there's should be a "Next" button, isn't there?
+23:04 < brainy> hualet, no I mean, I choose the keyboard, then I want to go back to the installation screen
+23:04 < brainy> I figured I have to click the keyboard button again so it disappears , I think would be better to have button "OK"
+23:05 < brainy> It's just a small thing I guess ;)
+23:06 < hualet> brainy: well...
+23:26 < brainy> Almost new year for you haha
+23:34 < hualet> brainy: where are you from?
+23:38 < brainy> hualet, Germany
+23:44 < dardevelin> 20mins for new year for china mainland (I think) Germany will have in about 7H
+23:44 < dardevelin> portugal 8
+23:49 < hualet> dardevelin: what will you do to celebrate? :)
+23:52 < dardevelin> going to be at home, eat drink, perhaps code a bit later
+23:52 < dardevelin> hualet, you ?
+23:53 < brainy> haha nice, coding
+23:53 < dardevelin> I don't like going out much on this festivity days
+23:53 <@s991533> 7 mins to 2015 @ Taiwan
+23:53 < brainy> s991533, let's celebrate together haha
+23:53 < dardevelin> people are not prudent while driving or behaving. I mean this is an exaggeration but I prefer the comfort and there are plenty days to party
+23:54 <@s991533> xD
+23:54 < hualet> dardevelin: too cold outside, didn't participate any celebrations :(
+23:55 < brainy> where do you live hualet ?
+23:56 < hualet> brainy: China mainland ;)
+23:56 < brainy> ok
+23:56 < brainy> I just see the weather in Taiwan is very warm
+23:56 < brainy> I wish we had 20� C like in Taiwan haha
+23:58 < dardevelin> :)
+23:58 < hualet> brainy: what's the weather like in Germany right now?
+23:58 < dardevelin> close to snow
+23:58 < dardevelin> hualet, ^ (germany)
+23:58 < brainy> 3�C we had snow but now its melting
+23:59 < brainy> dardevelin, are you from Germany too?
+23:59 < dardevelin> Portugal. I just tend to have global information.
+23:59  * dardevelin likes geography
