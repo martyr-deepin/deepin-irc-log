@@ -1,0 +1,288 @@
+00:00 < hualet> brainy: right...so, see you tomorrow ;)
+00:00 < arun_> brainy: I am there.. no worries.. won't be alone :)
+00:00 < arun_> hualet: yup.. right..
+00:01 < arun_> hualet: can u share me how much you get paid?
+00:01 < brainy> bye bye hualet
+00:01 < brainy> :)
+00:01 < arun_> cause I want to earn some more bounty with my skills :)
+00:02 < arun_> brainy: how are u ?
+00:02 < brainy> hey arun_ happy new year :D
+00:02 < brainy> thank you i feel good, just took a nap h
+00:02 < brainy> how are you?
+02:57 < IbsinRG> Hello, could someone help me please?
+02:57 < IbsinRG> I can't seem to get Skype to install through the Deepin Store. And, when I tried to download it directly from the website, it said there was an error about a missing file.
+10:28 < brainy> hi s991533_
+10:29 < brainy> Where is your op status? haha
+13:25 < s991533> ChanServ: give me op
+13:25 < s991533> ChanServ: help
+20:14 < brainy> hi all
+20:15 < brainy> hi metak
+20:16 < metak> wel hello brainy ;-)
+20:16 < brainy> :D
+20:17 < metak> doing better than last year?
+20:20 < brainy> haha sure but i was also good last year
+20:20 < brainy> hey metak can I ask you
+20:21 < brainy> How many people download the DDE you ported to archlinux?
+20:21 < brainy> Is it popular?
+20:23 < metak> haha ;-)  there's no way I could know that... some people are obviosly using it and it works for them... there's active thread about it on archlinux forum... bug reports are filed on Fasheng's github page....
+20:25 < brainy> that's nice metak :D
+20:25 < metak> interested in trying it on arch? ;-)
+20:27 < brainy> haha no i'm just curious
+20:28 <@s991533> hi brainy 
+20:29 <@s991533> arch is designed for geek I think ...
+20:29 < metak> like I said... packages are built with OBS and hosted on their server and mirrors so there's no 'tracking' to know how how many people download or something...
+20:29 <@s991533> hard to install :P
+20:30 <@s991533> but archlinux has very good document
+20:30 < brainy> hey s991533 :D
+20:31 < metak> I'm khm khm.. "abusing" my current arch installation for four years now... and I would probably have to check the wiki again if I had to do reinstall... ;-)
+20:31 < brainy> haha
+20:35 < metak> I still don't quite understand why Deepin team decided not to provide torrents for their iso images...
+20:42 < metak> brainy for me personally it's the simplicity and the ability to make your own package if you might need that keeps me on archlinux... I've tried creating rpm packages and writting spec files... also creating deb packages which is a total PITA... ;_)
+20:43 < brainy> :D
+20:43 < brainy> I can imagine every distro has its advantages and disadvantages
+20:44 < metak> definitely...
+20:44 < brainy> do you also run servers or just use linux on your desktop?
+20:45 < metak> nah.. I'm just your 'average' user... desktop for me... when I manage to actually turn it on... it's old... very old... ;-)
+20:45 < brainy> haha me too only desktop
+20:47 < metak> how's MATE working for ya?
+20:48 < brainy> well it feels fast and I had gotten used to using GNOME2, so Im happy its still alive :D
+20:48 < brainy> everything works perfectly, even my nvidia card is running in full performance mode now haha
+20:48 < brainy> i'm so happy
+20:49 < brainy> And how about your PC...you said it was a bit old?
+20:49 < brainy> Any performance issues?
+20:49 < metak> it's nice to have something "lightweight" and stable to lean back on...
+20:49 < metak> not just a bit...
+20:50 < brainy> lol
+20:50 < metak> it's a P4, with 2GB  of ram... and some old ATI graphics card...
+20:51 < brainy> wowww !
+20:51 < brainy> And you can run the latest version of KDE without any problems?
+20:53 < metak> plasma-next still has some issues... plasma-shell starts eating lots of ram... latest KDE is new hardware...
+20:54 < brainy> hmmmm I see.
+20:55 < metak> but it runs KDE 4.14.3 just fine though...
+20:57 < metak> kwin is by far the best wm and Dolphin is the best file manager IMO... I can't see myself using something else...
+20:58 < brainy> It's when you find a distro and desktop environment you like
+20:59 < brainy> There are sooo many choices with Linux that it takes a long time to try them all until you find something you love haha
+20:59 < brainy> meant to say "It's nice when..." in the first sentence
+21:00 < metak> yep... it's a combination of many small things that make a difference...
+21:00 < metak> that's why so many peoplo prefer Nemo over Nautilus nowadays...
+21:01 < metak> to be able to open a frickin' terminal in current dir... and things like that...
+21:03 < brainy> true it's a nice feature :D
+21:05 < metak> have you tried lxqt maybe?
+21:06 <@s991533> metak: why so old xD
+21:08 < metak> s991533: c'mon I'm not that old... I'm barely 26! Shhh.... we're gonny grow old together... ;-)
+21:09 < metak> I don't really care... it still runs...
+21:09 < brainy> haha
+21:11 < metak> it's still enough to do most of the things that I need.. so... why waste money?
+21:12 < brainy> Yeah I agree with you metak
+21:13 < brainy> Especially with Linux you can run a slick distro on even very old PCs
+21:13 < brainy> Can you do that with Windows ?? I doubt it
+21:14 < brainy> Well maybe Windows 3.1
+21:15 < metak> yes... and when I discovered OBS I just dumped pkgbuild files for them to build insted of me... so I still get the latest git snapshost without compiling... muahahahhaa ;-)
+21:15 < brainy> lol thats so nice
+21:17 < metak> and it's also publishing binaries for others if they want to use them... so it benefits everyone... ;_)
+21:19 <@s991533> metak: I mean your PC
+21:20 < metak> I know... I was just joking... ;-)
+21:20 < brainy> s991533, haha
+21:20 <@s991533> and ... P4 will use much power 
+21:20 <@s991533> so I don't think you really save money
+21:20 <@s991533> it's too old, use too much power and time to do a little work
+21:23 < brainy> Really too much power?!
+21:23 < brainy> Hmmmm
+21:23 < brainy> I didn't take that into consideration
+21:24 < metak> I'm saving money by not spending it on new PC... it's old and I know it eats more power then newer proccesors...
+21:24 <@s991533> too much I think xD
+21:25 < brainy> So it's always good to buy a new PC, s991533 ?
+21:25 < metak> I was thinking about upgrading my PC to something made in this century... who knows... ;-)
+21:25 <@s991533> of course not, but I think P4 is toooooo old
+21:26 < metak> yep.. it is old
+21:30 <@s991533> metak: don't you use PC to play game or watch vedio?
+21:30 <@s991533> s/vedio/video/
+21:32 < metak> games? who needs games... ;-) I can play chess without a problem and I don't play any other games... not into it... videos still play... up to HD... Full HD is a no go... ;-)
+21:33 < arun> guys, anyone using centos?
+21:35 <@s991533> metak: haha
+21:35 <@s991533> arun: hi
+21:35 < metak> s991533: you can always send me a new PC you know... I won't complain, I promisse! ;-)
+21:35 <@s991533> arun: are you using now?
+21:35 <@s991533> metak: I'll send you if you are in my country
+21:35 < arun> s991533: what? CentOS ?
+21:35 < arun> nah
+21:35 <@s991533> arun: are you using centos now?
+21:36 <@s991533> okay
+21:36 <@s991533> arun: you wanna try it?
+21:36 < arun> s991533: nope... I already have used
+21:36 <@s991533> ha ...
+21:36 <@s991533> you still keep changing your os
+21:37 <@s991533> metak: do you live in Slovenia?
+21:37 <@s991533> I think it's too far for me, haha
+21:37 < arun> s991533: nope. I don't
+21:37 < arun> I have Chitwanix in my host
+21:38 < metak> yes, Slovenia... you?
+21:38 <@s991533> metak: Taiwan
+21:39 < metak> oh well.. just e-mail it to me... ;-)
+21:40 < metak> is it that weird that I'm not playing games on my PC?
+21:40 <@s991533> funny, haha ...
+21:40 <@s991533> no, I don't play
+21:40 <@s991533> but I play video
+21:43 < metak> sure I also watch videos... but, I also have a limited mobile broadband connection so Full HD videos are out of the question anyway... in most cases...
+21:43 < brainy> Yesterday I saw the movie Gravity
+21:43 < brainy> I really liked it !
+21:43 < brainy> Have you seen it?
+21:45 < metak> Sandra Bullock and George Clooney?
+21:45 < brainy> Yes metak
+21:46 < metak> just that sounds horrible.... I just read synopsis and was like mehhh... I'll pass... you say its good?
+21:48 < brainy> ha!
+21:49 < brainy> I didn't know anything about this movie, the story, actors etc. I just watched...and in the end I liked it haha
+21:49 <@s991533> metak: don't you have wired network?
+21:49 <@s991533> brainy: I hate that movie ... xDDDD
+21:50 <@s991533> It's boring for me, sorry xD
+21:50 < metak> maybe I'll give it a shot... and blame brainy if I don't like it... ;-)
+21:50 <@s991533> xDDDDDDD
+21:52 < metak> s991533: wired network? I've come to a conclusion that it's my bad karma at work here! I live in a house where there are no cables laid yet... so... screw you karma! ;-)
+21:55 < metak> brainy: have you seen the Interstellar? Judging by the description it's something simmilar to Gravity, right?
+22:00 <@s991533> oh cool xD
+22:02 < metak> Fasheng: hey hey... how is it going? I see that dde-daemon still fails to buil with latest 'go'? ;-)
+22:04 < brainy> metak, no sorry, haven't seen that one yet
+22:05 < metak> my brothers mention it to me... but, I don't know... these Hollywood movies are unbearable to watch...
+22:06 < brainy> You prefer Bollywood? xD
+22:07 < metak> hahahah ;-)  I prefer to just watch some anime...
+22:07 < brainy> Ahh ok haha
+22:08 < brainy> s991533, are Bollywood movies popular in Taiwan?
+22:08 <@s991533> not really
+22:08 <@s991533> only some movies are famous
+22:09 < brainy> But I guess Jackie Chan is
+22:09 < brainy> I love Jackie Chan! His stunts are awesome haha
+22:10 <@s991533> kind of, haha
+22:10 < brainy> He jumps from building to building like he doesn't care.
+22:11 <@s991533> he don't use his brain to think and just say something may make others angry ...
+22:11 <@s991533> I meant sometimes
+22:11 <@s991533> BTW, do you know his son?
+22:12 <@s991533> he drug and now under arrested ...
+22:12 <@s991533> in Beijing if I didn't remember it wrong
+22:15 < brainy> hmm yes I heard about his son
+22:15 < brainy> What did Jackie Chan say that has upset people, s991533 ?
+22:15 < brainy> I don't understand Chinese so I don't know all the things he says :)
+22:17 <@s991533> just something stupid, I don't remember that xD
+22:17 <@s991533> very will really make some people angry
+22:18 <@s991533> just useless things
+22:18 <@s991533> arun: so why are you asking centos?
+22:19 <@s991533> metak: do you know Canon? from Japan
+22:19 < metak> No... do tell.
+22:22 < metak> not the Canon company?
+22:22 <@s991533> metak: http://www.detectiveconanworld.com/wiki/
+22:22 <@s991533> https://en.wikipedia.org/wiki/Case_Closed
+22:22 <@s991533> brainy: what about you? do you know it xD?
+22:22 <@s991533> I like it!
+22:23 < brainy> haha! I saw some episodes
+22:23 < brainy> It's not bad
+22:23 <@s991533> :D
+22:23 < metak> hahahahha ;-)   you misspelled it and I was like WTF? ;-)
+22:23 <@s991533> ooops 
+22:23 <@s991533> sorry that I didn't notice it ... xDDDDD
+22:23 <@s991533> Conan
+22:24 <@s991533> not canon
+22:24 <@s991533> miss order on my hand
+22:24 < brainy> lol canon
+22:24 < brainy> good printers :)))
+22:25 < metak> no I haven't seen it yet... I'll check it out though.
+22:25 < brainy> I am still wondering...
+22:25 < brainy> Why was arun asking about CentOS? haha
+22:26 <@s991533> brainy: and camera xD
+22:26 < brainy> s991533, lol yes
+22:26 <@s991533> xDDDDD
+22:26 <@s991533> brainy: he always disappear after saying something xDDDD
+22:26 <@s991533> ping arun 
+22:26 <@s991533> ping arun 
+22:26 <@s991533> ping arun 
+22:26 <@s991533> ping arun 
+22:27 <@s991533> I am missing our bot now, so that I can use .wiki conan, .google conan xD
+22:28 < brainy> hahaha
+22:28 < brainy> s991533, I think your bot was nice, but it shouldn't always have said "hi" or "lol"
+22:28 < brainy> xD
+22:32 <@s991533> yeah
+22:33 < metak> s991533: so, I'm like I'll check it out... and there are 762 episodes! Mkay... ;-) why god... why?
+22:34 <@s991533> what does Mkey mean? 
+22:34 <@s991533> you think it's too many? 
+22:34 <@s991533> I think there should be more xDDDDD
+22:34 < metak> mkay*  as in okay.... ok...
+22:34 <@s991533> it also have comic books and movies
+22:35 <@s991533> metak: okay, thanks
+22:35 < arun> s991533:  brainy cause I needed some screenshots for my blog... NICs bonding...
+22:35 < brainy> haha 762 episodes
+22:35 <@s991533> so what are you asking why here xD?
+22:35 < brainy> arun, ah ok man :)
+22:35 <@s991533> arun: I think googld can help you
+22:35 < metak> I thought One piece was enough... I don't know if have enough life in me for another marathon! ;-)
+22:35 < brainy> 762 episode, if you watch 1 every day, you'll finish after 2 years hahaha
+22:35 <@s991533> arun: may I have your blog's url?
+22:36 <@s991533> brainy: usually I watch 2~3 eps/day
+22:36 <@s991533> but not every day
+22:36 <@s991533> metak: you should try it first xDDD
+22:37 < metak> I'll definitelly watch few episodes to get a feel of it...
+22:38 <@s991533> okay
+22:38 <@s991533> hope you like it xD
+22:38 < metak> still waiting for third season of High-school DXD...  ;-)
+22:44 <@s991533> metak: are you high school student?
+22:45 < metak> lol NO... I just think that anime is hillarious. It speaks to my inner perv, you know. ;-)
+22:51 < brainy> I just notice that the Linux file managers are missing a nice features that Windows has
+22:52 < metak> brainy: like..?
+22:52 < brainy> When I open file manager to see all partitions, in Windows there is automatically a display of how much space is used/free on every partition
+22:52 < brainy> like C:\ 70% free etc.
+22:52 < brainy> or 120Gb free
+22:53 < brainy> But I think KDE file manager has this feature?? I'm not sure
+22:55 <@s991533> I'm not sure 
+22:55 <@s991533> but linux has different thought
+22:55 <@s991533> windows usually doesn't 'mount'
+22:55 < brainy> Linux doesn't care about free space haha
+22:56 < brainy> Ok s991533 but let's just say your root partition
+22:56 < brainy> It's nice to always have an overview of how much space is left in my opinion
+22:56 < brainy> I know there are tools for this or console..but it would be an ice addon in file manager ;)
+22:57 <@s991533> but it's not real if you mount another partition on it
+22:57 <@s991533> I mean in file manager
+22:57 < brainy> ok but root partitionnnnnn
+22:57 <@s991533> because it won't show a full path
+22:57 <@s991533> I think df is the easiest and fastest way for me xD
+22:58 < brainy> :)
+22:58 < metak> brainy: Dolphin has this feature to ALLWAYS show at the bottom free and used space for current dir...
+22:58 < brainy> metak, ha! that's good
+22:58 < metak> also for KDE there's https://www.kde.org/applications/system/kinfocenter/
+22:59 < metak> this shows more in detail info about partitions and such...
+22:59 < brainy> I knowwww there are simple tools for this :D
+22:59 < brainy> Butttt it would be nice to have an overview once I hope file manager, that's just my opinion ;)
+23:00 < brainy> http://winsupersite.com/site-files/winsupersite.com/files/archive/winsupersite.com/content/content/128659/win7/win7_m3_explorer_01.jpg
+23:01 < brainy> Like this
+23:04 < brainy> welcome back arun
+23:04 < arun> thanks brainy
+23:05 < arun> brainy: I needed to have 2 NICs bonding ... command executed screenshots
+23:06 < metak> brainy: closest thing to that would be what Nemo FM does... and also Konqueror (former default FM in KDE)... they can both show progressbar to indicate used/free space...
+23:09 < brainy> ok metak
+23:09 < brainy> arun, and did you succeed?!
+23:14 < Karbowiak> brainy, metak why not do it like OSX, show "free of total" in the bottom of the window
+23:14 < Karbowiak> seems like the easy way out
+23:15 < brainy> hi Karbowiak :D
+23:16 < brainy> Karbowiak, well I just see when I open a partition with Caja file manager, it shows me the amount of free space at the bottom
+23:16 < metak> https://www.kde.org/announcements/4.4/screenshots/44_dolphin_search.jpg
+23:16 < brainy> But I would prefer a graphical display :D
+23:17 < metak> on the left you have available space... and free at the bottom... ;-)
+23:17 < Karbowiak> one could discuss why
+23:17 < Karbowiak> isn't simple the way forward ?
+23:17 < brainy> ha! that's nice
+23:17 < brainy> Karbowiak, I guess it's matter of preference
+23:18 < Karbowiak> true
+23:18 < Karbowiak> :)
+23:20 < brainy> Has any of you ever changed his desktop to look completely like Windows or Mac OS? haha
+23:21 < brainy> I once changed to Windows 7 look...it felt weird xD
+23:22 < brainy> I was trying to open Explorer with Win+E but it didn't work haha
+23:22 < metak> not really...
+23:23 < metak> Mac OS... yes, I tried that "transformation" pack that around for linux long ago... ;-)
+23:32 < brainy> metak, and did you like it?
+23:33 < metak> not my thing... besides, those were gtk themes and I berely use gtk based apps.. only when absolutelly neccessary... ;-)
+23:34 < metak> they both "hide" too much
+23:35 < metak> I like to have a big-ass taskabar at the bottom showin windows from all desktops...
+23:35 < metak> and one small at the top with all those small things... ;-)
+23:37 < metak> what do you customize with you MATE?
+23:41 < brainy> metak, I changed it to look like Deepin 12.06 haha
+23:42 < brainy> Because I liked that looked but the distro was old in terms of software
+23:43 < metak> it did look nice
+23:48 < metak> gonna go now for a while... take care everone. ;-)
+23:50 < brainy> cu metak :)
+23:59 <@s991533> see you metak 
