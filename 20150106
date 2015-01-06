@@ -1,0 +1,82 @@
+13:44 < hualet> hey, fasheng ;)
+20:37 < MerlinDou> Hello
+20:59 < brainy> hualet, chi le ma?
+21:00 < hualet> brainy: are  you kidding me?
+21:00 < brainy> sorry :(
+21:00 < brainy> Did I say something wrong ?!
+21:00 < hualet> brainy: do you have any idea about what are you talking about?
+21:01 < hualet> brainy: no
+21:01 < brainy> hualet, oops.....
+21:01 < hualet> brainy: that's a correct way saying hello in China
+21:01 < hualet> ;)
+21:01 < brainy> sorry hualet I thought it means "hello" in chinese
+21:02 < brainy> haha lol
+21:02 < brainy> You scared me lol
+21:02 < hualet> brainy: haha
+21:03 < hualet> brainy: where did you learn that ;]
+21:03 < brainy> hualet, haha just saw this phrase on some website
+21:04 < MerlinDou> ;]
+21:05 < brainy> hi MerlinDou
+21:05 < hualet> brainy: it means something like "Did you finish your meal?"
+21:05 < brainy> hualet, Yes I read that :)
+21:06 < hualet> brainy: oh... MerlinDou's a new colleague of mine ;)
+21:06 < MerlinDou> Hi, brainy
+21:07 < brainy> nice to meet you xD
+21:08 < MerlinDou> XD
+21:09 <@s991533> hi MerlinDou 
+21:10 < brainy> hi s991533
+21:10 < brainy> We don't want to interrupt your work s991533
+21:10 < MerlinDou> s991533: Hi
+21:10 < MerlinDou> s991533:  I just saw it.
+21:11 <@s991533> brainy: it's okay
+21:11 < MerlinDou> s991533:  I saw it just now. (Poor English, sorry)
+21:11 <@s991533> MerlinDou: You saw what?
+21:11 < MerlinDou> s991533:  The Hi.
+21:11 <@s991533> YEah
+21:11 <@s991533> how do you do
+21:11 < MerlinDou> Fine, Thank you. And you.
+21:12 < hualet> s991533: MerlinDou's the kind of geek guy, you will like chatting with him, haha
+21:12 < MerlinDou> hualet: ...
+21:13 <@s991533> haha, I am okay, but busy
+21:13 <@s991533> just want to say hello to new friend
+21:13 <@s991533> I should go now
+21:13 < brainy> haha
+21:13 <@s991533> seeya
+21:13 < MerlinDou> s991533:  Ok, bye.
+21:13 < brainy> bye s991533
+21:13 < hualet> s991533: bye
+21:13 <@s991533> :)
+23:30 < brainy> hi Karbowiak
+23:30 < brainy> hualet, what programming languages do you use for your Deepin project?
+23:30 < brainy> Just curious :)
+23:32 < hualet> brainy: er...Python is frequently used, then C/C++ is used more or less...
+23:33 < felixonmars> and how about Go?
+23:33 < hualet> brainy: other people may use Golang, CoffeeScript and so on...
+23:35 < brainy> I see, never heard of those xD
+23:35 < brainy> I will have a look hualet
+23:36 < hualet> brainy: you do programming? that surprises me ;]
+23:36 < hualet> haha
+23:37 < brainy> haha hualet I used to, a long time ago, but no big projects
+23:37 < brainy> hualet, I used Pascal language, today there is Lazarus project to create GUI programs, very nice
+23:38 < hualet> felixonmars: what do you mean by saying " how about Go?
+23:39 < hualet> brainy: oh, Pascal is what we refer to as "old stuff", haha
+23:39 < hualet> brainy: and what's Lazarus?
+23:39 < brainy> lol that's true
+23:39 < brainy> hualet, Lazarus is basically a delphi-clone, to create GUI programs
+23:40 < brainy> I think felixonmars is talking about Google Go?
+23:40 < hualet> brainy: well...haven't heard it before
+23:40 < felixonmars> hualet: i meant how much Golang was involved :P
+23:41 < hualet> felixonmars: oh...pretty much...
+23:41 < hualet> I think the whole infrastructure of DDE is migrating to Golang now
+23:42 < brainy> felixonmars, are you a Deepin developer? xD
+23:44 < felixonmars> hualet: i see...
+23:44 < felixonmars> brainy: no :P
+23:45 < brainy> ok xD
+23:45 < hualet> felixonmars: didn't see you around this channel before, are you new to here?
+23:46 < felixonmars> hualet: i mean no offense, but iirc golang still uses static linking most of the time, won't that add up the file size, load time, and the effort to maintain? (so on every minor component upgrade the whole tree needs to be rebuild, etc)
+23:47 < felixonmars> hualet: kind of new, i came here on Dec 15 last year :P
+23:49 < brainy> I noticed felixonmars because it's a funny name xD
+23:51 < felixonmars> brainy: yay mars is cool
+23:51 < brainy> felixonmars, haha xD
+23:52 < hualet> felixonmars: well...I don't know, does Golang support dynamic linking right now, I didn't program in Golang much...
+23:52 < felixonmars> hualet: iirc no, but i'm not a golang programmer either :P
