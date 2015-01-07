@@ -1,0 +1,129 @@
+00:00 < hualet> felixonmars: I don't think that static linking will make a program slow, and one of the advantages using static linking is that the programmer can get ride of the dynamic-link libraries dependency problem ;)
+00:01 < hualet> which is pretty annoying
+00:02 < felixonmars> hualet: yeah generally it won't make a program slow when running, but will slow its load :/ also using static linking would get rid of security fixes too
+00:03 < felixonmars> (should also prevent ASLR from happening if i understand it correctly...
+00:06 < felixonmars> :P just my two cents...
+00:13 < brainy> I have a question...
+00:13 < brainy> What's the difference between the software managers of Deepin, Ubuntu and Linux Mint?
+00:13 < brainy> Are they all compatible with each other?
+00:16 < hualet> brainy: they are all built on the top of the apt facility
+00:16 < brainy> hualet, hmm I see, but the package in one distro will automatically work on the other distro also?
+00:18 < felixonmars> brainy: not really, since they might depend on different set of packages that the other distro might not provide
+00:18 < brainy> I see, thank you felixonmars
+00:21 < hualet> brainy felixonmars, It's late here, see you tomorrow ;)
+00:23 < felixonmars> hualet: see you :)
+00:23 < brainy> see you hualet
+00:27 < Karbowiak> hi brainy
+00:53 < brainy> cu laters
+04:39 < arun> hey s991533
+09:44 < brainy> Good morning all.
+09:55 <@s991533> hi brainy 
+09:56 < brainy> hi s991533 xD
+10:04 <@s991533> in the class now, seeya brainy xD
+10:08 < brainy> bye s991533 :P
+11:17 < brainy> hi erhandsome
+11:59 < erhandsome> brainy: hi
+12:07 < brainy> hi erhandsome
+12:07 < brainy> hi hualet lol
+15:31 < guo> ifconfic
+15:32 < guo> ifcongig
+16:05 <@s991533> guo: command not found
+21:24 < brainy> hi xD
+21:40 <@s991533> hi brainy 
+21:40 <@s991533> how do you do today?
+21:40 < brainy> hi s991533
+21:40 <@s991533> hi arun_ 
+21:40 <@s991533> hi hualet 
+21:40 < brainy> fine thanks
+21:40 <@s991533> :)
+21:40 < brainy> and are you busy s991533 ?
+21:40 <@s991533> sure ...
+21:40 < arun_> hi s991533
+21:40 <@s991533> final exam is coming
+21:40 <@s991533> next week, haha ...
+21:40 <@s991533> how do you do arun_ 
+21:41 < arun_> s991533: hehe, mine 2nd term exam is comming next week loil
+21:41 < arun_> s991533: I am fine.,. and u ?
+21:41 < arun_> I m doing great :)
+21:43 < hualet> hi everybody :)
+21:44 < arun_> hi hualet
+21:45 < hualet> hi arun_, good to see you ;)
+21:45 < arun_> hualet: me too
+21:46 < hualet> arun_: did we talk to each other before? your name just looks familiar to me
+21:46 < hualet> ;)
+21:47 < arun_> hualet: don't know....
+21:47 < arun_> may be
+21:47 < hualet> arun_: ok...
+21:48 < arun_> hualet: which OS u run?
+21:48 < hualet> arun_: you mean now?
+21:48 < arun_> hualet: yeah
+21:50 < brainy> hi hualet
+21:50 < hualet> arun_: Mac OSX
+21:50 < hualet> brainy: hey dude, just missed you hi this morning, and I'm sorry about that...
+21:51 < brainy> don't worry hualet  xD
+21:51 < hualet> arun_: how about you? running Deepin?
+21:51 < arun_> hualet: nope, I am running Chitwanix OS
+21:54 < hualet> arun_: a LinuxMint based one? just googled it...
+22:00 <@s991533> arun_: fine, thanks!
+22:00 < arun_> nope, hualet its Ubuntu based one
+22:00 <@s991533> hualet: arun_ is an old friend, though he didn't join the meeting, so you didn't see him before
+22:00 <@s991533> hualet: cool
+22:01 < arun_> s991533: I was willing by heart to join the meeting ..
+22:01 <@s991533> hualet: I don't know that you are using Mac OS 
+22:01 <@s991533> arun_: no problem xD
+22:01 < arun_> hualet: u are dev team?
+22:01 <@s991533> arun_: correct!
+22:01 < arun_> s991533: when is the meeting next?
+22:01 <@s991533> arun_: I hate Mac OS as you hate Windows xD
+22:01 <@s991533> arun_: don't know, maybe the last week of this month
+22:01 < arun_> s991533: hehe :)
+22:01 < hualet> s991533: I just heard the news about the earthquake in Taiwan, are you OK ?
+22:01 <@s991533> hualet: fine, thank you
+22:02 < hualet> arun_: yeah, I'm one of them
+22:02 <@s991533> this earthquake didn't hurt people
+22:02 <@s991533> not like 921
+22:02 < arun_> hualet: cool, what sector you work ?
+22:02 <@s991533> do you know 921 hualet ?
+22:03 <@s991533> the greatest earthquake before 10 years ago
+22:03 < hualet> s991533: I bought one just out of the curiousity of how Mac OSX  works ;)
+22:03 <@s991533> 1999
+22:03 < hualet> s991533: I've heard about 921
+22:03 <@s991533> hualet: I used MacBook Pro for 2 years, really hate it
+22:04 <@s991533> I can not recognize which program is running via its dock
+22:04 <@s991533> the light under the icon, always on
+22:04 <@s991533> need manually turn off
+22:04 < hualet> s991533: oh, don't feel it like you do ;)
+22:04 < hualet> arun_: I'm working on the GUI stuff...
+22:05 < arun_> hualet: GUI with html and QT stuff?
+22:05 <@s991533> If it'll automatically turn off once its [x] been click, I'll not hate it so much
+22:05 < brainy> hualet, are you on the facebook picture of Deepin group? xD
+22:05 < hualet> s991533: perhaps...
+22:05 <@s991533> breaktime ends ... need to go back to study
+22:05 <@s991533> seeya guys
+22:05 < brainy> cu s991533
+22:06 < hualet> s991533: bye...
+22:06 < hualet> arun_: GUI with Qt and QML stuff...
+22:07 < hualet> brainy: what does 'cu' mean?
+22:08 < brainy> cu = see you xD
+22:09 < brainy> because the letters C and U are pronounced as "See You" :D
+22:10 < hualet> brainy: oh...just recognized it...C...U...
+22:12 < hualet> brainy: I just realized that...
+22:12 < arun_> hualet: great
+22:13 < hualet> brainy: you know, from the point of a programmer's view, 'cu = see you' is just awkward, 'cu == see you" will be better, lol
+22:14 < arun_> hualet: I am willing to learn QML.. is it close to QT ?
+22:17 < brainy> hualet, hahaha
+22:19 <@s991533> arun_: QML = Qt {Markup, Meta, Modeling} Language
+22:23 < hualet> arun_: s991533 just answered it for me ;)
+22:24 < arun_> hualet: ok ... thanks
+22:24 < arun_> hualet: looks great
+22:25 < hualet> arun_: to be more specific, QML shares the same infrastructure, say the QObject introspection system with Qt Widgets, but renders through the OpengGl kit instead.
+22:36 < arun_> hualet: ok, that looks great...
+22:37 < arun_> hualet: I am on it.. I will try to create apps using QML in future..
+22:37 < hualet> arun_: great ;)
+23:09 < brainy> arun_, why do you hate Windows?
+23:12 <@s991533> +1 ...
+23:13 <@s991533> I wanna know xDDD
+23:15 < arun_> brainy: cause I am anti-windows
+23:16 < brainy> arun_, we already established that, haha
+23:16 < brainy> Bt what exactly don't you like about Windows?
+23:16 < brainy> But*
