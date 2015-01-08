@@ -1,0 +1,262 @@
+00:00 < brainy> hi arun_ haha
+00:00 < arun_> hi brainy
+00:02 <@s991533> arun_: 23:16 < brainy> Bt what exactly don't you like about Windows?
+00:02 < arun_> s991533: <arun_> brainy: I don't like windows cause its a product of M$ and I hate M$, I am FOSS activist.. I support Open Source rather than M$ and other closed source
+00:03 < brainy> ok arun_
+00:05 < hualet> maybe too radical, arun_ ;)
+00:05 <@s991533> xD
+00:06 <@s991533> arun_: what about Apple?
+00:06 <@s991533> Apple vs Microsoft
+00:06 <@s991533> which one you hate more xD?
+00:06 < hualet> s991533: oh...come on...
+00:06 < arun_> s991533: I hate M$
+00:06 < arun_> the most
+00:06 <@s991533> xD
+00:06 < brainy> :D
+00:06 < arun_> hualet: what u mean by radical ?
+00:07 <@s991533> arun_: microsoft also support open source projects
+00:07 <@s991533> I think apple is even more evil then Microsoft, don't you think so? xD
+00:07 < arun_> s991533: thats not a good sign though
+00:08 < arun_> s991533: m$ doesn't know the feelings of FOSSians
+00:08 <@s991533> I think they are trying
+00:08 <@s991533> eg. .net core and visual studio community edition
+00:08 <@s991533> http://www.theinquirer.net/inquirer/news/2166123/microsoft-contributed-code-canonical-linux-2632
+00:08 <@s991533> Microsoft contributed more code than Canonical to Linux since 2.6.32
+00:08 < hualet> arun_: I mean maybe microsoft is not that bad ;)
+00:09 <@s991533> It's a old news
+00:09 < arun_> s991533: are u sure?
+00:09 <@s991533> seems they are not the no.1 now
+00:09 <@s991533> arun_: of course
+00:09 < arun_> s991533: they are selfish ........
+00:10 < hualet> s991533: that surprises me...
+00:10 <@s991533> arun_: but apple is not?
+00:10 <@s991533> https://github.com/dotnet/home
+00:10 <@s991533> take a look at this, many MS projects open sourced now
+00:11 <@s991533> they'll even cooperate with the open sourced .net framework
+00:12 <@s991533> AKA mono
+00:12 <@s991533> they also accepted some of my PRs to fix the warning from browser of their websites hosted on github
+00:13 < hualet> s991533: that's cool XD
+00:14 <@s991533> their Azure, a platform like AWS, also support linux OSs
+00:14 <@s991533> I think you don't know the whole things they do, me either
+00:14 <@s991533> but they really contributed to open source projects ...
+00:15 <@s991533> I don't mean that they are a company not evil, selfish or what
+00:15 <@s991533> just talk about the good things you may not know but they did
+00:16 <@s991533> I think Apple is more evil then you think about MS
+00:17 <@s991533> for example, they want to have a law to make JB illegal or something like this
+00:17 <@s991533> you bought an idevice, and you can not do the things you want to do, or you'll break the law ... wtf ...
+00:17 <@s991533> sorry for the bad words, but I really hate that 
+00:18 < brainy> I think they are both evil in some ways xD
+00:18 <@s991533> brainy: yeah, I agree
+00:18 < brainy> But I still think they make good operating systems
+00:19 < brainy> But Linux offers more freedom
+00:19 < brainy> So both have advantages and disadvantages
+00:19 <@s991533> I don't really hate windows as Mac OS, haha
+00:19 <@s991533> yeah
+00:19 < brainy> haha yes
+00:19 <@s991533> so I use Windows + Linux
+00:19 <@s991533> and FreeBSD for servers
+00:19 < brainy> s991533, yep
+00:19 <@s991533> but NO MAC any more xD
+00:19 < brainy> haha
+00:19 <@s991533> I use mac with LinuxMint before
+00:20 <@s991533> its endurance, in fact, is good
+00:20 <@s991533> but very expensive
+00:20 < brainy> yeah ;(
+00:39 <@s991533> hualet was scared out?
+00:39 <@s991533> ;(
+00:39 <@s991533> brainy: do you write in nodejs? do you use git?
+00:40 < brainy> s991533, no sorry :(
+00:41 <@s991533> brainy: don't say sorry :)
+00:41 <@s991533> brainy: do you write webpages?
+00:42 <@s991533> or some other related, js, css, php, RoR, perl, python
+00:44 < brainy> nope :(
+00:44 < brainy> I never learned those languages
+00:45 <@s991533> fine
+01:18 < brainy> hi chihchun
+01:24 < brainy> cu later
+02:12 < arun_> apple loves OPen Source s991533
+02:17 <@s991533> arun_: what does love mean here? use it? contribute to it? xD
+02:18 < arun_> s991533: use
+03:40 <@s991533> if they only use, not better then MS, i say if, bacause of i dont know
+08:30 < hualet> Good morning, s991533
+08:31 < hualet> nice day, huh? ;)
+11:23 < brainy> hi all
+22:06 < brainy> hi all
+22:14 < arun_> hi brainy
+22:14 < arun_> hi hualet
+22:15 < hualet> hi arun_ and brainy ;)
+22:18 < arun_> hualet: hi, how are u today?
+22:20 < hualet> arun_: not bad, spend a whole afternoon discussing with a colleague about a crash problem and finally got it settled ;)
+22:20 < hualet> arun_: how about you?
+22:21 < brainy> hi arun_ hualet xD
+22:22 < brainy> hualet, what did you crash? xD
+22:22 < arun_> hualet: I am at bad situation...
+22:22 < brainy> Did you throw PC out of the window again? :D
+22:22 < hualet> arun_: about what?
+22:23 < arun_> hualet: I need to create GUIs of gnome to circular ...
+22:23 < hualet> brainy: we were planning to use OpenGl to render some videos, but it causes crashes...
+22:23 < arun_> hualet: what was the crash?
+22:23 < arun_> hualet: ok so, it worked?
+22:24 < arun_> hualet: you are a graduated guy?
+22:25 < hualet> arun_: finally we decide to remove that part of code, lol
+22:25 < arun_> hualet: hehehe
+22:25 < brainy> hualet, haha good solution
+22:25 < arun_> hualet: cool , what part of stuff are u working under GUI currently ?
+22:25 < hualet> arun_: haha, yes, I'm graduated...
+22:26 < hualet> arun_: I just mentioned that we were planning to rendering _videos_ using opengl...
+22:29 < hualet> arun_: I didn't get it, what's 'to circular'?
+22:29 < hualet> brainy: and you? how's you day?
+22:32 < hualet> Am I just losing messages? hello, guys?
+22:33 < arun_> hualet: yes, I mean circular for everything.. the screen to be circular
+22:33 < arun_> hualet: the gnome menu to be circular... the desktop to be circular.. the icons to be circular, buttons to be circular, everything...
+22:33 < arun_> in the GUI to be circular
+22:33 < arun_> is is possible to make the menu of deepin circular?
+22:36 < hualet> arun_: actually I still don't understand what are you talking about, can you change the word 'circular' to another one?
+22:37 < arun_> hualet: rounded
+22:38 < hualet> arun_: ah...that makes sense ;)
+22:38 < arun_> hualet: :)
+22:38 < arun_> ;)
+22:39 < hualet> arun_: you are changing the gtk theme, right?
+22:40 < brainy> a round menu? haha nice idea
+22:41 < arun_> hualet: yup...
+22:42 < arun_> brainy: do u think its a good idea?
+22:43 < brainy> arun_, hmmm you mean for usability? I dont think so
+22:43 < hualet> arun_: cool, but it's a lot of work, dude...
+22:43 < brainy> Do you have a special screen arun_ ?
+22:43 < arun_> brainy: nope, what king of special screen?
+22:43 < arun_> *kind
+22:43 < brainy> round screen haha
+22:43 < arun_> hualet: yup It needs
+22:44 < arun_> brainy: yes, I am trying for a POS (Point of Sale 8 inches)
+22:44 < hualet> brainy: rounded corner menu, not round menu XD
+22:44 < brainy> ahhh ok haha
+22:45 < arun_> brainy: do  u think its funny ?
+22:47 < brainy> arun_, when I first thought of a round screen, yes
+22:47 < arun_> brainy: lol
+22:47 < brainy> :D
+22:48 < hualet> lol
+22:48 < brainy> arun_, aren't there some roundish gtk themes which you could take as an example?
+22:49 < brainy> I can't remember their names but I think they exist
+22:49 < arun_> brainy: it would be great if I found.. I tried some google but didn't work for me
+22:49 < arun_> brainy: please help me to find it.. it will be a great help for me...
+22:49 < brainy> Ok I can try arthur____
+22:49 < brainy> oops arun_
+22:54 < arun_> hualet: is it easy to make things to round in DDE?
+22:55 < hualet> it's about changing the Gtk themes, too...
+22:55 < hualet> arun_: ^
+22:55 < arun_> ok hualet
+22:56 < arun_> hualet: who is the lead developer in Deepin?
+22:59 < hualet> arun_: our CTO, a guy with multiple skills...
+22:59 < arun_> hualet: ok, whats his name?
+23:00 < arun_> hualet: How does the ISO stuffs?
+23:00 < hualet> arun_: his id's snyh ;)
+23:00 < arun_> *Who
+23:01 < hualet> arun_: our packages manager
+23:01 < arun_> hualet: oh...
+23:01 < hualet> they build the ISOs every now and then
+23:03 < arun_> hualet: ok... Is there a big building in China of Wuhan Deeping Tech. office?
+23:03 < arun_> *deepin
+23:03 < brainy> (I will be right back)
+23:04 < hualet> arun_: not yet ;) but I think there will be one day...lol
+23:05 < arun_> hualet: ok .. so you all guys work online ?
+23:05 < arun_> or you work in a combined Office?
+23:06 < hualet> arun_: we rented a office and the most of us worked in there
+23:07 < arun_> hualet: ok thanks for the info..
+23:08 < arun_> hualet: was like an interview
+23:08 < arun_> hehe
+23:08 < hualet> arun_: I remember you...you are the guy that wanted to join us and you live in Nepal, right?
+23:08 < arun_> hualet: hmm.. yup
+23:08 < arun_> hualet: correct..
+23:08 < arun_> hualet: you have a great memory power than mine...
+23:09 < arun_> hualet: I just remembered that you were the one whom I asked about it...
+23:09 < arun_> brainy: any update towards the theme?
+23:10 < hualet> arun_: ok...
+23:10 < brainy> arun_, I have looked at gnome-look.org but I can't find one :(
+23:10 < arun_> brainy: may be you can get from ubuntu's gnome site
+23:10 < brainy> arun_, can you show me an example how it should look like?
+23:10 < arun_> brainy: nope, no example
+23:17 < arun_> hualet: do you think its possible to make the stuffs to good looking rounded?
+23:18 < arun_> why are the other guys in this channel so silent?
+23:18 < arun_> let me ping
+23:18 < hualet> arun_: I'm not sure
+23:18 < arun_> ping chihchun  dantmnf dardevelin erhandsome erhandsome felixonmars hualet JimmyZ Karbowiak njumdl2014 tmh_ ypwong
+23:18 < chihchun> ?
+23:19 < dantmnf> pong arun_
+23:19 < Karbowiak> interesting
+23:19 < felixonmars> hello?
+23:19 < dardevelin> arun_, pong
+23:19 < arun_> great
+23:19 < hualet> arun_: seems like it worked, lol
+23:19 < arun_> Hi all
+23:19 < arun_> hualet: yup, was too quick
+23:20 < dardevelin> what is going on ?
+23:20 < arun_> chihchun: dantmnf Karbowiak felixonmars dardevelin how are u guys ?
+23:20 < Karbowiak> great
+23:20 < Karbowiak> except for the highlight apocalypse is upon me
+23:20 < dardevelin> fine here
+23:20 < arun_> cool,
+23:20 < dantmnf> fine
+23:20 < felixonmars> still works
+23:21 < arun_> sorry if I disturbed you but, the channel seemed too lonely though you great guys where in the channel
+23:23 < arun_> looks like you guys needs ping to get interactions ... lol
+23:23 < arun_> hualet: u still there?
+23:23 < hualet> arun_: any time ;)
+23:24 < arun_> hualet: u do work @ home too ?
+23:25 < arun_> guys, Wuhan == name of City ?
+23:25 < hualet> arun_: I did before, but that just broke my life and my body, so I only learn some interesting things at home ;)
+23:26 < arun_> hualet: hm..
+23:27 < arun_> hualet: how did name Wuhan or Deepin come from ?
+23:29 < hualet> arun_: yeah, Wuhan's the provincial capital of Hubei, Deepin's just the internet ID our boss used
+23:29 < arun_> hualet: hm.. who is your Boss and what works does he do ?
+23:30 < hualet> arun_: I don't know the history of how Wuhan was named, sorry...
+23:30 < hualet> arun_: he makes money, of course XD
+23:31 < arun_> hualet: ohh ok , so he is not a Tech guy?
+23:32 < hualet> arun_: he was, maybe...I don't know much about him...
+23:32 < arun_> hualet: ok thanks
+23:32 < arun_> hualet: you did Computer Engineering or what?
+23:32 < hualet> arun_: so you're graduated or a student?
+23:32 < arun_> hualet: I am a Student
+23:33 < hualet> arun_: ok...
+23:35 < arun_> hualet: whats your field/faculty of study ?
+23:36 < hualet> arun_: my major at college was called Mechatronic Engineering
+23:37 < arun_> hualet: and how did u join to the computer field?
+23:38 < hualet> arun_: my computer skills was self-taught
+23:39 < arun_> hualet: hm.. looks great interesting to me
+23:40 < hualet> arun_: hum...that'll be good ;)
+23:41 < brainy> arun_, loool
+23:41 < brainy> I just came back and I saw how you woke up everyone in this channel haha
+23:41 < arun_> brainy: hehe ;)
+23:43 < hualet> brainy arun_, it's not polite, though it's interesting... :0
+23:43 < hualet> brainy: you are working?
+23:43 < arun_> hualet: yes, I know but just wanted to interact with those guys..
+23:44 < hualet> arun_: I know...
+23:45 < brainy> hualet, I have some websites that give me some money through advertising, I also do part time computer teaching
+23:45 < brainy> just simple stuff ;)
+23:45 <@s991533> @@" what did arun_ / hualet did @@?
+23:45 <@s991533> 23:43 < hualet> brainy arun_, it's not polite, though it's interesting... :0
+23:45 < hualet> brainy: that's super cool, I just want a life like that, haha
+23:45 < brainy> haha hualet
+23:46 < brainy> s991533, arun_ pinged everyone in this channel haha
+23:46 < hualet> s991533: yep
+23:46 < arun_> thats great brainy
+23:46 < arun_> keep good works :)
+23:46 < brainy> thx arun_ xD
+23:51 <@s991533> brainy: xD
+23:51 <@s991533> some people never say anything xD
+23:51 < hualet> s991533: when will your winter holiday start?
+23:52 <@s991533> after next week - final exam
+23:52 <@s991533> got to go, sorry
+23:52 <@s991533> seeya
+23:52 < hualet> s991533: sounds great ;)
+23:52 < hualet> s991533: ok
+23:52 < hualet> see you ;)
+23:53 <@s991533> I'll follow the log when I have time
+23:53 <@s991533> :)
+23:53 <@s991533> but may not talk, that's what I am doing this week xD
+23:53 < hualet> s991533: haha, I see...
+23:54 <@s991533> just make sure no missing problems or feedbacks from users
+23:54 < brainy> see you s991533
+23:54 <@s991533> good night guys :)
+23:54 < hualet> good night, s991533
+23:56 < hualet> brainy and arun_, I'm tired too, see you tomorrow ;)
+23:57 < brainy> see you hualet :D
