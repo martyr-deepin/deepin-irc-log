@@ -1,0 +1,156 @@
+00:02 < brainy> I must tell you guys something
+00:02 < brainy> I am still using Deepin 12.06 haha
+00:02 <@s991533> xD
+00:02 < brainy> 2 years old but I like it
+00:02 < brainy> lol s991533
+00:03 < alim0x> brainy, haha, when I find updates, just can't help to upgrade my system
+00:05 < brainy> xD
+00:06 < oahong> You should use a rolling release distro, not ubuntu. alim0x ;-)
+00:08 < alim0x> oahong, I had been think about it, but I love Unity now :)
+00:08 < alim0x> the title bar in Gnome is terrible, it make my 16:9 screen almost 21:9 haha oahong
+00:09 < brainy> xD
+02:16 < arun> hi all
+02:17 < arun> s991533:
+02:28 <@s991533> ?
+02:30 < arun> s991533: are u familiar with gnome themes?
+02:30 <@s991533> no
+02:31 < arun> s991533: ok thanks
+02:33 <@s991533> np
+02:33 <@s991533> do you write nodejs?
+02:37 < arun> s991533: nope
+02:37 < arun> a friend of mine does..
+02:37 <@s991533> wanna try it?
+02:40 < arun> s991533: nope, I don't know a little too. I am planning to learn it after 5 months.. :D
+02:44 <@s991533> great
+04:08 < arun> s991533: yuop
+04:16 <@s991533> ?
+04:44 < arun> s991533: nothing...
+04:44 < arun> s991533: how are u today ?
+04:48 <@s991533> same same
+04:55 <@s991533> and you arun 
+04:55 <@s991533> how about you arun ?
+04:56 < arun> s991533: I aM fine man
+05:33 <@s991533> nice
+09:55 < brainy> Good morning hualet :)
+10:41 < BG0AYT> 各位早上好啊
+10:41 < BG0AYT> join #freebsd
+10:57 < alim0x> morning
+11:02 < brainy> hi hualet :)
+11:06 < alim0x> hi brainy
+11:09 < brainy> hi alim0x :)
+11:13 < hualet> hi, brainy, long time no see XD
+11:14 < hualet> though it's two days actually, haha
+11:15 < brainy> lol
+11:15 < brainy> alim0x, hualet is one of the Deepin developers
+11:16 < alim0x> oh,hi hualet
+11:17 < brainy> see you later all :)
+12:15 <@s991533> hi hualet 
+12:28 < hualet> hi s991533, alim0x
+12:28 < hualet> alim0x: new to here?
+12:50 < alim0x> hualet, yeah
+12:51 < hualet> alim0x: nice to meet you here ;)
+12:52 < alim0x> hualet, nice to meet you too :)
+12:55 < JimmyZ> hualet:  are you chinese?
+12:57 < hualet> JimmyZ: yep, and where are you from?
+12:58 < hualet> alim0x: and you? where are you from?
+12:58 < alim0x> China XD
+12:59 < hualet> alim0x: well...nice... ;]
+13:00 < alim0x> hualet, ManateeLazyCat...is he here? :)
+13:01 <@s991533> hualet: alim0x is looking for you xD
+13:01 <@s991533> I'm going to take the exam now, have a nice talk!
+13:01 < alim0x> s991533, good luck
+13:01 < hualet> s991533: he's apparently look for LazyCat....
+13:02 < alim0x> aha just for curious hualet
+13:02 <@s991533> hualet: he was looking for deepin developer yesterday
+13:02 <@s991533> so, here you are xD
+13:02 <@s991533> got to go
+13:02 <@s991533> bye~
+13:02 < hualet> s991533: bye
+13:03 < hualet> and good luck to you
+13:03 < hualet> alim0x: no, he's rarely here nowadays, busy man, you know... ;)
+13:03 < alim0x> good impression in DAU 2014 ：）
+13:04 < alim0x> hualet, understand
+13:05 < hualet> alim0x: which city are you in? Beijing?
+13:07 < alim0x> hualet, Changchun, passing through Beijing last holiday
+13:08 < hualet> alim0x: well...cool, I didn't go to DAU last time
+13:08 < alim0x> hualet, I still remember: "where is your designer?" haha
+13:11 < alim0x> I think I'm user, not geek, so for distro I always care about its looking :)hualet
+13:11 < hualet> alim0x: that sounds like me, haha
+13:12 < alim0x> hualet, for now I think there is a simple thing deepin can do to improve whole system
+13:12 < hualet> alim0x: I care its appearance more than its features while picking distros ;)
+13:12 < hualet> alim0x: just say it ;)
+13:13 < alim0x> hualet, yeah, I always go to gnome-look.org look for good icon and theme XD
+13:13 < alim0x> hualet, the icon-theme in 2014.2 is amazing, and the control panel
+13:14 < alim0x> hualet, but the theme, at window, look so old :(  even like gtk2
+13:15 < alim0x> a good,flat theme
+13:15 < hualet> alim0x: haha, seems you and me share the same aesthetic ;)
+13:15 < alim0x> hualet, I think deepin need it
+13:15 < hualet> alim0x: sure
+13:15 < alim0x> hualet, haha
+13:16 < hualet> alim0x: I'll tell our designers about it
+13:16 < alim0x> I think it's not so difficult :)
+13:17 < alim0x> hualet, good example: Numix, but recently I use Libra
+13:17 < alim0x> hualet, http://gnome-look.org/content/show.php/Libra?content=167689
+13:18 < alim0x> hualet, recommend for you ;)
+13:21 < hualet> alim0x: thanks, I heard about Numix before and saw tons of screenshots about the theme ;)
+13:23 < hualet> alim0x: need to leave for a moment, see you later ;)
+13:23 < alim0x> hualet, deepin needs own theme XD
+13:23 < alim0x> hualet, see you later
+15:31 < xy_god> 这里有deepin的开发人员么？
+15:32 < xy_god> gcc main.c -lpthread
+15:32 < xy_god> main.c:(.text+0x13f)：对‘pthread_mutex_destory’未定义的引用
+15:32 < xy_god> 这个错误，怎么解决啊？
+15:41 < JimmyZ> 你可能没有包含相关的头文件，比如  pthread.h
+15:56 < xy_god> 我该包含的都包含了，而且，那个错误，是在链接阶段出现的，不是编译阶段啊
+15:56 < xy_god> 应该是deepin的pthread库里缺函数造成的
+15:58 < JimmyZ> 那可以一下 pthread.so
+15:58 < JimmyZ> 里面有没有这个函数
+15:58 < JimmyZ> 看一下。
+16:01 < xy_god> 哦，好
+16:06 < xy_god>  readelf -s /lib/x86_64-linux-gnu/libpthread-2.19.so | grep pthread_mutex_destroy
+16:06 < xy_god>    101: 000000000000a3e0    34 FUNC    GLOBAL DEFAULT   13 pthread_mutex_destroy@@GLIBC_2.2.5
+16:06 < xy_god>    208: 000000000000a3e0    34 FUNC    GLOBAL DEFAULT   13 __pthread_mutex_destroy@@GLIBC_2.2.5
+16:06 < xy_god>    596: 000000000000a3e0    34 FUNC    GLOBAL DEFAULT   13 pthread_mutex_destroy
+16:06 < xy_god>    638: 000000000000a3e0    34 FUNC    GLOBAL DEFAULT   13 __pthread_mutex_destroy
+16:07 < xy_god> 应该是有啊，可是，我为啥链接不上了？
+16:09 < JimmyZ> 那应该是质疑方法是不是正确的。
+16:10 < JimmyZ> 或者网上看一下这种问题的通用解决方法是什么。
+16:12 < xy_god> 额。。。。。。。。网上没有方法
+16:12 < xy_god> 我觉得我刚才调查错了，应该是查看libpthread.a，而不是libpthread.so
+16:14 < xy_god> 啊啊啊啊啊啊啊啊啊啊啊啊啊，天啊，我错啦，哈哈
+16:14 < xy_god> 我刚才是写成了pthread_mutex_destory,应该写成pthread_mutex_destroy啊
+16:15 < xy_god> 擦擦擦
+16:15 < xy_god> 我可以去死了，哈哈
+16:19 < JimmyZ> 额
+18:35 < brainy> hi alim0x :D
+18:52 < alim0x> brainy, hi
+21:13 < brainy> hi oahong
+21:26 < oahong> e~
+21:35 < brainy> what does that mean oahong? haha
+21:40 < oahong> 呃
+22:00 <@s991533> oahong: English please :)
+22:00 < oahong> Do we have a Chinese channel?
+22:01 < brainy> hi s991533 ;)
+22:09 <@s991533> hi brainy 
+22:09 <@s991533> oahong: no, sorry
+22:10 <@s991533> oahong: how do you do?
+22:11 < brainy> Maybe I should learn Chinese haha
+22:11 < brainy> But it will take a few years
+22:14 <@s991533> brainy: Chinese is very hard ...
+22:14 <@s991533> escecially you are in IRC channel, you need to read, not listen and say
+22:14 <@s991533> it'll be very difficult xDDD
+22:18 < brainy> s991533, haha yes you are right
+22:26 <@s991533> but you can still try it
+22:26 <@s991533> maybe you'll like it
+22:26 <@s991533> though I don't xD
+22:28 <@s991533> hi alim0x 
+22:41 <@s991533> did I miss anything?
+22:41 <@s991533> internet was broken ... haha ...
+23:40 <@s991533> finally .. I'm back
+23:40 < brainy> haha welcome back s991533
+23:41 <@s991533> :)
+23:41 < alim0x> aha, hi s991533 brainy
+23:41 < brainy> hi alim0x
+23:41 < brainy> xD
+23:41 < brainy> I think the server kicked us out.
+23:43 < alim0x> connection not so stable
