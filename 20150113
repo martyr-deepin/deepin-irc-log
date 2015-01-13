@@ -1,0 +1,173 @@
+01:01 < arun> hi s991533
+08:56 <@s991533> hi arun
+09:51 <@s991533> hi metak 
+09:52 < metak> hello ;-)
+09:52 < metak> what's up? doing fine?
+10:20 <@s991533> just say hi xD
+10:22 < metak> well hi then... ;-)
+10:25 < metak> kinda wish I could go there and see Taiwan and the rest of the SE Asia...
+10:38 <@s991533> metak: (Y)
+10:38 <@s991533> hi yus 
+10:44 < metak> I never asked you s991533, what is your role regarding the Deepin project? Are you a developer or something?
+10:51 <@s991533> just a contributor, translate, irc operator
+10:52 < metak> i see
+10:54 < JimmyZ> morning all
+10:55 <@s991533> hi JimmyZ 
+10:56 < JimmyZ> hello s991533 :)
+10:56 < metak> hello
+11:00 < brainy> hi fasheng
+11:04 < fasheng> hello, guys
+11:12 < metak> hello fasheng....
+11:16 <@s991533> hi brainy 
+11:19 < brainy> hi s991533 metak
+11:20 < metak> lol... now we can hi-eachother for the next hour or so.... ;-)
+11:21 < brainy> hi all ;)
+11:22 < brainy> I just say hi to see if people are awake haha
+11:26 < metak> does anyone in here run Pokerstars on their linux?
+11:28 <@s991533> no
+11:29 < metak> i just installed it this new version 7 is sooooooo bloated and sluggish POS... ;-)
+11:30 < brainy> never heard of it, let me google..
+11:30 < metak> Deep in comes with Crossover right?
+11:32 < metak> brainy: I was trying it... it's horrible... slow as hell... and UGLY...
+11:33 < metak> I know its a windows software and it runs with wine... but, still...
+11:38 < brainy> Yes Deepin has Crossover
+11:38 < brainy> What's the advantage of Crossover...I never really understood?
+11:41 < metak> well Crossover comes with support and every app is installed in a separate 'bottle',,,
+11:41 < brainy> metak, ok so it's like PlayOnLinux?
+11:43 < metak> never used PlayOnLinux...
+11:43 < brainy> Anyway, it sounds similar.
+11:44 < metak> meh... fuck it... it just reminded me how much I don't like windows... ;-)
+11:45 < brainy> How did it remind you? :)
+11:46 < metak> this PokerStars program reminded me... ;-)
+11:47 < brainy> lols
+11:47 < metak> it has add-on bar at the bottom to show you stupid shit!  ;-)
+11:48 < metak> so, brainy, how are you doing?
+11:49 < brainy> good but a little tired
+11:49 < brainy> It's late for you too since you are in Europe ;)
+11:49 < brainy> did you just wake up metak ?
+11:50 < metak> if you don't sleep there's no need to wake up! ;-)
+11:51 < brainy> ha, i like it, I will try to stay awake forever xD
+11:52 < metak> I was playing around and trying to make a theme for lxqt
+11:52 < metak> here it is:  http://www.reddit.com/r/unixporn/comments/2s4v3j/lxqt_just_creating_a_lxqt_theme/
+11:55 < brainy> congrats
+11:56 < metak> lol  I just wanted something dark.... muahahaha.. ;-)
+11:57 < brainy> it's very dark :)
+12:00 < metak> brainy: have any newyear resolutions?
+12:01 < brainy> metak, no ;)
+12:02 < metak> OMFG! ;-)
+12:03 < brainy> haha
+12:05 < metak> me neither... never ubderstood why some people do that.. ;-)
+12:09 < brainy> You know what scares me
+12:10 < brainy> That in 50 years from now 99% of the people might still be using some version of Windows haha
+12:10 < brainy> Windows 2064 Service Pack 4
+12:10 < brainy> This is really scary, it's been around for decades
+12:11 < metak> you definitely have strange fears brainy, that's for sure... ;-)
+12:11 < brainy> lols
+12:11 < metak> I'm afraid that 50 years from now global popluation will be reduced to 500 million...
+12:12 < brainy> Hmmmm
+12:12 < brainy> 500 millions, that's boring
+12:13 < brainy> The planet would be empty
+12:13 < metak> even now with nerly 7 billion it's mostly empty...
+12:14 < metak> but, those are the "tinfoiled hat" conversations... ;-)
+12:15 < brainy> You are right, it's really ampety.
+12:15 < brainy> empty*
+12:20 < metak> do you watch LAS? linux action show
+12:23 < brainy> no..where can I see it?
+12:26 < metak> https://www.youtube.com/user/jupiterbroadcasting/videos
+12:26 < metak> http://www.reddit.com/r/LinuxActionShow/
+12:32 < brainy> bye-bye
+14:43 < cw760> 初次使用IRC  大家多多关照
+15:13 < JimmyZ> :)
+15:33 < chenxiangbang> ChanServ: -h
+15:34 < chenxiangbang> ChanServ: /help
+15:45 < cw760> 表情咋打出来的？
+15:50 <@s991533> hi
+15:50 <@s991533> :+) = :)
+16:03 < JimmyZ> cw760: http://en.wikipedia.org/wiki/List_of_emoticons
+16:04 < cw760> 谢谢
+16:04 < cw760> :+)
+16:04 < cw760> :+)
+16:04 < cw760> :)
+16:05 < cw760> ^
+16:05 < JimmyZ> 😺
+16:05 < cw760> amazing!
+16:06 < cw760> r u the developer of deepin?
+16:09 < JimmyZ> 不是
+20:35 < anti-unix> 为什么不和startos团队合并?
+21:18 < hualet> s991533: how's you exams?
+21:29 <@s991533> hualet: bad
+21:29 <@s991533> BWT, I'll be here less time in future
+21:29 < hualet> s991533: sorry to hear that
+21:29 <@s991533> not regular
+21:29 < hualet> s991533: why?
+21:30 < hualet> s991533: there'll be much less fun without you
+21:30 <@s991533> oops, I thought you know it, I'll not be here as a regular IRC holder, 
+21:31 <@s991533> because of the adjustment of your company :)
+21:31 < hualet> s991533: that changes anything? I don't think so
+21:31 < hualet> s991533: I heard about that
+21:31 <@s991533> and I'll spend more time to develop my project
+21:32 <@s991533> I have some thoughts and want to do it, but just have no time
+21:32 < hualet> s991533: okay, a little disappointed though...
+21:32 <@s991533> it's okay
+21:32 <@s991533> you can follow me on github or twitter
+21:32 <@s991533> and we can still keep in touch
+21:32 <@s991533> I'll still be online
+21:33 <@s991533> but not regular to ping you guys :)
+21:33 < hualet> s991533: you know, we don't use twitter regularly as you do
+21:33 < hualet> and twitter's not a good place chatting with each other
+21:33 <@s991533> and I don't need to make sure we answer the questions on this channel any more D
+21:33 <@s991533> yeah, but many of the great developers do
+21:33 <@s991533> anyway
+21:34 <@s991533> you can send me msg on IRC
+21:34 < hualet> s991533: what's your twitter account then?
+21:34 <@s991533> same as my github, I got to go for study ... sorry
+21:34 < hualet> s991533: okay, just go, I'll follow you on twitter
+21:34 <@s991533> seeya, we can talk much when exam finish
+21:35 <@s991533> :)
+21:35 <@s991533> I also have some issues want to discuss with you hualet, see you :)
+21:35 < hualet> s991533: see you ;)
+23:11 < brainy> hi hualet s991533
+23:12 < hualet> brainy: hi, you are running late :(
+23:12 < brainy> sorry hualet :(
+23:12 < brainy> I was here in the morning haha
+23:12 < brainy> 11-12 china time
+23:13 < hualet> brainy: oh...I didn't notice that
+23:13 < brainy> np ;)
+23:13 < hualet> brainy: have you seen the chat between s991533 and me earlier?
+23:15 < brainy> hualet, no...what happened?!
+23:17 < hualet> brainy: s991533 will no longer be the admin here in a few days
+23:17 < hualet> brainy: and he will be less active here
+23:19 < brainy> oohh because of his studies, I understand
+23:34 < brainy> hualet, does this channel really need an admin? xD
+23:34 < brainy> I have never seen anything happen here, nobody hardly speaks in here, lol
+23:35 < hualet> brainy: how about we two admin each other XD
+23:35 < brainy> haha
+23:36 < hualet> brainy: maybe there'll be some change happen here soon, I don't know
+23:36 < hualet> brainy: BTW, what's your twitter account?
+23:37 < brainy> hualet, sorry I don't have one
+23:37 < hualet> brainy: well...then which social website do you use?
+23:39 < brainy> hualet, none, haha
+23:39 < brainy> I am very anti-social lol
+23:39 < hualet> brainy: oh...pathetic XD
+23:40 < hualet> brainy: so do you join other channels? or just this one?
+23:41 < brainy> hualet, no just this one, it's the best channel xD
+23:42 < hualet> brainy: I agree with you, lol
+23:42 < brainy> I was in the Linux Mint channel a few times, there are much more people haha
+23:42 < brainy> Lots of nerd talk there lol
+23:42 < hualet> brainy: maybe that's why my company just adjusted its strategy
+23:43 < hualet> brainy: do you think I'm a nerd too? haha
+23:43 < brainy> I don't know xD
+23:43 < brainy> It's just a term I use when people talk about very technical stuff lol
+23:44 < brainy> hualet, how has your company adjusted its strategy?
+23:46 < hualet> brainy: I mean the channel admin thing, I think they'll put someone here and focus a little bit more on this channel than ever
+23:47 < brainy> hualet, ahh that would be nice
+23:48 < hualet> brainy: oh...horrible...
+23:49 < hualet> can't be such free to share much opinions here, I'm afraid... :(
+23:50 < brainy> hualet, really?? You mean they will make this a dictatorship?
+23:52 < hualet> brainy: no, but if there's many people here, I probably should not say many things improper
+23:52 < hualet> brainy: I don't know, we'll see XD
+23:52 < hualet> brainy: anyway, I'll aways be here for you, haha
+23:53 < brainy> hualet, haha thanks, and I will be here for you too
+23:53 < hualet> brainy: thank you, haha
+23:54 < hualet> brainy: it's midnight here already, gotta go, good night and see you tomorrow ;)
+23:55 < brainy> ok hualet see you :D
