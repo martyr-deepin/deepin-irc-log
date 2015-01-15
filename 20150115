@@ -1,0 +1,155 @@
+00:03 <@s991533> hi hualet 
+00:06 < hualet> hi brainy and s991533, just had a talk with my roomate
+00:07 < hualet> brainy: are you still there?
+00:08 < hualet> well...good night then...
+00:17 < brainy> hi hualet
+00:17 < brainy> good night
+00:43 < brainy> hi erhandsome
+09:01 < brainy> hi s991533
+09:10 < kengao2015> is there
+09:10 < kengao2015> 有没有人说话
+09:38 < brainy> hi hualet o/
+12:26 < brainy> hi all
+12:51 < brainy> hi chihchun
+12:55 <@s991533> hi brainy 
+12:59 < brainy> hi s991533
+15:29 < alim0x> finally...long holiday coming
+15:30 < alim0x> hualet, hi
+15:30 < hualet> alim0x: hey, dude ;)
+15:32 < alim0x> I posted something in forum :) hualet
+15:32 < alim0x> http://linuxdeepin.com/forum/6/27253
+15:35 < hualet> alim0x: that's great, let have a look...
+15:38 < hualet> alim0x: our designers are working on it
+15:38 < alim0x> I remember deepin had a plan to rewrite the window manager... hualet
+15:38 < hualet> it's a lot of work
+15:38 < hualet> alim0x: yeah, that's right
+15:38 < alim0x> so now still compiz?
+15:39 < hualet> alim0x: there's already a internal release for testing work now
+15:39 < hualet> alim0x: of course not
+15:40 < alim0x> oh that's great
+15:41 < alim0x> when I know deepin chose Source Han as default font, got little disappointed ;)
+15:42 < hualet> alim0x: and why's that?
+15:43 < alim0x> I had interested in it too before, but after compare it to WenQuanYi, I think it not so suitable for words on screen
+15:44 < alim0x> not a good choice for reading :)
+15:45 < JimmyZ> 我提交了几个Bug 在 github 上面，都没人看一下。。。
+15:46 < alim0x> hualet, maybe WQY looks more like fonts in OSX haha
+15:47 < hualet> alim0x: well...It's sort of weird at first, but I'm getting used to it gradually, haha
+15:48 < alim0x> maybe Github is not their main workspace... JimmyZ
+15:48 < alim0x> http://ww4.sinaimg.cn/large/005BPazgtw1em9mvgt98dj30mb0nin1h.jpg
+15:48 < alim0x> hualet, how about your thought ;)
+15:48 < JimmyZ> don't know
+15:49 < JimmyZ> I didn't find better place to report bug
+15:51 < alim0x> maybe you can report it in forum
+15:52 < hualet> JimmyZ: we're mainly collecting bugs from mantis and our forum right now, please report them there?
+15:52 < JimmyZ> will try it next time
+15:52 < hualet> JimmyZ: thanks ;)
+15:53 < hualet> need to go back to work now, see ya alim0x, JimmyZ
+15:54 < alim0x> hualet, bye
+15:55 <@s991533> hi hualet 
+15:55 <@s991533> hualet: do you use thunderbird?
+15:55 < hualet> s991533: hi
+15:56 < hualet> s991533: no, tried it before, don't like its style
+16:00 <@s991533> okay, fine xD
+16:01 <@s991533> I am not fimilar with the new versions, didn't use it for a long time
+16:01 <@s991533> just not fimilar, but I think it's a good mail client
+16:02 <@s991533> and can connect to MS exchange server via add-on, so I don't need to use browser to mail
+16:02 <@s991533> but I found that it's sound notifications not really work on my linuxmint 17.1
+16:02 <@s991533> keep trying
+16:02 < hualet> s991533: new version?
+16:03 <@s991533> v31.3
+16:03 <@s991533> I didn't use thunderbird for a long time
+16:03 < hualet> s991533: with new features? mozilla announced that they will not add new features to it last year I think
+16:03 <@s991533> maybe, looks very different
+16:04 <@s991533> just like firefox
+16:06 < alim0x> I am using thunderbird...
+16:07 < hualet_> s991533, sorry, bad network, keep losing connection all the time today...
+16:08 < alim0x> new mail notification is normal in unity...
+16:08 <@s991533> okay ... I'm using cinamon ...
+16:08 < alim0x> s991533, do you keep it open?
+16:08 <@s991533> yeah
+16:09 <@s991533> I found a good add-on maybe you already know
+16:09 <@s991533> firetray
+16:09 <@s991533> can keep it on the system tray without exit
+16:09 <@s991533> ha
+16:09 <@s991533> anyway
+16:09 <@s991533> notifications work without sound only
+16:09 <@s991533> that okay ...
+16:10 < alim0x> you mean system notify sound or the thunderbird's
+16:10 <@s991533> BWT, I use exquilla to connect to exange server
+16:10 <@s991533> alim0x: thunderbird's
+16:10 <@s991533> seems exquilla is not open sourced
+16:11 <@s991533> hope there can be one opensourced solution for it
+16:11 <@s991533> haha
+16:11 < alim0x> maybe you need to keep it foreground....
+16:11 <@s991533> yeah
+16:11 <@s991533> I did
+16:11 < alim0x> to get the sound XD
+16:11 <@s991533> not work
+16:11 <@s991533> but even it works
+16:11 < hualet_> s991533, it seems that exchange mail's really popular out ther in Taiwan?
+16:11 <@s991533> why should I do it?
+16:11 < alim0x> all right...maybe bug
+16:11 <@s991533> make no sense right?
+16:12 <@s991533> hualet_: it depends
+16:12 <@s991533> I use it because my school use it
+16:12 <@s991533> haha ...
+16:12 < hualet_> s991533, alright...
+16:12 <@s991533> for non-opensourced org
+16:12 <@s991533> yeah
+16:12 <@s991533> enxhange is a good choice
+16:12 < alim0x> exchange? Microsoft's tech?
+16:12 <@s991533> s/enxhange/exchange/
+16:12 <@s991533> alim0x: yeah
+16:12 <@s991533> MS tech for mail
+16:14 < alim0x> great for symbian
+16:14 < alim0x> haha
+16:15 < alim0x> s991533, are you student now?
+16:15 <@s991533> alim0x: yes I am
+16:18 < alim0x> university?
+16:19 <@s991533> yeah
+16:20 <@s991533> thunderbird's bug is not very important
+16:20 <@s991533> but pidgin's bug does
+16:20 <@s991533> it always disapper on the tray ...
+16:20 <@s991533> but seems no problem on mate
+16:20 < alim0x> s991533, the life in Taiwan still mystery for most people in mainland :)
+16:20 <@s991533> will try to find the root cuase in winter vacation
+16:20 <@s991533> alim0x: ha, you can travel to Taiwan
+16:20 <@s991533> what about you alim0x ?
+16:21 <@s991533> student too?
+16:21 < alim0x> not rich enough haha
+16:21 < alim0x> yeah
+16:21 <@s991533> great
+16:21 <@s991533> I got to go
+16:21 < alim0x> tomorrow back home, Fujian :)
+16:21 <@s991533> seeya
+16:21 < alim0x> bye
+17:16 < JimmyZ> hualet_: Thanks, I will do it next time.
+19:00 < mindphuck> i just installed this distro today and i have to say i really like it
+22:03 <@s991533> ping arun 
+22:49 < brainy> hi
+22:49 <@s991533> hi
+22:49 <@s991533> preparing for exam now, ha
+22:49 <@s991533> didnt see huamet yet
+22:50 < brainy> hi s991533 good luck
+22:51 <@s991533> brainy: http://www.fit-pc.com/web/products/mintbox-mini/
+22:51 <@s991533> cool
+22:57 < brainy> ha nice
+22:57 < brainy> s991533, what can you do with it?
+22:57 < brainy> It's a mini PC?
+22:57 <@s991533> yeah
+22:58 < brainy> ok
+23:18 < arun> hi s991533
+23:27 < brainy> hi arun how are you?
+23:29 < arun> brainy: i am fine bro and u ?
+23:34 < brainy> arun, fine too thanks man :)
+23:34 < arun> brainy: great
+23:34 < arun> :D
+23:41 <@s991533> zzzzzz
+23:42 <@s991533> hi arun 
+23:42 <@s991533> hi brainy 
+23:42 <@s991533> seems hualet won't come here tonight
+23:46 < brainy> s991533, that's ok, it's late for you guys
+23:49 <@s991533> not really for me
+23:49 <@s991533> make to study the things in school will make me sleepy ...
+23:49 <@s991533> xD
+23:55 < brainy> :D
