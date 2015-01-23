@@ -1,0 +1,76 @@
+00:23 < brainy> hi oahong
+00:24 < oahong> hi~
+00:24 < oahong> It's really quiet without hualet.
+00:24 < brainy> haha true
+00:34 < oahong> brainy: you're from Germany?
+00:34 < brainy> yes oahong
+00:38 < oahong> Well, a little curious, How long have you been using Linux?
+00:41 < brainy> oahong, since 1997 but I still don't know many things about Linux
+00:41 < brainy> Just trying to use it as my desktop OS
+00:42 < oahong> ok, so you're trying to play some windows games on Linux?
+00:44 < brainy> be back later..see you
+01:49 < arun> hi all
+01:49 < arun> hey s991533
+01:50 <@s991533> hi arun 
+01:51 < arun> how are u s991533  ?
+01:51 < arun> s991533: did u clone the repo
+01:51 <@s991533> what dont you check it out on github?
+01:52 <@s991533> and seems the website didn't be auto deployed and updated ...
+01:57 < arun> s991533: no, I was away ...
+01:58 < arun> s991533: the site doesn't get auto deployed to the hosting.. we'll need to upload it
+02:00 <@s991533> you should take a look at it first
+02:00 <@s991533> and setup auto deploy
+02:04 < arun> s991533: ok.. but the hosting site doesn't have a ssh service .. :(
+02:08 < arun> s991533: u there?
+04:11 < arun> hi Karbowiak
+04:11 < arun> s991533: where has the guys gone?
+14:19 < GMY>  Hello
+14:20 < GMY> anyone here
+14:25 < GMY> hi
+17:11 < brainy> hi s991533
+20:20 < brainy> hi arun bro
+20:22 < arun> hi brainy
+20:22 < arun> do you have mint now?
+20:24 < brainy> yes arun
+20:28 < arun> brainy: can you provide me this file? /usr/share/ubiquity/apt-setup
+20:30 < brainy> arun, hmm I don't have this file :S
+20:31 < brainy> it's part of Ubuntu live installer?
+20:31 < arun> brainy: yeah, need to check in live's filesystem
+20:31 < arun> brainy: better mount the filesystem
+20:31 < brainy> arun, ok on sec
+20:35 < brainy> arun, can't you do it with the Mint ISO file?
+20:35 < arun> brainy: nope, I don't have one
+20:42 < arun> hey brainy how do you guys install ppa in deepin ?
+20:51 < brainy> arun, I have apt-setup now. How should I send it to you?
+20:51 < brainy> it's just a small text file
+21:02 < arun> brainy: u there?
+21:03 < brainy> arun, look PM
+21:07 < brainy> arun?
+21:08 < arun> brainy: hey u therE?
+21:09 < brainy> arun, yes i am here, can't you read my PM to you?
+21:09 < brainy> I have pasted the file for you
+21:16 < brainy> arun arun arun arun
+21:17 < brainy> (arun is the best)
+21:24 < arun> brainy: yes dude
+21:24 < arun> brainy: u there?
+21:24 < arun> brainy: my internet is not good today..
+21:24 < brainy> ok arun i am here
+21:24 < brainy> I say 1, you say 2
+21:26 < arun> 2
+21:26 < arun> brainy: I am not best..
+21:26 < brainy> haha ok
+21:26 < arun> brainy: you are the one..
+21:27 < arun> brainy: did u get that file?
+21:27 < brainy> arun, look PM
+21:27 < brainy> I pasted it for you
+21:28 < arun> brainy: thanks..
+21:29 < brainy> arun, ok
+21:29 < arun> brainy: how you guys add a new ppa in deepin?
+21:30 < brainy> not the usual way?
+21:31 < arun> brainy: i am asking u .. I haven't ever added ppa in deepin
+21:32 < brainy> arun, I think you can do it in Software Center
+21:33 < brainy> or just: sudo add-apt-repository ppa:user/ppa-name
+21:33 < brainy> ?
+21:34 < arun> brainy: I think there will come a codename defect
+23:55 < brainy> Has anyone of you used SimpleScreenRecorder to record a game?
+23:56 < brainy> For me the results are not satisfying at all.
