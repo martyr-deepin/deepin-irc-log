@@ -1,0 +1,10 @@
+13:24 < arun_> hi all
+13:24 < arun_> s991533: hey
+16:18 < lynus_zhu> hello, What's short-cut key to adjuct opacity for deepin-terminal?
+19:12 < lin> 既然有人在这里
+19:12 < lin_> 竟然有人在这里
+19:12 < lin_> 有没有会说话的
+19:38 < lynus_zhu> 说话
+21:49 < lynus_zhu> 上次做一个talk时候用的深度系统，之前没注意，在演示的时候发现每个终端的标题都一样的
+21:52 < lynus_zhu> 非常不方便，至少要显示一下当前的路径啊。我现在正在尝试修改，求助~~~我没有学过python，现在我用titlebar的set_title函数加了个标题。发现用ctrl+alt切换的时候，标题还是显示不出来
+23:47 < arun_> s991533: I am deploying your commits
