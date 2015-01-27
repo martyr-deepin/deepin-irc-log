@@ -1,0 +1,36 @@
+00:16 < arun_> s991533: done :D
+01:22 <@s991533> arun: there is aomething wrong
+01:22 <@s991533> arun: there is something wrong
+01:22 <@s991533> please check the source code
+01:22 <@s991533> why so many *pagespeed* there and break the website@@
+01:25 < arun> s991533: lol... I see one of googleapis and one of cloudflare ..
+01:25 < arun> s991533: and cloudflare's is not working..
+01:26 < arun> s991533: both are not working..
+01:27 <@s991533> looks different with the source on github ...
+01:32 < arun> s991533: ok, give me some seconds...
+01:48 < arun> s991533: yup done.. :D Thanks
+01:48 < arun> s991533: how are u ?
+14:41 < arun_> s991533: hey
+14:47 <@s991533> arun_: hi
+14:48 <@s991533> arun_: not work at all
+14:51 < arun_> s991533: hi
+14:51 < arun_> s991533: I had uploaded the site ...
+14:53 <@s991533> arun_: don't you have a broken view on your browser?
+14:55 < arun_> s991533: nope...
+14:56 < arun_> s991533: what broken is seen in your browser?
+14:56 < arun_> s991533: I see as it was before
+14:59 <@s991533> arun_: http://browsershots.org/screenshots/ec6f4f433efdad00598b8ab3ae251d5d
+14:59 <@s991533> http://www.browserstack.com/screenshots/0be879d82e7c04bb29ee74e8abd171829c53e5f2/win8.1_ie_11.0.jpg
+15:00 <@s991533> http://www.browserstack.com/screenshots/0be879d82e7c04bb29ee74e8abd171829c53e5f2/ios_iPhone-5S_7.0_portrait.jpg
+15:00 < arun_> ok, s991533 so image doesn't load?
+15:03 < arun_> s991533: I uploaded what you committed.. the pagespeed might be the reason for the image not showing..
+15:04 <@s991533> arun_: check out the source code please ...
+15:04 <@s991533> pagespeed totally breaks the source code to load libs ...
+15:06 < arun_> ok ..
+15:07 < arun_> s991533: does the source code in your work fine?
+15:07 < arun_> I mean the localhost in your..,.
+15:07 <@s991533> no test, but of course yes
+15:08 <@s991533> you should just take a look at it first ...
+15:19 < arun_> s991533: dude.. I got you what you said
+15:19 < arun_> s991533: and the fact thing is that, the source code is changing on its own ...
+15:20 < arun_> s991533: I deleted the header and again upload it.. but no change in the source code ,..
