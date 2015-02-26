@@ -1,0 +1,32 @@
+00:09 < arun_> s991533: can we install DDE in Debian and in Xubuntu ?
+03:03 < arunpyasi> s991533: u there?
+03:08 < arunpyasi> s991533:
+03:14 < arun_> hey s991533
+03:26 < arun_> dadix: hey
+03:27 < dadix> hello  ;
+03:27 < dadix> 0
+03:27 < arun_> dadix: are u old in deepin ?
+03:27 < arun_> I needed some help[
+03:27 < dadix> I know the project from some time
+03:27 < dadix> but I am not a programmer
+03:28 < dadix> but maybe I can help you
+03:29 < arun_> dadix: can we install DDE in debian or Xubuntu without affecting the current system?
+03:32 < dadix> on debian I don't know
+03:32 < dadix> but in xubuntu is it possible, I think
+04:32 < dadix> but you will need to download so many thing and finally you will transform Xubuntu into Linux Deepin so is not a good idea from my point of view
+04:33 < dadix> http://askubuntu.com/questions/515302/can-i-install-deepin-desktop-environment-2-in-ubuntu-14-04-lts
+04:35 < arun__> dadix: will xfce get crash with DDE ?
+04:36 < dadix> dee will replace xfce
+04:36 < dadix> dde
+04:43 < arun__> dadix: so, we can't install them side wise?
+04:44 < dadix> in login screen you will have 2 option : one for Deepin another for xubuntu
+04:45 < arun__> dadix: so, it will work fine ?
+04:45 < arun__> with Xubuntu ..
+04:45 < dadix> http://askubuntu.com/questions/515302/can-i-install-deepin-desktop-environment-2-in-ubuntu-14-04-lts
+04:45 < dadix> look here
+05:06 < dadix> Osgrid is online again :)
+05:06 < dadix> http://www.osgrid.org/
+05:15 < arun__> what is osgrid ??
+23:24 < nitwit> Hello, I'm having some trouble with finding man pages for a few functions
+23:24 < nitwit> specifically man 2 open, for the C system call
+23:26 < nitwit> alright I figured it out, needed to install manpages-dev, but is this standard for most distros? manpages-dev not being installed by default I mean
