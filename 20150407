@@ -1,0 +1,206 @@
+14:45 < arun_> hi guys
+14:45 < arun_> hualet:
+14:45 < arun_> s991533:
+14:45 < hualet> hi arun_
+14:46 < arun_> hualet: I am confused
+14:47 < hualet> arun_: about what, man?
+14:47 < arun_> hualet: I need to install a fresh Linux in a fresh PC ie mine PC. but confused which Distro to install.
+14:49 < hualet> arun_: are you kidding me? deepin's the best choice for you, haha
+14:50 < arun_> hualet: really ?? when I tried before, it was slow @ my PC.
+14:51 < hualet> oh that's pathetic, s991533 will suggest you Linux Mint
+14:53 < arun_> hualet: what you use|
+14:53 < arun_> I won't use Mint.
+14:53 < arun_> thats toooo simple
+14:53 < arun_> I need something geeky.. :D
+14:56 < arun_> hualet: u there?
+14:57 < hualet> arun_: I'm working...XD
+14:58 < hualet> arun_: and of course I use deepin ;)
+14:58 < arun_> hualet: whats ur inxi -br ?
+15:00 < hualet> arun_: I don't know, where did you see that?
+15:01 < hualet> arun_: man ur gives " url - tools to create and maintain a ur class tree"
+15:08 < arunpyasi> hualet: u there?\
+15:12 < hualet> arunpyasi: yep
+16:12 <@s991533> hualet: have you tried apt-fast?
+16:23 < hualet> s991533: yeah, of course, and I suggested it to our packages maintainer
+16:23 <@s991533> hualet: great
+16:23 <@s991533> you should use it as your middle ware between package manager and apt-get
+16:23 < hualet> s991533: but he haven't done it right now
+16:23 <@s991533> it'll be very very fast
+16:24 <@s991533> hualet: BTW, if you have time, you can contribute to it, ha
+16:24 < hualet> he said that there'll be some issues if multiple mirrors are not synced
+16:24 <@s991533> hualet: you don't need to use multiple mirror
+16:24 < hualet> s991533: I'm not good at bash programming. o.0
+16:24 <@s991533> only one is fine
+16:25 <@s991533> the point is parallel and split
+16:25 <@s991533> multi mirror is another point
+16:25 <@s991533> but the main point is parallel and split
+16:25 <@s991533> I don't use multi mirror
+16:26 < hualet> s991533: I agree, according to the docs I've read about it, I think that's right
+16:26 <@s991533> hualet: you should try it, I mean shell scripting
+16:26 <@s991533> especially sh and bash
+16:26 <@s991533> very important for linux developer
+16:26 <@s991533> agree?
+16:27 < hualet> s991533: I've learnt that when I was trying to program under linux, but I think it's too complicated at that time
+16:27 <@s991533> oh no, everything is not so hard once you start it
+16:27 <@s991533> right?
+16:28 < hualet> s991533: maybe
+16:28 < hualet> I think it's useful, but not that necessary XD
+16:28 <@s991533> hualet: come on
+16:28 <@s991533> it'll be very useful
+16:29 < hualet> s991533: what? you're gonna to teach me that ;)
+16:29 <@s991533> hualet: you can just bite the source code of apt-fast
+16:29 <@s991533> not so long
+16:30 < hualet> s991533: thank you for you suggestion, but I have too much other things to learn at the stage ;)
+16:30 <@s991533> you can have small step everyday
+16:30 <@s991533> just a small step
+16:35 < hualet> s991533: stubborn man
+16:43 <@s991533> = =
+19:51 < brainy> hi s991533
+19:58 < brainy> hi zhsj
+19:59 < zhsj> brainy: ?
+20:01 < brainy> hello
+20:07 < brainy> hi hualet bro
+20:48 < hualet> hi brainy, didn't notice your ping ;)
+20:50 < brainy> hi hualet ;)
+20:50 < brainy> ping s991533
+20:50 < hualet> s991533: hello bro, come chat with us XD
+20:50 < brainy> xD
+20:51 <@s991533> brainy: 
+20:51 <@s991533> you should make that kind of updates makred as safe
+20:52 <@s991533> I meant you talked about software manager in linuxmint
+20:52 < hualet> s991533: o.0
+20:53 < brainy> s991533: are they safe to update?
+20:53 < brainy> s991533: for example kernel or xorg update
+20:55 < hualet> brainy: I usually get all stuff updated on my computer ;)
+20:55 < brainy> hualet: haha nice
+20:56 < brainy> hualet: maybe my PC will run with super speed after xorg update xD
+20:56 < brainy> 60% speed increase
+20:56 <@s991533> Yeah, usually no harm
+20:56 < brainy> s991533: ok thanks man
+20:58 < brainy> hualet: have you tried recording a game on Linux which is run with Wine?
+20:58 < hualet> brainy: recording? why would I do that?
+20:58 < brainy> hualet: I tried all recording software for Linux but the videos look very slow
+20:59 < brainy> hualet: Sometimes I make videos for my game, for example funny moments in the game and I publish on Youtube for the forum
+20:59 < brainy> hualet: on Windows I use Fraps, but Linux software very bad :(
+21:00 < brainy> hualet: do you play LOL on Linux?
+21:01 < hualet> brainy: nope, I play it on Windows, I have one PC running windows ;)
+21:01 < hualet> brainy: which recording software do you use?
+21:01 < hualet> on linux I mean...
+21:02 < brainy> hualet: I have tried all of them xD
+21:03 < brainy> hualet: I am trying to be independent of Windows completely, but it doesn't work :(
+21:04 < brainy> Anyway, no problem
+21:05 < hualet> brainy: why's that?
+21:05 < brainy> hualet: It's inconvenient to always boot into Windows for some small task
+21:05 < hualet> brainy: I mean why do you want to be independent of Windows _completedly_?
+21:06 < hualet> brainy: oh, that's quit true ;)
+21:06 < brainy> hualet: I would prefer to do everything with just one system :)
+21:06 < brainy> hualet: Yep
+21:07 < hualet> brainy: I remember that "Simple Screen Recorder" is pretty good at screen recording, have you tried it?
+21:08 < brainy> hualet: Yep. The results were not good for me.
+21:08 < hualet> brainy: I can't help then ;)
+21:09 < brainy> hualet: Don't worry bro, and thank you anyway ;)
+21:09 < hualet> brainy: you also do media?
+21:11 < brainy> hualet: What do you mean?
+21:12 < hualet> brainy: like writing articles and posting videos etc ;)
+21:13 < brainy> hualet: oh not really :)
+21:15 < hualet> s991533: ping
+21:15 < hualet> XD
+21:17 < brainy> lol
+21:18 < brainy> When arun gets here, he will ping everyone
+21:44 <@s991533> hualet: what's up?
+21:47 < brainy> hi hualet xD
+21:49 < hualet> s991533: kinda miss you XD
+22:03 < brainy> we all miss s991533 xD
+22:05 < brainy> hualet.org is not working :(
+22:10 < hualet> brainy: the domain no long belongs to me anymore
+22:12 < brainy> hualet: ok bro
+22:12 < hualet> brainy: what are you doing dude?
+22:15 < brainy> hualet: I'm bored, just watching some documentaries on Youtube
+22:17 < hualet> brainy: ah, sort of jealous ;)
+22:20 < brainy> hualet: oops sorry i forgot
+22:23 < brainy> hualet: How many citizens does your city have?
+22:24 < hualet> brainy: let me search ;)
+22:26 < hualet> brainy: Baidu says that there're about 10 million people live in Wuhan city
+22:26 < hualet> I was shocked...
+22:27 < brainy> hualet: wow so many
+22:27 < hualet> brainy: yep
+22:27 < brainy> hualet: I guess in China there are many cities with more than 1 million people
+22:28 < hualet> brainy: that's true
+22:28 < brainy> hualet: In Germany the biggest city is Berlin with 3.5 million people xD
+22:28 < brainy> I will google for Wuhan City now
+22:29 < brainy> Ah, there is a big river
+22:29 < hualet> Berlin, hummm, what a familiar city name...
+22:30 < brainy> hualet: Maybe you remember it from 1945? xD
+22:31 < hualet> brainy: It's Yangtze River, the longest river in China, the third in the world
+22:31 < brainy> wow
+22:32 < hualet> brainy: I read too much books about the WWI and the WWII ;)
+22:32 < hualet> brainy: and Hitler
+22:32 < brainy> hualet: xD
+22:33 < hualet> brainy: German's awesome in many ways, I think
+22:33 < brainy> hualet: Every country has good and bad xD
+22:36 < hualet> brainy: yesterday I met one of my roommates in college who have spent about 10 days in Germany, he spoke highly of Germany
+22:37 < brainy> hualet: I am glad that he liked it
+22:38 < hualet> brainy: which city do you live?
+22:38 < brainy> hualet: we have quite a few Chinese students here..at least in Berlin I see some of them
+22:38 < brainy> hualet: I live in Berlin
+22:39 < hualet> brainy: cool
+22:40 < hualet> brainy: do you Germany discriminate against people from other countries?
+22:41 < hualet> sorry, German
+22:42 < brainy> hualet: Those people exist. Many people have prejudices against people from other countries but they don't show it openly.
+22:43 < brainy> hualet: I am only half German myself by the way. My father comes from Iran.
+22:43 < brainy> hualet: so some people dont accept me as a German
+22:44 < hualet> brainy: oh sorry to hear that
+22:44 < brainy> hualet: But Berlin is a very open city. Many different people live together.
+22:44 < hualet> brainy: I just don't get it, why there's event racism
+22:44 < brainy> hualet: I will never understand it, and it's very sad.
+22:47 <@s991533> Hey guys, I', too tired to chat today, need to be offline now, sorry
+22:47 <@s991533> seeya
+22:47 < hualet> s991533: alright dude
+22:47 < hualet> byebye
+22:48 < brainy> see you s991533 !
+23:27 < brainy> hualet: what are you doing bro?
+23:28 < hualet> I'm working on a little music player
+23:28 < brainy> hualet: nice man
+23:30 < hualet> brainy: XD
+23:30 < brainy> hualet: Many smartphones, for example iPhone or Nokia, are produced in China, right?
+23:30 < brainy> I heard about bad working conditions, is that true?
+23:31 < hualet> brainy: iPhones are, I'm not sure whether Nokia is
+23:31 < brainy> hualet: ok
+23:31 < hualet> brainy: yes, the working conditions are quit bad
+23:33 < hualet> brainy: the company is called Foxconn
+23:33 < hualet> from Taiwan
+23:33 < brainy> hualet: Oh I see. That name sounds familiar.
+23:34 < hualet> brainy: the company get to be famous and known as the manufacture of iPhone
+23:35 < hualet> brainy: how did you learn English, BTW
+23:36 < brainy> hualet: By chatting xD
+23:36 < hualet> brainy: cool
+23:36 < brainy> hualet: When I got my first Internet access, I went to chat rooms in the USA to learn English
+23:37 < hualet> brainy: where did you grow up? Germany?
+23:37 < brainy> hualet: I also wanna learn Chinese! But I think the letters are very difficult to learn for me :(
+23:37 < brainy> hualet: Yes, born in Berlin
+23:38 < hualet> brainy: Chinease's simpler in many ways, but much harder to master...
+23:39 < brainy> hualet: I understand
+23:40 < hualet> brainy: XD
+23:44 < brainy> hualet: Do you like the old Jackie Chan movies? xD
+23:44 < hualet> brainy: of course
+23:44 < brainy> Where he was young and doing nice Kung Fu
+23:44 < brainy> hualet: I love his movies xD
+23:45 < hualet> brainy: when I was young, I dreamt to be someone like him
+23:45 < brainy> hualet: haha nice man
+23:46 < hualet> brainy: His movies are not just about Kung Fu, there are many comedy elements
+23:46 < hualet> brainy: and I like that very much, haha
+23:46 < brainy> hualet: yes true, and lots of stunts
+23:47 < hualet> brainy: that's right
+23:48 < hualet> do you go to gym?
+23:48 < brainy> hualet: I used to, but now I have become lazy.
+23:49 < brainy> hualet: I follow some fitness DVD from my home, lol
+23:49 < brainy> I do some sports in front of the TV
+23:49 < brainy> xD
+23:50 < hualet> brainy: haha
+23:51 < hualet> the movies leave me the expressions that Europeans are always very STRONG and BAD, haha
+23:51 < brainy> hualet: loool
+23:52 < hualet> I'm very thin and weak, how about you, man?
+23:54 < hualet> brainy: ^
+23:59 < brainy> hualet: I am tall but not very strong xD
+23:59 < brainy> hualet: As I said, very lazy
+23:59 < hualet> brainy: haha
