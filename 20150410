@@ -1,0 +1,178 @@
+01:22 < arunpyasi> s991533: hey
+01:57 < arunpyasi> hey dadix
+01:57 < dadix> hi
+02:48 < arunpyasi> how are u dadix
+03:57 < dadix> I am fain
+03:57 < dadix> I am on Osgrid
+03:57 < dadix> arunpyasi
+03:58 < arunpyasi> dadix: ohh ok
+03:58 < dadix> and you ?
+03:58 < arunpyasi> dadix: I am quite busy today... will catch you later.. I just installed my new Distro
+03:58 < arunpyasi> I installed Deepin dadix
+03:58 < arunpyasi> and its working cool :D
+03:58 < dadix> :)
+03:59 < dadix> welkome , than
+18:53 < vodkode_> Heya everyone
+18:54 < brainy> hi vodkode_
+18:55 < vodkode_> hi brainy how are you?
+18:55 < brainy> vodkode_: good thanks, how are you?
+18:55 < vodkode_> I just installed linux deepin 2014, first time checking it out, extremely impressed with it so far
+18:55 < brainy> vodkode_: people here are usually asleep xD
+18:55 < vodkode_> I'm good
+18:55 < brainy> I like Deepin too
+18:55 < brainy> great OS
+18:56 < vodkode_> I come from a background of using debian mostly and lately linuxmint
+18:57 < vodkode_> the only issue I've had with deepin so far - and it is a very minor issue - is that I've had to add some repos and apt-get some stuff, I also installed a pack I downloaded, one isn't showing in the app list, the other is but has no icon
+18:57 < vodkode_> any ideas?
+18:58 < brainy> hmmmm
+18:59 < brainy> That is weird, usually the installed packages should be visible in the menu
+18:59 < vodkode_> yeah very weird
+18:59 < brainy> or you mean in the list of the deepin software manager?
+18:59 < vodkode_> no, the menu
+19:00 < brainy> ok yep
+19:00 < brainy> Which package did you install if I may ask?
+19:00 < vodkode_> the weird part isn't (to me) so much that, but that I can change the icon, but add to the dock and the icon is gone or in ones case its changed
+19:00 < vodkode_> weird to have an app in the dock sans icon
+19:00 < vodkode_> plume creator and hotshots
+19:01 < vodkode_> plume is a writing app I use (I am a writer of sorts) and hotshots is my favorite screenshot app
+19:01 < brainy> Okay
+19:02 < brainy> Sometimes some of the Deepin developers are online here, you could try to ask them
+19:03 < vodkode_> well, I am still thoroughly impressed, probably the most professional distro I've ever seen
+19:03 < vodkode_> they did a killer job on the UI/UX
+19:03 < brainy> :D
+19:03 < brainy> As I said, I love it oo
+19:03 < brainy> too*
+19:04 < brainy> It feels like a real Desktop OS
+21:54 < brainy> hi hualet bro
+21:55 < hualet>  brainy, hi
+21:56 < hualet> what will you spend you weekend?
+21:56 < hualet> sorry, what will you do to spend you weekend ? brainy
+21:57 < brainy> hualet: Nothing special actually
+21:57 < brainy> hualet: Are you going to a Linux party?
+21:59 < brainy> hualet: After I install all the Windows 7 Updates, now the OS is slow as hell
+21:59 < brainy> It's a joke
+22:00 < hualet> brainy: nope, there isn't much linux party here in Wuhan, it's not a city like Beijing or Shanghai
+22:00 < brainy> hualet: ah I see, I think Shanghai is a nice city
+22:02 < hualet__> brainy,  did I miss something ? just switched to ubuntu
+22:03 < hualet__> there's too much problems on my Mac after I upgraded to OS X 10.10.3
+22:03 < brainy> hualet: Not much, I only said: "After I install all the Windows 7 Updates, now the OS is slow as hell. It's a joke"
+22:04 < brainy> And: " ah I see, I think Shanghai is a nice city"
+22:04 < brainy> hualet: whats the problem with the new OS X?
+22:06 < brainy> hualet__
+22:06 < hualet__> brainy,  the screen can not be waken up after a long time sleep
+22:06 < brainy> hualet__: oops, so you have to restart?
+22:06 < hualet__> the network connection get disconnected now and then
+22:07 < hualet__> brainy, I have to ssh into my Mac from my phone and reboot it EVERYDAY
+22:07 < hualet__> that just drive me crazy >_<
+22:07 < brainy> hualet__: That's crazy.
+22:08 < brainy> hualet__: I think you must use Deepin, it's better xD
+22:08 < hualet__> brainy, good call ;)
+22:08 < hualet__> brainy, have you tried LXQT?
+22:10 < brainy> hualet__: No I haven't
+22:10 < hualet__> the successor of LXDE
+22:10 < brainy> hualet__: LXDE is good for speed, but I don't like the look.
+22:10 < brainy> hualet__: I prefer MATE Desktop
+22:11 < hualet__> brainy, ok, but LXQT looks good
+22:11 < brainy> hualet__: I might give it a try, if it is available for Ubuntu
+22:12 < hualet__> brainy, If my memory serves well, the DE's not completed yet
+22:13 < hualet__> but It can work
+22:14 < brainy> hualet__: OK
+22:14 < hualet__> s991533,  ping ；）
+22:14 < brainy> xDD
+22:14 < brainy> s991533 seems so busy these days
+22:15 < brainy> hualet__: Look at all the people here, they connect everyday but they never say a word xD
+22:15 < brainy> And when I say "hi" to them, they say "what?"
+22:15 < brainy> lool
+22:17 < hualet__> brainy, people don't want to be bothered while they are in slient mode, lol
+22:17 < brainy> hualet__: xDD
+22:28 <@s991533> hualet__: yeah
+22:28 <@s991533> very busy
+22:28 <@s991533> try to figure our git-lfs
+22:29 <@s991533> do you know that?
+22:29 < hualet__> s991533, I know it's something new
+22:29 < hualet__> Large File Storage, right?
+22:29 <@s991533> hualet__: Yeah, I really need that
+22:29 <@s991533> to pull out something from repo
+22:30 < hualet__> s991533, what do you expect from it?
+22:30 <@s991533> pull out some static files from repo
+22:31 <@s991533> hualet__: https://github.com/cdnjs/cdnjs
+22:31 <@s991533> as you can see
+22:31 <@s991533> there are too many files here
+22:32 < hualet__> let me dig it up
+22:32 <@s991533> 57386 directories, 727777 files
+22:32 <@s991533>  11,475 commits
+22:32 <@s991533> not the latest result, ha
+22:33 <@s991533> make the process with git become very slow
+22:35 < hualet__> s991533, I don't think it will solve your problem
+22:38 <@s991533> hualet__: I am jut trying
+22:38 <@s991533> I hope it can
+22:38 <@s991533> why not?
+22:52 < hualet__> s991533, AFAIK it just prevents big network traffic caused by some tiny modifications to large files
+22:53 < hualet__> but your situation is that you have too much files
+22:53 <@s991533> hualet__: Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+22:53 <@s991533> I think replace them with pointers may help
+22:54 < hualet__> s991533, I don't doubt that XD
+22:55 <@s991533> hualet__: so what's the point you think it won't help?
+22:56 < hualet__> s991533, anyway, how to use that feature? do you know that?
+22:56 <@s991533> hualet__: I'm working on it
+22:56 <@s991533> it's too young, so a little bit hard
+22:57 <@s991533> and I'm not sure if it even slower the git work process ...
+22:59 < hualet__> s991533, you can try it, but don't expect much
+22:59 <@s991533> I'm trying now
+22:59 <@s991533> for many hours
+22:59 <@s991533> from last night
+23:00 <@s991533> our repo is too large ha
+23:00 <@s991533> I tried with smaller repo
+23:00 < brainy> 727777 files, wow
+23:00 <@s991533> but the progress on the repo I need to work on, very slow
+23:01 <@s991533> brainy: do you write in golang?
+23:01 < brainy> s991533: No, sorry.
+23:02 <@s991533> brainy: ha, no problem, neither do I
+23:02 < hualet__> s991533, your bottle neck is that there are too many files in you repo
+23:02 < hualet__> XD
+23:02 <@s991533> hualet__: yeah, I want to move them out ...
+23:03 < hualet__> s991533, what do you mean? move them out? to where?
+23:03 < hualet__> the storage service provided by GitHub?
+23:05 <@s991533> hualet__: the lfs
+23:05 <@s991533> treat them like non-source code
+23:06 <@s991533> hualet__: according to this page https://git-lfs.github.com/ I think it'll help
+23:06 <@s991533> oh yeah, the first push with the main repo finally started!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+23:10 < hualet__> s991533, ok, please let me know if you have some good news to share ;)
+23:10 <@s991533> yeah I will
+23:10 <@s991533> it spent me so much time ha
+23:11 <@s991533> hualet__: what about deepin
+23:11 <@s991533> do you have some news?
+23:11 <@s991533> seems deepin drop community xDDDDDD
+23:11 <@s991533> facebook, irc ~
+23:12 < hualet__> s991533, people who are not active enough are managing them, you can image = =
+23:12 <@s991533> xDDDDD
+23:13 < brainy> The deepin people are not active?
+23:15 <@s991533> brainy: hi, here you are
+23:17 < brainy> hi s991533 how are you? xD
+23:17 < brainy> do you guys know that other Chinese distro called StartOS?
+23:18 < brainy> Originally they made it a Windows XP clone
+23:20 <@s991533> brainy: no
+23:20 <@s991533> brainy: oh ... I know ... origin Ylmf OS ...
+23:20 <@s991533> xDDDDDDD
+23:20 < brainy> s991533: Yes
+23:21 <@s991533> but the latest version was 2 years ago
+23:23 <@s991533> inping hualet__ 
+23:24 <@s991533> ping hualet__ 
+23:24 < brainy> lol
+23:29 < hualet__> the company is our old friend since the copied XP era XDD
+23:29 < hualet__> brainy, s991533 ^
+23:32 <@s991533> Orz ...
+23:32 < brainy> hualet__: what do you mean? xD
+23:32 <@s991533> hualet__: I remember that they rebuild/re-distribute the illeagle windows before, right?
+23:34 < hualet__> brainy, s991533 both our companies did that
+23:36 < hualet__> s991533, I'm wondering do you Taiwanese use illegal windows?
+23:36 < hualet__> brainy, I'll save that question for you XDD
+23:36 <@s991533> hualet__: yeah, some people 
+23:36 < brainy> xD
+23:37 < hualet__> s991533, majority or not?
+23:38 < brainy> Ylmf OS, best linux distro xD
+23:39 <@s991533> hualet__: not majority, 
+23:39 < hualet__> lol
+23:39 <@s991533> brainy: you are kidding ...
+23:40 < brainy> haha
+23:41 < brainy> see you tomorrow guys, bye :)
