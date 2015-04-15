@@ -1,0 +1,48 @@
+16:23 < Champion_The> hello, I want to install closed source driver for my graphics card (intel HD 4400)
+16:23 < Champion_The> the documentation isn't in English, tho
+16:24 < Champion_The> is this all I need to do?
+16:24 < Champion_The> intel-linux-graphics-installer
+16:35 < Champion_The> anybody here?
+16:55 < Champion_The> anybody here?
+18:13 < brainy> hi arunpyasi bro
+18:13 < brainy> nice to see you
+18:22 < Champion_The> hi, do you know how to install intel proprietary drivers?
+18:23 < Champion_The> http://wiki.deepin.org/index.php?title=Graphics_Card#Install_closed-source_graphics_driver
+18:23 < Champion_The> still not in English
+19:23 < brainy> hi hualet
+19:24 < brainy> hualet: you are here very early xD
+19:24 < hualet> brainy: I'm here all day long today, haha
+19:24 < brainy> hualet: lol
+19:25 < brainy> hi vodkode_
+19:25 < hualet> brainy: how's your day dude?
+19:26 < hualet> oh vodkode_ is here again, hi vodkode_ ;)
+19:26 < brainy> hualet: very good, its getting sunny here
+19:26 < brainy> hualet: do you have an nvidia graphics card?
+19:27 < hualet> brainy: is summer very hot there in your country?
+19:27 < hualet> brainy: nope, it's evil, haha
+19:28 < brainy> hualet: no summer is normal here
+19:28 < brainy> hualet: haha why evil ?
+19:29 < brainy> hualet: Linus Torvalds said Fuck you Nvidia xD
+19:30 < hualet> brainy: right, I was  just kidding about that ;)
+19:30 < brainy> lool
+19:43 < Champion_The> anybody who can help me plz?
+19:46 < brainy> hi Champion_The
+20:07 < brainy> brb
+21:52 < Champion_The> do you know how to install intel drivers?
+21:53 < Champion_The> intel HD 4400
+21:57 < brainy> should be installed automatically??
+22:17 < Champion_The> brainy: I guess an open source driver is installed
+22:18 < Champion_The> it's here
+22:18 < Champion_The> http://wiki.deepin.org/index.php?title=Graphics_Card#Install_closed-source_graphics_driver
+22:18 < Champion_The> but I don't understand Chinese
+22:40 < Donatello> I installed Deepin to check it out but the updates don't work.  It just sits there doin nothin.
+22:41 < Donatello> Says 252 updates available.
+23:27 < Champion_The> is here a deepin developer or somebody
+23:27 < vodkode_> heya guys
+23:28 < Champion_The> I have i7 4500U and the system is laggy and slow
+23:31 < vodkode_> that doesn't sound right
+23:31 < vodkode_> I installed deepin most recently on an AMD E2-1800 (1.7ghz APU) and it fleq
+23:31 < vodkode_> flew
+23:33 < Champion_The> is it better to install any proprietary intel drivers? for HD 4400
+23:34 < Champion_The> but yeah I updated kernel to 4.0 recently..
+23:34 < Champion_The> so maybe that might cause something
