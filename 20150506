@@ -1,0 +1,29 @@
+02:29 < arunpyasi> HI all
+04:56 < Tazmain> hi all, is there a way to tell deepin to use a file manager on folders and not open gwenview ?
+05:05 < arunpyasi> Tazmain: it does uses a file manager.
+05:06 < Tazmain> mine doesn't. It keeps wanting to open gwenview, unless I manually open like thunar or so
+05:07 < arunpyasi> Tazmain: are u running the DDE version of Deepin ?
+05:07 < arunpyasi> Tazmain: you may install nautilus
+05:08 < Tazmain> yeah running the DDE
+05:09 < arunpyasi> Tazmain: you can install nautilus and remove gwenview
+05:09 < arunpyasi> and remove thunar too
+05:09 < arunpyasi> do this
+05:09 < arunpyasi> sudo apt-get install nautilus && sudo apt-get remove thunar gwenview
+05:09 < Tazmain> lol I am not on debain or ubuntu.
+05:10 < Tazmain> is there no default application setting in deepin ?
+05:10 < arunpyasi> Tazmain: aren't u in Deepin 2014.2 ?
+05:11 < Tazmain> Oh is that what you meant with DDE. No I am running arch linux, I installed the deeping desktop
+05:11 < Tazmain> deepin desktop *
+05:11 < arunpyasi> Ohh
+05:11 < arunpyasi> ok I got you it.
+05:11 < arunpyasi> Tazmain: you can use pacman to remove thunar or gwenview and install nautilus .
+05:12 < Tazmain> yeah I will
+05:12 < arunpyasi> DDE uses Nautilus.
+05:12 < Tazmain> ah , odd that should have been installed. will have to talk to the package maintainer then
+05:12 < arunpyasi> ok. I gotta go for sleep. If you cannot fix it. Be here, some one will be here to help you.
+05:12 < Tazmain> sweet thank you
+05:12 < arunpyasi> Tazmain: yeah you may.
+05:13 < arunpyasi> Tazmain: stay here. you may get help.
+05:13 < arunpyasi> Tazmain: OK . cya
+08:00 < GMY> hello
+08:00 < GMY> anyone is here?
