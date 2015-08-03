@@ -1,0 +1,116 @@
+00:02 < arunpyasi> hi metak
+00:02 < arunpyasi> Mitchell92: hi
+00:02 < arunpyasi> s991533: hi
+00:02 < Mitchell92> Hello
+00:02 < arunpyasi> why this channel low traffic these days :(
+00:02 < arunpyasi> Mitchell92: how are you ?
+00:02 < metak> hello
+00:02 < arunpyasi> vodkode: hello
+00:02 < arunpyasi> metak: hi man how are you ?
+00:03 < arunpyasi> where did s991533 go ??
+00:03 < arunpyasi> dantmnf: hello :D
+00:03 < Mitchell92> I'm fine, thanks...
+00:03 < metak> I'm fine... just updating some arch-deepin packages... you? ;-)
+00:04 < arunpyasi> Guys, I need help !!!! where is the option to create a hotspot/broadcast hostspot ?
+00:04 < arunpyasi> Mitchell92: cool
+00:04 < Mitchell92> Are you saying you want to create an ADHOC network?
+00:04 < arunpyasi> metak: well, I am finally gonna develop next release of Chitwanix !
+00:04 < arunpyasi> Mitchell92: yup !
+00:04 < arunpyasi> I didn't see an option in my deepin desktop environment :P
+00:05 < Mitchell92> I have never used deepin, I came on this channel a few weeks ago to assist a buddy who needed some help. Deepin is based on Ubuntu, so if you were to look up how to do it on ubuntu, it should be similar or identical on deepin.
+00:05 < Mitchell92> My primary computer is a MacBook Pro running the latest OS X... I have to say, as far as linux goes, I'm a big OpenSuse fan.
+00:05 < arunpyasi> Mitchell92: cool
+00:06 < arunpyasi> nope, there is no option in the desktop environment of deepin
+00:06 < arunpyasi> I am not running gnome or other. I am running our lovely DDE
+00:06 < Mitchell92> hmm... I am a gnome fan myself. One moment, let me see if I can find something for you.
+00:06 < metak> arunpyasi: you're maintaining your own distro?
+00:07 < Mitchell92> arunpyasi - http://howtoubuntu.org/how-to-create-a-wireless-ad-hoc-network-in-ubuntu
+00:07 < Mitchell92> or - https://help.ubuntu.com/stable/ubuntu-help/net-wireless-adhoc.html
+00:09 < arunpyasi> metak: yeah, a small distro of mine.
+00:10 < arunpyasi> Mitchell92: firstly, this app is not available in deepin
+00:11 < arunpyasi> I think I need to install it but don't know the package name. BTW I think I shall follow ArchLinux's guide, that works in almost all the distros :D
+00:12 < Mitchell92> Okay... Well, I really don't know. As I said, I am primarily a suse user... although I have been using Mac OS X mostly recently. I hope you work it all out.
+00:16 < arunpyasi> Mitchell92: yeah. Thanks.
+00:16 < arunpyasi> metak: you are developer in Deepin right ?
+00:16 < metak> no
+00:16 < metak> just an arch linux user
+00:17 < metak> I'm looking at the website and it says you're using your own desktop environment?
+00:19 < arunpyasi> metak: yeah kinda
+00:19 < arunpyasi> metak: its named as Sagarmatha
+00:20 < metak> so, what is it exactly?
+00:20 < metak> fork of something?
+00:21 < arunpyasi> metak: yup
+00:21 < arunpyasi> metak: an incomplete fork of Cinnamon haha
+00:21 < arunpyasi> I mean, its not maintained for a long logng time.
+00:22 < metak> I can see that from git commits... heheh ;-)
+00:22 < metak> why even fork it? that's so much extra work. It's crazy...
+00:23 < arunpyasi> metak: yeah
+00:24 < arunpyasi> metak: BTW, this project is aimed big
+00:24 < arunpyasi> so, forked to create something new :D
+00:24 < arunpyasi> metak: Its just that I didn't have much time to maintain
+00:24 < arunpyasi> now, I will continue developing :D
+00:25 < metak> okay...
+00:35 < arunpyasi> Guess what! Adhoc not working haha
+00:55 < metak> arunpyasi: http://jbradio.out.airtime.pro:8000/jbradio_a
+00:58 < arunpyasi> metak: thanks. whats the talk about  ?
+00:58 < arunpyasi> topic of today ?
+00:59 < metak> don't know... they start llive show in a minute or two...
+00:59 < metak> https://www.reddit.com/r/LinuxActionShow/
+00:59 < arunpyasi> ohh OK
+00:59 < metak> there's also video feed if you have decent connection
+01:02 < metak> are you paid to develop your distribution arun?
+01:02 < arunpyasi> metak: naa
+01:03 < arunpyasi> metak: its not funded or supported by any organizations or anyone..
+01:03 < metak> how do you manage to pull it off then? ;-) Isn't that too much work?
+01:04 < arunpyasi> metak: yup, it is.
+01:05 < metak> then why?
+01:06 < arunpyasi> metak: cause there is no any Linux Distribution project alive in my country
+01:06 < arunpyasi> So, I wanted to go for it.
+01:07 < arunpyasi> So, the only active linux distribution project in my country is my distro. :D
+01:07 < metak> heheh Nepal, right?
+01:08 < arunpyasi> yup metak
+01:08 < arunpyasi> Do you think its a bad idea?
+01:11 < metak> not at all. IMHO I think it would be best to drop unneccessary forks like that (DE) and use whatever is possile from upstream without modifications... but that's just me.
+01:12 < metak> what it's based upon? ubuntu LTS?
+01:14 < arunpyasi> metak: they are unstable
+01:14 < arunpyasi> they are obsolete now
+01:15 < arunpyasi> Our next release will be 14.04 based.
+01:16 < arunpyasi> so, what you do for earning metak ?
+01:19 < metak> currently, looking for something... ;-)
+01:20 < arunpyasi> metak: OK
+01:20 < arunpyasi> so, where are you from metak ?
+01:21 < metak> slovenia
+01:21 < arunpyasi> vool
+01:21 < arunpyasi> *cool
+01:22 < metak> I have some free time and that's why I can play with packaging deepin desktop environment for arch... ;-)
+01:23 < metak> why didn't you based your distro on deepin?
+01:24 < arunpyasi> metak: cause I didn't knew about deepin hehe
+01:25 < arunpyasi> metak: cool, I was wanting to ask you to maintain AUR4 for DDE hehe
+01:25 < metak> i don't maintaint nothing deepin related in AUR4
+01:26 < metak> just packages in my OBS project page and repository
+01:26 < metak> fasheng updates those in AUR4
+01:28 < arunpyasi> metak: OBS is your project??
+01:28 < arunpyasi> Open Broadcast Software
+01:28 < metak> no no
+01:28 < arunpyasi> ??
+01:28 < metak> https://build.opensuse.org/
+01:29 < metak> https://build.opensuse.org/project/show/home:metakcahura:arch-deepin
+01:29 < arunpyasi> oh oh
+01:29 < arunpyasi> OBS is a supercomputer right ?
+01:30 < metak> it's openSUSE's build farm to build packages..
+01:30 < metak> and it supports building packages for some other distros as well
+01:30 < arunpyasi> metak: ahh, whats the name of the supercomputer that compiles stuffs in opensuse
+01:30 < arunpyasi> I have heard of that supercomputer in #opensuse
+01:31 < metak> you see here build machines https://build.opensuse.org/monitor
+01:40 < arunpyasi> cool. Thanks.
+01:42 < metak> if it weren't for that then there's no way in hell I could build all that on my super old P4... ;-)
+01:45 < arunpyasi> Hehe
+01:45 < arunpyasi> Mine is a bit good than yours
+01:45 < arunpyasi> guess what ?
+01:45 < metak> what
+01:47 < arunpyasi> Oops !!
+02:21 < metak> bye arunpyasi
+18:20 < g0twig> Hello, Where can I download deepin 2015 test images
+18:24 < g0twig> any developers  here?
+18:25 < g0twig> Hello?
+18:33 < g0twig> I want to test Deepin 2015, how to ?
