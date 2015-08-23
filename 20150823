@@ -1,0 +1,55 @@
+01:22 < arunpyasi> Hi vodkode
+09:14 <@s991533> hualet: hey
+09:14 < hualet> s991533: hey, lone time no see ;)
+09:14 < hualet> old friends are all gone :(
+09:42 <@s991533> hualet: yep
+09:42 <@s991533> hi aryan__ 
+09:43 < aryan__> Hey s991533
+09:43 < aryan__> hualet, hello
+09:43 <@s991533> hualet: you should ask your boss to join community xD
+09:43 < aryan__> Where were you guys vanished ?
+09:43 < hualet>  aryan__, hi
+09:44 < aryan__> I had mailed someone to join the IRC. An engineer in Deepin.
+09:44 < aryan__> Don't know who he is.
+09:44 < aryan__> hualet, how you doing ? Where were you guys gone ??
+09:44 < hualet> s991533: I don't think so, he's too busy
+09:44 < aryan__> s991533, are you in big project these days ? I don't see you active these days.
+09:46 < hualet> aryan__: yeah, the majority tasks of Deepin 2015 is on my team now
+09:46 < aryan__> hualet, wow thats cool
+09:46 < hualet> aryan__: I'm exhausted :(
+09:46 < aryan__> hualet, what is majority BTW ?
+09:47 < aryan__> did you have multiple team to work for Deepin?
+09:47 < hualet> aryan__: rewrite the most desktop environment components with Qt
+09:48 < aryan__> hualet, wow !! cool.
+09:48 < aryan__> hualet, what you doing in that ? whats your major role bro?
+09:49 < hualet> aryan__: team leader, but I write a lot code too
+09:49 < aryan__> hualet, wow thats the greatest news
+09:49 < aryan__> hualet, Where is the party ?
+09:49 < hualet> aryan__: Deepin now has multiple teams serve different projects
+09:50 < hualet> aryan__: what party?
+09:50 < aryan__> hualet, So, I am talking with the world's most beautiful Linux Distro Team Leader ! :D I am very grateful. :D
+09:50 < aryan__> hualet, ah Ok
+09:50 < aryan__> hualet, I mean as you are the team leader now, so I was keen for party from you. hehe
+09:51 < hualet> aryan__: haha
+09:51 < hualet> aryan__: it's not easy to be the one in charge :(
+09:52 < hualet> people will disappoint you or may disobey your rules
+09:53 < hualet> anyway, it's a new adventure for me
+09:54 < hualet> aryan__: so have you seen brainy around recently?
+09:54 < aryan__> hualet, yeah he was yesterday evening here.
+09:54 < aryan__> hualet, I wish you best of luck and suggest Deepin to be a bit fast. :D
+09:55 < aryan__> As its a lot heavy as I see.
+09:55 < hualet> aryan__: haha, thanks
+09:55 < aryan__> hualet, bro, who did I mail ?
+09:55 < hualet> aryan__: for what?
+09:55 < aryan__> 张月乾
+09:55 < aryan__> who is he ?
+09:57 < hualet> aryan__: haha, our Operation & Maintenance Engineer, a friend of mine, what's the problem?
+09:59 < aryan__> hualet, not problem, but I wanted to know which package is completely responsible for the login screen ie lightdm
+10:00 < aryan__> I got some thing that, your login screen and every deepin environment is under a single source package ie workspace. why that so ?
+10:03 < hualet> aryan__: all the components in dde-workspace share a lot of code, maybe that's why they put it all together
+10:03 < aryan__> Ah I see.
+10:03 < aryan__> hualet, So, you guys are running lightdm with webkit login right ?>
+10:03 < hualet> aryan__: 张月乾 is our former package manager, now he is not responsible for that
+10:04 < aryan__> hualet, Ah OK :)
+10:06 < aryan__> s991533, where you go ?
+10:07 < aryan__> Is there any active community of Deepin currently ? hualet
