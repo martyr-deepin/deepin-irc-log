@@ -1,0 +1,102 @@
+21:30 < hualet> hi s991533_ arunpyasi
+21:31 < hualet> good evening
+21:31 < arunpyasi> hi hualet good evening
+21:31 < arunpyasi> how are you ?
+21:31 < hualet> fine thanks ;)
+21:31 < arunpyasi> cool :D
+21:31 < arunpyasi> so, hows days going on ?
+21:34 < hualet> I suffered a very strange bug today, debugged it for all day long
+21:35 < hualet> but still with no luck
+21:36 < arunpyasi> oops
+21:37 < arunpyasi> bug in which package ?
+21:37 < arunpyasi> these bugs sucks man !!
+21:39 < hualet> the bug affects multiple packages, but it only shows on another CPU architecture called alpha
+21:41 < arunpyasi> ohh
+21:41 < arunpyasi> you have multiple architectures to test ??
+21:42 < hualet> yep, we're ambitious ;)
+21:49 < arunpyasi> Great hualet  :D
+21:49 < arunpyasi> hualet, are you working for the next update or next release ?\
+21:50 < hualet> arunpyasi: I don't get it, what's the difference plz
+21:56 < arunpyasi> hualet, release == "ISO packaging" update== "Update of packages in repo"
+22:25 < brainy> hi hualet arunpyasi
+22:26 < brainy> nice to see you guys
+22:26 < hualet> hi brainy ;)
+22:26 < arunpyasi> Oh !!! hide !!! brainy is here.
+22:27  * arunpyasi hides in the corner of deepin box
+22:27 < hualet> arunpyasi: hmmm...that sounds reasonable, but I'm actually doing both of them ;)
+22:27 < hualet> arunpyasi: taht's funny, lol
+22:28 < brainy> xD
+22:29 < hualet> brainy arunpyasi, I'm reading a book call "The three body problem", have you guys heard it before ?
+22:29  * arunpyasi comes out of the deepin box to #deepin IRC
+22:29 < arunpyasi> hey brainy
+22:29 < arunpyasi> how are you doing ??
+22:29 < brainy> no hualet bro, what is it about?
+22:29 < arunpyasi> hualet, thats cool bro.. :D
+22:29 < brainy> arunpyasi: im fine bro thx
+22:29 < hualet> http://www.amazon.com/The-Three-Body-Problem-Cixin-Liu/dp/0765377063
+22:30 < brainy> ok hualet let me take a look
+22:30 < arunpyasi> hualet, yeah man, I just heard about it.
+22:30 < hualet> It's a science fiction
+22:31 < arunpyasi> cool hualet
+22:32 < hualet> arunpyasi: it just won the Hugo Award ;) I'm pretty proud of this guy, he brought the Chinese science fiction to the whole world XD
+22:32  * arunpyasi going to have dinner with hualet and brainy 
+22:32 < hualet> arunpyasi: haha, how can you do that?
+22:32 < arunpyasi> hualet, wow, thats amazing .. its a chinese story ?
+22:33 < arunpyasi> hualet, my taking you to my dinning room :D
+22:34 < hualet> arunpyasi: I guess so, I haven't finished it yet...
+22:40 < brainy> thank you so much for dinner arunpyasi :_D
+22:40 < brainy> it tastes so good
+22:48  * arunpyasi are you guys done ?
+22:48 < arunpyasi> are you guys done ?
+22:49  * arunpyasi completed his dinner and rushed to IRC leaving brainy and hualet behind.
+22:55 < brainy> xD
+23:01 < brainy> arunpyasi is the best cook
+23:03 < arunpyasi> hehe brainy naaa
+23:04 < arunpyasi> my mom is a master chef :D
+23:04 < arunpyasi> she cooks awesome :D
+23:10 < brainy> nice arunpyasi :_D
+23:17 < brainy> arunpyasi: may i ask you something?
+23:17 < arunpyasi> brainy, yeah sure man
+23:18 < brainy> just curious bro, how old are you?
+23:18 < arunpyasi> brainy, hehe :D
+23:18 < arunpyasi> brainy, 18 years old. :D
+23:19 < brainy> ok :_D
+23:19 < brainy> I'm 35 bro
+23:19 < arunpyasi> brainy, :D yup :D
+23:19 < arunpyasi> brainy, so hows your days going on man ?
+23:19 < arunpyasi> brainy, are you married ?
+23:20 < brainy> arunpyasi: not yet, but i should, im getting too old :)
+23:20 < arunpyasi> brainy, hehe yeah :D
+23:20 < arunpyasi> brainy, you must get a girlfriend and marry soon :D else will be too old hehe
+23:20 < brainy> arunpyasi: are there german tourists in nepal sometimes?
+23:21 < brainy> :_D
+23:21 < arunpyasi> brainy, yeah man !! many :D
+23:21 < brainy> wow I think they like your country, thats nice
+23:21 < arunpyasi> brainy, you may come visit Nepal and we go visit german girls for you :D
+23:21 < brainy> loool
+23:21 < arunpyasi> brainy, hehe
+23:21 < arunpyasi> brainy, yeah :D
+23:21 < arunpyasi> brainy, when you coming here ?
+23:22 < brainy> I can't say yet, arunpyasi bro
+23:22 < brainy> But I'd love to see your country
+23:24 < arunpyasi> brainy, :D
+23:25 < brainy> arunpyasi: do you know where hualet has gone?
+23:25 < brainy> I think he is reading the book
+23:26 < arunpyasi> brainy, hehe, yeah he must have been reading :D or thinking to fix the bug for Deepin
+23:26 < hualet> brainy: yeah, I was reading the book, quit appealing :)
+23:27 < arunpyasi> was that quite appealing ?
+23:27 < hualet> arunpyasi: try to read ;)
+23:29 < arunpyasi> ohh ok :D
+23:30 < hualet> arunpyasi: brainy , I'm going to bed, good night ;)
+23:30 < arunpyasi> hualet, whats time there? 12 AM ?
+23:30 < hualet> arunpyasi: 23:30
+23:30 < arunpyasi> oh ok hualet good night
+23:31 < arunpyasi> I wish you that you'll fix the bug tomorrow morning :D
+23:31 < hualet> arunpyasi: thank you, bro :D
+23:31 < brainy> good night hualet bro
+23:32  * arunpyasi is trying our codebox
+23:32 < brainy> what is that arunpyasi ?
+23:33 < arunpyasi> brainy, https://www.codebox.io/
+23:33 < arunpyasi> brainy, its an Offline/Online IDE
+23:40 < brainy> ahhh ok, thanks arunpyasi
+23:57 < brainy> cu later arunpyasi
