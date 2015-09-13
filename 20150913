@@ -1,0 +1,116 @@
+02:31 < bet0x> How to remove apps from the menu?
+06:15 < bet0x> Anyonre here?
+06:17 < cubatron> I'm using Deepin 2014.3 somebody can tell how I can install VLC 2.2?
+06:19 < bet0x> cubatron: you have to wait to China become democratic
+06:19 < bet0x> XD
+06:32 < cubatron> I think so bet0x, nobody answer here!! :(
+14:06 < bet0x> anyone here
+14:06 < bet0x> ?
+14:31 < arunpyasi> bet0x, yes
+17:21 < brainy> hi hualet bro
+17:22 < hualet> hi brainy ;)
+17:22 < hualet> you don't need rest, do you?
+17:25 < brainy> hualet: why? It's 11:25 am here :D
+17:25 < brainy> I just had rest
+17:26 < brainy> But arunpiyasi told me he didn't sleep for 2 days :D
+17:27 < hualet> brainy: for what?
+17:27 < hualet> arunpiyasi is not here today...
+17:27 < brainy> hualet: not today, I mean last week :_D
+17:28 < hualet> brainy: ok...
+17:28 < brainy> hualet: I'm glad that you are in charge of deepin now! its so cool
+17:28 < hualet> brainy: how long is it since s991533_ had been disappeared ?
+17:28 < brainy> loool
+17:29 < brainy> hualet: We must find him
+17:29 < hualet> brainy: no, man, don't take it wrong, I'm not in charge of deepin now
+17:29 < brainy> ok hualet
+17:29 < hualet> I'm just working as the team leader of deepin 2015 devs
+17:29 < hualet> for now
+17:30 < hualet> the job will be hopefully switched to other people
+17:30 < hualet> then I can get some rest and we can have a long chat ;)
+17:31 < hualet> we have too much work to do to catch up XD
+17:31 < brainy> ok hualet
+17:41 < bet0x> I will be back to xubuntu! :(
+17:41 < brainy> why bet0x ?
+17:42 < bet0x> Deepin has a lot of weird issues
+17:42 < bet0x> and i can't work with a unstable desktop :(
+17:43 < brainy> Sorry to hear :(
+17:44 < bet0x> Where deepin save the video configuration?
+17:44 < bet0x> I do use 3 displays with 1 card
+17:44 < bet0x> is a mess to configure
+17:44 < bet0x> :P
+17:44 < brainy> Maybe hualet knows
+17:44 < bet0x> Also another thing wich i hate is they live on china and is kinda impossible to find any dev to talk
+17:45 < hualet> bet0x: hmmm...what's wrong, buddy ;)
+17:46 < bet0x> Desktop doesn't allow cration of shortcuts
+17:46 < bet0x> can't rezise anything using normal key conbinations
+17:46 < hualet> bet0x: which version are you using ?
+17:46 < hualet> 2014.3 stable or 2015 alpha ?
+17:47 < bet0x> the one stable
+17:47 < bet0x> hualet: there is a feature wich every linux desktop has
+17:47 < bet0x> is a fast resize of windows
+17:47 < bet0x> and remember where you place them
+17:48 < bet0x> after i close a terminal for example the DDE doens't remember where i close it
+17:48 < bet0x> and opens anywhere on my 3 displays
+17:48 < bet0x> The resize feature is used with ALT + right click
+17:48 < bet0x> but deppin doesn't have it
+17:48 < bet0x> hualet: what's the new on 2015?
+17:49 < hualet> bet0x: we switched to debian
+17:49 < bet0x> hualet: thank god!
+17:49 < bet0x> hualet: you will keep using the driver manager from Linux Mint?
+17:49 < hualet> bet0x: I think that's caused by compiz
+17:49 < bet0x> hualet: because it works better than the one from Ubuntu
+17:49 < bet0x> hualet: can i remove compiz?
+17:50 < hualet> maybe you should try another Window Manger
+17:50  * bet0x likes DDE
+17:50 < hualet> bet0x: sorry, you can't :(
+17:50 < bet0x> dang! Y_Y
+17:51 < hualet> DDE relies on compiz to work properly
+17:51 < hualet> but you can install another WM without compiz removed
+17:52 < bet0x> hualet: but won't be Deepin anymore right? :P
+17:52 < hualet> bet0x: the good new is that we also switched to mutter over compiz
+17:52 < bet0x> hualet: can i do testing? where i can download that
+17:52 < bet0x> hualet: also i did a mirror on Texas and Mexico.
+17:53 < bet0x> Because the speed was killing me
+17:53 < bet0x> i do have my own 1 Gbps!
+17:53 < bet0x> i will send a email with that to be listed later!
+17:54 < bet0x> hualet: also i compiter the kernel 4.2 and runs like a 40% faster now
+17:55 < hualet> bet0x: 40% ?! haha, I don't know
+17:55 < hualet> bet0x: where do you live?
+17:55 < bet0x> hualet: i did compile it by selecting every single device on my machine! :D
+17:55 < bet0x> my kernel is like 7mb lol
+17:56 < bet0x> hualet: a good idea will be to have a "kernel selector" where you use a kernel optimized for your machine, thats a feature not really present on any distro
+17:56 < hualet> bet0x: cool, I haven't used a self-compiled kernel before
+17:56 < bet0x> well maybe the RT or lowlatency ones
+17:56 < bet0x> but those kernels still crap
+17:57 < hualet> because that's lots of work
+17:57 < bet0x> hualet: well it can be done
+17:57  * bet0x will help with that
+17:57 < bet0x> hualet: http://cdimage.linuxdeepin.com/daily-live/20150605/ this is the 2015?
+17:57 < bet0x> for testing?
+17:59 < hualet> bet0x: I'm not sure
+17:59 < hualet> I don't think so, only the testing team in our forum can access to the lastest 2015 alpha build
+18:00 < bet0x> i can do? :D
+18:01 < hualet> bet0x: of course you can participant, but you should register first
+18:01 < bet0x> username bet0x
+18:01 < bet0x> :D
+18:02 < hualet> let me find you a link
+18:03 < hualet> bet0x: sorry man, I think the testing is over...
+18:04 < bet0x> damn T_T
+18:04 < bet0x> When will be released?
+18:04 < bet0x> there is any ETA?
+18:06 < hualet> bet0x: on December
+18:06 < hualet> hopefully
+18:08 < bet0x> test.packages. ask me for password! :P
+18:08 < bet0x> you smart asses! muhahahaha
+18:08 < bet0x> :>
+18:09 < brainy> lol bet0x
+18:09  * bet0x found the Mirror Switching Tool
+18:11 < bet0x> i will create the spanish community
+18:11 < bet0x> and start to work on the kernel thing
+18:20 < brainy> good job bet0x
+18:20 < hualet> bet0x: great ;)
+18:22 < bet0x> geez
+18:22 < bet0x> Debian is 3 DVD long
+18:22 < bet0x> lol
+18:22 < bet0x> 4.4 GB each
+18:22 < bet0x> wtf!!!
