@@ -1,0 +1,208 @@
+09:30 < deepin-tgbridge> [Carlo] 😊
+11:22 < hualet> felixonmars: hi, are you online?
+11:23 < felixonmars> hualet: yes
+11:23 < hualet> felixonmars: about the PR that switch python-xcb to python-xcffib
+11:24 < hualet> there's some problems should be settled first
+11:24 < felixonmars> ok
+11:25 < hualet> first, xpybutils should accept your PR first, I think, right?
+11:26 < felixonmars> yes
+11:26 < hualet> second, release/2.3 of deepin-movie hasn't been in a stable state yet, are you sure you want that?
+11:27 < felixonmars> i sent the patch to release/2.2, but fasheng re-assigned it to release/2.3
+11:27 < hualet> XD
+11:28 < felixonmars> either way is ok, though :)
+11:28 < hualet> ok, I'll talk to fasheng about it later XD
+11:29 < felixonmars> i'll ping xpybutil's upstream sometime later if there is still no action
+11:29 < felixonmars> for now i am busy on python 3.5 rebuild for arch :D
+11:30 < hualet> felixonmars: ok, and I'll get some suggestions from our packager too
+11:30 < hualet> felixonmars: I think we should talk to each other more often
+11:30 < hualet> XD
+11:30 < deepin-tgbridge> [Mingye Wang] felixonmars: prpr 猫
+11:30 < felixonmars> hualet: np, i'm on irc and qq all day
+11:30 < deepin-tgbridge> [Mingye Wang] 中午好呢
+11:30 < felixonmars> @A2 hi
+11:31 < hualet> felixonmars: ok
+11:31 < felixonmars> @A2 python 3.5 rebuild 80%
+11:31 < deepin-tgbridge> [Mingye Wang] Wow
+11:32 < deepin-tgbridge> [Carlo] 😏They can't understand Chinese
+11:32 < x-iyzsong> ArchLinux 没有 ci 来 rebuild 么
+11:33 < felixonmars> x-iyzsong: 有，没我手动快（大雾
+11:33 < x-iyzsong> orz
+11:33 < x-iyzsong> 土豪
+11:33 < felixonmars> 自动的在这里：https://rebuilds.foutrelis.com
+11:33 < deepin-tgbridge> [Carlo] 😒You told me don't speak Chinese yesterday
+11:34 < deepin-tgbridge> [Mingye Wang] 这有啥，才几个人说话自动适应一下就行（
+11:35 < sbw> 好热闹 ˊ_>ˋ
+12:24 < fasheng> hualet 之前的补丁因为不是 bugfix，放在最新分支比较好，但 2.3 还不太稳定，而且有 deepin-menu 和 fontconfig sefault 的问题，felixonmars 不如先不要移植 deepin-movie 了
+12:25 < felixonmars> 好的……
+12:30 < fasheng> felixonmars 开发者提示说 deepin-screenshoot 3.1 需要添加 qt5-svg 依赖，肥猫兄有空补上吧 :)
+12:37 < felixonmars> 好的
+14:05 < munchymahesh> I need some help on Deepin OS UI for Ubuntu
+14:08 < munchymahesh> #deepin hi
+16:22 < SergioEDuran1> Hi there
+16:22 < SergioEDuran1> I want  to ask you for something
+16:24 < SergioEDuran1> somebody who has Deepin OS 2014.3 with the set of the default apps installed could show me his menu on the system category?
+19:34 < brainy> arunpyasi and hualet : Hi :_D
+19:34 < arunpyasi> Hi hualet brainy
+19:34 < hualet> brainy: hi
+19:34 < hualet> hi arunpyasi
+19:36 < arunpyasi> hi hualet
+19:38 < brainy> lol
+19:39 < brainy> you two guys didn't see each other before I came?
+19:40 < hualet> brainy: we just need a 3rd-party to witness our chat ;)
+19:41 < brainy> hualet: lol
+19:56 < sbw> 为什么我们不用中文愉快的聊天呢
+19:57 < deepin-tgbridge> [Carlo] Because there are a lot of people aren't Chinese
+19:57 < sbw> ˊ_>ˋ
+19:57 < sbw> hao ba ~
+20:17 < brainy> arunpyasi: what are you doing bro?
+20:19 < arunpyasi> brainy, bro, I am wanting to work but I am feeling lazy :D
+20:20 < arunpyasi> so, I am reading an article.
+20:25 < brainy> thats nice arunpyasi bro
+20:27 < arunpyasi> heheh :D
+20:27 < arunpyasi> brainy, https://www.youtube.com/watch?v=XJhyZARAJHw
+20:28 < arunpyasi> brainy, check out our photos of SFD :D https://www.facebook.com/groups/416034288588638/419346171590783/?notif_t=group_activity
+20:31 < arunpyasi> Its only of Rally !! not of the event hai
+20:35 < brainy> arunpyasi: nicee man
+20:36 < brainy> free software is good
+20:37 < arunpyasi> brainy, hehe :D We are promotor of Free and Open Source Software.
+20:37 < arunpyasi> :D
+20:37 < arunpyasi> I mean, promotor for activist
+20:37 < arunpyasi> was fun
+20:37 < arunpyasi> had a lot of work..
+20:37 < arunpyasi> I felt exhausted yesterday
+20:37 < arunpyasi> and today also resting,....
+20:37 < arunpyasi> Had a lot of hardwork man !!!
+20:37 < brainy> arunpyasi: But do you think people will understand this concept?
+20:38 < brainy> Many people are non-tech
+20:38 < arunpyasi> brainy, yeah some people understands...
+20:38 < brainy> That's good arunpyasi
+20:39 < arunpyasi> brainy, but we not only make them understand the concept but we basically teach them how to use and what are their benefits to Windows and proprietary.
+20:40 < brainy> thats great man
+20:44 < arunpyasi> :D
+20:47 < brainy> wb hualet
+20:47 < brainy> hualet: arunpyasi just showed me the pics of SFD event in nepal
+20:48 < hualet> brainy: where can I see it ?
+20:49 < brainy> https://www.facebook.com/groups/416034288588638/419346171590783/?notif_t=group_activity
+20:50 < arunpyasi> thats mostly of rally.. I see less pics of the event...
+20:50 < hualet> brainy: wow...that's cool
+20:50 < arunpyasi> guys aren't uploading them... :P
+20:51 < hualet> arunpyasi: which one is you :P
+20:51 < arunpyasi> hualet, I don't see me there :(
+20:51 < hualet> arunpyasi: why it's like a parade, BTW
+20:51 < hualet> not like a party ;)
+20:51 < arunpyasi> hehehe we did a rally before SFD
+20:52 < arunpyasi> the day before SFD was rally :D
+20:52 < hualet> arunpyasi: awesome
+20:52 < arunpyasi> there is no pics of the event :P
+20:52 < hualet> what a pity...
+20:53 < arunpyasi> yeah
+20:53 < arunpyasi> hualet, they will upload soon to the page :D
+20:53 < hualet> arunpyasi: great, and I saw some girls on the photos XD
+20:54 < arunpyasi> hahaha
+20:54 < hualet> arunpyasi: who hosted it ?
+20:54 < arunpyasi> me :D
+20:54 < hualet> arunpyasi: orz
+20:55 < arunpyasi> what is orz ??
+20:55 < hualet> arunpyasi: awesome, bro
+20:55 < arunpyasi> FOSS chitwan community hosted :D and lead by me :P
+20:55 < arunpyasi> We are FOSS Chitwan Community :D hehe
+20:55 < hualet> arunpyasi: you see, orz seems like a man on his knees
+20:56 < arunpyasi> oh oh
+20:56 < arunpyasi> here comes our CEO :D
+20:56 < hualet> arunpyasi: they don't even picture the leader ?! lol
+20:56 < arunpyasi> good evening andy`` sir.
+20:57 < arunpyasi> hehehe
+20:57 < hualet> haha
+20:57 < andy``> arunpyasi: Evening
+20:57 < arunpyasi> hualet, I was pretty in backend working and trying to make everything perfect.
+20:58 < hualet> arunpyasi: that's good, and congratulations, it seems really successful ;)
+21:00 < arunpyasi> ahh it was hualet
+21:00 < arunpyasi> was fun :D
+21:00 < arunpyasi> everyone enjoyed
+21:04 < brainy> thats so great
+21:05 < brainy> but we need a picture with arunpyasi and a crown on his head xD
+21:05 < brainy> I hope next time
+21:09 < hualet> brainy: lol
+21:11 < arunpyasi> hahaha
+21:11 < arunpyasi> :D
+21:11 < arunpyasi> I am planning to wear linux tux cloth :P
+21:12 < brainy> xD
+21:31 < brainy> aryan__: Can I add you as a facebook friend?
+21:32 < aryan__> ahh, man sure. :D
+21:33 < brainy> aryan__: I have a fake name, but my picture is real ;)
+21:33 < brainy> I send you a request now
+21:33 < brainy> My name "Eddy" :)
+21:36 < aryan__> brainy, hehe, I have accepted your request. :D
+21:37 < aryan__> brainy, your real name is Eddy ??
+21:37 < brainy> aryan__: Thanks bro, it is an honor for me. :D
+21:37 < brainy> aryan__: No :=)
+21:37 < brainy> aryan__: It is a name I used in an old game.
+21:37 < aryan__> brainy, hehe, its not like that... honor for what bro ??
+21:37 < aryan__> oho h
+21:37 < brainy> aryan__: Because I am happy to be your friend now.
+21:37 < brainy> :-)
+21:37 < aryan__> brainy, eddy from Tekken !! ?
+21:38 < aryan__> hehe :D
+21:38 < aryan__> brainy, but you told that you use fb very very little :P
+21:38 < aryan__> :D
+21:38 < aryan__> brainy, you been to India ?
+21:40 < brainy> lol tekken
+21:40 < aryan__> brainy, you played tekken ?
+21:42 < brainy> yes aryan__ bro sure :)
+21:42 < aryan__> brainy, :D
+21:43 < aryan__> <aryan__> brainy, you been to India ?
+21:44 < brainy> aryan__: I only made this fb account because of some friends from my gaming community
+21:44 < brainy> Otherwise I dont use fb
+21:44 < brainy> aryan__: No I avent been there bro
+21:44 < aryan__> :D
+21:44 < brainy> have you ?
+21:44 < aryan__> thats cool :D which game you play a lot ?
+21:44 < brainy> I play only "Battlefield 1942" bro
+21:45 < brainy> from 2002 :D
+21:45 < brainy> aryan__: have u been to india or even china?
+21:46 < deepin-tgbridge> [Carlo] I dont like playing games~
+21:49 < brainy> deepin-tgbridge: Do you like chess?
+21:49 < deepin-tgbridge> [Carlo] A little~
+21:50 < brainy> deepin-tgbridge: Nice, Carlo.
+21:54 < deepin-tgbridge> [Carlo] 😁
+22:03 < aryan__> brainy, yeah I have gone to India but never got chance to goto China
+22:04 < aryan__> I hope one day hualet and andy`` will take me there :P :D hehe
+22:06 < hualet> aryan__: welcome to China, we'll accommodate you
+22:06 < aryan__> hehe hualet  just joking :D
+22:06 < aryan__> I hope one day I will come there for tour :D
+22:07 < aryan__> But I am not sure how much $ I will need to get chance to visit China ..
+22:07 < aryan__> where you guys live ?? In Bejing ?
+22:07 < hualet> aryan__: then we can have fun together
+22:07 < aryan__> hualet, yeah :D
+22:07 < hualet> aryan__: nope, we live in Wuhan
+22:08 < aryan__> wow, looks pretty beautiful city :D
+22:08 < deepin-tgbridge> [Carlo] Wuhan?
+22:08 < aryan__> is it near the great wall ?
+22:08 < deepin-tgbridge> [Carlo] No~
+22:09 < aryan__> ahh, I see.. Its near Taiwan :D
+22:09 < hualet> aryan__: no,
+22:10 < hualet> aryan__: it's central China, far away from Taiwan
+22:10 < aryan__> I see Taiwan is near than bejing lol
+22:10 < aryan__> hualet, is Taiwan China ?
+22:10 < aryan__> I mean merged to China
+22:10 < aryan__> ?
+22:11 < deepin-tgbridge> [Carlo] Ah~
+22:11 < hualet> aryan__: Chinese believe that Taiwan is part of China, meanwhile Taiwanese think that one day they will take over China mainland, lol
+22:11 < brainy> :_D
+22:12 < aryan__> ohh ohh
+22:12 < brainy> They are waiting for the right moment.
+22:12 < aryan__> ohh
+22:12 < aryan__> hualet, is Tibet China Mainland ?
+22:12 < aryan__> from where to where you guys say Mainland ?
+22:12 < deepin-tgbridge> [Carlo] Taiwanese think Public of china is true China
+22:13 < hualet> aryan__: of course it is
+22:14 < hualet> aryan__: China without Taiwan, HK and some other little islands
+22:15 < aryan__> ohh ohh thanks hualet  for the info :D
+22:15 < aryan__> so, Taiwan and HK aren't band with google and fb ?
+22:15 < deepin-tgbridge> [Carlo] Yes~
+22:15 < hualet> aryan__: it's my duty as a Chinese citizen to tell you that Taiwan is part of China ;)
+22:15 < aryan__> guys, gotta go for dinner.. cya :D
+22:16 < aryan__> hualet, ahh.. yup hehe thanks
+22:17 < brainy> cu aryan__
+22:17 < deepin-tgbridge> [Carlo] 😁
+22:29 < brainy> cu later guys
