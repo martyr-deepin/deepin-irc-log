@@ -1,0 +1,42 @@
+14:36 < nwown> 大家好！
+14:36 < nwown> 我现在使用的是Deepin 2014.3
+14:36 < derekdai> Hi, nwown
+14:36 < nwown> 有一个问题，怎么更换登录界面的背景。
+14:37 < nwown> 好像Deepin使用的登录管理器是lightdm
+14:38 < nwown> 折腾了好几次，没法更换背景。
+14:38 < deepin-tgbridge> [Carlo] I'll translate it~ There is a question. how to change the background image of login screen
+14:39 < fasheng> nwown: there is no interface to do such work, try edit /usr/share/personalization/greeter-theme/sky/ manually :P
+14:39 < nwown> Yes，How to Change the background
+14:40 < deepin-tgbridge> [Carlo] nwown：没有修改的接口，直接修改  /usr/share/personalization/greeter-theme/sky/ 试试
+14:40 < nwown> 我度过，好像没有什么作用。
+14:41 < nwown> 我试过。
+14:42 < fasheng> nwown: are you sure, replace /usr/share/personalization/greeter-theme/sky/bg.jpg to your picture?
+14:42 < nwown> Yes,I try it before.
+14:43 < deepin-tgbridge> [Carlo] Did you reboot your computer?
+14:43 < nwown> But not work
+14:45 < nwown> 我有一个建议，现在修改Grub的背景容易，但是我想要的效果是，Grub背景、用户登录背景、桌面背景都用同一张壁纸，一起设置。
+14:46 < deepin-tgbridge> [Carlo] grub, login screen, desktop. they are diffrent applications~
+14:49 < fasheng> nwown: try about /usr/share/dde/resources/greeter/images/background/default_background.jpg
+14:51 < nwown> Just now,I have changed the " /usr/share/personalization/greeter-theme/sky/bg.jpg", rebott, but can't not work again.
+14:52 < fasheng> sounds great, I will tell designers your idea :)
+14:52 < Adonisxxj> Thanks
+14:54 < Adonisxxj> The system have a bug, That's sometimes the hotkeys out of work, like Ctrl+V & Ctrl+C
+15:00 < fasheng> Could you describe more? I nerver encountered Ctrl-C/V hotkey problems Deepin 2014.3
+15:06 < nwown> 大家好，在我修改将/usr/share/dde/resources/greeter/greeter-theme/sky/bg.jpg中的bg.jpg修改后，Deepin的用户登录界面修改成功。
+15:06 < nwown> 感谢大家的帮助。
+15:07 < nwown> 不是修改/usr/share/dde/resources/greeter/images/background/default_background.jpg，是修改/usr/share/dde/resources/greeter/greeter-theme/sky/bg.jpg，谢谢fasheng
+15:09 < fasheng> enjoy :-)
+15:10 < Adonisxxj> Thanks very much!
+18:40 < brainy> hi hualet_deepin lol
+18:40 < brainy> nice nick
+18:59 < brainy> hi metak
+18:59 < metak> hello
+19:00 < metak> what's up?
+19:00 < brainy> metak: Deepin is great xD
+19:00 < metak> heheh
+19:02 < fasheng> brainy: do you know, metak is the OBS maintainer for deepin packages in archlinux ;-)
+19:08 < brainy> fasheng: That's great! :D
+19:08 < brainy> Lots of respect
+19:12 < fasheng> yes, at least two years ago, metak stated doing the great porting work :-)
+19:15 < metak> lol  everything started 'coz I saw screenshots of deepin and asked myself if I can make it build and run archlinux... ;-)
+19:18 < brainy> :-D
