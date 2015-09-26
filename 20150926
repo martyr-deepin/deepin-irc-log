@@ -1,0 +1,16 @@
+00:13 < deepin-tgbridge> [Gason Chiu] 对了manateelazycat，我有个想法，deepin安装器能不能加一个安装到可移动驱动器的选项
+00:13 < deepin-tgbridge> [Gason Chiu] 因为要自己手动装sdb确实问题太多了
+00:25 < deepin-bot> [manateelazycat]:  Gason Chiu: 为啥每个极客都想把自己的系统装到移动硬盘上呢？ :)
+10:18 < deepin-tgbridge> [Gason Chiu] 可以随地带着跑啊233 而且也省去了和主硬盘划分区的麻烦
+10:20 < deepin-tgbridge> [Gason Chiu] 开发环境 未完成的工作 都可以带着走多好，省得换一个地方又要装或者又要换新的
+11:19 < deepin-bot> [Choldrim]: Gason Chiu 直接装在笔记本，带着笔记本到处跑，感觉会爽一点，:D
+11:23 < Adonisxxj> 大家好，我使用的是Deepin 14.3
+11:23 < Adonisxxj> 怎么设置网络？
+11:23 < Adonisxxj> 固定IP地址。
+11:29 < Adonisxxj> 大家好，我使用的是Deepin 14.3, 怎么配置网络？看Deepin Wiki，要设置network-scripts下的文件，可是etc文件夹下没有这下文件，要自己添加么？
+11:29 < Adonisxxj> etc下没有相关的文件夹。
+11:37 < deepin-tgbridge> [Chaney Zorn] 控制中心里应该可以设置ip吧
+11:51 < deepin-bot> [manateelazycat]:  在你连接的网络那一行点右边箭头进入详细页面设置
+18:19 < brainy> hi dardevelin_
+19:11 < brainy> hi arunpyasi
+19:11 < brainy> \O/
