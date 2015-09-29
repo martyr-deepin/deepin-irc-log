@@ -1,0 +1,10 @@
+10:46 < helloworldlang1> hello
+10:46 < sbw> helloworldlang1: hi
+11:05 < helloworldlang1> 给 irc 准备一个 ilbot 可以在网页上查询日志
+11:06 < helloworldlang1> 就像这样的 http://irclog.perlgeek.de/perl6/2015-09-29
+12:01 < felixonmars> fasheng: 谢谢对 deepin-menu 的修复。现在我这里 deepin-movie 的情况是：2.2 分支：加载文件提示 Invalid File、加载 URL crash、弹出打开文件对话框时死锁；2.3 分支：启动时 segfault
+12:03 < fasheng> felixonmars: 好的，回头我调试下
+16:11 < helloworldlang1> deepin-ilbot 部署好了
+16:13 < helloworldlang1> hello ilboot
+19:59 < deepin-bot> [Choldrim]:  😁
+20:17 < brainy> hi choldrim
