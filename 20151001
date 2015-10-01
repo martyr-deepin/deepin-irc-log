@@ -1,0 +1,48 @@
+11:50 < deepin-tgbridge> [Carlo] 😁going home
+11:53 < deepin-tgbridge> [Carlo] There is a fat of people on the street in beijing
+11:54 < deepin-tgbridge> [Carlo] ...few
+11:55 < deepin-tgbridge> [tmacy chen] 😂😂😂
+11:56 < deepin-tgbridge> [Carlo] tmacy chen: Where are you
+11:56 < deepin-tgbridge> [tmacy chen] 上海
+11:56 < deepin-tgbridge> [tmacy chen] 大部分人在高速吧
+11:57 < deepin-tgbridge> [Carlo] Maybe it be a empty city too~
+11:57 < deepin-tgbridge> [Carlo] I'm in the subway
+11:57 < deepin-tgbridge> [Carlo] To train station
+11:59 < deepin-tgbridge> [tmacy chen] Happy holiday
+11:59 < deepin-tgbridge> [Carlo] Thank you
+12:00 < deepin-tgbridge> [Carlo] 但是为啥我不说中文
+12:01 < deepin-tgbridge> [tmacy chen] 我也奇怪
+12:01 < deepin-tgbridge> [tmacy chen] 😂
+12:02 < deepin-tgbridge> [Carlo] 😂因为这个群有个用来连接irc的机器人，irc那边全都是外国人，然后一直都是说英语
+12:02 < deepin-tgbridge> [tmacy chen] 恩，我知道
+12:03 < deepin-tgbridge> [Carlo] 路上好无聊的说
+12:03 < deepin-tgbridge> [tmacy chen] 去哪里？
+12:04 < deepin-tgbridge> [Carlo] 武汉
+12:04 < deepin-tgbridge> [tmacy chen] 去北京出差？
+12:04 < deepin-tgbridge> [Carlo] 从北京回家😄
+12:04 < deepin-tgbridge> [tmacy chen] 😂😂
+12:05 < deepin-tgbridge> [tmacy chen] 不容易
+12:05 < deepin-tgbridge> [tmacy chen] 十一还是不出门了😁
+12:06 < deepin-tgbridge> [Carlo] 上海现在应该空吧，不是正好出去玩吗
+12:10 < deepin-tgbridge> [Carlo] 完了，看了看时间
+12:10 < deepin-tgbridge> [Carlo] 感觉我赶不上车了
+12:12 < deepin-tgbridge> [tmacy chen] 。。。
+12:12 < deepin-tgbridge> [tmacy chen] 加油
+12:23 < deepin-tgbridge> [Carlo] 等7号线中。。。8站
+13:15 < deepin-tgbridge> [Carlo] 没赶上😂
+13:28 < deepin-tgbridge> [tmacy chen] 😳😳😳
+13:28 < deepin-tgbridge> [tmacy chen] 然后呢
+13:32 < deepin-tgbridge> [Carlo] 然后回去坐错了地铁
+13:33 < deepin-tgbridge> [Carlo] 开始了我的北京地铁一日游
+13:40 < deepin-tgbridge> [tmacy chen] 😂😂
+13:40 < deepin-tgbridge> [tmacy chen] 还回家不？
+13:44 < deepin-tgbridge> [Carlo] 懒得回了～
+13:46 < deepin-tgbridge> [tmacy chen] 嘎嘎，在北京逛吧
+14:10 < deepin-tgbridge> [Carlo] 🙊
+17:35 < felixonmars> fasheng: 请问一下，为什么这个依赖 python2-scipy？ https://github.com/fasheng/arch-deepin/blob/master/pkgbuild/deepin-game-center/PKGBUILD
+17:35 < felixonmars> 我在代码里搜了一下，似乎没有用到这个库……
+17:37 < felixonmars> （而且已经是 deepin-ui 的依赖了）
+17:49 < fasheng> 哦，那应该是忘了更新依赖。。另外 deepin-movie 的问题应该和 qtav 版本有关，不太确定能否通过补丁来协调，自己国庆还有开发工作要做，有闲暇会调试这个问题 :)
+17:50 < felixonmars> fasheng: 好的 :)
+18:34 < deepin-bot> [manateelazycat]:  python2-scipy
+18:35 < deepin-bot> [manateelazycat]:  的作用是计算图形的直方图，从而算出图片背景的主色，deepin ui会根据主色进行背景渐变处理
