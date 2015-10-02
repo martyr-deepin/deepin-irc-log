@@ -1,0 +1,49 @@
+14:53 < felixonmars> fasheng: https://github.com/felixonmars/python-vte 我试着把 deepin vte 里的所有文件名和文件内容都做了 vte->deepinvte、Vte->DeepinVte、VTE->DEEPINVTE 的替换，但是不知为何生成的 deepinvtetypebuiltins.h 会在编译时出现 DEEPINVTE_TYPE_TERMINAL_ERASE_BINDING => DEEPINVTE_TYPE_VTE_TERMINAL_ERASE_BINDING 的命名变化。有什么想法吗？ :)
+15:31 < fasheng> felixonmars: 你是想要让 deepin-vte 与 vte 并存吧，好想法！deepinvtetypebuiltin.h 被重写是因为该文件是通过 glib-mkenums 生成的（正常情况不应该被 git tracking），所以肯定是你重命名时忽略了一些地方
+16:09 < fasheng> felixonmars: 原因找到了，你在对 enum 重命名时要注意，应该使用 DeepinvtePtyError 而不是 DeepinVtePtyError，因为是 gi 是通过大小写分割第一个单词作为 prefix。另外不知是否可以只更改 deepin-vte 的导入路径（如 libvte.so -> libdeepinvte.so，gtk-2.0/vtemodule.so -> gtk-2.0/deepinvtemodule.so），而不是把内部的所以对象都重命名，这样
+16:09 < fasheng> python 调用代码只需做少量更改。
+16:11 < felixonmars> fasheng: 我上午试过更改导入对象的方法，不过没有成功，所以才想要完全改掉的
+16:12 < fasheng> 好的，加油 :)
+16:19 < felixonmars> fasheng: 我看到 deepin-terminal 里对 vte 的引用其实非常少，所以应该全部重命名问题也不大？ :P
+16:21 < felixonmars> works now: $ ldd /usr/lib/python2.7/site-packages/gtk-2.0/deepinvtemodule.so | grep vte
+16:22 < felixonmars> libdeepinvte.so.9 => /usr/lib/libdeepinvte.so.9 (0x00007f8c139c8000)
+16:22 < fasheng> great :-)
+16:50 < felixonmars> 搞定 :) https://www.archlinux.org/packages/community/any/deepin-terminal/
+16:54 < fasheng> 赞赞
+20:41 < deepin-tgbridge> [Mingye Wang] 哇
+20:51 < deepin-tgbridge> [Carlo] 。。。
+20:52 < deepin-tgbridge> [Carlo] 想了一整天我该换哪个发行版
+20:52 < deepin-tgbridge> [Carlo] 然后我选择了 fedora kde
+20:53 < brainy> hi deepin-tgbridge
+20:53 < deepin-tgbridge> [Carlo] Hi~brainy~
+20:54 < brainy> hi Carlo man :)
+20:56 < brainy> Carlo, how are you?
+20:57 < deepin-tgbridge> [Carlo] 😂 bad
+20:58 < deepin-tgbridge> [Carlo] I missed the train
+20:59 < brainy> Carlo, I am sorry to hear that :-(
+20:59 < brainy> Carlo, when does the next train leave?
+21:00 < deepin-tgbridge> [Carlo] There's a lot of train, but no ticket😂
+21:01 < brainy> :-(
+21:09 < brainy> Carlo, which App are you using for chat here?
+21:09 < deepin-tgbridge> [Carlo] Telegram
+21:09 < brainy> Ok Carlo
+21:10 < deepin-tgbridge> [Carlo] 😏Do you want to use Telegram?
+21:12 < brainy> Carlo, hmmm no
+21:12 < brainy> I am using my PC
+21:13 < deepin-tgbridge> [Carlo] Telegram has clients for all system~
+21:13 < deepin-tgbridge> [Mingye Wang] No, not for Plan 9.
+21:14 < deepin-tgbridge> [Carlo] 。。。
+21:15 < brainy> :-D
+21:24 < brainy> hi arunpyasi my bro
+21:24 < brainy> how are you today?
+21:32 < arunpyasi> hi brainy
+21:32 < arunpyasi> I am fine thank you and how are you ?
+21:37 < brainy> i'm good arunpyasi bro,thanks
+21:39 < arunpyasi> :D what you doing these days bro ?
+21:41 < brainy> arunpyasi: just work as usual bro
+21:42 < brainy> I want to go play football but I'm too lazy
+21:42 < brainy> :-D
+21:42 < brainy> Do you play any sports arunpyasi ?
+22:39 < deepin-tgbridge> [Carlo] me too~ I wanna see a anime show, but I'm too lazy to go outside
+22:40 < deepin-tgbridge> [tmacy chen] 😂😂
+22:41 < deepin-tgbridge> [Carlo] 😏
