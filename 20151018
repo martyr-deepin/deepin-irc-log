@@ -1,0 +1,14 @@
+12:00 < deepin-tgbridge> [tmacy chen] ByteCat: 略小
+21:01 < deepin-tgbridge> [Gason Chiu] 唔，现在Windows平板都是2G起了……
+22:26 < deepsource> Hi, from your website there are two VERY important things I can NOT FIND:
+22:26 < deepsource> A) THE SOURCE
+22:26 < deepsource> B) THE ISSUE TRACKER
+22:26 < deepsource> where are these hidden?
+22:27 < deepsource> You should definitely consider publishing that information on your website!
+22:27 < deepsource> On sourceforge I could only find the ISO files, no source code repository
+22:27 < deepin-tgbridge> [Gason Chiu] Maybe you can find them on GitHub?
+22:28 < deepsource> could you please link me to the SOURCE and to the REPOS with ISSUETRACKER? THANKS!
+22:29 < deepin-tgbridge> [Gason Chiu] https://github.com/linuxdeepin?tab=repositories
+22:29 < deepin-tgbridge> [Chaney Zorn] i agree, I think it's nessary to put them on the home page
+22:32 < deepsource> Ah, ok, why don't you just publish that address on your website, I was searching for much too long without results. Pleaase put it right on the frontpage. Thanks!
+22:34 < deepin-tgbridge> [Chaney Zorn] the major git servers used by deepin is gitcafe, not the github, but of cause, all of changes will push to the one on github
