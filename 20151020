@@ -1,0 +1,25 @@
+03:52 < Deerclops> hi. the latest deepin upgrade wrecked my bootloader. is there anyone around who can help?
+04:00 < Deerclops> After a recent upgrade my 14.04 LTS install has wrecked my bootloader. I'm trying to fix it using boot-repair liveCD but with little to no luck. I get these errors when trying to re-install the grub http://paste.ubuntu.com/12865735/ and http://paste2.org/3BX3NxyO
+04:10 < Deerclops> Is there anyone actually here?
+15:30 < felixonmars> https://www.archlinux.org/packages/community/any/deepin-movie/
+15:30 < felixonmars> *★,°*:.☆\<(=￣▽￣=)>/$:*.°★* 。
+15:35 < fasheng> felixonmars: really great job! :)
+15:37 < fasheng> felixonmars: so python2-peewee works now? (looks you write python2-peewee twice in depends..
+15:38 < felixonmars> fasheng: yeah that was a mistake :P fixed that locally, will update in next version
+15:39 < felixonmars> fasheng: yes, peewee works now after hualet applied a fix: https://github.com/linuxdeepin/deepin-movie/commits/release/2.3
+15:57 < x-iyzsong> cool
+16:37 < deepin-bot> [Choldrim]: 👍
+17:18 < fasheng> felixonmars: the developer said deepin-movie 2.3 works well on Deepin 2015, I will reboot to Archlinux to test again...
+18:53 < fasheng> hello, metak ^_^
+18:53 < metak> hey ;-)
+19:01 < metak> what's  up?
+19:18 < fasheng> nothing, just happy to see you. btw, does the process of learning a new language well for you those days?
+19:23 < metak> hmm, we'll see... i have other things to do, but I still plan on learning Japanese. ;-)
+19:23 < metak> btw I removed a bunch of packages from arch-deepin repo...
+19:33 < fasheng> yeah, looking forward you to show some Japanese to us, i think i could guess some of them :)
+19:39 < metak> about deepin-nautilus-properties in arch-deepin repo... do you maybe already have pkgbuild file for it?
+19:42 < fasheng> the code already sync to github yesterday, so just start to do it after debugging the deepin-movie
+19:45 < metak> so this is forked nautilus?
+19:47 < fasheng> yes, a fork of nauitlus, and only install one binary to /usr/bin/deepin-nautilus-properties. just a temporary solution for Deepin 2014
+19:49 < metak> I see..
+22:03 < choldrim> hello 😁
