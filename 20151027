@@ -1,0 +1,47 @@
+07:42 < SolarAquarion> fasheng, yo
+07:47 < SolarAquarion> fasheng, hi
+09:10 < fasheng> SolarAquarion: hi, I replied your question. The point is that you must launch startdde through xinit in tty. enjoy
+09:11 < SolarAquarion> fasheng, you mean i must add it to xinitrc or whatever it's called
+09:12 < SolarAquarion> fasheng, also, all the build tools for the building of startdde isn't in the repo or metakachura
+09:17 < SolarAquarion> fasheng: that's pretty weird how I must launch it via a tty
+09:28 < SolarAquarion> fasheng: is it a temporary bug or...
+09:29 < fasheng> SolarAquarion: About your building problem locally, you must edit the 'sources' field in PKGBUILD from OBS to download file from github, and remove 'mv -f start-dde startdde' in 'prepare ()'. And the depends should be OK, I just build it sucess.
+09:29 < fasheng> But I'm not sure why you must launch it through tty, why not LightDM?
+09:30 < SolarAquarion> fasheng: it fails
+09:30 < SolarAquarion> fasheng: I did.  The errors were about missing dependencies
+09:30 < SolarAquarion> That are not in the repo
+09:31 < fasheng> How about show the error messages to me
+09:32 < fasheng> I see, you mean you could not install startdde through OBS for the missing dependencies?
+09:33 < SolarAquarion> fasheng: no.  I'll show you
+09:35 < SolarAquarion> https://www.irccloud.com/pastebin/mtpvO8jv/
+09:35 < SolarAquarion> fasheng: here
+09:35 < SolarAquarion> that's where the bugs are coming from i think
+09:35 < SolarAquarion> all those stuff are depencies that are not in the repo
+09:37 < SolarAquarion> fasheng: I think it can't be launched from lightdm because of missing dependencies that are not on the hard drive and not in the repo
+09:40 < fasheng> SolarAquarion: wired, they should be provide by `go-pacakges`, do you install it?
+09:47 < fasheng> SolarAquarion: maybe you get the PKGBUILDs from github/arch-depin, it's a little out of date, I synced it just now
+09:47 < SolarAquarion> ok
+23:01 < metak> hey fasheng :)
+23:01 < fasheng> hi metak :)
+23:02 < metak> I have a question about dde2015?
+23:03 < metak> i was building some packages and noticed that some *.so files are being installed in /usr/share/...  which isn't right. Do you have any idea why?
+23:06 < fasheng> maybe you could look at the build rules for such projects in https://github.com/linuxdeepin/pkg_debian. i just checked, it's ok for deepin2015
+23:08 < fasheng> and about dde2015, we split dde-workspace to dde-dock, dde-launcher, etc. i will ask for our repo maintainer sync them to github soon
+23:10 < metak> i know that... hehhe ;-) I checked it out on github and I also cloned the repos on cr.deepin.io ;-)
+23:11 < fasheng> good job, so which package go wrong?
+23:12 < metak> dde-dock installs *.so file in /usr/share/dde-dock//plugins/libdde-dock-trash-plugin.so
+23:14 < metak> also dde-control-center dev/2015 branch installs *.so files in /usr/share/dde-dontrol-center/*
+23:16 < fasheng> i see, you are right. looks dde-control-center owns same issue. i will contact with the developers to learn more about it. thanks for your report :)
+23:17 < fasheng> hehe, so you have point out it
+23:19 < metak> so far I've made a few packages https://build.opensuse.org/project/show/home:metakcahura:arch-deepin:2015
+23:22 < fasheng> amazing! you have worked so hard +1
+23:23 < metak> I can get dde-dock, deepin-wm, dde-desktop, dde-launcher, dde-control-center to start...
+23:24 < metak> dde-dock shows only launche icon and taskbar
+23:24 < metak> deepin-wm minimize doesn't work in some cases..
+23:25 < fasheng> you mean toggle-desktop? yes, it a bug of Mutter
+23:25 < metak> dde-control-center starts but does't show anything except powroff button... this might be related to where it istalls modules (/usr/share/)?
+23:27 < metak> no, just minimize the window... when the dock is efficient mode for some reason I can't minimize the window, but the I can when I switch it to back to default.. strange
+23:28 < fasheng> well, looks lots of troubles waiting for us to solve. but i have confidence. i will setup your new OBS repo and face them ;)
+23:30 < metak> I just added you to the maintainer users in my arch-deepin:2015 project page so you can make any changes you want
+23:32 < fasheng> great. and it's just midnight for me, i must ride home from the office. glade to talk with you, see you later :)
+23:34 < metak> good night ;-)
