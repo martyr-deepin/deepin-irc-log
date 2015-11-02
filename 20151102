@@ -1,0 +1,188 @@
+04:02 < metak> hello felixonmars
+17:33 < metak> hey fasheng
+17:34 < fasheng> hi metak
+17:34 < metak> how are you?
+17:35 < fasheng> fine, just adjusting deepin package tags and architecture now
+17:36 < metak> I saw that you changed back branch to release/3.0 for dde-workspace?
+17:37 < fasheng> yes, dde-workspace is still used for osd and zone now
+17:38 < metak> but that will conflict with others dde-desktop, dde-launcher... etc.?
+17:39 < fasheng> 'osd' is the popup dialog when pressing volume button, and 'zone' is the ui that to change screen corner behavior
+17:40 < fasheng> really? the latest code in  dde-workspace should not contain file for dde-desktop or dde-launcher. i will check it again later
+17:40 < metak> that's why i changed it to remove branch...
+17:42 < fasheng> i see
+17:44 < metak> https://github.com/linuxdeepin/dde-workspace/blob/release/3.0/app/CMakeLists.txt
+17:44 < metak> still builds dock and desktop...
+17:44 < metak> https://github.com/linuxdeepin/dde-workspace/blob/remove/app/CMakeLists.txt
+17:44 < metak> this one has all that disabled
+17:48 < fasheng> well, you are right... please just switch it back to `remove` branch
+17:52 < metak> should we also disable the guide? it just causes problems...
+17:54 < fasheng> agree, disable dde-guide would be fine
+17:58 < metak> fasheng, will dde-workspace remain in the future as a separate package?
+18:01 < fasheng> no, maybe it will disappear in this week, and replaced by dde-session-ui
+18:02 < metak> can it be replaced right now? I already made a dde-session-ui package...
+18:08 < fasheng> it's ok, you can disable dde-workspace now, after dde-session-ui updated later(maybe one or two weeks), dde-osd and dde-zone will come back
+18:09 < metak> yeah, no point wasting time on it since it's going to be removed soon anyway...
+18:12 < metak> I'm asking you all this becuase the more I can remove from obs the happier I become... ;-)  seriously, it's such a pain in the arse to keep it all together in stupid obs... ;-)
+18:13 < fasheng> haha ;)
+18:17 < fasheng> metak: i'll leave for an hour, see you later
+18:17 < metak> bye..
+19:12 < felixonmars> :P
+19:16 < metak> hey felix ;-)
+19:16 < felixonmars> metak: hi :P
+19:16 < felixonmars> i use a bouncer and always receive your message in the morning when you are offline :P
+19:17 < metak> hehe
+19:18 < metak> I just packaged deepin-sound-theme and making some other pkgbuilds...
+19:19 < metak> what's next on your list to import?
+19:23 < felixonmars> i'm waiting for the main dde packages now :P
+19:24 < metak> since you'll be maintaining the packages I should ask you about deepin-icon-theme
+19:25 < metak> it comes with default 'deepin' and old version 'deepin-2014'
+19:26 < metak> i was wondering if it would even make sense to package the old one? (makefile builds them both)
+19:28 < fasheng> metak: you mean deepin-sound-theme? well, i remember i just create this project hours ago. it's so magic!
+19:29 < metak> yep fasheng... I saw, I packaged. ;-)
+19:33 < metak> fasheng: any progress on why those *.so files are being installed to /usr/share/*?
+19:35 < fasheng> dde-dock/dde-launcher/dde-session-ui/libdui/deepin-metacity/deepin-desktop-base(not porting required, but it owns the default background) synced to Github with tags now
+19:40 < fasheng> metak: well, looks the developers didn't fix the path yet..
+19:41 < fasheng> metak: i will submit patches for it
+19:42 < metak> okay...
+19:43 < metak> i'm currently updating pkgbuild files with new tags to make it easier for Felix to import...
+19:45 < fasheng> great, thanks
+19:46 < felixonmars> thanks :D
+19:46 < felixonmars> :O deepin-metacity...
+19:46 < felixonmars> i thought it's not needed :3
+19:48 < fasheng> it's the flashback window manager for Deepin, maybe not necessary for archers..
+19:51 < metak> felix have you seen my question above about deepin-icon-theme?
+19:51 < felixonmars> oh, i may not build the old one if it's uneeded
+19:54 < metak> it's not needed, it pulls faenza-icon-theme along... and I think it would be best to remove deepin-2014 and modify deepin.index file and change that Faenza inherits to something like adwaita or whatever... i believe faenza is completelly redundant
+20:28  * s991533 Hello all!
+20:37 < fasheng> hi s991533
+20:46 < arunpyasi> hey s991533
+20:46 < arunpyasi> how are you bro ?
+20:46 < arunpyasi> hey hualet metak
+20:46 < arunpyasi> how are you all guys ?
+20:47 < hualet> arunpyasi: hi I'm fine ;)
+20:48 < metak> hello arun ;)
+20:51 < metak> fasheng: i removed deepin-2014 icon theme from deepin-icon-theme package and s/Faenza/Adwaita/ to avoid the having faenza when it's not needed. will it be OK that way?
+20:54 < brainy> hi leaeasy
+21:01 < fasheng> metak: looks will be fine, through it inherits from flattr and Faenza, Deepin-2015 just do not install Faenza and everything works fine
+21:01 < zwitter__> wow
+21:02 < zwitter__> today everyone in the home :D
+21:02 < zwitter__> hualet: how is our OS going on ?
+21:02 < zwitter__> when is it releasing the stable version ?
+21:02 < brainy> hi hualet bro
+21:03 < hualet> metak fasheng, I was asked to remove all the dependencies of Deepin icon theme
+21:04 < hualet> zwitter__: we are hardly working on it XD
+21:05 < zwitter__> hualet: cool brother
+21:05 < zwitter__> hualet: bro, is there any deadline or something for the release?
+21:05 < metak> hualet: so, is the deepin-icon-theme 'complete' now?
+21:06 < zwitter__> is everything (development) actively sync to github ?
+21:06 < hualet> zwitter__: you can go ask fasheng about the sync thing
+21:07 < hualet> metak: I haven't done it yet, so I'm not sure about it
+21:07 < hualet> metak: you're porting DDE too ?
+21:07 < zwitter__> metak: you are also dev in deepin ?
+21:08 < metak> zwitter__:no
+21:08 < zwitter__> ok
+21:08 < zwitter__> hualet: send me the iso file link before release OK !
+21:08 < zwitter__> :D
+21:08 < zwitter__> I will try and write an article on it :D hehe
+21:09 < metak> hualet: i've been porting it with fasheng since he also started (for archlinux). ;-)
+21:09 < fasheng> zwitter__: yes, most of the projects will sync to github and gitcafe in real time
+21:10 < hualet> zwitter__: hmmm...that sounds OK with me, but not with our company and our marketing guys ;)
+21:10 < zwitter__> hm.. :P
+21:10 < zwitter__> ok !
+21:11 < hualet> metak: that's you ?! cool man :)
+21:11 < zwitter__> then, I will try to write after released :D
+21:11 < hualet> zwitter__: write what?
+21:11 < zwitter__> hualet: article on my blog. lol
+21:12 < hualet> zwitter__: haha great
+21:13 < zwitter__> man, you know which app I love most in deepin ?
+21:13 < zwitter__> any guesses ??
+21:14 < hualet> zwitter__: have you written something about Deepin before ?
+21:14 < zwitter__> hualet: yeah
+21:14 < zwitter__> I had
+21:14 < hualet> can I see it ?
+21:14 < zwitter__> http://linoxide.com/ubuntu-how-to/install-deepin-desktop-environment-derivatives-ubuntu/
+21:14 < hualet> zwitter__: I guess it is deepin-music ?
+21:15 < zwitter__> but this article is very small
+21:15 < zwitter__> hualet: one is absolutely correct !
+21:15 < zwitter__> I love deepin-music
+21:15 < fasheng> metak: you could rebuild dde-control-center and dde-dock now, the *.so install path were fixed by upstream :)
+21:15 < zwitter__> its really an awesome player man
+21:15 < hualet> zwitter__: you're Chinese right?
+21:15 < zwitter__> fasheng: are you the packager ?
+21:15 < zwitter__> hualet: dude !!
+21:16 < arunpyasi> hehe
+21:16 < hualet> arunpyasi: are you kidding me
+21:16 < arunpyasi> this nick comes when I get net reset
+21:16 < hualet> why do you change your id
+21:17 < arunpyasi> hualet: it gets auto change when network is reset
+21:17 < arunpyasi> wait, let me fix this.
+21:17 < hualet> I was so excited about getting a new friend XD
+21:17 < arunpyasi> hahaha :D
+21:17 < arunpyasi> lol
+21:18 < hualet> fasheng: who did that, wanqing ?
+21:18 < arunpyasi> bro, I love deepin screenshot too
+21:18 < arunpyasi> :D
+21:18 < fasheng> hualet: wanqing and sbw
+21:18 < hualet> arunpyasi: hmmm...it's powerful right ? haha
+21:19 < sbw> ..
+21:19 < arunpyasi> yes bro
+21:19 < arunpyasi> is powerful :D
+21:19 < hualet> fasheng: good boys ;)
+21:19 < arunpyasi> I love it
+21:19 < metak> fasheng: obs is building now...
+21:20 < hualet> arunpyasi: it's a little buggy right now though...
+21:20 < arunpyasi> metak: you use obs for building binaried ?
+21:20 < arunpyasi> hualet: ohh
+21:20 < metak> arunpyasi: yes
+21:20 < hualet> arunpyasi: sbw is a new member of us
+21:21 < arunpyasi> hualet: in which platform do you build your binaries bro ? In Vbox, containers, vagrant ??
+21:22 < arunpyasi> hualet: thats cool bro
+21:22 < arunpyasi> hualet: where is he/she from ?
+21:22 < deepin-bot> [dragondjf]: https://github.com/dragondjf/qmusic
+21:24 < arunpyasi> or debootstraps. etc ??
+21:24 < hualet> arunpyasi: let me introduce you the very famous Docker XD
+21:24 < arunpyasi> hualet: oh, you build in docker ?
+21:25 < fasheng> dragondfj: cool music player +1
+21:25 < hualet> arunpyasi: I don't know much details, but yes
+21:25 < arunpyasi> thats cool bro ! :D I love docker.
+21:25 < arunpyasi> sbw: hi
+21:26 < sbw> arunpyasi: hello
+21:26 < arunpyasi> sbw: how are you ?
+21:26 < sbw> ˊ_>ˋ jia ban ing...
+21:28 < arunpyasi> what is that ???
+21:28 < arunpyasi> please translate in english .
+21:28 < arunpyasi>  :D
+21:28 < arunpyasi> hualet: You guys know that China is sending petroleum to Nepal ?
+21:29 < hualet> arunpyasi: nope let me check...
+21:32 < hualet> arunpyasi: you know...I can't open google for now... :(
+21:32 < arunpyasi> hualet: hm. yeah :(
+21:32 < arunpyasi> hualet: why not you guys use VPNs ?
+21:33 < hualet> arunpyasi: I use VPN but it doesn't work all that fine dude
+21:33 < arunpyasi> ohh
+21:35 < hualet> fasheng: don't you know that's deepin-music 3.0 ?
+21:37 < hualet> arunpyasi: oh I see, protests block the fuel supply from India
+21:37 < fasheng> haha, of course i know, it's a clean locally music player that split from deepin-music 3.0
+21:38 < hualet> hmmm... right
+21:38 < arunpyasi> yeah hualet
+21:38 < hualet> arunpyasi: politics
+21:38 < arunpyasi> yeah man
+21:38 < arunpyasi> that Indian Government specially Modi are craps
+21:38 < hualet> too complicated to me XD
+21:38 < arunpyasi> they did betrays
+21:38 < arunpyasi> very complicated to me too. LoL
+21:39 < arunpyasi> does deepin music have deepin* dependencies ?
+21:40 < hualet> arunpyasi: the QMusic one? I don't think so
+21:41 < arunpyasi> QMusic ?
+21:42 < arunpyasi> what is QMusic ? You mean deepin music written in QT ?
+21:42 < hualet> https://github.com/dragondjf/qmusic
+21:45 < arunpyasi> looks a good fork of deepin music
+21:45 < arunpyasi> bro, is that only in chinese or also in english ?
+21:45 < hualet> dragondjf is the author of deepin-music 3.0, and the qmusic project is deepin-music without network service
+21:46 < arunpyasi> hualet: OH OH thats cool :D
+21:47 < arunpyasi> so, what is the latest version of deepin-music ?
+21:48 < hualet> you can get the latest source code from Github I think
+21:49 < hualet> arunpyasi: gonna go, let's talk later :)
+21:51 < fasheng> metak: how about the result?
+22:00 < fasheng> well, the OBS building packages as slow as ever, i thinks see the result tomorrow is a good idea. bye felixonmars, bye all..
+22:00 < felixonmars> ok..
+22:11 < felixonmars> is qmusic going to follow deepin-music's changes?
