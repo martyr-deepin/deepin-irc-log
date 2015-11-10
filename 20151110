@@ -1,0 +1,149 @@
+09:10 < username1> hi, x-iyzsong :-)
+09:10 < username1> hi, x-iyzsong :-)
+10:37 < username1> hi, liujianfeng :-)
+10:38 < liujianfeng> username1: hi
+10:44 < username1> hi, dardevelin_ :-)
+11:32 < username1> hi, sbw :-)
+12:19 < username1> hi, liujianfeng :-)
+13:55 < username1> hi, cuihao :-)
+13:56 < cuihao> hi, username1 :-)
+14:11 < username1> hi, sbw :-)
+15:16 < username1> hi, arunpyasi :-)
+15:17 < username1> hi, fasheng :-)
+15:27 < username1> hi, bjxz :-)
+15:27 < bjxz> l
+15:29 < bjxz> jhbgyjh
+15:29 < bjxz> jnk
+15:29 < bjxz> kk
+15:29 < bjxz> h
+15:29 < bjxz> hi
+15:29 < bjxz> hello
+16:03 < username1> hi, cuihao :-)
+16:15 < username1> hi, x-iyzsong :-)
+16:20 < username1> hi, leaeasy :-)
+16:21 < leaeasy> username1: robot %>_<%
+16:22 < username1> hi, metak :-)
+16:25 < felixonmars> metak: hi :3
+16:25 < username1> hi, vodkode :-)
+16:26 < vodkode> heya username1
+16:26 < vodkode> hows it going?
+16:26 < felixonmars> looks like... he's a bot
+16:27 < vodkode> glad to see the channel is growing
+16:27 < vodkode> how are you felixonmars ?
+16:29 < felixonmars> not bad here :P
+16:29 < username1> hahaha
+16:30 < liujianfeng> username1: this is really a robot?
+16:31 < username1> nopeˊ_>ˋ
+16:31 < metak> oh hey everyone ;-)
+16:32 < vodkode> Glad to see so many deepinites are here!
+16:32 < vodkode> this is the most active I've ever seen the channel
+16:32 < vodkode> :)
+16:33 < liujianfeng> :3
+16:34 < metak> felixonmars: I saw on your twitter page ? a screenshot of you running deepin-wm?
+16:34 < felixonmars> metak: ah, yeah :P
+16:35 < metak> what's your impression?
+16:35 < felixonmars> i'm so glad that it works without having to fix something xD
+16:35 < metak> heheh
+16:35 < fasheng> :P
+16:36 < metak> i couldn't minimize windows in some cases though...
+16:36 < felixonmars> but i want my alt+left click back to move windows :3
+16:36 < metak> fasheng: hey ;-)
+16:37 < fasheng> metak: hi :)
+16:38 < metak> fasheng: we're talking behind your back about your deepin-wm.... ;-)
+16:38 < fasheng> metak: yeah
+16:39 < fasheng> metak: and about the minimize issue, could you reproduce it?
+16:40 < metak> fasheng: in the last week I really haven't had much time to spend on dde... I'll try to...
+16:42 < metak> felixonmars: I hope you're not angry at me for 'butchering' your pkgbuild files from 'community' repo that I've imported in obs... ;-)
+16:48 < username1> hi, s991533 :-)
+16:48 < username1> hi, s991533 :-)
+16:49 < metak> fasheng: also, it seems that dde-workspace refactring is done upstream? can dde-workspace be removed now?
+16:49 < leaeasy> felixonmars: deepin-arkwork-themes depends on source hans, Maybe you must patch it.
+16:49  * felixonmars also needs a way to determine the latest version of deepin packages, as the current 2014.2 > 15.10.0 when comparing versions
+16:51 < felixonmars> leaeasy: hrm, i need some more details: if deepin-artwork-themes depends on source han sans already, wouldn't it be better to leave it unpatched?
+16:53 < felixonmars> also these: https://github.com/fasheng/arch-deepin/blob/master/obs/home:metakcahura:arch-deepin:2015/deepin-icon-theme/PKGBUILD#L20
+16:53 < leaeasy> felixonmars: do as you like, but i think set the fontname to sans or sans serif will be better.
+16:53  * felixonmars needs to know if it's possible to get rid of it
+16:54 < felixonmars> leaeasy: would it be possible to set it to sans-serif upstream?
+16:56 < leaeasy> felixonmars: I try to suggest, but ...
+16:56 < felixonmars> :/ ok, got it
+16:56 < felixonmars> metak: why /usr/share/personalization? doesn't smell like a common path to me :P https://github.com/fasheng/arch-deepin/blob/master/obs/home:metakcahura:arch-deepin:2015/deepin-artwork-themes/PKGBUILD#L38
+16:57 < fasheng> metak: yes, you could remove dde-workspace now
+16:58 < metak> felixonmars: those are ddepin thumbnails I believe and not actual themes themselves...
+16:59 < felixonmars> metak: but... you are patching the background to file:///usr/share/personalization/themes/Deepin/wallpapers/default_background.jpg
+16:59 < leaeasy> metak: The upstreamer has reimplement the thumbnails generations
+17:00 < metak> felixonmars: I believe fasheng added that sinca I haven't had any time in the last week...  I'll check it out...
+17:00 < fasheng> felixonmars: well, I did it
+17:01 < leaeasy> metak: the /usr/share/personalization directory will disappear very soon.
+17:01 < metak> leasy: good to know...
+17:01 < felixonmars> leaeasy: that's great :)
+17:02 < metak> fasheng: woudn't be best to slow it down a bit and wait for upstream to merge/make all these changes?
+17:02 < felixonmars> looks like deepin-sound-theme is the cleanest :3 lemme put my finger on it..
+17:03 < felixonmars> ah, i concluded too early... it doesn't have a tag yet :/
+17:05 < fasheng> metak: I just thought the artwork package would be fine to move to [community], but now looks felixonmars should wait some of them to stable
+17:05 < felixonmars> np :)
+17:05  * felixonmars is looking at libdeepin-webkit
+17:07 < metak> felixonmars: I don't really know for what exactly is libdeepin-webkit still used... since  they refatored dde-workspace and etc.?
+17:07 < felixonmars> ah, so that's the answer - i was also trying to find that out :3
+17:07 < metak> i believe it should be removed?
+17:08 < fasheng> felixonmars: yes, libdeepin-webkit will not be used in Deepin 2015 :)
+17:09 < felixonmars> great, todo list scrubbed
+17:12 < metak> felixonmars: you can import gsettings-qt... that one is not related to deepin, but it's a dependency?
+17:12 < felixonmars> metak: ok
+17:13 < metak> i haven't fixed it for you yet though.. ;-)
+17:13 < felixonmars> btw, looks like dde-dock missed some icons, maybe missing dependency?
+17:13 < felixonmars> http://i.imgur.com/O8dBwMU.png
+17:15  * felixonmars also wonders what the middle button is...
+17:15 < fasheng> felixonmars: looks launcher icon missed, which icon theme you are using?
+17:16 < felixonmars> fasheng: Breeze
+17:16 < metak> felixonmars: that in the middle is systray ;-)
+17:19 < metak> felixonmars: gsettings-qt's launchpad page doesn't have published sources, soshould the pkgbuild file use bzr to fech trunk?
+17:19 < felixonmars> fasheng: my pidgin just crashed when switching icon theme, maybe missed some lines if you sent any...
+17:20 < felixonmars> metak: hrm, lemme check...
+17:23 < fasheng> felixonmars: well, all icon themes work fine here, including  Deepin, Flattr, Moka, Numix and breeze
+17:23 < felixonmars> :/ weird
+17:25 < felixonmars> metak: yes
+17:25 < felixonmars> metak: i'll do it, don't worry :)
+17:29 < fasheng> felixonmars: btw, i install deepin-icon-theme 15.10.0-1
+17:29  * felixonmars will try
+17:36 < felixonmars> gsettings-qt 0.1.20151104-1 moved :)
+17:38 < username1> hi, rspeck :-)
+17:38 < fasheng> +1
+17:39 < felixonmars> fasheng: will flattr-icon-theme be needed in 2015 final?
+17:40 < fasheng> felixonmars: yes, flattr is required
+17:40 < felixonmars> metak: why is options=('!strip') needed for deepin-icon-theme?
+17:40 < felixonmars> fasheng: ok, i'll move it first then
+17:41 < metak> felixonmars: it's not... forgot to remove it...
+17:42 < felixonmars> metak: that's my guess too :P
+17:44 < fasheng> felixonmars: I installed pidgin just now, and tested OK for switching icon themes after joining a IRC channel..
+17:45 < felixonmars> :/ ah i didn't meant to ask you about this problem
+17:45 < felixonmars> but thank you :P
+17:46 < felixonmars> also my dde-dock still don't have the launcher icon even after deepin-icon-theme installed
+17:52 < fasheng> Here is my package versions:
+17:53 < fasheng> dde-api            2.91.0.r41.ga594130-0
+17:53 < fasheng> dde-control-center 2.91.0.r0.g3b80890-0
+17:53 < fasheng> dde-daemon         2.92.2.r105.gc9b19cd-0
+17:53 < fasheng> dde-desktop        2.90.0.r5.gf44ae63-0
+17:53 < fasheng> dde-dock           2.90.0-1
+17:53 < fasheng> dde-launcher       2.90.0-1
+17:53 < fasheng> dde-session-ui     0.0.20151103.3dde15a-0
+17:53 < fasheng> startdde           2.91.1.r17.ge972e6e-0
+18:06 < felixonmars> 我这里只是单跑了 dde-dock，其他都没有安装（
+18:06 < felixonmars> （想一个个来的说
+18:24 < fasheng> 这样可不行啊，dde-dock/dde-launcher/dde-desktop/dde-control-center 只是前端，后端都在 dde-daemon 里。。
+18:39 < username1> hi, arun_ :-)
+18:41 < Guest6972> hi username1
+18:51 < username1> hi, arunpyasi :-)
+18:55 < username1> hi, fasheng :-)
+18:55 < username1> hi, arunpyasi :-)
+18:55 < arunpyasi> username1: are you a bot ?
+18:59 < username1> arunpyasi:
+19:59 < username1> hi, fasheng :-)
+20:26 < username1> hi, leaeasy :-)
+20:48 < username1> hi, s991533 :-)
+21:13 < username1> hi, arun_ :-)
+23:28 < felixonmars> metak, fasheng: flattr-icon-theme moved to [community]
+23:38 < metak> felixonmars: good... you can also put deepin-icon-theme with it?
+23:39 < felixonmars> metak: i still want to have some try on make those patching upstream
+23:42 < metak> felixonmars: as you wish... fasheng commited some changes to dde2015 in obs and some packages are failing to build now...
+23:42 < felixonmars> oh :(
+23:43 < metak> it's impossible to use tags it seems... upstream is moving to fast... dde-control-center fails 'coz libdui 1.2.0 is too old it seems... ;-)  needs latest git revision I guess?
