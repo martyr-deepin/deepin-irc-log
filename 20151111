@@ -1,0 +1,69 @@
+00:21 < felixonmars> i see...
+00:23 < metak> felixonmars: i just made some changes so that all the packages use tags instead off latest revisions... will see if it all builds fine...
+00:24 < felixonmars> metak: great, thanks :P
+00:51 < metak> felixonmars: so, like, mmm I'm in a big doodoo ;-)
+00:52 < felixonmars> what's a doodoo :P
+00:52 < metak> crap ;-)
+00:53 < metak> it doesn't all build well...
+00:53 < metak> seems like lots of issues pop up
+01:01 < felixonmars> metak: not surprised :P
+01:05 < metak> yeah... some packages don't have tags, some need to use newer commit, etc.  ... lots of fun... ;-)
+01:09 < metak> felixonmars: what is your take on all of this? I believe it's way too early for you to start importing dde2015 in commnity...
+01:09 < felixonmars> metak: i'll still be importing some safer packages first :P
+01:10 < felixonmars> also i'd like to resolve the gcc-go dependency issue in arch
+01:11 < metak> what would be the best way to resolve it?
+01:12 < felixonmars> split a gcc-go-libs package
+01:12 < felixonmars> (which could contain only libgo.so)
+01:13 < felixonmars> so the deepin packages won't conflict with go...
+01:15 < metak> you'll need to talk with Allan M. about that...
+01:17 < felixonmars> yep, already did so :P
+01:17  * felixonmars also needs to prepare some cookie for this
+01:18 < metak> great
+02:41 < metak> felixonmars: just so know I've managed to make it all build... changed some packages to use tags and some had to be set for newer commit... libdui and gsettings-qt are no longer poblished in repo... maybe I should also disable deepin-dbus-generator and deepin-desktop-schemas from being published in repo? will see...
+13:54 < username1> hello every!
+15:18 < username1> hi, metak :-)
+15:20 < metak> fasheng: good morning... ;-)
+15:24 < username1> hi, liujianfeng :-)
+15:32 < username1> hi, fasheng :-)
+15:33 < fasheng> metak: morning
+15:34 < metak> https://build.opensuse.org/project/show/home:metakcahura:arch-deepin:2015:testing
+15:34 < metak> what do you think?
+15:34 < metak> having latest snapshots in there?
+15:36 < fasheng> yes, g988e875 is the latest code for libdui
+15:37 < metak> I created subproject 'testing' for dde2015 where we could follow latest revisions of packages if you're interested?
+15:43 < metak> dea2892ac333755f88e481e7bb43742e5b8c0c83  for dde-deamon fails to build for i686... should it use newer commit or bring back that patch?
+15:43 < fasheng> emmm, though it's the right way for that the upstream tags always arrive late. but looks a little complex, how about we use commits instead tags in arch-deepin:2015, and just left felix to adjust the code later ;)
+15:43 < fasheng> yes, i will fix the i686 build issue later..
+15:44 < username1> hi, deepin-bot :-)
+15:44 < username1> hi, deepin-ilbot :-)
+15:46 < fasheng> and the upstream code will give the latest tags before next friday to make ready for 2015 alpha2
+15:47 < metak> no problem from me... ;-)
+15:48 < metak> one more thing fasheng
+15:51 < metak> we could also re-adjust obs project page repositories for dde-2015 to switch from 'Arch_Extra' to 'home_metakcahura_arch-deepin_Arch_Extra' so that we would inherit go and some other packages... what do you think?
+15:59 < fasheng> sounds great, just do it :)
+16:01 < metak> if I do it, the name will become crazy something like 'home_metakcahura_arch-deepin_2015_home_metakcahura_arch-deepin_Arch_Extra'   hehehe ;-)  ????
+16:02 < fasheng> btw, we should keep the old arch-deepin packages remain unchanged during the time
+16:03 < fasheng> oh, really magic repo name, you could decide it ;)
+16:03 < username1> hi, cuihao :-)
+16:03 < metak> obs does that... I'll just leave it as it is for now...
+16:05 < fasheng> another thing, metak, please keep deepin-dbus-factory and deepin-desktop-schemas in arch-deepin:2015, they will be updated those days :)
+16:07 < metak> deepin-desktop-schemas is already in 'community' repo, and it's not needed to build anything, so what's the point in having it in there?
+16:09 < username1> hi, sbw :-)
+16:11 < fasheng> well, the same reason, some gsettings will be updated those days, and the tags will come later. so it will be helpful for us to test deepin 2015..
+16:13 < metak> it's not a problem to leave it... yesterday, I disabled libdui and gsettings-qt from publishing...
+16:14 < fasheng> and for deepin-file-manager-backend, you could rename it to deepin-file-manager, though it only provide backend service currently ;)
+16:15 < fasheng> libdui is required for the latest code, too
+16:18 < metak> that's the problem fasheng... since for some packages to build the latest code you also need the latest code of dependencies as well...
+16:19 < metak> yesterday, dde-control-center failed to build because libdui was set to latest tag 1.2.0
+16:19 < metak> so I had to lower dde-control-center to use tag
+16:25 < fasheng> that' ok. btw, the obs server suspended several times last week, wish it works fine following days ;)
+16:26 < metak> we'll see... so, arch-deepin:2015 should use tags/commits and in arch-deepin:2015:testing we can dump latest revisions of packages for testing purposses...?
+16:28 < metak> btw I've renamed deepin-file-manager and pushed it to obs...
+16:30 < fasheng> good job. so arch-deepin:2015:testing will act as another arch-deepin-git, that's great
+16:34 < liujianfeng> deepin-movie on my packman repo  not update for a loog time: https://pmbs.links2linux.de/package/show/home:amazingfate/deepin-movie
+16:35 < liujianfeng> a lot of deps like qml is not packaged
+16:37 < metak> liujianfeng: if you're using openSUSE maybe you should use this repo instead https://build.opensuse.org/project/show/X11:Deepin
+16:38 < username1> hi, liujianfeng :-)
+16:39 < liujianfeng> why could obs package qtav?
+16:43 < fasheng> liujianfeng: looks the X11:Deepin is out of date now, maybe you could help them in somewhere, :)
+16:56 < username1> hi, sbw :-)
