@@ -1,0 +1,23 @@
+00:02 < brainy> hi arunpyasi my bro
+00:02 < brainy> how are you these days?
+17:42 < charles130__> 请问下，deepin里好多软件都是英文的，是我系统配置有问题么？每次都要手动下中文包，有木有什么办法？本人刚上手deepin的菜鸟一枚
+17:50 < x-iyzsong> charles130__: 什么软件？ 有的汉化本身可能不完整（可以参与汉化）；可能你装的不是最新版的软件
+17:50 < x-iyzsong> 当然不完整是普遍现象..
+17:51 < charles130__> Excuse me, a lot of software in the deepin is in English, is my system configuration has a problem? Every time you need to manually under the Chinese language, there is a way to do it?
+17:51 < charles130__> 我安装完以后，默认安装的雷鸟和火狐都是
+17:51 < charles130__> 后来我重新安装，还是一样，还是英文的，然后换了ubuntu的源，安装的火狐也是一样
+17:52 < x-iyzsong> 那个确实是单独的语言包(比较大)
+17:52 < charles130__> 最后没办法，只能又额外安装中文包
+17:52 < charles130__> 但是现在gedit又是中文的，而且……我查了下，没找到中文包
+17:52 < charles130__> gedit英文的
+17:53 < x-iyzsong> 是这样的，我记得分语言包的有 KDE、firefox、thunderbird、libreoffice
+17:54 < charles130__> 难道没办法像ubuntu一样？apt-get的时候可以自动识别语言
+17:54 < charles130__> 好吧……那只能痛并快乐着了
+17:54 < charles130__> 谢谢大家～
+17:55 < x-iyzsong> ubuntu apt-get 也不能吧.. deepin 2014 里firefox那些软件用的就是的 ubuntu 的源
+17:56 < charles130__> 我昨天才换的deepin，之前用的是xubuntu，安装的时候会自动识别，安装的基本上都是中文版的，除了没有中文包的，才会时英文
+17:56 < charles130__> 而且，每次升级的时候，会自动安装依赖的语言包，就这块比较方便
+17:57 < charles130__> 用deepin，主要是看上了crossover
+17:58 < x-iyzsong> 嗯 我想起来了 ubuntu的确是有个提示你安装缺失语言包的东西
+17:59 < charles130__> 嗯哪～
+17:59 < x-iyzsong> 拜拜啦
