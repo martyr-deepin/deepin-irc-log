@@ -1,0 +1,21 @@
+15:48 < felixonmars> sbw: pia
+15:48 < sbw> felixonmars: ..what
+15:48 < felixonmars> sbw: 话说你那里 deepin control center 首页快速多次点击键盘和语言设置会不会 crash？
+15:49 < felixonmars> 5~10 次每秒这种速度
+15:49 < sbw> 以前会
+15:49 < felixonmars> 哦……看来是个已经修了的问题，那我等版本好了 =w=
+15:49 < sbw> 5-10次每秒..? 少侠好手速
+15:49 < felixonmars> <(=﹁"﹁=)> 昨天打了你的补丁，但是之后还会
+15:50 < sbw> 那个crash有两种可能，一个是模块自己崩，一个是切换模块时候主程序崩，主程序崩的问题貌似解决了
+15:51 < felixonmars> 哦～
+15:51 < felixonmars> 我指的是这个补丁：https://cr.deepin.io/#/c/8995/
+17:01 < felixonmars> 有什么简单的命令行方式可以获得当前的 deepin wm 主题吗？
+17:10 < sbw> felixonmars: 你是说 8995 那个加上了之后还是会crash吗？
+17:11 < felixonmars> sbw: 是的
+17:13 < sbw> felixonmars: 稳定重现吗
+17:16 < felixonmars> sbw: 是的
+17:18 < sbw> 稳定重现的话一定是某个模块的问题，可能是dbus的问题吧，在 .cache/deepin/DDE Control Center/ 下面应该会有log
+17:20 < felixonmars> 看到 log 了，成功和失败时一样
+17:20 < felixonmars> 失败的时候会在一行类似这样的 log 之后 crash：get instance:  Keyboard(0x2c89cb0) 0x2c89cc0
+17:21 < felixonmars> http://i.imgur.com/LXRvqAU.png
+22:13 < brainy> hi s991533_
