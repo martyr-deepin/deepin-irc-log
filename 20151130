@@ -1,0 +1,56 @@
+20:36 < felixonmars> hualet: 喵
+20:36 < felixonmars> 话说，有打新 tag 的计划了吗？ :P
+20:37 < hualet> felixonmars: 喵喵
+20:38 < hualet> alpha2到beta的时间不会太长，所以暂时不想打tag了，怎么了？
+20:38 < felixonmars> 哦～想更新点版本 :P
+20:39 < hualet> 哈哈，我真的想推出去～
+20:39 < felixonmars> （有几个特别影响使用的 bug 据说修好了……比如通知栏的黑框，还有控制中心首页顶部失踪的头像等（
+20:39 < felixonmars> 但是接口有改动的样子，目测部分 backport 有点困难，所以在期待一套新 tag :P
+20:40 < felixonmars> 如果暂时没有 tag 打算的话，我可以考虑上一片 git master :3
+20:42 < hualet_> 推更新略奢侈。。。
+20:42 < hualet_> felixonmars: 出去一下，马上回来～
+20:42 < felixonmars> hualet_: 好的
+20:47 < sbw> felixonmars: 你那里还会没有头像吗？
+20:47 < felixonmars> sbw: 是的
+20:47 < felixonmars> 目前是最新的 tag
+20:48 < sbw> cat /var/lib/AccountsService/users/用户名  然后应该会有Icon=xxx  xxx就是头像的图片
+20:48 < felixonmars> 点进 User Accounts 的页面后是有图片的
+20:48 < felixonmars> 只是在控制中心首页顶部没有
+20:48 < sbw> 嗯，那两个地方获取的方式不一样
+20:49 < felixonmars> sbw: 我看了一下，那个文件里的 Icon 有内容，所对应的图片也能正常用图片查看器显示
+20:51 < sbw> 嗯，我们这边调试的结果貌似是环境变量在影响
+20:52 < sbw> 我们这边 kill 掉控制中心之后，使用dde-control-center -s 命名启动就有头像
+20:52 < felixonmars> sbw: 试了一下，我这里这样还是没有……
+20:53 < sbw> ╮(╯_╰)╭ 那就是神奇的bug了
+20:55 < felixonmars> :/
+20:55 < felixonmars> /var/lib/AccountsService/icons/felix: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 500x500, frames 3
+20:58 < felixonmars> hualet_: 只打 tag 标记一个可用的版本可以吗 >.<
+20:58  * felixonmars 啊咧，马上跑了（
+20:58 < sbw> 掉线了吧23333
+20:59 < felixonmars> :P
+21:09 < felixonmars> hualet: 只打 tag 标记一个可用的版本可以吗 >.<
+21:10 < hualet> 我本来是有这个打算
+21:10 < felixonmars> 因为似乎接口一直有变化，我怕正好选到不科学的 commit 了&
+21:10 < hualet> 是啊，跟我不打新tag是一样的
+21:11 < felixonmars> tag 的话，大概可以标记一个能用的组合 :P
+21:11 < hualet> 桌面 launcher 控制中新 dock有些修复可能依赖后端的一些更新，如果我给他们中的某一个打了新tag，就怕万一出事儿了。。。
+21:12 < felixonmars> 唔……
+21:12 < hualet> felixonmars: 如果是全都打新tag 那跟发一个新版本差不多了，
+21:12 < hualet> 就差个ISO
+21:12 < felixonmars> 如果给 dde-dock dde-desktop dde-control-center dde-daemon dde-api dde-launcher dde-…… 都打……
+21:12 < felixonmars> 嗯……
+21:13 < hualet> 所以，我觉得还是尽早发beta靠谱点儿 XD
+21:14 < felixonmars> 有个大概的计划时间吗？
+21:16 < hualet> 下下周
+21:18 < felixonmars> 好的～
+21:22 < brainy> hi hualet nice to see you xD
+21:26 < hualet> brainy: nice to see you too :D
+21:31 < hualet> brainy: have you tried the Alpha2 ?
+21:32 < felixonmars> hualet: btw, are packages in alpha2 at latest tag? or having more commits? :/
+21:34 < brainy> hualet: I havent tried it yet , bro
+21:34 < hualet> felixonmars: build on the latest tags
+21:35 < hualet> brainy: there's one user from Germany that wrote a post about Alpha2, I thought it was you
+21:36 < felixonmars> hualet: ok
+21:39 < brainy> hualet: You see, Deepin is popular in Germany too xD
+21:41 < hualet> brainy: haha, German do like beautiful things, right? no doudt that KDE is so popular in Germany XD
+21:42 < brainy> xD
