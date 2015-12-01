@@ -1,0 +1,78 @@
+08:33 < SeriouslyLaugh> i noticed some broken English during the installation process of deepin. where would be the proper location to submit corrections?
+08:57 < deepin-bot> [snyh]:  @SerioslyLaugh  deepin use transifex.com do I18n&L12n   https://www.transifex.com/linuxdeepin/
+11:48 < hualet> SeriouslyLaugh: Hi, have you seen the reply by snyh? you can contribute translations at https://www.transifex.com/linuxdeepin/ :D
+11:49 < SeriouslyLaugh> i saw, thank you hualet -- i'll check it out!
+11:49 < hualet> SeriouslyLaugh: OK
+20:50 < deepin-bot> [Choldrim]: hi, Tom1:
+20:53 < Tom1> hi, Choldrim: long time no see ;)
+22:30 < brainy> hi hualet
+22:31 < hualet> hey brainy
+22:32 < brainy> hualet: the other day I used gparted to change the sizes of 2 partition, I made one bigger and one smaller
+22:32 < brainy> After the operation the big partition became unreadable and all the data was lost :(
+22:32 < brainy> So it is very risky to resize partitions.
+22:32 < hualet> brainy: sorry to hear that
+22:33 < brainy> hualet: haha thanks no problem, just wanted to share a story
+22:33 < hualet> brainy: yeah, I never have the gut to do that
+22:33 < brainy> yeah xD
+22:33 < hualet> brainy: have you tried to restore the data?
+22:34 < brainy> hualet: No, but luckily it wasn't very important data, just a lot of multimedia files but not so important
+22:34 < brainy> hualet: Do you think some partition programs are better than others?
+22:36 < hualet> brainy: nope, I am very careful person, so I don't always do dangerous stuffs XD
+22:36 < hualet> especially partioning disks
+22:37 < hualet> :D
+22:37 < brainy> hualet: I agree with you :-)
+22:38 < felixonmars> always backup before you do that :P
+22:38 < brainy> Right felixonmars
+22:39 < hualet> hmmm...that sounds a big time consumption :P
+22:40 < felixonmars> hualet: always do incremental backup then, :P
+22:41 < felixonmars> i keep a full disk backup of my current system partition, and run rsync every other day.
+22:41 < brainy> felixonmars: I remember you mentioning this. Which program do you use for the full backup?
+22:42 < felixonmars> rsync :)
+22:42 < hualet> you must have suffered that a lot, right ?
+22:42 < brainy> felixonmars: ah ok
+22:42 < felixonmars> hualet: nah, i just want to be safe...
+22:42 < felixonmars> you know, you need something like a backup to feel safe if you are on Arch :P
+22:43 < brainy> haha
+22:43 < felixonmars> i can always boot to my very same (working) system from my backup in 2min
+22:43 < hualet> haha
+22:44 < hualet> felixonmars: why do you like Arch ?
+22:44 < felixonmars> hualet: it's simple in packaging
+22:45 < felixonmars> i don't want any unmanaged files in /usr, and it's easier to achieve this on Arch
+22:46 < hualet> felixonmars: really ? a friend of mine showed me packaging on Gentoo once, he insists that Gentoo is the most packaging friendly distro ;)
+22:46 < felixonmars> hualet: well, yes if you care more :3
+22:46 < hualet> felixonmars: I don't know much about packaging, sadly haha
+22:47 < felixonmars> i mean, gentoo is great if you want to keep everything in control, and that has to involve some complexity
+22:48 < hualet> right
+22:49 < felixonmars> and for arch, some degree of freedom was sacrificed to make things even simpler :P
+22:49 < hualet> felixonmars: there's one thing I want to ask, do you know much about taking care of StarupNotify ?
+22:50 < hualet> felixonmars: maybe you can share your experience to us someday
+22:51 < felixonmars> sure :P
+22:51 < felixonmars> i shared some of this to Aron when i was at beijing
+22:51 < hualet> who is Aron ?
+22:52 < felixonmars> hualet: i know StartupNotify, but not much. what's wrong?
+22:52 < felixonmars> hualet: Aron Xu, debian developer
+22:53 < hualet> felixonmars: Xu liang, formor Deepin employee, right?
+22:53 < felixonmars> yes
+22:54 < hualet> felixonmars: our DE doesn't take care of StartupNotify very well, so I want some advices
+22:55 < felixonmars> i see. i don't think the ecosystem of StartupNotify works much as intended, though
+22:55 < felixonmars> since i don't really remember it work nicely in KDE and/or GNOME, either
+22:56 < hualet> at lease KDE bounce the app icons while the application is starting
+22:56 < felixonmars> yeah, and i always see it bouncing forever for certain applications
+22:56 < hualet> :D
+22:56 < felixonmars> (reproducible for quite some applications)
+22:57 < hualet> that's embarassing :D
+22:58 < hualet> what I want is showing the waiting cursor while some program is starting
+22:58 < felixonmars> i see
+22:58 < felixonmars> then i can feel like KDE in Deepin, great :P
+22:58 < hualet> but I don't even know who is responsible for that
+23:00 < felixonmars> iirc it's a freedesktop spec
+23:00 < hualet> what ?
+23:01 < felixonmars> i mean something like this http://standards.freedesktop.org/startup-notification-spec/startup-notification-latest.txt
+23:01 < felixonmars> really old :/
+23:03 < hualet> yeah, I think I read it before
+23:04 < felixonmars> and i hardly know more than that :P
+23:05 < hualet> felixonmars: thanks, though :D
+23:05 < brainy> I hate the KDE bounce xD
+23:05 < brainy> *boing boing*
+23:05 < felixonmars> me too :P
+23:09 < hualet> felixonmars brainy, gotta go, good night :D
