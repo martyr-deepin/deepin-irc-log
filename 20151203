@@ -1,0 +1,37 @@
+00:48 < deepin-bot> [snyh]:  MichaeIP  Just send it to dock.    Drag the desktop file to dock panel (seems not workable now?)
+00:48 < deepin-bot> [snyh]:  @MichaeIP  or send to dock from launcher's  context menu.
+00:48 < Arthur2e5> Shoot.. Part with my own bot on DO in NYC.
+14:24 < felixonmars> 把当前的 git master 刷到 [community-testing] 了，这个版本好多啦～ http://i.imgur.com/FO5FwlV.png
+14:27 < sbw> felixonmars: ˊ_>ˋ
+14:28 < felixonmars> sbw: :3
+14:37 < x-iyzsong> olz
+14:41 < felixonmars> <(=﹁"﹁=)> 真的，好几个严重困扰的 bug 都没了
+14:43 < felixonmars> 比如黑底+重复的托盘图标呀，file-manager-backend 刷 log 呀，用 synapse 运行的 sublime 没图标呀（
+14:44 < felixonmars> 赞开发者（
+17:52 < charles130__> 请问，我在桌面，鼠标右键的“在终端中打开”点击无反应，怎么进行配置？
+18:22 < deepin-bot> [sbw]:  桌面上没有在终端打开吧
+23:50 < brainy> hi arunpyasi
+23:53 < arunpyasi> Hi brainy
+23:53 < arunpyasi> I was missing you few minutes ago !! man :D
+23:53 < arunpyasi> How are you my brother?
+23:54 < brainy> arunpyasi my bro, I am very fine and I hope you too?
+23:54 < brainy> I spoke to hualet yesterday, it was nice to see him again
+23:56 < arunpyasi> :D
+23:56 < arunpyasi> brainy: I am also fine bro :D
+23:56 < arunpyasi> how are you doing these days ?
+23:56 < arunpyasi> is your school running ?
+23:56 < felixonmars> he's here everyday, actually, but not always online so late as it is now...
+23:57 < brainy> arunpyasi: Everything is ok thanks bro, it is getting a little colder
+23:57 < brainy> How is the weather in your area?
+23:57 < brainy> You have snow?
+23:57 < felixonmars> i feel bad for him if he's still working over time on 23:57...
+23:58 < arunpyasi> brainy: bro, We don't have snow in my city but its cold bro  cause is winter.
+23:58 < arunpyasi> felixonmars: thanks for the info !
+23:58 < felixonmars> :P
+23:58 < arunpyasi> felixonmars: How is the development of our next release going on ?
+23:58 < felixonmars> arunpyasi: it's going really well, i even can't wait for the next version and bumped the arch packages to git master :P
+23:59 < arunpyasi> :D
+23:59 < arunpyasi> felixonmars: when is the release date !!!
+23:59 < arunpyasi> I wanna install it As soon as its out :
+23:59 < arunpyasi> :D
+23:59 < felixonmars> 2015 beta is scheduled at the week after next week
