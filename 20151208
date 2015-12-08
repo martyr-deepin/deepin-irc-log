@@ -1,0 +1,27 @@
+09:33 < zhuli> irc是干什么用的？
+09:43 < zhuli> any developers in this channel?
+09:47 < deepin-bot> [Choldrim]: not all, just a part of them
+09:47 < deepin-bot> [Choldrim]: yeah, some is here
+09:52 < zhuli> and there is a bot
+09:52 < zhuli> a real bot?
+10:00 < sbw> nope
+10:23 < zhuli> k
+10:24 < zhuli> there are not many people here
+10:28 < zhuli> 谁知道qt中不能使用搜狗输入法是怎么回事
+10:32 < deepin-bot> [sbw]: 装  fcitx-qt5
+10:34 < zhuli> 哦
+10:34 < zhuli> 谢谢
+10:34 < zhuli> deepin廷皓的
+10:34 < zhuli> 挺好的
+10:35 < deepin-bot> [sbw]: 谢谢支持 ˊ_>ˋ
+10:36 < zhuli> 恩，感觉qt很垃圾啊，中文输入都不支持。
+10:37 < deepin-bot> [sbw]:  输入法都是这样，需要安装模块才行
+10:39 < zhuli> 哦
+10:39 < zhuli> 不太懂啊。。。熟悉一下
+10:39 < zhuli> 哈哈
+10:39 < zhuli> 呵呵
+10:57 < zhuli> 为什么没有人用javascriptb + qml呢，感觉挺好的
+11:07 < zhuli> 我看到qt quick官方好像说，以后的模式是qml + javascript
+11:45 < zhuli> qq很完美啊，和windows下一样
+12:49 < deepin-bot> [manateelazycat]:  javascript + qml 太慢了
+13:14 < felixonmars> :/
