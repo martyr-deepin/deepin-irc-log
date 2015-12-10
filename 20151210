@@ -1,0 +1,39 @@
+08:45 < metak> hey felixonmars
+09:03 < felixonmars> metak: hi
+09:05 < metak> Have you already finished importing dde into (community)? Seems all is in there...
+09:40 < deepin-bot> [fasheng]:  metak: hi
+09:41 < metak> hi
+21:02 < felixonmars> sbw: ww
+21:02 < felixonmars> 我用着 beta 的 tag 了，但是控制中心首页头像的那个问题还在……http://i.imgur.com/HMnSuhA.png
+21:05 < sbw> 嗯，这个貌似是因为/usr/lib/AccountService/icons 下面缺少 default.png
+21:09 < felixonmars> sbw: 哦……
+21:09 < felixonmars> （为啥不能显示我自己的头像呢……）
+21:09 < felixonmars> （<(=﹁"﹁=)> 我的理解是，会显示默认图？）
+21:13 < sbw> 对，那个其实是fallback的图，如果你设置了头像的而没有显示的话应该还是之前的问题
+21:18 < deepin-bot> [manateelazycat]:  sbw: 我知道你是谁啦 。 ;)
+21:21 < sbw> manateelazycat:  ˊ_>ˋ
+21:32 < felixonmars> <(=﹁"﹁=)> sbw 被吓跑拉
+21:33 < felixonmars> 王总快来讲讲，mrkeyboard 是什么黑科技
+22:01 < deepin-bot> [manateelazycat]:  felixonmars: 你可以把他想象成超级 emacs, 但是实际上是一个黑科技窗口管理器， 把所有程序按照 emacs 窗口管理的方式集成在一起
+22:02 < felixonmars> 点个赞
+22:02 < deepin-bot> [manateelazycat]:  mrkeyboard 是我8年前 haskell manatee 的升级版 https://www.youtube.com/watch?v=weS6zys3U8k
+22:04 < deepin-bot> [manateelazycat]:  原来 manatee 不能处理 webkit/vte 这种程序的MVC模式， mrkeyboard 现在已经支持 webkit/vte 的任意 clone ， 然后 .... 所有程序都可以安装 emacs 的 MVC 方式集成在一起工作， 如他名字而言， 使用任何程序都不用鼠标， 包括浏览器和图片管理器
+22:04 < deepin-bot> [manateelazycat]:  felixonmars: 现在的工作： http://photo.weibo.com/2876258834/talbum/detail/photo_id/3908117440053681
+22:05 < deepin-bot> [manateelazycat]:  因为 Deepin 15 的窗口管理器有bug, mrkeyboard 的 clone 功能不能使用， 2014.3 可以直接启动玩一下
+22:07 < felixonmars> 各种赞～
+22:08 < deepin-bot> [manateelazycat]:  felixonmars: 有空一起开发吧， 自己一个人开发好寂寞。 ;)
+22:08 < felixonmars> :P
+22:09 < deepin-bot> [manateelazycat]:  felixonmars: 核心协议是用 vala 写的， 因为是多进程框架， 所以可以用任何喜欢的语言编写 mrkeyboard os 的应用
+22:09 < felixonmars> 嗯
+22:10 < deepin-bot> [manateelazycat]:  felixonmars: Deepin 15 beta 以后， 可以用 Win + Tab 切换窗口管理器啦
+22:11 < felixonmars> 嗯，这个我已经发现了，可惜 metacity 在我这里崩太厉害了……
+22:11 < felixonmars> 这个问题：https://github.com/fasheng/arch-deepin/issues/166
+22:12 < deepin-bot> [manateelazycat]:  felixonmars: deepin-wm 有两个bug, 一个是会覆盖我的 reparent-window 绘制， 第二个是 clone clutter window 会失败， deepin-metacity 只是 clone clutter window 会失败， 我最近比较郁闷， 不能敲代码
+22:13 < felixonmars> 哈哈……
+22:15 < deepin-bot> [manateelazycat]:  felixonmars: fasheng 现在都不理我啦， sonald 也不帮我修窗口管理器的bug, 两位大神都不理我 . :(
+22:16 < felixonmars> 来和我一起在 arch-deepin 发 issue 吧 xD
+22:19 < deepin-bot> [manateelazycat]:  felixonmars: 天天都在测试 deepin 系统的各种bug: 15从基本功能开始已经修复了 1000 多处bug了
+22:20 < deepin-bot> [manateelazycat]:  felixonmars: 应该很多都会命中 arch-deepin 的。 ;)
+22:25 < felixonmars> 点赞 :D
+22:29 < brainy> hi arunpyasi
+23:01 < brainy> hi Arthur2e5
