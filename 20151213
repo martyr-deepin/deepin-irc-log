@@ -1,0 +1,186 @@
+00:45 < brainy> arunpyasi: nice bro xD
+00:57 < arunpyasi> yeah brainy bro :D
+00:57 < arunpyasi> brainy: but I am getting very less time to work and study programming due to that :P
+01:03 < brainy> arunpyasi: yeah man, thats normal, but you will find some time I hope :)
+01:19 < arunpyasi> brainy: yeah :D
+01:20 < arunpyasi> I hope so :D how are you doing bro ?
+01:21 < brainy> arunpyasi: I'm good bro thanks
+01:21 < arunpyasi> brainy: :LD
+01:21 < arunpyasi> brainy: is your school running ?
+01:22 < brainy> arunpyasi: I don't own the school xD
+01:23 < arunpyasi> brainy: hehe, I mean you teach there naa ? its your school :D
+01:23 < arunpyasi> brainy: if I study in a college, its my school :D
+01:23 < arunpyasi> sorry *college
+01:26 < brainy> xD
+16:19 < acid_> guys does deepin screenshot supports upload?
+17:27 < KHZ13> Hi
+17:28 < KHZ13> I have probleme running Deepin Music player on Ubuntu Freye
+18:24 < ArchStacker> 怎么用dolphin当做默认的文件管理器呢？
+22:35 < brainy> hi hualet man
+22:36 < hualet> brainy: hi brainy :D
+22:36 < hualet> how are you doing ?
+22:38 < brainy> hualet: fine man thanks
+22:38 < brainy> hualet: have you finished reading your book? :D
+22:42 < hualet> brainy: nope, not in the mood ;)
+22:43 < brainy> ok hualet :)
+22:43 < hualet> I work for the most time, when I get some time, I want to relax instead ...
+22:43 < brainy> sure man, that's normal
+22:44 < brainy> Look at s991533 , he is relaxing all the time here *lol*
+22:44 < brainy> He is so relaxed, he can't speak.
+22:44 < hualet> lol
+22:45 < hualet> it's quit a long time not talking to s991533
+22:45 < brainy> hualet: Yeah :-(
+22:46 < hualet> brainy:  any interesting news in Germany ?
+22:47 < arunpyasi> Hi all !!
+22:47 < arunpyasi> brainy: hualet
+22:47 < arunpyasi> how !!
+22:47 < arunpyasi> hi!!
+22:47 < brainy> hualet: Hmmm only that we have a lot of refugees here at the moment
+22:47 < brainy> Don't know if you heard about it
+22:48 < brainy> hi arunpyasi bro!
+22:48 < arunpyasi> man, I bought a new spectacles :D
+22:48 < arunpyasi> brainy: how are you bro ?
+22:48 < brainy> You got new glasses arunpyasi ?
+22:49 < arunpyasi> yes bro
+22:49 < arunpyasi> cause my eye got problem so :D
+22:49 < brainy> Congrats man :D
+22:49 < arunpyasi> brainy: haha, thanks.
+22:49 < brainy> Now you can walk in the streets again without falling into holes :D
+22:49 < arunpyasi> brainy: the doctor sugggest me to put -0.25D glasses
+22:50 < arunpyasi> brainy: hahaha
+22:50 < arunpyasi> yeah lol
+22:50 < brainy> lol
+22:50 < arunpyasi> but I am not getting how to clean this glass
+22:50 < arunpyasi> I see everything cloudy !!
+22:51 < brainy> Just clean with water first, then use a tissue or similar
+22:58 < hualet> arunpyasi: hi :D
+22:59 < hualet> I went to watch a movie called Point Break, have you guys seen it ?
+23:01 < felixonmars> i wanted to watch a movie this morning, and unfortunately deepin-movie crashed...
+23:01 < arunpyasi> brainy: ok brother
+23:02 < arunpyasi> hualet: hi bro
+23:02 < arunpyasi> hualet: how r u doing ?
+23:02 < arunpyasi> hualet: I haven't watched it man !
+23:02 < hualet> pathetic :(
+23:02 < arunpyasi> how was it ?
+23:02 < arunpyasi> felixonmars: hehe lol.
+23:02 < hualet> felixonmars: have you debugged it ?
+23:02 < arunpyasi> hualet: why bro, any problem ? is it due to deepin or something else ?
+23:02 < felixonmars> hualet: still down to qtav, but qtav itself doesn't crash :/
+23:03 < hualet> what ? that's insane
+23:03 < hualet> qtav is in the same process
+23:03 < hualet> oh I see
+23:04 < hualet> you mean the qml part didn't work well with QtAV, right ?
+23:05 < felixonmars> "[ShaderManager] cache a new shader material type(12): gl material 8bit channel: 0, planar: 0, has alpha: 1, 2d texture: 1"
+23:05 < felixonmars> vdpau_video: VdpPresentationQueueTargetCreateX115): status 25: A catch-all error, used when no other error code applies.
+23:05 < felixonmars> The program 'python2' received an X Window System error.
+23:05 < felixonmars> something like this
+23:06 < hualet> ah, it seems like the use of vdpau caused the crash
+23:07 < felixonmars> yep
+23:07 < hualet> felixonmars: which version are you using on Arch ?
+23:07 < felixonmars> qtav 1.8.0.20151027-2
+23:07 < felixonmars> deepin-movie 2.3.0.20151102-1
+23:07 < felixonmars> A test video: https://paste.xinu.at/MR8Bir/
+23:08 < felixonmars> QMLPlayer could play it just fine, while deepin-movie crashes
+23:08 < hualet> that's strange
+23:08 < felixonmars> and QMLPlayer is set to use VAAPI: http://i.imgur.com/Y8J9MDR.png
+23:10 < hualet> wait, I remember that I didn't put VDPAU in the codecPriority list
+23:10 < felixonmars> Full logs: https://paste.xinu.at/9A2TDr/
+23:11 < hualet> which means it'll never use vdpau to decode the stream
+23:11 < felixonmars> it's vaapi
+23:11 < felixonmars> and libva calls vdpau
+23:12 < hualet> ok...that makes sence
+23:12 < felixonmars> it's still weird that QMLPlayer itself works just fine..
+23:12 < felixonmars> (with the same codec setting)
+23:13 < hualet> yeah
+23:13 < hualet> I'm not on deepin right now, I'll debug it tomorrow
+23:14 < felixonmars> sure
+23:14 < felixonmars> just wait a moment, i'll extract logs from QMLPlayer for comparison
+23:14 < hualet> the development of deepin-movie cease the right after the deepin 15 project was started, but not QtAV ...
+23:14 < hualet> ok
+23:15 < felixonmars> https://paste.xinu.at/hOP2y/
+23:15 < felixonmars> it's literally the same, except that it didn't receive an X error...
+23:16 < felixonmars> the 'Debug: sync config to  "/home/felix/.local/share/QMLPlayer/QMLPlayer.ini"' line appears when i close the window manually
+23:17 < hualet> I used X11 functions in the development of deepin-movie, but QMLPlayer didn't
+23:17 < felixonmars> i see :3 then it's fun for tomorrow :P
+23:18 < hualet> :(
+23:19 < hualet> how to put it in English "给自己擦擦屁股" ? ;) felixonmars
+23:19 < felixonmars> clean up your own mess, or something similar?
+23:21 < hualet> maybe "save my ass", hah
+23:22 < felixonmars> (disclaimer: i didn't own copyright for that video, so be careful to download that if you are in a country caring this seriously)
+23:23 < hualet> I think that disclaimer is just useless in China, mainland perhaps
+23:23 < felixonmars> (sweet for our EU & US friends xD)
+23:23  * arunpyasi is thinking to start coding :P
+23:26 < arunpyasi> hualet: bro, have you guys ever compiled ffmpeg-php ?
+23:26 < brainy> (see you later)
+23:26 < hualet> arunpyasi: I didn't even know it before :D
+23:27 < hualet> any problems ?
+23:28 < hualet> arunpyasi: you can refer to felixonmars for some help, he may know ;)
+23:29  * felixonmars is a sad pony that he's building qt5 again
+23:29 < arunpyasi> hualet: yes bro, that shit is outdated and giving me problem to compile.. :P
+23:29 < felixonmars> and chromium is still so messy with system-ffmpeg
+23:29 < arunpyasi> felixonmars: you working on deepin-movie now bro ?
+23:29 < arunpyasi> aahhh :P
+23:29 < felixonmars> arunpyasi: nah, i worked on it before :P
+23:30 < arunpyasi> felixonmars: bro, can you help me compile this shit out of the box ?
+23:30 < arunpyasi> :P
+23:30 < arunpyasi> needed for clipbucket
+23:30 < felixonmars> for now i just confirm it still plays my ponies after a new package
+23:30 < felixonmars> arunpyasi: so what's the problem currently?
+23:31 < arunpyasi> configure: error: ffmpeg headers not found. Make sure ffmpeg is compiled as shared libraries using the --enable-shared option
+23:31 < arunpyasi>  
+23:31 < arunpyasi> while trying to compile bro
+23:32 < arunpyasi> that error is from ./configure
+23:32 < felixonmars> you have install ffmpeg headers?
+23:32 < felixonmars> should be something like libavcodec-dev
+23:32 < arunpyasi> felixonmars: yeah, I have installed ffmpeg and  ffmpeg-devel if its its header
+23:32 < felixonmars> hrm, then you can check config.log for what exactly has failed
+23:33 < felixonmars> and i am now building pandoc at the same time :/
+23:35 < hualet> felixonmars: do you have certain packages to maintain or you should help each other ?
+23:36 < felixonmars> hualet: i have 3k+ packages to maintain, and still helping others :P
+23:36 < hualet> felixonmars: that's tons of work...
+23:36 < felixonmars> the main package groups i maintain: Python, Perl, Haskell, Nodejs, KDE/Qt, Deepin, Chinese/Japanese l10n
+23:36 < arunpyasi> wow !!!
+23:36 < arunpyasi> amazing man !!!
+23:36 < felixonmars> and many others that don't fit in
+23:36 < hualet> that's incredible
+23:37 < arunpyasi> you have skill on all those !!
+23:37 < arunpyasi> simply, a genius !!!
+23:37 < felixonmars> nah, i only know some of perl/haskell/nodejs/c++/go, and do only the packaging part mostly. i am only more experienced at python and always help upstream fix things
+23:38 < hualet> felixonmars: I think I should meet you ASAP :D
+23:38 < arunpyasi> hualet: yeah me too :D
+23:38 < arunpyasi> felixonmars: bro, you live in China ?
+23:38 < felixonmars> arunpyasi: sure, and same city as hualet
+23:38 < arunpyasi> felixonmars: wow cool !
+23:39 < arunpyasi> felixonmars: what you do for living bro ?
+23:39 < felixonmars> writing python :3
+23:39 < arunpyasi> felixonmars: cool :D you sell python apps !!
+23:39 < felixonmars> also sysadmin/devops part
+23:39 < felixonmars> nah, we are selling properties :P
+23:40 < hualet> felixonmars: you should give me some instructions on systemd, LXC/docker, and package maintaining :D
+23:40 < felixonmars> i mean real estate :3
+23:40 < felixonmars> hualet: sure, i think i know them enough to use then in production environment already :3
+23:40 < felixonmars> *use them
+23:41 < hualet> definitely
+23:41  * felixonmars is trying to use systemd-nspawn to replace docker in some context x.x
+23:42 < arunpyasi> wow :D
+23:42 < felixonmars> btw, we (arch) are always trying to enforce btrfs for official packaging
+23:42 < hualet> felixonmars: why's that ?
+23:43 < felixonmars> it's so much faster than rsyncing to create a clean chroot
+23:43 < hualet> felixonmars: you mean use snapshots ?
+23:43 < felixonmars> yay
+23:45 < felixonmars> meh ns.zdnet.com.cn/ns1.zdnet.com.cn became NXDOMAIN and solidot.org failed to resolve
+23:46 < felixonmars> what happened to them :/
+23:47 < hualet> solidot.org is a copy of slashdot.com ?
+23:48 < hualet> I didn't hear it before
+23:48 < felixonmars> somewhat yes, a chinese copy
+23:49 < hualet> ok
+23:49 < felixonmars> https://bugs.archlinux.org/task/47358 would you consider to add a make option for this?
+23:51 < felixonmars> (also i want comments about whether it actually works...)
+23:51 < hualet> but I think it's not possible
+23:52 < hualet> both deepin-notification and notify-osd are implementations of Gnome Desktop Notifications spec,
+23:52 < hualet> so they provide the same dbus service...
+23:56 < felixonmars> why did renaming sddm's service file work then :/
+23:57 < felixonmars> (and that's org.freedesktop.DisplayManager.conf)
+23:58 < hualet> felixonmars: maybe there are some tricks I didn't notice before
+23:59 < hualet> I remember that the package that provides notification service for xfce4 can live with deepin-notifications
+23:59 < felixonmars> yes
