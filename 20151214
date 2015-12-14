@@ -1,0 +1,79 @@
+00:00 < hualet> well... I'll try to figure it out
+00:00 < felixonmars> thanks :)
+00:01 < hualet> felixonmars: why don't you just ask lazycat to create a project on tower for you and fasheng to track porting issues
+00:02 < hualet> we are so rely on Tower to "remember" things ;)
+00:02 < felixonmars> i think github is more friendly to users, and currently fasheng should be handling the sync job :3
+00:03  * felixonmars sometimes what commits and close issues, too
+00:03 < felixonmars> *watch
+00:03 < hualet> ok
+00:04 < hualet> gotta go to sleep, good night, felixonmars :D
+00:04 < felixonmars> hualet: also there are really few issues that are related to porting only
+00:04 < felixonmars> i think fasheng gave up on marking issues as "upstream" when he realized they are mostly so :P
+00:05 < felixonmars> hualet: good night :P
+00:06 < hualet> XD
+00:28 < arunpyasi> all slept !!
+02:57 < deepin-bot> [manateelazycat]:  felixonmars: I have fixed clutter clone issue, you can play mrkeyboard under deepin-metacity, deepin-wm has a bug that mrkeyboard can't work.
+02:57 < deepin-bot> [manateelazycat]:  felixonmars: Read README.md to install mrkeyboard, happy hacking! ;)
+06:15 < CountryfiedLinux> howdy
+06:15 < CountryfiedLinux> Has the repository been fixed yet?
+06:15 < CountryfiedLinux> I used Deepin for a short period of time but switched back to Arch after the repos got really slow.
+07:20 < vodkode> you can switch repos now
+07:20 < vodkode> its been a while since they were static
+07:21 < CountryfiedLinux> ok cool thanks vodkode
+09:07 < felixonmars> manateelazycat: great, i'll try :P
+12:28 < hualet_deepin> hi, felixonmars
+12:29 < hualet_deepin> I've found that the dbus service activation has nothing to do with the service file name, so I've changed the service file name provided by deepin-notifications.
+12:31 < hualet_deepin> you should have been informed by gerrit that I also add you as a reviewer.
+13:33 < felixonmars> hualet_deepin: great, thanks :)
+13:35 < hualet_deepin> felixonmars: plz check the my comment there
+13:43 < felixonmars> +1
+13:44 < felixonmars> hualet_deepin: i mean, a config option to rename would be better :3
+13:44 < felixonmars> or i could do it myself...
+13:45 < felixonmars> currently we have to live with the situation to support co-installation
+13:49 < hualet_deepin> felixonmars: and why's that if I may ask :)
+13:50 < felixonmars> we made it upstream for sddm before :Phttps://github.com/sddm/sddm/wiki/0.12.0-Release-Announcement
+13:56 < hualet_deepin> felixonmars: I mean why should you make sure that deepin-notifications can co-exist with notify-osd ?
+13:58 < felixonmars> hualet_deepin: that's a downstream way of approach this problem currently. i am trying to convince others to reconsider this, but it needs some time
+14:00 < felixonmars> hualet_deepin: hrm, i find something interesting: https://developer.gnome.org/notification-spec/
+14:03 < felixonmars> ideally we want to make DEs co-installable as possible, and want to stop deepin-notification being affecting other DEs
+14:04 < hualet_deepin> felixonmars: ah, I finally get your point.
+14:05 < felixonmars> lemme guess - if something like dde-session-daemon could register itself on org.freedesktop.Notification if possible, and call deepin-notification, maybe the service file is no longer needed?
+14:12 < felixonmars> or maybe a daemon like lxqt-notificationd...
+14:25 < felixonmars> (just asked someone using plasma 5, the service is owned by plasmashell itself there.)
+14:32 < hualet_deepin> felixonmars: sorry for not answering, I know what do you mean.
+14:33 < felixonmars> hualet_deepin: np :P
+14:33 < hualet_deepin> the name changing is not a big deal, I just want to follow the standard :D
+14:33 < felixonmars> i know, and i want to avoid that file altogether :P
+14:34 < hualet_deepin> I understand
+14:37 < hualet_deepin> I've +1, let's see how snyh react :P
+14:39 < felixonmars> :P
+16:44 < felixonmars> fasheng: hi, where was go-gir-generator used?
+16:53 < fasheng> go-gir-generator was used to generate go-dlib/{glib,gio,gobject}. The upstream is changing it now to fix the architecture issue(x86_64, i686, etc). And arch-deepin should follow the changes, too.
+16:53 < felixonmars> ok
+16:54 < fasheng> I will sync the code to github later...
+16:54 < felixonmars> thanks :)
+17:03 < fasheng> felixonmars: Here it is https://github.com/linuxdeepin/go-gir-generator. Usage: `make; cd lib.in; make`, then use the generated code instead of the old go-dlib/{glib,gio,gobject}. Looks it's ready for arch-deepin now, you could have a try :P
+17:11 < felixonmars> fasheng: should i remove the corresponding folders in go-dlib, and copy the new code there?
+17:11 < felixonmars> fasheng: would go-lib be updated to remove the folders?
+17:14 < deepin-bot> [snyh]:  felixonmars:  wait a moment .  gir-generator is still adjusting.
+17:14 < fasheng> felixonmars: yes, we will. but the guys plan to use symlinks to make the changes works smoothly. so maybe we still need do some hacks.
+17:14 < deepin-bot> [snyh]:   It should be ok in two days
+17:15 < fasheng> felixonmars: OK, let's wait for it ready~
+17:16 < deepin-bot> [snyh]:  it seems I need update the README for gir-geneartor
+17:18 < felixonmars> ok, thanks :3
+19:35 < brainy> hi fasheng
+19:35 < fasheng> hi, brainy-
+20:09 < deepin-bot> [Choldrim]: hi, fasheng 😁
+21:44 < felixonmars> fasheng: :/ gerrit returns 502 now
+21:45 < fasheng> oh, maybe someone reboot the server now~
+21:50 < felixonmars> and it's empty now x.x
+22:01 < deepin-bot> [Choldrim]: felixonmars: gerrit is under maintenance now, wait a monment
+22:02 < felixonmars> ok, not in a hurry :P
+22:02 < felixonmars> just in case you didn't know yet...
+23:00 < deepin-bot> [Choldrim]: felixonmars: gerrit is ok now, thinks for your reminding ;)
+23:01 < felixonmars> np, now i'm submitting another patch :P
+23:27 < felixonmars> choldrim: gerrit still doesn't work smoothly :P for example, when clicking deepin-icon-theme on this page: https://cr.deepin.io/#/admin/projects/?filter=icon
+23:27 < felixonmars> it returns two 500 Internal server error
+23:28 < felixonmars> fasheng: ^
+23:30 < fasheng> thanks, will check it later
+23:57 < fasheng> felixonmars: it works now…
