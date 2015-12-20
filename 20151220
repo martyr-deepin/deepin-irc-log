@@ -1,0 +1,37 @@
+08:24 < JhonM> Hi friends
+08:25 < JhonM>  I have a question
+14:00 < hualet> fasheng felixonmars, hi :D
+14:01 < hualet> and sbw :3
+15:24 < felixonmars> hualet: hi
+15:37 < felixonmars> fasheng: looks like github sync stopped again
+15:40 < fasheng> yes, it should be restored tomorrow..
+15:55 < hualet> fasheng: it seems that our journald only keeps single one boot record, how can it be fixed ? :D
+15:58 < hualet> change option Storage to persistent in the Journal section can solve the problem, but can we make it the default ?
+16:00 < hualet> I mean in the file /etc/systemd/journal.conf
+16:03 < fasheng> yes, we could hack it, and i'm not sure if journal.conf.d works, too
+16:12 < fasheng> another choice is just creat the directory /var/log/journal/, so the "auto" option will save log there :)
+16:20 < hualet> fasheng: haha...I see, it's sooooo easy :D
+22:15 < brainy> hi hualet xD
+22:20 < hualet> hi brainy :D
+22:23 < brainy> hualet: Now I'm watching again Jackie Chan - Police Story xD
+22:23 < brainy> Classic movie
+22:23 < brainy> the first one
+22:24 < hualet> haha, I love that movie too :D
+22:24 < brainy> xD
+22:25 < brainy> hualet: Do you understand Hong Kong dialect? (Sorry for my ignorance)
+22:25 < hualet> but now he is too old
+22:25 < brainy> yep
+22:26 < hualet> brainy: nope, a few my colleagues can speak Cantonese, I don't
+22:27 < brainy> hualet: Okay
+22:27 < hualet> brainy: are you watching the Cantonese version ? not translated one ?
+22:37 < brainy> hualet: No, it's the German version, but some parts are original Cantonese with German subtitles
+22:37 < brainy> very interesting for me :)
+22:39 < hualet> many Chinese females love that dialect, because many super stars are from HongKong :D
+22:41 < brainy> xDD
+22:42 < hualet> who is the actor you love the most ? brainy
+22:44 < brainy> hualet: hmm really hard to say, I don't have a favorite actor to be honest
+22:44 < brainy> hualet: Do you?
+22:46 < hualet> brainy: nope, I think many actors are good XD
+22:46 < brainy> Yeah xD
+22:47 < hualet> but speaking of KongFu movies, of course I love Jackie Chan the most
+22:49 < hualet> basically every friends of mine wanted to be like him when I was a kid :D
