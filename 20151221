@@ -1,0 +1,28 @@
+02:49 < deepin-bot> [snyh]:   Guys! I draft up the "hacking guide".  Although only Chinese version currently  and only write one chapter for "write commit message".  >  But it's the first time that we public develop information before we complete it.        >  We wish more great people can make more great deepin up.  >  Tomorrow developers in deepin corp will try executing the "write commit message" in draft.  And I will continue complete the draft. But this time I wish m
+02:50 < deepin-bot> [snyh]:  https://github.com/linuxdeepin/docs.deepin.io/wiki/Hacking-Guide-for-deepin
+08:45 < birdy_> hello, when will be the new version release?
+11:09 < felixonmars> fasheng: 弱弱地提醒一下，github sync... :P
+11:12 < fasheng> 很快… 很快就好…
+11:24 < deepin-bot> [Choldrim]: felixonmars: 中午的时候会打开
+11:28 < felixonmars> ok
+12:08 < felixonmars> fasheng: go-gir-generator 没有更新……？
+13:29 < deepin-bot> [snyh]:   go-gir-generator will build  one tools package plus many generated-code packages. >  The change hasn't in "unstable dist".
+13:29 < deepin-bot> [snyh]:  But we can write pkg now. >  https://github.com/linuxdeepin/pkg_debian/tree/debian/go-gir-generator/debian
+13:32 < deepin-bot> [snyh]:  We have split go-{glib,gobject,gio} out from go-lib. > There has three new packages produced from go-gir-generator,  golang-gir-gobject-2.0, golang-gir-gio-2.0, golang-gir-glib-2.0.   >  And it will be more producing more packages like, golang-gir-xxx by GIR with go-gir-generator tools
+13:33 < deepin-bot> [snyh]:  felixonmars: that's
+13:45 < felixonmars> snyh: yeah i know that, i have packaged gir-generator 0.9.0.20151217
+13:45 < felixonmars> but i didn't see the new tag fasheng mentioned
+13:47 < fasheng> well, the gerrit sync issue appeared again…
+17:38 < felixonmars> fasheng: any schedule for another fix..?
+18:08 < fasheng> felixonmars still debugging now
+18:08 < felixonmars> fasheng: i see, don't worry then :P
+19:19 < brainy> The new Deepin is gonna rock the Linux world.
+20:14 < deepin-bot> [manateelazycat]:  brainy: We have long way to run
+20:21 < fasheng> felixonmars finally, githuh sync works now
+20:22 < felixonmars> great :)
+20:22 < felixonmars> i was planning to offer some help since i run some sync already...
+20:27 < fasheng> thanks, we increase the max threads of geerit/replication from 3 to 5, and remove the warning projects from the sync list. looks works, but i really not sure if it will broken again
+20:29 < felixonmars> i see, i'll notice quite fast next time it broke, too :3
+20:29 < fasheng> yep, it will helps :)
+21:02 < felixonmars> the version number is going crazy: deepin-icon-theme is at 15.12.21 out of nowhere :3
+21:09 < deepin-bot> [manateelazycat]:  felixonmars: haha
