@@ -1,0 +1,118 @@
+10:51 < sou_> 这里竟然真有人？哈哈
+10:55 < deepin-bot> [sbw]: ˊ_>ˋ
+19:20 < brainy> hi all
+20:14 < brainy> hi hualet_deepin man :)
+20:24 < hualet_deepin> Hi brainy, deepin 15 is released this afternoon.
+20:28 < brainy> hualet_deepin, Congratulations! That is good news :-)=
+20:28 < brainy> I will try it out.
+20:29 < hualet_deepin> brainy: thx
+20:30 < brainy> hualet_deepin, The website is not responsive :-(
+20:32 < felixonmars> hualet_deepin: isn't it RC?
+20:38 < brainy> hi felixonmars , do you know if it's the final version?
+20:38 < brainy> or not yet?
+20:38 < felixonmars> not yet, if i understand correctly :P
+20:39 < brainy> ok thanks felixonmars
+20:40 < brainy> hi fasheng
+20:40 < felixonmars> fasheng: i updated some changelog for you :P
+20:42 < brainy> hi sbw, Deepin 15 will be released soon!
+20:43 < brainy> We are all happy.
+20:47 < fasheng> hi, brainy
+20:49 < fasheng> felixonmars yes, i saw them. we could notify each other in that topic :)
+20:56 < hualet_deepin> brainy: sorry, it's RC not the final version.
+20:56 < brainy> ok hualet_deepin thanks :)
+20:57 < hualet_deepin> and yes, the final release will be out soon
+20:57 < hualet_deepin> hopefully next week :D
+20:57 < brainy> it will be the best OS ever :-)
+21:01 < hualet_deepin> brainy: thanks man
+21:04 < felixonmars> :3
+21:09 < hualet_deepin> I did mentioned that felixonmars is an arch user/packager, didn't I ? :P
+21:10 < felixonmars> hualet_deepin: ah, where did you mention :P
+21:12 < hualet_deepin> before brainy said " deepin 15 will be the best OS ever", I think :D
+21:15 < deepin-bot> [anonymous]:  It seems that Hexchat is broken, can send message out
+21:15 < felixonmars> hualet_deepin: didn't see your mention :(
+21:17 < deepin-bot> [anonymous]:  felixonmars, can I invite you to our company after the final release of deepin 15 ?
+21:19 < felixonmars> to get more Arch users? good
+21:19  * felixonmars kidding
+21:19 < hualet_deepin> haha, funny
+21:21 < brainy> xD
+22:11 < felixonmars> hualet, fasheng: one thing to discuzz: is it possible to remove unused and/or old tags of the deepin-mutter repo?
+22:12 < felixonmars> because github api has some limits on tag api, and 286 tags is just too much...
+22:12 < hualet> what ? 286 tags !!!
+22:12 < felixonmars> this is the only repo that i cannot track automatically
+22:12 < brainy> welcome hualet
+22:13 < fasheng> i see, will clean up the upstream tags latter
+22:13 < felixonmars> thank you :)
+22:13 < hualet> hmmm...yo brainy :D
+22:14 < hualet> felixonmars: there's limits on the tag counts ?
+22:14 < felixonmars> this api can return 100 results per requesthttps://api.github.com/repos/linuxdeepin/deepin-mutter/tags?per_page=100
+22:15 < felixonmars> and the real tags are not on the first page...
+22:16 < hualet> so there's a limit on the per_page parameter, right ?
+22:16 < felixonmars> yes
+22:16 < hualet> I changed it to 300, no difference
+22:16 < hualet> :D
+22:17 < felixonmars> that's the limit i meant :P
+22:17 < hualet> alright, I get it
+22:17 < felixonmars> oh, i did missed another deepin-mutter update today x.x
+22:18 < hualet> felixonmars: relax, man :D
+22:19 < hualet> you don't care about deepin-metacity, right ?
+22:19 < hualet> sonald fixed tons of bugs related to deepin-metacity today
+22:20 < brainy> good job!
+22:20 < felixonmars> i have bumped it, but it still crashes here
+22:25 < felixonmars> FYI: https://github.com/fasheng/arch-deepin/issues/166
+22:25 < hualet> we mostly focused on deepin-mutter recently, so there's some lag on bug fixing of deepin-metacity
+22:25 < felixonmars> it's something related to nvidia driver though...
+22:26 < felixonmars> kwin hangs X with the same nvidia driver
+22:26 < felixonmars> but mutter just works magically fine
+22:27 < hualet> I didn't see any error message related to Nvidia driver XD
+22:28 < felixonmars> yeah, but no problem with open source drivers...
+22:30 < hualet> ah...driver !!!
+22:31 < hualet> drivers made me sick too much these days
+22:31 < brainy> I need the nvidia driver :-(
+22:31 < hualet> brainy: why ?
+22:31 < brainy> hualet, it's faster bro
+22:31 < brainy> better performance
+22:32 < hualet> perhaps, but it breaks too often
+22:33 < felixonmars> yay time to osu again.
+22:33 < brainy> I hope Deepin 15 will be fine with nvidia hualet :-(
+22:33 < felixonmars> before metacity crashes again...
+22:36 < hualet> felixonmars: what's osu ?
+22:37 < hualet> brainy: it will be fine, I think :D
+22:37 < felixonmars> hualet: https://github.com/fasheng/arch-deepin/issues/165
+22:38 < felixonmars> osu! is the game here: http://osu.ppy.sh/
+22:39 < brainy> hualet, Will you osu too? xD
+22:40 < hualet> nope, I don't even know what osu! is ! how old are you felixonmars if I may ask :/
+22:40 < felixonmars> i'm 24 :/
+22:42 < hualet> ah...the same age as mine
+22:43 < felixonmars> and you thought i'm 12? :3
+22:44 < hualet> that's pretty much what I was thinking since you mentioned you are playing the osu! game XD
+22:45 < felixonmars> xD
+22:48 < hualet> I'm curious about why there're so much ACG fans in this industry
+22:49 < felixonmars> well, they share some similar requirements
+22:49 < felixonmars> like open translation and write tools
+22:50 < hualet> can you speak Japanese ?
+22:50 < felixonmars> very limited
+22:51 < hualet> I knew it
+22:53 < felixonmars> and we arch devs even have a subtitle search engine for MLP https://ponytalk.foutrelis.com/
+22:57 < hualet> how to express that I'm astonished :D
+22:59 < brainy> I don't even know what you guys are talking about xD
+22:59 < fasheng> felixonmars ok, all the upstream tags were removed in github/deepin-mutter, you could have a try again ~
+22:59 < brainy> MLP, ACG, osu ...
+22:59 < hualet> brainy: I don't know either XD
+23:00 < brainy> hahaha
+23:00 < felixonmars> yay works now http://i.imgur.com/wREcsga.png
+23:00 < felixonmars> fasheng: thanks a lot!
+23:00 < fasheng> :P
+23:01 < hualet> felixonmars: your font looks ugly :P
+23:02 < felixonmars> that's terminus 9
+23:02 < felixonmars> i use it to display more text at once...
+23:03 < hualet> let me check what's terminus...
+23:03 < hualet> fasheng: how did you remove the tags ? manually ?
+23:03 < felixonmars> http://terminus-font.sourceforge.net/
+23:07 < hualet> hmmm... it's really not my type
+23:07 < brainy> the font looks very futuristic, not bad
+23:07 < felixonmars> :P
+23:08 < felixonmars> i actually use this font for all terminals and ides
+23:08 < felixonmars> (for years)
+23:14 < fasheng> hualet no, just several commands. but it's a little slow for each tag will takes about 10 seconds
+23:14 < hualet> fasheng: great :D
+23:32 < brainy> cu later all
