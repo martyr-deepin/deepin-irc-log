@@ -1,0 +1,192 @@
+00:04 < brainy> hi hualet man xD
+00:05 < brainy> hualet, Do you work for Deepin ?
+00:05 < hualet> hi brainy :D
+00:05 < hualet> brainy: tonight ? no, I didn't work over time
+00:06 < brainy> hualet, No , I mean in general. Did they offer you a job?
+00:06 < brainy> Do you get paid working for Deepin
+00:07 < hualet> I feel exhausted, so I took a break tonight :)
+00:07 < hualet> brainy: Of course, or what do you think I was doing XD
+00:07 < brainy> I think that working for a Linux distribution and getting paid is such a cool job!
+00:08 < brainy> xD
+00:08 < hualet> yeah, pretty much the same feeling with you
+00:09 < brainy> dream job :D
+00:09 < hualet> you know, I admire Netscape so much, sometimes I feel we too company share the same culture :D
+00:09 < hualet> sorry, two
+00:10 < brainy> Netscape??
+00:10 < hualet> yeah, don't you think it's a great company ?
+00:11 < brainy> I haven't heard about Netscape since they abandoned their browser? :D
+00:11  * felixonmars whispers: time for some new tags!
+00:12 < hualet> felixonmars: will do it tomorrow I think :/
+00:12 < felixonmars> hualet: great :P
+00:13 < felixonmars> i am in the mood for something new
+00:13 < felixonmars> so either deepin or something else :3
+00:13 < hualet> brainy: yeah, but it was a great company, right ?
+00:13 < brainy> hualet, I think so. :D
+00:14 < brainy> felixonmars is going for Deepin?? Great!
+00:14 < hualet> nope, felixonmars still sells real estates :D
+00:14 < brainy> loool hualet
+00:15 < hualet> felixonmars can you tell us about your business model ? or it's secret ?
+00:15 < felixonmars> nah, just sell it
+00:16 < felixonmars> and always do something different, start from smaller things
+00:17 < hualet> felixonmars: sounds quite easy :/ can I do it ? XD
+00:18 < brainy> :D
+00:18 < felixonmars> sure you can
+00:19 < hualet> haha, just kidding :D
+00:19 < felixonmars> :3
+00:19 < hualet> what do you do at weekends ?
+00:20 < felixonmars> prepare some packages, try something new, go out and find something (new) to eat, etc
+00:21 < felixonmars> mer/nemo is also in my list of packaging :P
+00:21 < hualet> and what's that ?
+00:22 < felixonmars> http://www.merproject.org/
+00:24 < hualet> I see MeeGo and Tizen :D
+00:24 < brainy> Meego has been long dead :(
+00:25 < felixonmars> yep
+00:25 < hualet> geek stuff, I don't understand XD
+00:25 < brainy> lol
+00:26 < felixonmars> https://www.archlinux.org/packages/community/x86_64/fingerterm/
+00:26 < hualet> felixonmars is a geek, I'm not, and you ? brainy
+00:26 < felixonmars> i actually have "ported" some parts
+00:26 < felixonmars> just like what i did when i began to "port" deepin here
+00:27 < felixonmars> the individual apps are definitely easier to begin with :P
+00:27 < felixonmars> hualet: you are geek man :3
+00:29 < hualet> no, I sometimes really want to simply enjoy the time playing with a computer, not poking around
+00:29 < hualet> for programming, reading source code or something like that :(
+00:30 < felixonmars> yeah i have enough time for that too
+00:30 < brainy> programming is playing around with a computer? :D
+00:31 < hualet> no, I mean I don't always want to create software, I also want to enjoy softwares written by other great programmers :D
+00:32 < felixonmars> sure
+00:32 < brainy> Exactly hualet , I hear you
+00:33 < felixonmars> and i just do it in an insaner way...
+00:33 < hualet> x_x
+00:34 < felixonmars> i often try to create a proper package for something before try it...
+00:35 < hualet> it's like a black hole, nothing will fill it...
+00:35 < felixonmars> sure, so i just repeat and find more interesting stuff :P
+00:35 < hualet> :D
+00:36 < hualet> here's a question for you XD
+00:36 < brainy> felixonmars, how many packages do you have on your PC? :D
+00:36 < hualet> which editor do you use ? vim or emacs ?
+00:36 < felixonmars> brainy: 3723 atm
+00:36 < brainy> wow
+00:37 < hualet> wow
+00:37 < felixonmars> hualet: vim, nano, sublime-text, atom, leafpad, ...
+00:37 < hualet> so you should try a new editor, like emacs
+00:38 < felixonmars> brainy: and it's not the peak, since i uninstalled the whole haskell stack today
+00:38 < felixonmars> used to be 100+ more
+00:38 < felixonmars> hualet: yep, on my list already :P
+00:39 < felixonmars> i'm already confused enough to use emacs-style hotkeys for readline and vi-mode in fish...
+00:40 < felixonmars> so really, time for something new...
+00:40 < hualet> sometimes I see emacs the same way I see linux, once you are in, you never stop untill you're exhausted and quit XD
+00:40 < felixonmars> i hardly do that xD
+00:40 < felixonmars> except Arch and pacman x.x
+00:41 < felixonmars> even linux is not like this - i also package for msys2
+00:41 < hualet> oh god ...
+00:42 < felixonmars> (but not really like their packaging style... so "fork msys2" is also on my list xD
+00:42 < hualet> what's going on in your dumb head XD
+00:43 < felixonmars> msys2's goal is to merge back with cygwin, and mine is different.
+00:43 < felixonmars> i want to support wine as multilib
+00:44 < felixonmars> hualet: :P
+00:44 < hualet> huh ? why would cygwin users need wine ?
+00:44 < felixonmars> they don't. they can use everything there except wine
+00:45 < felixonmars> and i can provide a single binary repository for both platforms
+00:46 < hualet> XD
+00:46 < felixonmars> but that's really long story. for now we need quite a lot of work to be done beforehand
+00:47 < hualet> have you arch developers met each other offline ?
+00:47 < felixonmars> some of them have. i didn't yet
+00:47 < hualet> you are the youngest developer ?
+00:48 < felixonmars> our donation is at an awkward level, which is too much for our servers and infrastructure, and not enough for some offline meetups...
+00:48 < felixonmars> hualet: no i'm not
+00:48 < felixonmars> maybe 3rd or 4th
+00:49 < felixonmars> the youngest guy was born in 1994
+00:50 < hualet> wow...then I understand why you guys built the subtitle search engine you showed me the other night :D
+00:51 < felixonmars> the author of that search engine was born in 1989 :P
+00:51 < hualet> I'm curious who is the oldest ?
+00:52 < felixonmars> well, our emails in private list often begin with "hi everypony..."
+00:52 < felixonmars> hualet: should be Giovanni Scafora from 1969
+00:52 < felixonmars> and we have some 197x guys
+00:53 < hualet> everypony...
+00:54 < hualet> you guys are all genius XD
+00:55 < felixonmars> we also have quite some anime/game topics every day
+00:56 < felixonmars> last year we have nearly everything delayed for ~1month, because like half of the team happened to play dota 2 too much addicted...
+00:57 < felixonmars> and this month... let's see how much will one punch man delay...
+00:59 < hualet> hmmm... I like these anecdotes :D
+00:59 < felixonmars> xD
+00:59 < felixonmars> and if i broke nvidia again, it will speed up the packaging work significantly...
+00:59 < hualet> haha. lol
+01:00 < felixonmars> o/
+01:00 < hualet> I don't play dota 2, I play LOL instead :D
+01:00 < felixonmars> they look similar to me though, since i play neither
+01:01 < hualet> it's much easier
+01:01 < felixonmars> i se...
+01:01 < felixonmars> oh, and one 197x-born guy always join the anime discussion and recommend his favorites
+01:02 < felixonmars> no generation gap here - i think i just see a good dad xD
+01:02 < hualet> haha, interesting people
+01:04 < hualet> almost lost consciousness, gotta to sleep for a while
+01:04 < hualet> see you felixonmars brainy :D
+01:05 < felixonmars> bye :P i have to sleep too, for tomorrow's work :3
+01:05 < hualet> OK
+01:05 < hualet> good night then
+01:05 < felixonmars> good night :3
+10:23  * hualet thinking 
+10:46 < felixonmars> hualet: :3 thinking what?
+10:46 < felixonmars> like... name for the new tags?
+10:47 < hualet> I realized that we can't do it right now, translations are not merged into code base yet :(
+10:48 < hualet> fasheng: what do you think ?
+10:51 < hualet> also I think we should jump all the version numbers to 3.0 if possible
+10:54 < felixonmars> you also have 1.x and 15.x
+11:10 < hualet> I said "if possible" XD
+11:17 < fasheng> hualet: ok, let's wait for the translationss merged. how long it will takes then?
+11:19 < felixonmars> :3
+11:22 < hualet> next Monday :D
+11:25 < fasheng> that's fine
+11:25 < hualet> it's not fine, it's just OK, don't forget the release date :(
+11:26 < hualet> and I still want to ensure the quality
+11:26 < hualet> frustrating :(
+11:28 < felixonmars> release early, release often. - eric s. raymond
+11:28  * felixonmars runs
+11:29 < hualet> good point, thanks for your comfort felixonmars :/
+11:29 < felixonmars> xD
+11:30 < hualet> I didn't even know the it's Raymond's quote
+11:30 < hualet> I heard it from a speech by Audrey Tang
+11:30 < felixonmars> it's in his famous book "The Cathedral and the Bazaar"
+11:30 < hualet> https://www.youtube.com/watch?v=KqKwc4bcOhI
+11:31 < hualet> I haven't read it
+11:31 < felixonmars> xD you should read it, i think
+11:31 < hualet> https://www.youtube.com/watch?v=A6bBcvSyg0k this one is better :D
+11:31 < hualet> felixonmars: and I think you should watch the video XD
+11:32 < felixonmars> sure i will do :3
+11:32 < hualet> XD
+23:03 < brainy> hi hualet xD
+23:03 < hualet> hi brainy
+23:04 < brainy> hualet, is there any christmas celebration in China?
+23:05 < hualet> mostly young people celebrate
+23:06 < hualet> and also there're discount in malls
+23:06 < hualet> how do you celebrate Christmas ? brainy
+23:10 < brainy> hualet, we just have some dinner, thats it xD
+23:12 < hualet> you don't go buy something, I mean no discounts going on ?
+23:12 < brainy> hmmm not much hualet
+23:13 < brainy> hualet, do you have a day in the week when shops are closed, like sundays in the west?
+23:13 < brainy> sorry for my ignorance xD
+23:14 < hualet> shops are closed ? no ! merchants in China like holidays XD
+23:14 < brainy> I don't even know if shops are open on sundays in the USA, maybe vodkode can tell us
+23:14 < brainy> lol hualet nice
+23:16 < brainy> hualet, they used to sell Suse Linux in the stores here when the Linux hype was alive, later Ubuntu, now I don't see any Linuy in the stores anymore :(
+23:16 < brainy> Seems like people were not interested or they simply downloaded it
+23:17 < brainy> I bought the Suse Linux once just to support them but when I tried to install it, it didn't work :(
+23:17 < hualet> I think it's because the network is much better than ever, people just download them at home
+23:17 < brainy> hualet, why I am saying this, I am thinking about Deepin in Chinese stores :D
+23:18 < brainy> true hualet
+23:18 < hualet> brainy: so you switched to deepin XD
+23:18 < brainy> yes lol
+23:18 < hualet> no, definitely not
+23:19 < hualet> Chinese individual users never get used to pay for softwares
+23:19 < brainy> Oh I heard about that, you are right
+23:20 < hualet> but some programmers do pay for softwares :D
+23:21 < brainy> thats nice :D
+23:21 < brainy> programming is such a hard work
+23:21 < brainy> many people dont appreciate it
+23:22 < hualet> yes, many programmers are labeled by their family members as "man can fix computer " XD
+23:24 < brainy> lol
+23:25 < brainy> I love those questions, I used to get them all the time
+23:25 < brainy> they said: "I heard you are good with computers, could you fix my PC please??"
+23:45 < brainy> hi xiaoxing
+23:47 < xiaoxing> hi
