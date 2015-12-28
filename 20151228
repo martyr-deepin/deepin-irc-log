@@ -1,0 +1,84 @@
+01:06 < jack> Hi !
+01:07 < Guest96375> Can someone help me with the deepin installer ?
+09:07 < deepin-bot> [snyh]:  Guest96375: what's wrong? If you can speak English you can issue the problem in http://bbs.deepin.org.
+20:39 < brainy> hello hualet_deepin bro
+20:39 < hualet_deepin> brainy: hi
+20:39 < felixonmars> hiho
+20:39 < felixonmars> where was "language_info.json" used?
+20:40 < hualet_deepin> where did you find it :P
+20:40 < felixonmars> in latest deepin-desktop-base
+20:42 < hualet_deepin> I don't know, maybe dde-first-run or maybe deepin-installer
+20:42 < felixonmars> i see... neither is related to arch-deepin, so i'll forget it :P
+20:42 < hualet_deepin> what's wrong ?
+20:43 < hualet_deepin> :/
+20:43 < felixonmars> i'm waiting for shiny new tags being synced to github
+20:46 < hualet_deepin> fasheng have already done it :D
+20:46 < felixonmars> nah, it's not there yet...
+20:46 < felixonmars> (the syncing seems stopped 2 hours ago)
+20:47 < hualet_deepin> so stay tuned
+20:47 < felixonmars> :P
+20:47 < hualet_deepin> :D
+20:47 < felixonmars> i've prepared all the pkgbuilds...
+20:48 < hualet_deepin> so you'll spend all the night building the new packages, huh ?
+20:48 < felixonmars> nah, it's not that slow...
+20:48 < felixonmars> and i have three machines to queue the builds anyway :P
+20:50 < hualet_deepin> so how long will it take to build all the stuff ?
+20:53 < felixonmars> hualet_deepin: < 1h, iirc
+20:54 < hualet_deepin> wow, that's amazing :D
+20:55 < felixonmars> xD
+20:55 < felixonmars> yay tldr is on homepage of HN https://twitter.com/newsycombinator/status/681445138145619968
+21:03 < hualet_deepin> a better man ?
+21:08 < felixonmars> a lazy man's man
+21:08 < felixonmars> xD
+21:09 < hualet_deepin> I don't see the potential, you do ?
+21:09 < deepin-bot> [snyh]:  tldr is too slow
+21:10 < deepin-bot> [snyh]:  But the idea is very cool
+21:11 < felixonmars> well, it has local cache now
+21:11 < felixonmars> (not for the python client yet, my fault :3)
+21:14 < deepin-bot> [snyh]:  Which client support cache ?  I only used golang version.
+21:15 < felixonmars> the nodejs client should be better maintained
+21:16 < hualet_deepin> ah, now I see a command line wikipedia :P
+21:18 < deepin-bot> [snyh]:  hualet_deepin: XIAOHUOZI what are you saying
+21:19 < felixonmars> o/
+21:19 < hualet_deepin> I need to clone the repository ? felixonmars snyh ?
+21:20 < felixonmars> which one?
+21:20 < felixonmars> if you mean tldr, try instructions here: https://tldr-pages.github.io/
+21:22 < hualet_deepin> I installed the python client, but it wanted a repo_directory
+21:24 < hualet_deepin> I checked tldr update just called 'git rev-parse master'
+21:27 < felixonmars> yep
+21:27 < felixonmars> that's the old way...
+21:27 < felixonmars> and i was too lazy to update the python client x.x
+21:31 < hualet_deepin> it gets me to know the details, and I enjoy it :P
+21:31 < felixonmars> xD
+21:43 < brainy> good job hualet_deepin and felixonmars
+21:44 < hualet_deepin> brainy: I thought you were asleep :D
+21:44 < felixonmars> hualet_deepin: he's waiting for the shiny new version!
+21:44  * felixonmars too
+21:45 < brainy> lol
+21:45 < brainy> true
+21:46 < hualet_deepin> well, our mutual friend is busy building the ISO
+21:49 < brainy> hualet_deepin, That's great news xD
+21:53 < brainy> I wonder if s991533_ will try the new version
+22:02 < hualet_deepin> s991533_ never came back :(
+22:04 < brainy> :((
+22:15 < felixonmars> let's induce him to use arch and install deepin for him :3
+22:20 < brainy> xD
+22:35 < deepin-bot> [fasheng]:  felixonmars: i really have no idea for the gerrit sync issue now, please wait for our system maintainer to solve it ~
+22:35 < felixonmars> ok...
+22:44  * felixonmars could really help sync the repos, if that's useful...
+22:44 < felixonmars> i do syncs for arch already xD
+23:14 < brainy> welcome back s991533_
+23:14 < brainy> So when is the big day, guys ??
+23:18 < brainy> felixonmars, I know you are hiding the ISO somewhere :P
+23:24 < felixonmars> brainy: not me!
+23:24 < brainy> xd
+23:25 < felixonmars> i don't work for deepin (yet) xD
+23:27 < s991533_> :/
+23:29 < brainy> s991533_ is here !!!
+23:29 < brainy> hualet_deepin, wake up
+23:30 < hualet_deepin> hi s991533_ , welcome back :D
+23:30 < hualet_deepin> I'm still working, man, not asleep :(
+23:31 < felixonmars> and i'm still stucked...
+23:31 < felixonmars> maybe i should sleep now xD
+23:31 < brainy> let's all go to sleep xD
+23:36 < brainy> s991533_, You must turn your operator status on :P
