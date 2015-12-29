@@ -1,0 +1,46 @@
+00:50 < brainy> cu later
+10:10 < xiaoxing> 这几天是要发布2015的正式版了？
+10:11 < sbw> en
+10:11 < xiaoxing> 很久没用深度了　一直关注　等正式版的时候就开始再用用
+10:35 < felixonmars> 同步还是坏的 :(
+10:39 < deepin-bot> [fasheng]: felixonmars: ... ...
+10:46 < felixonmars> d
+10:47 < felixonmars> fasheng: 如果切换到 cr.deepin.io，主要也就是我编译的时候需要 pull
+10:47 < felixonmars> 真的不可以吗 QwQ
+11:07 < deepin-bot> [fasheng]: felixonmars: 好吧，看来只能这样了。cr.deepin.io 经常会重启，访问速度慢点，不过至少还能用...
+11:15 < felixonmars> 嗯 :D
+11:16 < deepin-bot> [snyh]:  felixonmars:  We really will solve it   :(
+15:45 < felixonmars> https://github.com/fasheng/arch-deepin/issues/121#issuecomment-167740076
+15:46 < felixonmars> how should i debug this?
+15:46 < felixonmars> /usr/bin/dde-control-center doesn't link to gtk2 directly, but will load it upon launch
+15:47 < felixonmars> this makes the systeminfo plugin fail since gtk3 cannot be loaded into the same process with gtk2
+15:58 < felixonmars> looks like a simple qt5 program will load gtk2 too :/
+17:31 < deepin-bot> [snyh]:  gtk2  introduced by the qt style
+17:32 < deepin-bot> [snyh]:  using dde-control-center --style=""  should ok.   I will talk with the developers.   To see how solve this .
+17:37 < felixonmars> snyh: thanks!
+17:38 < felixonmars> BTW: --style="" doesn't work here, but  --style="Oxygen" does.
+17:47 < deepin-bot> [snyh]:  felixonmars:  We only use gtk to find the icon-theme.     > It has been changed to link gtk2.   Thanks issue this, Otherwise It will be in V15 Final
+17:48 < felixonmars> ohh, that makes sense.
+20:09 < felixonmars> grrr, crashing like crazy :P
+20:35 < felixonmars> fasheng_: downgraded deepin-daemon and finally usable...
+20:36 < fasheng_> oh, i see
+20:37 < felixonmars> there may be more crashes though, since my first login crashed and brought me back to dm
+20:38 < felixonmars> but the inputdevices crash flooded my logs...
+20:44 < fasheng> it's really a trouble…
+21:15 < felixonmars> fasheng: i added "sed -i '/loadItemsInfo(im, cm)/d' dde-daemon/launcher/main.go" temporarily
+21:15 < felixonmars> which stops the crashing and make launcher empty as a side effect...
+21:21 < fasheng> well, maybe it's a solution. i cann't imagine why it occurs for launcher, the same gccgo issue like before?!
+21:22 < fasheng> all the arch-deepin go daemon under the trouble now…
+21:23 < felixonmars> it tries to load /var/lib/lastore/desktop_package.json and failed
+21:23 < felixonmars> so i just removed the call to load that file
+21:26 < fasheng> i see
+21:29 < brainy> heya hualet_deepin felixonmars
+21:29 < brainy> \o/
+21:30 < felixonmars> hi
+21:33 < hualet_deepin> brainy: hi
+21:41 < felixonmars> fasheng: i assume the new tags didn't do anything to the daemon crash issue, right?
+21:41 < felixonmars> so i'll keep the hack?
+21:43 < fasheng> i am afraid it's yes
+21:44 < felixonmars> ok
+23:49 < felixonmars> 说起来……DAU 2015 上王总介绍的 dock 可以移到不同的屏幕边缘的功能，为啥我一直没找到在哪里……
+23:49 < felixonmars> 我这里 Dock 牢牢吸在底下……
