@@ -1,0 +1,142 @@
+02:32 < deepin-bot> [snyh]:  felixonmars:  the cr sync service is back :)
+08:59 < hualet_deepin> felixonmars: 因为你用的arch，用deepin就有 :P
+09:07 < deepin-bot> [manateelazycat]:  Dock可以移动位置的要下一版本才有
+09:11 < felixonmars> 好的 :P
+13:27 < hualet_deepin> fasheng felixonmars, anybody from HongKong wants to contribute to DDE ?  :D
+13:28 < hualet_deepin> our translation for zh_HK is not that completed and need some help.
+13:41 < felixonmars> not sure :3
+13:43 < hualet_deepin> ah... that just drives me crazy, why don't we just all use the same language XD
+13:44 < hualet_deepin> how many people are using DDE on arch BTW ?
+17:16 < fasheng> felixonmars: sometimes startdde panic here and back to login ui, the latest code solved it, please have a try~ https://github.com/linuxdeepin/startdde/commit/d83cb1ae97889b57053a673bc2cd5fa625334ae2
+17:23 < felixonmars> i see...
+17:23 < felixonmars> fasheng: any plan for a new tag soon?
+17:23 < felixonmars> startdde is still at 3.0.0 while some other parts are 3.0.2 now...
+17:27 < fasheng> tonight, new tags are ready for startdde and some other packages. but we will not keep the third minor version the same, so startdde will became 3.0.1 ~
+17:28 < fasheng> btw, thanks @liliqiang, the back-end of launcher could run without deepin-lastore-daemon now :) https://cr.deepin.io/#/c/10161/
+17:29 < felixonmars> ok :)
+17:30 < felixonmars> thanks for you work :P
+17:31 < felixonmars> *your
+20:25 < brainy> welcome hualet_deepin
+20:25 < brainy> how are you hualet_deepin ?
+20:47 < felixonmars> fasheng: i assume the mentioned daemon/startdde fixes are all included in the new tags, right?
+20:47 < fasheng> yes, it's ok here at least
+20:48 < felixonmars> great, many thanks :P
+20:51 < felixonmars> fasheng: i have one thing to discuss: can we drop the sed 's\Faenza\Adwaita\' line and add faenza-icon-theme to dependencies?
+20:52 < fasheng> of course, just do it :)
+20:53 < felixonmars> kk :)
+20:54 < s991533_> hualet_deepin: hey don't use yoku for video on the website, that's very slow, please use youtube for overseas users
+20:54 < felixonmars> fasheng: also i'm going to make a new package for deepin-desktop-base. i'll include the two json files, too. please let me know if you have anything to add :)
+20:55 < brainy> felixonmars, The faenza icon theme is beautiful!
+20:55 < felixonmars> brainy: :D glad that you like it
+20:55 < hualet_deepin> s991533_: hi, and what video ?
+20:55 < hualet_deepin> brainy: hi
+20:55 < brainy> hi bro
+20:57 < felixonmars> also i'm still confused by the desktop-version file location. deepin-desktop-base currently install it to /usr/lib/deepin/desktop-version
+20:57 < felixonmars> while dde-daemon still reads /etc/deepin-version :/
+20:58 < felixonmars> should i make a symlink for it?
+20:58 < fasheng> felixonmars: oh, i see, yes, we should link it manually now
+20:58 < felixonmars> ok, got it
+21:00 < felixonmars> fasheng: one more thing: deepin-manual is missing on github :)
+21:02 < fasheng> wait a minute…
+21:02 < felixonmars> don't worry, i'm still thinking about how to package it properly...
+21:10 < fasheng> you could find deepin-manual in github now. yes, the package is not hurry now
+21:11 < felixonmars> :)
+21:16 < hualet_deepin> arch users don't need deepin-manual, they need tldr :P felixonmars
+21:18 < felixonmars> :P
+21:19 < felixonmars> arch-deepin users may need it :3
+21:19 < hualet_deepin> :D
+21:43 < brainy> Deepin has a manual?
+22:26 < felixonmars> sure it has :3
+22:26 < felixonmars> fasheng: i18n_dependent.json defines some package rules which are completely broken for arch.
+22:27 < hualet_deepin> brainy: of course we do :P  it's the essence of deepin :D
+22:27 < felixonmars> you guys should provide some more info for developers too :P
+22:28 < felixonmars> for example, a informative description for each repo...
+22:28 < felixonmars> *an
+22:30 < hualet_deepin> anybody knows that we should XD
+22:30 < felixonmars> :P
+22:30 < fasheng> felixonmars: ehmm, the package trouble for none debian based distro again..
+22:31 < felixonmars> it may even break debian based distro, since they may not share the exact package names
+22:54 < deepin-bot> [manateelazycat]:  felixonmars:  明天中午来公司吃蛋糕吧，　Deepin 15庆功蛋糕。　;)
+22:57 < felixonmars> 诶，明天好像正好有点事……
+22:59 < felixonmars> 遗憾 :(
+23:00 < deepin-bot> [manateelazycat]:  felixonmars 我给你留一块？　;)
+23:02 < felixonmars> xD 留到晚上还有吗
+23:15 < deepin-bot> [manateelazycat]:  felixonmars: 一定没有了
+23:20 < brainy> hualet is back, yippie
+23:21 < hualet> back home :D
+23:23 < felixonmars> :P
+23:24 < brainy> hualet, can you show me a picture of the Deepin headquarters?
+23:24 < brainy> Is it a tall building?
+23:26 < hualet> It's not that romantic, we're renting offices :D
+23:28 < brainy> hualet, okay xD
+23:31 < hualet> brainy: sorry, man. I didn't find out the picture of our office :(
+23:32 < felixonmars> grab it from hualet's memory :P
+23:32 < hualet> XD
+23:33 < hualet> function grab not defined for hualet's memory :P
+23:33 < deepin-bot> [manateelazycat]:  brainy: It's an awesome place, so many computer. xD
+23:33 < deepin-bot> [manateelazycat]:  hualet: you must forgot compile it . ;)
+23:33 < felixonmars> and heavy metal like a pub
+23:34 < felixonmars> lazycat showed that to me, and that's the last thing i could forget xD
+23:35 < hualet> ah...we all like crazy stuff :D
+23:35 < brainy> :D
+23:36 < deepin-bot> [manateelazycat]:  felixonmars: 今天晚上招到一枚异次元、日本宅男前端工程师，　好开心, 打英文好累。　;)
+23:36 < hualet> brainy: I'll show the picture someday, I promise XD
+23:37 < felixonmars> 诶，没准我认识……
+23:37 < brainy> thanks hualet :D
+23:39 < deepin-bot> [manateelazycat]:  brainy: http://photo.weibo.com/2675284423/wbphotos/large/mid/3882019823711901/pid/9f7599c7jw1evm4wzu3g3j21jk15owqx
+23:39 < deepin-bot> [manateelazycat]:  brainy: http://photo.weibo.com/2675284423/wbphotos/large/mid/3880788406303917/pid/9f7599c7jw1evi7hvk64qj21jk15o19w
+23:39 < deepin-bot> [manateelazycat]:  http://photo.weibo.com/2675284423/wbphotos/large/mid/3888484789753230/pid/9f7599c7jw1ew6rf597wdj21jk15o4dy
+23:39 < deepin-bot> [manateelazycat]:  http://photo.weibo.com/2675284423/wbphotos/large/mid/3875791802306656/pid/9f7599c7jw1ev29ncu13qj215o1jkk4p
+23:39 < deepin-bot> [manateelazycat]:  http://photo.weibo.com/2675284423/wbphotos/large/mid/3875690438504719/pid/9f7599c7jw1ev1y06hp8sj21jk1jkaow
+23:39 < deepin-bot> [manateelazycat]:  http://photo.weibo.com/2675284423/wbphotos/large/mid/3875764740862874/pid/9f7599c7jw1ev26jkbes9j21jk15o7mc
+23:39 < deepin-bot> [manateelazycat]:  http://photo.weibo.com/2675284423/wbphotos/large/mid/3873156718480132/pid/9f7599c7gw1eutuz6ynynj21kw23utm0
+23:40 < deepin-bot> [manateelazycat]:  http://photo.weibo.com/2675284423/wbphotos/large/mid/3873156718480132/pid/9f7599c7gw1eutv09869aj20qo1bedit
+23:40 < deepin-bot> [manateelazycat]:  Above has hualet
+23:40 < deepin-bot> [manateelazycat]:  brainy: got it ?
+23:40 < brainy> haha thank you! I'll check the links out
+23:40 < deepin-bot> [manateelazycat]:  felixonmars: arch 党一枚
+23:41 < felixonmars> 看起来我更可能认识……
+23:41 < brainy> Oops, I need an account or something?
+23:41 < brainy> I am not registered
+23:42 < felixonmars> 难道是……Frantic1048？（
+23:42 < deepin-bot> [manateelazycat]:  felixonmars: 你咋知道？
+23:42 < hualet> felixonmars laughs out :P
+23:42  * felixonmars 猜对了
+23:42 < felixonmars> DAU 那天坐在我正后面的就是他
+23:43 < deepin-bot> [manateelazycat]:  felixonmars: 我擦
+23:43 < hualet> brainy: perhaps you need a weibo account to access :(
+23:43 < brainy> ok hualet never mind
+23:44 < felixonmars> DAU 那天我那儿形成了一个 Arch 方阵，2x3
+23:44 < hualet> brainy: let me pick some for you :D
+23:44 < felixonmars> 全都是在 irc #archlinux-cn 活跃的围观群众
+23:45 < andy> felixonmars: 直接上irc客户端了，　bearychat 疯了
+23:45 < felixonmars> xD
+23:45 < andy> felixonmars: Frantic1048 技术帮我打个分？
+23:45 < felixonmars> （二次元平面绘画满分
+23:46 < andy> felixonmars: 话说arch　2x3　方阵还有哪些？　我去扫荡
+23:47 < andy> felixonmars: 好，　来公司我让他画图标，　做gtk+碉堡主题，　顺便写下前端
+23:47  * andy Switch my english helper.
+23:47 < felixonmars> 还有 wych42，acgtyrant，lilydjwg，……
+23:48 < andy> felixonmars: lilydjwg 是依云？
+23:48 < felixonmars> 对～
+23:48 < andy> felixonmars: 我又擦
+23:48 < andy> 哎，　我都没记得别人的脸
+23:48 < felixonmars> 哈哈……
+23:49 < andy> felixonmars: 还少一个，　你不是说　2x3 吗？
+23:52 < andy> felixonmars: 不知道依云过年回不回武汉啊
+23:52 < andy> 回来我去拜码头
+23:53 < felixonmars> 还有 Stevearzh
+23:53 < andy> felixonmars: Got it
+23:54 < felixonmars> :P
+23:54 < andy> felixonmars: Goodnight, i need leave to write pango code. ;)
+23:54 < felixonmars> andy: gn :)
+23:54 < andy> hualet: 还不回家？　
+23:55 < hualet> andy: 回来了
+23:55 < hualet> 同步东西又不需要在公司
+23:55 < felixonmars> <(=﹁"﹁=)> 还以为还能看到新 tag 呢
+23:55 < hualet> 今晚有几个
+23:56 < hualet> 可以问发胜要 XD
+23:56 < andy> hualet: 元旦在武汉？
+23:57 < felixonmars> 已经有的我已经发好了（
+23:57 < andy> felixonmars: 赞啊！
+23:58 < hualet> andy: 不知道啊，你有建议？
