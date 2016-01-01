@@ -1,0 +1,37 @@
+00:26 < brainy> bye all
+00:54 < sti_> any peolple hear?
+00:54 < sti_> does this system from china?
+12:20 < jarvispipi_> anybody there
+14:31 < hualet_deepin> felixonmars: you're lying, dropbox works fine on my computer :/
+18:07 < felixonmars> hualet_deepin: it still doesn't work here :/
+18:07 < hualet_deepin> the icon is still missing  ?
+18:20 < felixonmars> yeah
+18:23 < hualet_deepin> :O
+18:25 < felixonmars> and after a switch by wm-switcher, nearly all xembed icons disappear http://i.imgur.com/F0D5Wqg.png
+18:25 < felixonmars> (interaction is still working)
+18:42 < hualet_deepin> maybe you can take your laptop to our office to let me debug it :P
+18:42 < hualet_deepin> and we can talk a bit again by the way :P
+20:58 < jmrubiano> hola amigos, me gustaria saber como puedo actualizar a deepin 2015.
+20:58 < jmrubiano> Hello friends, I would like to know how I can upgrade to Deepin 2015 .
+21:01 < deepin-bot> [sbw]:  if you are using deepin 2015 alpha or later, execute: sudo apt-get update; sudo apt-get dist-upgrade
+21:01 < sbw> @jmrubiano
+21:03 < jmrubiano> I am running the version 2014.3
+22:05 < ashole> is anyone here
+22:06 < ashole> i am out
+22:34 < jmrubiano> As I can update a Deepin 2015 from version 2014.3 ?
+22:35 < sbw> jmrubiano: maybe you should reinstall from ISO
+22:36 < jmrubiano> and you can not artualizar from the version I have installed?
+22:40 < hualet> jmrubiano: we have changed our repository from ubuntu based to debian based, so yes we can't
+22:42 < jmrubiano> thank you very much , greetings and happy new year.
+22:42 < hualet> jmrubiano: thanks, happy new year too :D
+22:55 < brainy> hi guys, happy new year!
+23:13 < brainy> hi fasheng
+23:26 < hualet> hey brainy, happy new year :D
+23:26 < hualet> although we've already spent most of the day. :P
+23:31 < brainy> hey hualet  :D
+23:31 < brainy> Yes true
+23:31 < brainy> You were asleep during the firework celebration? :D
+23:33 < hualet> brainy: I don't celebrate New Year's Day much, we celebrate the Spring Festival
+23:34 < hualet> and as far as I know, it's not allowed to do fireworks these years in the urban area
+23:34 < hualet> and I didn't hear or see any firework celebration :D
+23:41 < brainy> ah ok hualet :D
