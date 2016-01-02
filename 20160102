@@ -1,0 +1,31 @@
+01:08 < metak> hey fasheng ;-)
+01:13 < fasheng> metak: hi, how are you now :)
+01:13 < metak> I'm fine. Happy new year! ;-)
+01:13 < fasheng> happy new year!
+01:14 < metak> fasheng I need to ask you something about OBS repo...
+01:15 < metak> since dde-2015 is now in 'communit' repo I was thinking about removing deepin repos from OBS project?
+01:20 < fasheng> ehmm, though i plan continue to work with you. but arch-deepin is really unstable now, and felix maintenance community-testing in the same time. so obs should finish its great job now, thanks very mush for all the work~
+01:22 < metak> I really don't have the time to maintain it and I haven't touched it in a long time (arch-deepin)... and I think all the efforts should now be focused towards helping Felix with regards to archlinux packaging.
+01:28 < fasheng> thanks for you hard work again. i just miss the old time that we solved so many bugs under arch-deepin ;)
+01:30 < metak> heheh  don't ve sad, there will always be new bugs! ;-)
+01:33 < metak> you should update your github page and remove info about arch2014 repo and put a notice that bugs regarding archlinux packaging should be reported directy over at https://bugs.archlinux.org/   ??
+01:37 < fasheng> haha, that's why i didn't advice you try the latest version until now. but i believe we could keep it workable like other DE someday.
+01:37 < fasheng> and for the issues, i'm not sure, i just think github is a good place fot we could notice other upstream developer easily and deepin plan pay more attation for community especially GitHub. maybe i should open an issue and discuss it
+01:42 < metak> I mean issues that are not deepin specific, fox example some chnages in PKGBUILD files and such would be best to report them at bugs.archlinux.org
+01:43 < metak> issues that are deepin specific would be best disscused at github page... anyway, that's just my suggestion
+01:44 < fasheng> thanks, get it. :P
+01:44 < fasheng> got
+01:46 < metak> felixonmars: hey felix, are you there?
+01:47 < fasheng> it's holiday and midnight at 1:50 now. maybe he have a good time at sleep now :D
+01:48 < metak> it's holiday on mars??? ;-)
+01:48 < fasheng> haha
+01:52 < metak> fasheng: if you don't have any objections then am going to go ahead and delete all the deepin repos in my OBS project page and also post a comment on archlinux forum to let everyone know to upgrade their packages from 'community' repo?
+01:54 < fasheng> fine, and any upgrade problem just let us known
+02:02 < fasheng> bye, metak, i will be offline later, have a good time~
+02:02 < metak> bye
+02:12 < metak> fasheng: https://bbs.archlinux.org/viewtopic.php?pid=1591372#p1591372
+05:07 < adsmz-phone> I'm having issues installing deepin. The logs show everything is fine until it can't mount the partition. A restart to make sure it's not mounted didn't help, and looking at the partition in gparted, it's marked as active. Clicking 'deactivate' does nothing.
+05:33 < adsmz-phone> Ok now that I've asked for help it works for no reason
+06:00 < adsmz-phone> Or not
+09:17 < CountryfiedLinux> howdy
+09:18 < CountryfiedLinux> Deepin is my favorite DE as of recently. I notice though that on my old laptop it's a bit sluggish. Are there plans on slimming down the required system resources?
