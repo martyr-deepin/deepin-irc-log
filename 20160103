@@ -1,0 +1,182 @@
+03:12 < Socrates_0> I guess this channel is dead?
+06:18 < Socrates_0> fasheng, felixonmars rigor789 s991533_ SolarAquarion vodkode - (please tolerate my 'ping') Has the channel moved?
+13:45 < brainy> hi hualet bro
+13:45 < hualet> hi brainy :D
+13:45 < hualet> how's your holiday ?
+13:49 < brainy> very good thanks hualet :)
+13:50 < hualet> :D
+15:02 < felixonmars> :D
+15:03 < hualet> hi felixonmars, how did you spend your holiday :P
+15:04 < felixonmars> not in a good way anyway :/
+15:04 < felixonmars> but that doesn't matter, now i'm ready for moar tags
+15:05 < felixonmars> xD
+15:06 < hualet> felixonmars: haha, there will no new tags in a period of time, I'm afraid :D
+15:06 < brainy> lol
+15:06 < felixonmars> :(
+15:06 < brainy> this man can't get enough tags
+15:06 < felixonmars> i'm a sad pony then
+15:07 < hualet> brainy: let's tag him :P
+15:07 < brainy> xD
+15:07 < felixonmars> and my pidgin windows disappear from dock x.x
+15:07 < felixonmars> all others are still there :3
+15:08 < brainy> weird
+15:08 < hualet> you mean the icon is missing or there's no space left for the icon ?
+15:08 < felixonmars> it is missing
+15:09 < felixonmars> http://i.imgur.com/7FFC848.png
+15:09 < felixonmars> :/ screenshot screwed up
+15:09 < brainy> lol
+15:09 < felixonmars> again: http://i.imgur.com/pYVNZaC.png
+15:11 < brainy> did it minimize as a tray icon then?
+15:11 < hualet> oh, that's bad, it seems that dock didn't even notice the pidgin window :(
+15:11 < brainy> oh you are right, the window is opened
+15:11 < felixonmars> brainy: it minimized to void :/
+15:12 < felixonmars> and it appears in the alt-tab switcher http://i.imgur.com/Lb5GKZ2.png
+15:12 < brainy> first time this happened
+15:12 < brainy> ?
+15:12 < felixonmars> not the first time, but i didn't find a stable way to reproduce yet...
+15:13 < hualet> that's bad :(
+15:14 < hualet> felixonmars: what if you move your cursor right to the pavucontrol icon on Dock ?
+15:14 < felixonmars> there's nothing
+15:15 < hualet> you sure ?
+15:15 < felixonmars> and right-clicking will pop up the normal dock context menu
+15:15 < hualet> :(
+15:15 < felixonmars> it's different from a missing icon problem
+15:15 < felixonmars> in that case, there will be an empty box there
+15:16 < hualet> right...
+15:16 < brainy> really weird
+15:16 < hualet> yeah
+15:16 < felixonmars> a possible way to reproduce this problem is with wine steam
+15:16 < felixonmars> the steam window will show/hide from the task bar rather irregularly
+15:17 < hualet> wine programs doesn't count :P
+15:18 < felixonmars> it's easier to reproduce after certain actions, such as wm-switcher, resolution change, open a full-screen window, etc
+15:18 < felixonmars> or, of course, killing dde-dock/dde-preload/...
+15:19 < hualet> I think it's a matter about crashes of dde-preload, what do you think ?
+15:19 < felixonmars> hualet: wine programs are among your featured selling points, aren't they :P
+15:19 < brainy> Only Pidgin that's affected??
+15:19 < felixonmars> brainy: it affects random windows
+15:19 < felixonmars> and it's the first time for pidgin here...
+15:19 < brainy> hmmmm
+15:19 < hualet> felixonmars: I was kidding, don't be serious :D
+15:19 < felixonmars> xD
+15:20 < felixonmars> fracting will be a sad pony
+15:20 < brainy> hualet, have you encountered this problem too?
+15:20 < felixonmars> hualet: dde-preload did crash a lot here...
+15:20 < felixonmars> i'll try to watch out for it next time
+15:20 < hualet> brainy: of course not, or I'll solve it (kidding XD)
+15:21 < brainy> :D
+15:21 < hualet> felixonmars: or maybe you can pick up some core dumps
+15:21 < hualet> and see how it crashes
+15:21 < felixonmars> yay i just called wm-switcher and pidgin windows are back on the dock xD
+15:21 < felixonmars> sadly i just cleaned up my coredump folder last night...
+15:22 < felixonmars> (there are too many crashes here and there, and my disk is nearly full...)
+15:22 < brainy> Congrats, felixonmars
+15:22 < hualet> felixonmars: np, since it crashes a lot on your computer :D
+15:22 < hualet> congrats, felixonmars :P
+15:23 < brainy> now you can feed him with tags hualet, he is hungry
+15:24 < felixonmars> i still have some coredumps left (which are generated today) http://i.imgur.com/XflfF2E.png
+15:24 < felixonmars> drkonqi is a monster :(
+15:24 < felixonmars> and nautilus crashes when i close its window too early
+15:25 < felixonmars> the python2.7 crashes are related to deepin-screenshot
+15:25 < hualet> what ? even deepin-menu crashes on your computer ? what's wrong with your computer ? XD
+15:25 < felixonmars> and finally back to the topic - dde-osd and deepin-metacity :P
+15:26 < felixonmars> lemme look at the deepin-menu crash...
+15:27 < felixonmars> http://i.imgur.com/YEaeKEK.png
+15:28 < hualet> dde-osd should be re-written or something :(
+15:28 < felixonmars> deep in Qt
+15:28 < felixonmars> *cough* not deepin qt
+15:29 < hualet> ah...no much debug information
+15:29 < felixonmars> yeah...
+15:29 < hualet> I know...I know
+15:29 < hualet> we should provide debug packages :(
+15:29 < felixonmars> also dde-osd: http://i.imgur.com/NwMnD8z.png
+15:29 < hualet> and actually we didn't
+15:30 < felixonmars> hope it still helps somehow...
+15:30 < hualet> still N/A :(
+15:34 < brainy> hi base_
+15:34 < base_> 怎么安装shadowsocks
+15:34 < felixonmars> pacman -S shadowsocks
+15:34  * felixonmars 逃跑
+15:34 < base_> 用的是deepin
+15:35 < base_> 依赖都装不了
+15:35 < hualet> 什么依赖？
+15:36 < base_>  error: Unmet build dependencies: debhelper (>= 9) pkg-config libqrencode-dev libqtshadowsocks-dev (>= 1.8.0) libzbar-dev libappindicator-dev
+15:37 < base_> deepin15 ppa也不能用
+15:37 < hualet> 这是编译依赖啊
+15:38 < base_> 没ppa就要自己编译啊
+15:38 < base_> 但是依赖也找不到哪里装
+15:38 < hualet> 这几个依赖装不上？
+15:39 < base_> 是的
+15:42 < hualet> 仓库里面有shadowsocks这个包吧
+15:42 < hualet> 我好像还装了
+15:45 < base_> 哪个仓库？
+15:45 < hualet> unstable
+15:51 < base_> 哪个unstable
+16:12 < brainy> felixonmars, could base_ solve his problem?
+17:09 < mati_> Hi, I need some help with FGLRX driver on my Deepin :) can anyone help me?
+19:59 < Socrates_0> is this the official deepin channel?
+21:17 < Socrates_0> Guys
+21:17 < Socrates_0> There's no amd64 on Mega-servers
+21:17 < Socrates_0> and most of connections hung
+21:19 < probarti> please change title! Deepin 15 release
+21:20 < Socrates_0> I'm having difficulties downloading amd64 version
+21:21 < Socrates_0> What's up with deepin - the site doesn't seem well maintained.
+21:22 < probarti> try download with mega
+21:22 < probarti> is upload in this server
+21:22 < Socrates_0> No...
+21:23 < Socrates_0> It's not uploaded - only x32
+21:23 < probarti> http://sourceforge.net/projects/deepin/files/15/Release/
+21:23 < probarti> try here
+21:24 < Socrates_0> Tried once - hung... trying again...
+21:24 < probarti> i downloading now
+21:24 < Socrates_0> community wise it seems a liiitle empty.
+21:24 < Socrates_0> 180KB/s
+21:28 < probarti> http://mirrors.opencas.cn/deepin-cd/15/final/
+21:29 < probarti> http://ftp.ubuntu-tw.org/mirror/deepin-cd/15/final/
+21:29 < Socrates_0> Where are these servers? :|
+21:30 < probarti> http://mirror.bjtu.edu.cn/deepin-cd/releases/15/final/
+21:30 < probarti> comunity mirros
+21:30 < probarti> oficial
+21:30 < Socrates_0> Need to find 1 near Greecfe
+21:30 < Socrates_0> * Greece
+21:32 < probarti> in greece not have
+21:33 < Socrates_0> True... I will try Germany, swizerland...
+21:35 < Socrates_0> http://ftp.portlane.com/pub/os/linux/deepin-cd/15/final/ 700KB/s Amen
+21:48 < Socrates_0> I guess most of the userbase is chinese?
+21:49 < Socrates_0> They should really make a torrent
+22:39 < brainy> hi fasheng xD
+22:48 < Socrates_0> Thank God the md5 is good
+22:49 < brainy> hi Socrates_0
+22:49 < Socrates_0> hey
+22:50 < Socrates_0> How come the channel is so empty? - and the site not well preserved?
+22:50  * Socrates_0 transfering iso to usb
+22:50 < brainy> Socrates_0, I agree it's a shame this channel is rather empty :-(
+22:51 < Socrates_0> When getting in Deepin
+22:51 < Socrates_0> Does it suggest that you join this IRC channel?
+22:51 < brainy> New Deepin 15 is coming soon I believe
+22:51 < Socrates_0> It's released.
+22:51 < brainy> It is? I must check it out then.
+22:52 < brainy> Why didn't they tell me xD
+22:52 < Socrates_0> Did they have a welcome screen for 2014.3? brainy
+22:53 < brainy> Socrates_0, I can't remember but I don't think so
+22:53 < brainy> You mean Linux Mint style?
+22:53 < brainy> Dont think so
+22:53 < Socrates_0> yes! (and other distros)
+22:53 < Socrates_0> They MUST make one...
+22:53 < Socrates_0> It will help populate #deepin and the 'forums' as well
+22:53 < brainy> I think you are right. If there isn't one, I will suggest it to them.
+22:54 < Socrates_0> a link to the bug-tracker... or even a donation link - for the repos or what-not
+22:54 < brainy> It's a good idea, Socrates_0
+22:55 < brainy> Their website is not responsive, but as far as I know they haven't released the final version yet? I think it's still the Beta version
+22:55 < Socrates_0> Also use Torrents... for the ISOs - lighter load on the servers, faster distribution
+22:55 < Socrates_0> hmmm, I don't know myself
+22:56 < brainy> Okay
+22:56 < Socrates_0> But Deepin seems promising (at least until I try it out :P)
+22:57 < brainy> Yes it does xD
+23:10 < Socrates_0> Hiting reboot
+23:47 < anonyuser> Installed deepin 15 x64 - but it feels laggy...
+23:47 < anonyuser> should I change to AMD?
+23:49 < anonyuser> http://imgur.com/SLXX6vp
+23:51 < felixonmars> try fglrx, the closed-source one
+23:54 < anonyuser> felixonmars: surprised someone answered x-)
+23:55 < felixonmars> :P
+23:55 < anonyuser> Making a reboot
