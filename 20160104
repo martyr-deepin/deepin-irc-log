@@ -1,0 +1,255 @@
+00:01 < anonyuser> Server speeds are pretty slow.
+00:10 < anonyuser> http://pastebin.com/sY4hNqQh :'D
+00:13 < brainy> anonyuser, are you Socrates_0 ? :D
+00:14 < anonyuser> yeap
+00:14 < brainy> oki :P
+00:14 < brainy> I thought they had made the new UI of Deepin 15 faster...
+00:15 < Socrates_0> It's beautiful but sluggish
+00:16 < Socrates_0> And found a couple bugs already
+00:17 < brainy> I still think it's in Beta xD
+00:18 < Socrates_0> It's Final
+00:18 < brainy> ok let me check
+00:18 < brainy> Where did you download it??
+00:18 < Socrates_0> moment
+00:19 < brainy> ok official site is working now
+00:19 < Socrates_0> It just doesn't feel polished
+00:19 < brainy> felixonmars, why didn't you tell me it's already out? xD
+00:20 < brainy> I think the title for this channel has to be updated to reflect the news
+00:20 < felixonmars> d
+00:20 < felixonmars> brainy: it's somewhat leaked some days ago xD
+00:20 < brainy> felixonmars, lol ok
+00:21 < brainy> No problem, the download will take only 2 days at the current speed :D
+00:21 < Socrates_0> It's a beautiful distro - with Slow Repos, a few UI bugs (for me at least, minor)
+00:21 < Socrates_0> brainy: yes... chinese servers?
+00:21 < felixonmars> (when we talked about new tags on the new year eve...
+00:21 < felixonmars> (and i said i already packaged them out
+00:21 < brainy> yea
+00:21 < felixonmars> (that's where it leaked xD
+00:21 < brainy> oops felixonmars ok never noticed :D
+00:21 < brainy> Yes Socrates_0 chinese
+00:25 < Socrates_0> switching back to w.10 - nice OS but not polished yet, it needs some work done
+00:25 < Socrates_0> Website needs to be finished...
+00:37 < brainy> Welcome back Socrates_0 :)
+00:37 < brainy> Back on Windows 10?
+00:38 < Socrates_0> Yeah... I'm attempting to change to linux though. Need a reliable, non-slugish distro
+00:39 < brainy> There are plenty
+00:39 < Socrates_0> I have mainly tried mainstream distros (like: ubuntu, mint, opensuse (and flavors))
+00:39 < Socrates_0> true...
+00:39 < brainy> Yes, mint is great, I'm using it right now
+00:39 < Socrates_0> Actually I have an old HDD in my system, that I don't really use - so I'll install it there
+00:39 < brainy> Good idea
+00:40 < Socrates_0> 17.3? What's the difference between cinnamon & mate... cinnamon has more functionality?
+00:41 < brainy> I haven't figured that out yet, they both were made to look and feel the same, I think Cinnamon is based on Gnome 3 and Mate on the old Gnome 2
+00:42 < brainy> The menus looka bit different though, probably some more functions available on Cinnamon
+00:42 < brainy> Your PC is old Socrates_0 ?
+00:45 < brainy> Anyway, I would go with Cinnamon, looks more modern
+01:12 < Socrates_0> brainy, i3-2100, 4gb 1333, hd5750 - it's 5yo but good
+01:14 < brainy> Socrates_0, sounds good to me :D
+01:15 < Socrates_0> it's cool ^_^
+01:15 < Socrates_0> I can pretty much use any flavor of linux I like with no hickups (at least if i manage to configure it well)
+01:17 < brainy> Socrates_0, is there any software that you would depend on that is only available on Windows and doesn't work with Wine?
+01:18 < brainy> Oh great, I just found out there is a version of Viber available for Linux :D
+01:19 < brainy> Nice for convenient voice calls
+01:19 < Socrates_0> brainy, not really... except skype (which has stopped on 4.3 on linux)
+01:19 < brainy> oh..
+01:19 < Socrates_0> I use xaamp and MySQL workbench
+01:20 < Socrates_0> The windows Drive is mainly for games & my father -
+01:20 < Socrates_0> I did a quick check of my programs & pretty much everything can run natively on a Linux distro
+01:20 < brainy> Yeah, gaming can be an issue on Linux :(
+01:21 < brainy> Socrates_0, that's great!
+01:21 < Socrates_0> I run Ubuntu 14.04 for 3 months - when I wasn't playing anything... then I decided to try some other flavors as well
+01:21 < brainy> Luckily the only game I play is 13 years old and it works perfectly with Wine on Linux xD
+01:21 < Socrates_0> tbh I'm stopping gaming xD (or reducing it very much)
+01:22 < brainy> haha ok
+01:22 < brainy> Socrates_0, which is your favorite distribution so far?
+01:22 < Socrates_0> hmm... note that I'm not as experienced like other people...
+01:23 < Socrates_0> but I could say Debian-flavors (ubuntu, mint... etc), openSUSE...
+01:23 < brainy> Cool
+01:23 < Socrates_0> Debian because it has a large selection of packages and is widely used (meaning for me that bugs are usually quickly eliminated)
+01:24 < Socrates_0> opensuse for Yast... xP
+01:24 < brainy> Exactly, and you can find solutions for debian related problems online very quickly, and yes Yast is one of a kind :D
+01:24 < Socrates_0> have used 'kali' & 'tails' on live usb...
+01:25 < Socrates_0> I tend to think that most mainstream distros are pretty much the same for the common folk
+01:27 < brainy> Yes
+01:28 < brainy> I have stopped switching distros, its mostly just a waste of time
+01:28 < brainy> Just pick one and be happy :D
+01:28 < brainy> That's my credo
+01:30 < Socrates_0> ^ *claps*
+01:30 < brainy> xD
+01:30 < Socrates_0> brainy, I've seen many people use Arch... and I guess it's 'cause of the pac.manager - and the upstream (or whatever it's called)
+01:31 < brainy> felixonmars is an Arch fanatic btw xD
+01:32 < Socrates_0> I'm really eager to learn more about linux - the inner workings - and was thinking to also install arch
+01:32 < Socrates_0> (while I disconnect my other drives xD)
+01:37 < brainy> :D
+01:39 < brainy> I have used Linux for yeeears and it's always been a love/hate relationship, but I really came to appreciate the simplicity of Linux, no tons of useless apps running in the background like on Windows that need constant attention and eat my CPU/bandwidth
+01:39 < brainy> Everything is simple, and it works :D
+01:48 < Socrates_0> brainy, agree on that one - plus no ad spying, no autoupdates labeled 0x124e10 (System security) and other weird stuff
+01:48 < brainy> Yeah :D
+01:49 < amaroq> haro
+01:49 < amaroq> Is deepin for the old and the new hardware?
+01:50 < amaroq> is it coming with light wimdow mangager?
+01:50 < Socrates_0> amaroq, depends?
+01:50 < amaroq> i have an old dell inspiron 530 core-duo
+01:51 < Socrates_0> le me check the specs
+01:51 < amaroq> thank you
+01:52 < Socrates_0> amaroq, in the meantime take a look @ http://distrowatch.com/table.php?distribution=deepin (the packages)
+01:53 < amaroq> to be clear, its core2-duo, still abotu 10 years old?
+01:53 < Socrates_0> 2gb of ram?
+01:53 < Socrates_0> it's a desktop right?
+01:53 < amaroq> yes
+01:54 < Socrates_0> I'd try something with xfce, lxde...
+01:54 < amaroq> hrmmm.... i thought so. But they so ugly, lol
+01:54 < Socrates_0> They 're fairly simple-looking?
+01:54 < amaroq> yea, old-skool
+01:54 < Socrates_0> You could give Deepin a try - it's a very beautiful OS (UI-wise)
+01:55 < amaroq> i see that, but that's why i asking
+01:55 < Socrates_0> But the servers are a little slow & you might find a couple minor bugs
+01:55 < amaroq> buggy, still?
+01:55 < Socrates_0> minor
+01:55 < Socrates_0> very minor
+01:55 < amaroq> very minor is ok, right?
+01:56 < Socrates_0> yes :p (nothing to worry about) - it's UI related (it doesnt brake anything)
+01:56 < amaroq> but if its resource and processor hungry i maybe use lighter older os
+01:56 < amaroq> like Ubuntu is a monster
+01:56 < Socrates_0> if you have the time try it out...
+01:56 < amaroq> btw, why change to Debian now?
+01:57 < Socrates_0> I don't know... :p
+01:57 < amaroq> so many developpers make for ubuntu first
+01:57 < amaroq> ok
+01:57 < Socrates_0> You want an OS for daily use? movies/songs/internet/messaging...
+01:57 < amaroq> sure... i think all linux distros are same in that regard
+01:58 < amaroq> just simple things
+01:58 < Socrates_0> and you want it to be light
+01:58 < Socrates_0> still on 2gb of ram?
+01:59 < amaroq> I'm not even sure what ram this has, because I just got the machine... but probably - not more than 2gb maybe 1gb?? it is like 10 years old right; inspiron 530s ?
+01:59 < Socrates_0> Stock - it has 2gb
+01:59 < amaroq> I see windows vista label on it, lol
+01:59 < brainy> amaroq, I'm not sure if 2 gb will be enough for Deepin :S
+01:59 < Socrates_0> Personally, I wouldn't suggest Deepin (at least not now) - try an xfce, lxde 32bit
+01:59 < amaroq> ok, guys - thanks
+02:00 < Socrates_0> well, on chrome/hexchat and a couple other apps it used 1.2gb of ram
+02:00 < Socrates_0> sooo yeah :p
+02:00 < amaroq> wow
+02:00 < amaroq> chrome is hungry
+02:00 < Socrates_0> if not mistaked... (i was kinda multitasking)
+02:01 < Socrates_0> I think w/ out chrome it was on 550 or 600 ram
+02:02 < brainy> yeah...firefox would consume the same i think
+02:02 < brainy> Them browses have become so resource hungry
+02:02 < brainy> browsers*
+02:02 < Socrates_0> little less maybe
+02:02 < brainy> Yep
+02:03 < Socrates_0> amaroq, do u have installed anything on it?
+02:03 < amaroq> no, its empty
+02:04 < brainy> Well giving it a try won't hurt then, but the download is very slow, my download still hasn't finished for 3 hours :D
+02:04 < Socrates_0> the 32bit is cool - from MEGA
+02:05 < Socrates_0> Are you familiar with Linux? (as in partioning)
+02:05 < Socrates_0> https://mega.nz/#F!I0VXSbCL!4wmXM77d30bq0tKJOmjeJw
+02:05 < Socrates_0> I'd still suggest xUbuntu though...
+02:06 < amaroq> thannks
+02:06 < Socrates_0> But give #linux a try
+02:06 < amaroq> supose can try
+02:06 < brainy> amaroq, have you tried Linux Lite? It's low on resources and still looks nice
+02:06 < Socrates_0> Give them your specs
+02:06 < amaroq> maybe, Mint with xfce...
+02:06 < Socrates_0> Aah yes - Lite is a good option
+02:07 < Socrates_0> Mint as well
+02:07 < brainy> Yep
+02:07 < amaroq> i used bodhi before but e17 kinda cartoonish
+02:07 < Socrates_0> amaroq, http://distrowatch.com/table.php?distribution=lite
+02:08 < amaroq> thanks
+02:15 < amaroq> ok, must go... bye for now
+02:16 < Socrates_0> amaroq, take care
+02:50 < brainy> see you Socrates_0
+02:51 < Socrates_0> brainy, c ya!
+04:05 < metak> felixonmars: hey felix, you there? ;-)
+04:36 < Socrates_0> metak, this channel is kinda dead...
+04:42 < metak> hello socrates ;-)
+09:42 < SonikkuAmerica> err, aren't we on Deepin 15?
+10:44 < felixonmars> hualet: Jan 04 10:42:34 flygon.felixc.at daemon/dock[6060]: .:0: Added try icon: ""(253755397)
+10:44 < felixonmars> (the output when i start dropbox, and the tray icon is still missing)
+10:49 < brainy> Good morning hualet xD
+10:49 < hualet> brainy: good morning :D
+10:49 < brainy> hualet, why didn't you tell me that Deepin 15 was already out? xD
+10:50 < hualet> felixonmars: I found that if dde-preload died on some point, programs that started after that will never appear on Dock :(
+10:50 < brainy> I finished downloading it from a Taiwanese server after 6 hours *lol*
+10:50 < hualet> perhaps that's why your pidgin windows are missing
+10:50 < hualet> brainy: oh, you don't know XD
+10:51 < hualet> sorry man
+10:51 < brainy> xD
+10:51 < brainy> No problem haha
+10:55 < felixonmars> hualet: i see...
+10:57 < brainy> hualet, do you know who is responsible for the German translation of Deepin? I just wanna see if I can help
+10:59 < hualet> brainy: the translation is incomplete ?
+10:59 < brainy> hualet, I don't know, just wanted to know if there is any need for help, if not then its ok :D
+11:00 < brainy> I use the English version anyway
+11:00 < hualet> felixonmars: the dropbox issue is very strange, I'm trying to figure it out XD
+11:00 < hualet> brainy: really ? why don't you use German version ?
+11:01 < hualet> you can pick up some typos for us maybe :P
+11:01 < brainy> Because I'm used to the English version hualet , and I noticed in the past that some software was not translated so I had a mix of German/English and that was annoying
+11:01 < brainy> ok hualet
+11:03 < hualet> brainy: thanks in advance bro :D
+11:03 < brainy> But I remember you showed me some website long time ago of the translation project
+11:03 < brainy> do you still remember it?
+11:15 < brainy> hi felixonmars
+11:15 < felixonmars> hi :3
+11:23 < brainy> hualet, what games do you currently play?
+11:23 < brainy> LOL ?
+11:25 < hualet> brainy: it's transifex, you can search deepin on the website :D
+11:25 < hualet> I'm working, not playing video games XD
+11:32 < brainy> haha ok xD
+12:20 < brainy> welcome back hualet , don't quit please :)
+17:13 < felixonmars> hualet: 突然发现这里有剧透…… https://github.com/LiuLang/bcloud/issues/213#issuecomment-167242211
+17:17 < hualet> :X 封口 felixonmars
+17:17 < felixonmars> <(=﹁"﹁=)> 不是我剧透的
+17:24 < hualet> felixonmars: the only problem with you is that you've seen it :p
+17:24 < felixonmars> :3
+17:25 < felixonmars> a whole #archlinux-cn channel has seen it...
+17:25 < felixonmars> long before i even noticed :/ http://i.imgur.com/ZjS2JSy.png
+17:28 < hualet> 卧槽
+17:45 < deepin-bot> [snyh]:  hualet:  what' the situation of deepin 2015.1 :)
+17:46 < felixonmars> oh, so there is going to be 2015.1? time for moar tags!
+17:55 < hualet> :/
+17:56 < hualet> snyh just shut it up, OK ? I wanted to surprise felixonmars :)
+17:57 < felixonmars> o/
+17:57 < deepin-bot> [snyh]:  hualet: Do you have any time to go home for Chinese new year.
+17:58 < felixonmars> someone thought deepin is http://www.deepin.net.cn
+17:58 < hualet> of course I do, I even have more 4 days to spend at home :p
+17:58 < felixonmars> <(=﹁"﹁=)> you guys need to kill that site :3
+17:59 < deepin-bot> [snyh]:  hualet: too young too naive.
+18:00 < felixonmars> o/
+18:01 < deepin-bot> [snyh]:  felixonmars:  yes.  and many people call the official phone in deepin.org for requesting help XP os 😹
+18:01 < hualet> felixonmars: you are too young, as I'm too native :P
+18:02 < felixonmars> o/
+18:02 < felixonmars> hualet: you are several days younger than me :3
+20:11 < arunpyasi> hello !!!
+20:11 < arunpyasi> anyone around ?
+20:12 < felixonmars> yep
+20:12 < arunpyasi> felixonmars: how are you bro ?
+20:12 < arunpyasi> felixonmars: 2015 got released ?
+20:12 < arunpyasi> how is it ?
+20:12 < felixonmars> sure, in the last day before 2016
+20:12 < arunpyasi> haha finally.
+20:13 < arunpyasi> felixonmars: how is it ? is cool ?
+20:16 < felixonmars> sure
+20:16 < felixonmars> not surprising cool though, since it's similar to RC with more bugs (xD)
+22:00 < felixonmars> hualet: 我好像找到 dde-osd 的稳定 crash 方法了
+22:00 < felixonmars> 连着产生俩的时候，前一个会 crash
+22:01 < hualet> 嗯？dde-osd是单例的啊
+22:01 < hualet> 我明天试试
+22:01 < felixonmars> 但是明显启动了俩……
+22:01 < felixonmars> 因为 crash 的消息出来后，后一个的 OSD 还在正常显示
+22:03 < hualet> felixonmars: 越说我越觉得是真的 😄
+22:06  * deepin_yoki 
+22:20 < brainy> hi felixonmars , are you still having the pidgin problem?
+22:21 < felixonmars> it's still very random
+22:22 < felixonmars> and hualet_ suggests a dead dde-preload to be the culprit
+22:22 < brainy> hmmm
+22:22 < hualet_> brainy: you're suffering the same problem ?
+22:23 < brainy> no, hualet_
+22:23 < brainy> Or let's say, I haven't yet installed then Deepin 15 xD
+22:24 < brainy> the*
+22:24 < hualet_> I just wanted to ask
+22:24 < hualet_> but why ?
+22:25 < brainy> Because I must backup my files first
+22:30 < hualet_> right XD
+22:31 < brainy> :D
