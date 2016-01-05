@@ -1,0 +1,72 @@
+00:16 < jeff__> hello every body
+01:14 < qkehan> I now use is deepin15
+01:16 < qkehan> deepin store software is rarely
+04:58 < __martin__> greetings
+04:58 < __martin__> current release 15 seems to have compatibility issue in between proprietary blobbed gpu drivers and the xorg-xserver/kernel in use
+04:59 < __martin__> has anyone resolved this any other way than using package provided through the vendor website? (=
+04:59 < __martin__> thanks!
+05:01  * __martin__ has one more thing on his mind regards preferred DNS servers and their overriding despite gui settings // might put into user feedback app
+15:59 < testhaha> hi is someone here
+16:00 < testhaha> i am a new and konw a little about english.
+16:26 < deepin-bot> [fasheng]: testhaha: welcome
+20:57 < brainy> hi fasheng
+20:57 < brainy> Congratulations on Deepin 15
+21:02 < deepin-bot> [fasheng]: thanks, brainy. i'm always happy to see you ;)
+21:03 < brainy> happy to see you too xD
+21:41 < brainy> welcome back hualet :D
+21:41 < hualet> brainy: thanks man :D
+22:49 < brainy> Firefox is so damn slow.
+22:49 < brainy> Driving me nuts
+22:56 < hualet> why don't you just switch to Chrome :P
+22:57 < brainy> hualet, yeah, its a good option...but some useful addons I couldn't find for Chrome
+22:57 < brainy> I'll have a try
+22:58 < hualet> I personally use Chrome on deepin and Safari on Mac, though I respect Firefox much :D
+23:03 < brainy> hualet, it's just an old habit to use Firefox xD
+23:03 < brainy> But Opera is nice as well, as is Chrome
+23:05 < brainy> hualet, I have a question and sorry for bothering you
+23:06 < brainy> Deepin is now based on Debian I think? Does that mean that packages made for Ubuntu will not be compatible anymore?
+23:07 < hualet> it depends, can you be more specific ?
+23:08 < brainy> hmmm I mean in general, for example if I can't find a program in the Deepin Software Center and someone provided an external Ubuntu package for it, would I be able to install it without problems?
+23:10 < hualet> As I said, it depends. I think most apps will be fine, except ones that rely on older libs or something
+23:11 < hualet> don't worry man, brainy :D
+23:12 < brainy> ok hualet thanks man xD
+23:14 < hualet> brainy: you've installed deepin 15 on your machine ?
+23:16 < brainy> hualet, I have tried it on VirtualBox first
+23:16 < brainy> Now I want to backup my files and then I will install it
+23:16 < brainy> It looks so beautiful xD
+23:17 < hualet> beautiful as usual XD
+23:17 < brainy> But I don't like the menu with such big icons, is it possible to make it like classic menu?
+23:18 < brainy> Like on Ubuntu etc.
+23:18 < hualet> you mean the Launcher ?
+23:18 < brainy> yes
+23:18 < hualet> what's the resolution of your machine ?
+23:25 < brainy> I have full HD
+23:25 < brainy> hualet,
+23:26 < hualet> can you take a snapshot ?
+23:27 < hualet> brainy ^^
+23:32 < brainy> hualet, here bro:
+23:32 < brainy> http://fs5.directupload.net/images/160105/2gg22dzi.png
+23:34 < hualet> you're running that old version ? let me see... 12.12 ?
+23:35 < hualet> I want to see how Launcher looks, bro XD
+23:35 < hualet> brainy:
+23:36 < brainy> hualet, it's Deepin 12.06 , but only the look ;)   It's actually Linux Mint 17.3 and I copied the old Deepin look because I love it so much
+23:37 < brainy> Weird, I can't make a scrteenshot when the launcher is open
+23:39 < brainy> ok here:
+23:39 < brainy> http://www.directupload.net/index.php?mode=upload
+23:39 < brainy> Sorry:
+23:39 < brainy> http://fs5.directupload.net/images/160105/3qpbjdlz.jpg
+23:44 < brainy> (It's the Mate desktop)
+23:46 < hualet> brainy: ah...I see, don't want to disappoint you, but we don't maintain that version for a long time
+23:47 < brainy> hualet, it's Linux Mint with the theme of Deepin 12.06 ^^
+23:47 < brainy> I just want a launcher like the one in the screenshot, is it possible??
+23:48 < felixonmars> o/
+23:49 < brainy> hi felixonmars \o/
+23:49 < hualet> brainy: sorry, you can't get it from DDE for now :(
+23:50 < brainy> ok no problem hualet :))
+23:51  * hualet yawning
+23:52 < felixonmars> hi :3
+23:53 < hualet> felixonmars brainy, I'm gonna read a bit and sleep, bye :D
+23:54 < felixonmars> :/ hualet runs
+23:54 < felixonmars> i didn't yet ask for new tags!
+23:56 < brainy> xD
+23:56 < brainy> I think he has connection problems
