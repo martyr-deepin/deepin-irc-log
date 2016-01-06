@@ -1,0 +1,131 @@
+00:04 < brainy> cu later
+07:22 < michel_> The starter sorting options only works after a fresh install. Few restarts later the category options are empty
+07:29 < bandic00t_> installing deepin on a vm, and i  can't stand the engrish XD
+07:31 < michel_> bandic00t_ chinese product so it takes time to fully translate well
+08:40 < michel_> (michel_) The starter sorting options only works after a fresh install. Few restarts later the category options are empty
+12:50 < hualet_deepin> brainy: hi :D
+12:51 < brainy> hualet_deepin, hi man xD
+12:56 < hualet_deepin> fasheng: can you change the channel topic ? it's out date.
+13:02 < brainy> hualet_deepin, some guy here made a suggestion which I think might be good, he suggested to have a 'Welcome Screen' in Deepin like the one in Linux Mint for example, so for example people could automatically join this server here if they have a question or just wanna chat
+13:02 < brainy> What do you think about that?
+13:05 < hualet_deepin> what is a "Welcome Screen" exactly, I don't get it, brainy ?
+13:10 < brainy> hualet_deepin, http://fs5.directupload.net/images/160106/sy8m9wd5.jpg
+13:10 < brainy> Something that shows up on the desktop after the first install
+13:10 < brainy> You can see a direct link to the chat room on IRC
+13:11 < brainy> And other things
+13:11 < hualet_deepin> hmmm...sounds appealing to me, I'll let andy`` know :D
+13:12 < brainy> ok ^^
+13:12 < hualet_deepin> oh, andy`` is here
+13:12 < brainy> thanks hualet_deepin
+13:12 <@andy``> hello
+13:13 < hualet_deepin> andy``: check this out  http://fs5.directupload.net/images/160106/sy8m9wd5.jpg
+13:13 < hualet_deepin> brainy and his friends want that welcome screen thing :D
+13:15 < brainy> Just a suggestion xD
+13:22 <@andy``> hualet_deepin: Can you now set topic of IRC? I just give you channal admin.
+13:26 < brainy> lol
+13:26 < brainy> you guys keep disconnecting
+13:27 < hualet_deepin> brainy: I'm trying to reset the channel topic here :)
+13:28 < brainy> hualet_deepin, that's great :D
+13:28 < brainy> You should also remove that typo "alreay released" xD
+13:28 < brainy> It's been stuck there forever
+13:29 < hualet_deepin> yeah, that's what I wanted to change long time ago, lol
+13:29 < brainy> haha
+13:48 < zhain> hallo :)
+13:54 < sbw> hi
+13:55 < brainy> hey zhain
+14:08 < brainy> see you later hualet_deepin :)
+15:28 < zhain> hallo, why switching repo to community give error 404 in some part ?
+15:28 < zhain> main/contrib amd64 packages
+15:28 < zhain> main/contrib i386 packages
+15:29 < zhain> etc
+15:29 < zhain> http://en.bbs.deepin.org/forum.php?mod=viewthread&tid=30503&extra=page%3D1
+22:36 < brainy> Good evening, hualet :)
+22:36 < brainy> hi felixonmars /o
+22:36 < brainy> \o/
+22:36 < hualet> hi brainy
+22:51 < felixonmars> hi brainy
+22:52 < brainy> felixonmars, do you live far from hualet ?
+22:55 < felixonmars> brainy: shouldn't be :P
+22:59 < brainy> what does that mean felixonmars ? :)
+22:59 < felixonmars> brainy: we are streets away i think
+22:59 < brainy> Cool !
+23:29 < zlatan999> hi to all
+23:29 < zlatan999> is anyone here from deepin?
+23:29 < zlatan999> or representative of the project in any way :)
+23:32 < felixonmars> hualet: ^
+23:32 < felixonmars> fasheng: ^
+23:33 < hualet> zlatan999: I am, what's wrong :D
+23:34 < zlatan999> hah, nothing wrong I think :)
+23:34 < zlatan999> hualet: so I am sending the debian derivatives census to you guys
+23:34 < zlatan999> sent one like ~10 days ago, now forwarded to other mail addresses
+23:34 < zlatan999> so I was just thinking to maybe pop here directly
+23:34 < zlatan999> and ask the current situation
+23:36 < hualet> zlatan999: I don't know about it :D  where did you sent it ?
+23:37 < zlatan999> first mail to support@, other two (hr@ and business@) just forwarded few mins ago
+23:39 < hualet> hope they didn't treat it as spam
+23:41 < zlatan999> me too, would be great to see deepin join census and port/package your stuff into Debian directly (that would be mutual benefit) :)
+23:41 < zlatan999> also joing the derivatives talks on debconf would be good :)
+23:42 < hualet> zlatan999: I can go talk to the people that manage those email addresses tomorrow (it's too late here)
+23:42 < hualet> zlatan999: that would be great :D
+23:42 < zlatan999> hualet: yes, please do! :)
+23:43 < arunpyasi> hello !!!
+23:43 < arunpyasi> all
+23:43 < arunpyasi> brainy: hualet vodkode hi !!!
+23:43 < vodkode> heya arunpyasi how are you?
+23:43 < hualet> zlatan999: how can I reach to you tomorrow ?
+23:43 < brainy> hi arunpyasi bro!
+23:43 < hualet> arunpyasi: hi, long time no see :D
+23:44 < zlatan999> hualet: you can ping me via mail (zlatan@riseup.net) or find me on debian channels on OFTC
+23:44 < hualet> zlatan999: OK
+23:45 < zlatan999> hualet: okay, thanks a lot and I hope we see you on the census page! (and of course debconf talks) ;)
+23:45 < hualet> I'll give you answer tomorrow :D
+23:46 < hualet> zlatan999: again, that'll be great :D
+23:46 < arunpyasi> I am fine vodkode
+23:46 < arunpyasi> guys, I was in hospital for 8 days
+23:46 < arunpyasi> I was sick for 3 weeks :( :(
+23:47 < arunpyasi> now, I am better guys but I am very weak..
+23:47 < zlatan999> hualet: okay, thanks and cheers. good luck with all your efforts!
+23:47 < hualet> arunpyasi: what's wrong ?
+23:47 < hualet> zlatan999: thanks :D
+23:47 < arunpyasi> hualet: bro, I was suffering from high fever
+23:48 < arunpyasi> Paratyphoid.
+23:48 < hualet> arunpyasi: ah...sorry to hear that, you're fine now, right ?
+23:48 < arunpyasi> hualet: I am happy that you guys released 2015 :D
+23:49 < arunpyasi> yes bro now I am fine so, I started using PC. :D
+23:49 < arunpyasi> though I am feeling very week.
+23:49 < hualet> arunpyasi: I wanted to inform you, but you didn't get online :D
+23:49 < arunpyasi> hualet: I am downloading 2015 release....
+23:49 < arunpyasi> I wanna see you guys hard work :D
+23:49 < hualet> I didn't feel good these days, either
+23:50 < arunpyasi> I hope you have made cool stuffs in it :D
+23:50 < arunpyasi> hualet: ohh.. take care bro.. its cold, drink warm waters and wear warm clothes :D
+23:50 < arunpyasi> hualet: take care...
+23:50 < arunpyasi> brainy: how are you doing these days man ?
+23:51 < arunpyasi> vodkode: sorry bro, I couldn't continue with you :(
+23:51 < arunpyasi> I will be back in skype with you soon :D
+23:51 < hualet> arunpyasi: we didn't change a lot on the surface, but we did changed a lot beneath :D
+23:51 < arunpyasi> (y)
+23:51 < arunpyasi> cool bro
+23:52 < arunpyasi> you made cool wallpapers and effects on the surface? ;)
+23:52 < hualet> arunpyasi: thank you for you concern :D
+23:52 < arunpyasi> hualet: :D
+23:53 < hualet> we rebuilt the DE totally in Qt
+23:53 < arunpyasi> :D
+23:54 < arunpyasi> bro, you guys use QML with QT right ?
+23:54 < arunpyasi> or the design stuffs. :D
+23:55 < hualet> arunpyasi: we wrote much QML, but we may not use that much QML in the future
+23:55 < arunpyasi> hm.. ok bro.
+23:56  * felixonmars whispers: and they used gtk2 inside their QML widgets
+23:56  * felixonmars runs
+23:56 < arunpyasi> QT with Python or C/C++ ?
+23:57 < arunpyasi> hualet: ^
+23:57 < hualet> felixonmars: where are you running :D
+23:57 < hualet> Qt with C++
+23:57  * felixonmars digs a hole and hide himself in
+23:57 < hualet> arunpyasi: both Python and QML are slow
+23:57 < hualet> felixonmars: that's good :P
+23:58 < arunpyasi> hualet: bro, its not a question to ask to the team leader but I wanted to ask.. how fast is the speed improved than the previous 2014?
+23:58  * felixonmars whispers again: and they used qt5-webkit inside their QML widgets
+23:58 < arunpyasi> hualet: yeah bro, python and QML combination is more slow.
+23:59 < hualet> arunpyasi: I don't know, but many people says its really faster, maybe you can try it someday :D
+23:59 < brainy> arunpyasi bro , hope you feel better soon !!
