@@ -1,0 +1,134 @@
+00:39  * s991533 ha ...
+09:52 < hualet> felixonmars: hi what did you do yesterday dude ?
+09:53 < hualet> I called you but you didn't answer it :(
+10:15 < felixonmars> hualet: ah, i was having some family trouble :3
+10:16 < hualet> OK, we had hotspot for launch :D
+10:17 < felixonmars> hrm, wifi hotspot or java hotspot? xD
+10:17 < hualet> hotpot, sorry XD
+10:18 < felixonmars> o/ ah, i shouldn't have missed that...
+10:18 < hualet> yep
+10:19 < felixonmars> any new tags to celebrate the hotpot? xD
+10:19 < hualet> and we also had pedicure, it feels good :D
+10:20 < felixonmars> :O
+10:20 < felixonmars> not "great" cure?
+10:20 < hualet> felixonmars: ah, you can imagine that :P
+10:21 < felixonmars> xD
+10:21 < hualet> so, anything great to share with me ?
+10:23 < felixonmars> like wine 1.9.1 adds "api-ms-win-security-lsalookup-l1-1-1.dll.so"? xD
+10:24 < felixonmars> but seriously, the new nvidia beta driver is having too many problems that i do not suggest to bump...
+10:25 < hualet> I'm not sure if debian has updated it to beta
+10:25 < felixonmars> it breaks Qt5 badly, crashes sddm/deepin-notification/dde-osd/... on startup, and also breaks primus
+10:26 < hualet> ah...so it's not dde/deepin-*'s fault to break then XD
+10:26 < hualet> s/break/crash sorry
+10:27 < felixonmars> it's a hard choice though, because it also fixes lock issues under Skylake family
+10:28 < hualet> what will you do ?
+10:28 < felixonmars> now the best possible result is to binary patch 358 drivers for Skylake family. it is against the EULA iirc, so users will have to do that manually
+10:29 < hualet> binary patch ?
+10:29 < felixonmars> as someone pointed out: "In libEGL_nvidia.so.0 (md5sum 36a6edacefcd2893b3bc5c6c282943b6), replace  bytes "e8 64 d3 f8 ff" @ offset 0x95987 with "90 90 90 90 90".
+10:30 < felixonmars> this will fix 358 driver for the new cpus
+10:31 < hualet> sounds not user friendly
+10:31 < felixonmars> xD yeah
+10:31 < felixonmars> up to nvidia to fix their blob :/
+10:31 < hualet> you've done that kind of binary patch before ?
+10:31 < felixonmars> ye, i did...
+10:31 < hualet> great you
+10:31 < hualet> lol
+10:32 < felixonmars> o/
+10:32 < hualet> you've reported the issue ?
+10:32 < felixonmars> many users have...
+10:33 < felixonmars> and nvidia ignored it for ~5 months already
+10:33 < hualet> any office answers from nvidia ?
+10:33 < hualet> ah...
+10:34 < felixonmars> i don't have such new cpu myself, though xD
+10:36 < hualet> I don't even know what CPU I've got on the x230 laptop XD
+10:36 < felixonmars> should be something like core i5 :3
+10:36 < hualet> the other day I found that my laptop supports wake-on-lan :D
+10:37 < hualet> you reminds me, it's i7 XD
+10:37 < felixonmars> https://en.wikipedia.org/wiki/Skylake_%28microarchitecture%29
+10:37 < felixonmars> should be only affecting very new laptops
+10:39 < hualet> it's ready for sale ?
+10:40 < hualet> the wiki says it's been launched on August 2015
+10:45 < felixonmars> yeah, there are some iirc
+10:45 < felixonmars> at least we got waves of angry users on the bug tracker xD
+10:48 < hualet> haha, I hope deepin can share some waves of angry users from you guys XD
+10:50 < felixonmars> o/
+11:27 < hualet> hi sbw oahong :D
+11:27 < oahong> hi~
+11:27 < oahong> still in the office?
+11:28 < hualet> nope, at home for launch :D
+11:28 < hualet> no tech support work today oahong XD
+11:28 < brainy> hi hualet bro
+11:28 < hualet> hi brainy :D
+11:29 < hualet> long time no seeing the news, I heard a lot bad news of Germany, brainy
+11:30 < hualet> you live in Berlin iirc, right ? brainy
+11:31 < brainy> yes hualet bro, Berlin
+11:32 < brainy> xD
+11:33 < hualet> I need to cook launch for myself, see you later guys :D
+11:34 < brainy> see youi later man :d
+12:13 < brainy> hi oahong
+20:31 < noah_> hello,everyone!
+21:40 < brainy> Good morning hualet bro :)
+21:58 < hualet> hey brainy :D
+22:00 < brainy> hi hualet man :D
+22:02 < brainy> hualet, ,may I ask
+22:02 < brainy> Is hualet a name and what does it mean?
+22:03 < hualet> ah...it's a nickname my girl friend gives me
+22:04 < brainy> ahh nice man xD
+22:05 < hualet> hua is the name of mine, -let suffix means "little" in English, right?
+22:05 < hualet> so it means little hua XD
+22:10 < brainy> hualet, haha nice
+22:11 < brainy> hualet_, haha nice
+22:11 < hualet_> what about you brainy ?
+22:12 < brainy> hualet_, yes?
+22:13 < hualet_> you named youself brainy ?
+22:13 < hualet_> XD
+22:14 < brainy> hualet_, lol I chose "brain" as my Linux login and it was already taken on freenode , so I took brainy xD
+22:14 < brainy> Of course I'm not really brainy :D
+22:14 < hualet_> lol
+22:14 < brainy> Just average
+22:14 < hualet_> hah
+22:14 < brainy> xD
+22:18 < hualet> felixonmars: is there any log of #archlinux that public can access ?
+22:38 < brainy> hualet, bro, looks like he is away
+22:39 < hualet> maybe...
+22:39 < brainy> hualet, who inspires you more, Linus Thorvalds or Steve Jobs? :D
+22:41 < hualet> brainy: I don't get much inspiration from Linus, I have to say :D
+22:42 < hualet> but Steve Jobs seduced me to this industry XD
+22:42 < hualet> a book about Jobs I mean
+22:45 < brainy> haha ok, poor Linus
+22:45 < brainy> But Linus said "Fuck you nvidia"  xD
+22:46 < brainy> So he is a top player
+22:46 < hualet> that's not what I mean, I respect Linus much and I like him, but he did not inspire me much.
+22:46 < brainy> ok man :D
+22:46 < hualet> haha, he's sort of cool :D
+22:48 < hualet> I'm enlightened by three programmer : Jamie Zawinskie, Aaron Swartz, and Audrey Tang :D
+22:48 < hualet> s/programmer/programmers, sorry
+22:49 < brainy> yes I remember you told me about Aaron Swartz
+22:50 < brainy> Or was it s991533 , I can't remember
+22:50 < hualet> I did
+22:50 < brainy> Yes
+23:03 < brainy> hualet, I am now looking at the Wuhan Metro map
+23:03 < brainy> It's huge
+23:03 < brainy> At which underground station are the Deepin headquarters? :D
+23:23 < hualet> brainy: we're a bit far away from the central of Wuhan city, so there's no station around us for now
+23:24 < brainy> ok hualet
+23:25 < felixonmars> hualet: not sure, but there should be :3
+23:26 < hualet> felixonmars: you just took a nap or something ? :P
+23:27 < brainy> xD
+23:32 < felixonmars> hualet: i just took 3 hours on bus & subway
+23:33 < hualet> felixonmars: to where ?
+23:36 < felixonmars> from 沌口 to Guanggu xD
+23:37 < hualet> XD
+23:47 < billlias> hello guys
+23:48 < billlias> anyone here?
+23:51 < brainy> hi billlias
+23:52 < billlias> hey brainy
+23:54 < billlias> i have a question to make about the deepin-terminal, are you familiar with it?
+23:54 < brainy> billlias, no sorry
+23:54 < brainy> billlias, one person who could help you just left :/
+23:56 < billlias> oh, that's bad
+23:56 < billlias> guess i'll come by later
+23:57 < brainy> yes billlias
+23:57 < brainy> His name is "hualet", he is here every day
+23:57 < brainy> he will try to help you, other people are here too but not so frequently xD
+23:59 < brainy> see you later billlias \o/
