@@ -1,0 +1,70 @@
+09:40 < hualet_deepin> arunpyasi: hi brother :D
+09:40 < hualet_deepin> good morning
+09:40 < hualet_deepin> I heard someone need my help
+09:44 < arunpyasi> hi bro
+09:44 < arunpyasi> hualet_deepin: bro, Deepin 15 is cool :D
+09:44 < arunpyasi> hualet_deepin: I tried it :D
+09:44 < arunpyasi> hualet_deepin: but I got the control center hanging sometime..
+09:44 < hualet_deepin> arunpyasi: good to hear it XD
+09:45 < arunpyasi> hualet_deepin: bro, I noticed that you guys built deepin with Debian !!
+09:45 < hualet_deepin> oh...it doesn't roll back or it just hangs ?
+09:45 < arunpyasi> why you changed to debian bro ?
+09:45 < arunpyasi> hualet_deepin: it roll backs
+09:46 < arunpyasi> I liked the changes made :D
+09:46 < hualet_deepin> because ubuntu changes its repository now and then which will leads us to death
+09:46 < arunpyasi> hualet_deepin: it changed its repository ?
+09:47 < hualet_deepin> when it bump from one major version to another, yes
+09:47 < arunpyasi> hualet_deepin: bro, you guys rebuilt the debian repo completely ? I didn't see any external links to the debian repo.. I only saw the deepin repo :D
+09:47 < hualet_deepin> and when its repository changes, ah...we've got a lot of things to do XD
+09:48 < arunpyasi> yes I agree on that !!
+09:48 < arunpyasi> hualet_deepin: now, chitwanix 1.5 has gone to death
+09:48 < arunpyasi> :P
+09:48 < hualet_deepin> XD
+09:48 < arunpyasi> hualet_deepin: the defect of debian in nepal is that, we don't have a mirror in nepal for debian :(
+09:49 < arunpyasi> we only have that of ubuntu so, people love ubuntu as the download is fast..
+09:49 < arunpyasi> here, people use ubuntu or its derivatives more than other distros :P
+09:49 < hualet_deepin> really ? that's bad
+09:49 < arunpyasi> hualet_deepin: yeah man !!
+09:50 < arunpyasi> hualet_deepin: I wanna open a server to store only the linux distros mirrors... how much will it cost for the complete setup of that ISP ?
+09:50 < hualet_deepin> no one or organization wants to build a mirror for debian ?
+09:50 < hualet_deepin> I don't know
+09:50 < arunpyasi> hualet_deepin: an ISP wants to build but there are very less people to work..
+09:51 < arunpyasi> hualet_deepin: and they are busy maintaining the system.
+09:51 < hualet_deepin> in China, many colleges or companies own their mirrors
+09:52 < arunpyasi> cool.
+09:53 < arunpyasi> I wanted to own a server to mirror
+09:53 < arunpyasi> but no idea what are the setup and cost needed.
+09:53 < arunpyasi> I am wanting to open an ISP and host mirrors there.
+09:54 < arunpyasi> so that all the Nepalese would feel comfortable with all the distros
+10:32 < hualet_deepin> arunpyasi: great idea !
+10:36 < arunpyasi> but I need cost required for the setup lol
+10:36 < arunpyasi> I think I need contact some ISPs for the cost required.
+10:37 < arunpyasi> whats the time there bro ?
+12:09 < hualet_deepin> arunpyasi: sorry, I didn't notice your reply, it's 12:00am
+18:21 < brainy> hi sbw
+18:21 < sbw> hi :)
+18:21 < brainy> hualet_deepin, does sbw work for Deepin?
+18:21 < sbw> yes ˊ_>ˋ
+18:21 < brainy> Nice :D
+18:22 < felixonmars> sure, everyone here works for deepin except me :3
+18:22 < brainy> lol
+18:29 < hualet_deepin> you will, right ? felixonmars
+18:39 < felixonmars> xD
+18:44 < brainy> hi hualet_deepin xD
+19:13 < brainy> hualet_deepin,
+19:14 < brainy> I just noticed the topic was changed to "Deepin 15" but the typo is still there loool
+20:57 < brainy> welcome back dardevelin
+20:59 < dardevelin> brainy, thanks. how are you ?
+20:59 < brainy> dardevelin, I am fine thank you, and congratulations on your new Deepin 15 :)
+21:01 < dardevelin> congratulations on Deepin 15 ? i am not the one to take the credit for the work done
+21:06 < brainy> dardevelin, ah ok sorry
+21:07 < brainy> I must apologize.
+21:10 < dardevelin> brainy, ehehe it's ok. don't worry
+21:10 < dardevelin> nothing that harmful. I am just saying because if i was one of the developers i would appreciate to take the credit
+21:11 < dardevelin> and i feel that you are giving me credit for something i didn't do. so i cannot accept it
+21:18 < deep> ping admin
+21:21 < brainy> ping deep xD
+22:15 < deepin-bot> [manateelazycat]:  Hi, guys. ;)
+22:16 < brainy> hi
+22:19 < brainy> how are you manateelazycat?
+22:46 < brainy> deepin-bot,
