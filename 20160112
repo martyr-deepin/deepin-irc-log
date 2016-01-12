@@ -1,0 +1,80 @@
+09:54 < brainy> hey hualet_deepin
+09:54 < brainy> \o
+14:28 < zale> ?
+17:44 < brainy> hi felixonmars
+17:46 < hualet_deepin> hi brainy :D
+17:50 < brainy> hualet_deepin, hi man :D
+17:50 < brainy> hualet_deepin, do you know if felixonmars works for the Manjaro Deepin project?
+17:56 < felixonmars> nah, i don't :)
+17:57 < hualet_deepin> felixonmars works for nobody
+17:59 < felixonmars> hualet_deepin:  dde/dde-workspace 2.90.4 shouldn't be needed for deepin 2015 right?
+18:00 < hualet_deepin> felixonmars: yeah
+18:00 < hualet_deepin> it's the old version
+18:00 < felixonmars> ok, so fasheng may be pasting it by mistake
+18:30 < deepin-bot> [fasheng]: xD
+18:31 < brainy> oh fasheng is here
+18:31 < brainy> he is undercover today xD
+18:38 < deepin-bot> [fasheng]: my android phone encountered some problems today, and i always login freenode through it, so just offline today ;)
+19:06 < brainy> felixonmars, I still believe you are the head of Manjaro Deepin project ;)
+19:06 < brainy> you just work undercover
+19:15 < felixonmars> brainy: nah, they use my packages
+19:15 < felixonmars> but i do not work for them :P
+19:16 < brainy> felixonmars, ah ok, hehe
+20:31 < zale> 有人吗？
+20:33 < deepin-bot> [sbw]:  yes
+21:35 < Rosen> hello
+21:35 < Rosen> is deepin support hidpi displays
+21:35 < Rosen> ?
+21:36 < Rosen> i see finaly here is bulgarian language support
+21:36 < deepin-bot> [sbw]:  not yet
+21:36 < Rosen> but is it possible to change keyboard layout to Bulgarian BDS, instead of Bulgarian Phonetic ?
+21:39 < sbw> you can change keyboard in control center, but i dont know does there have your keyboard layout
+21:40 < Rosen> so bulgarian bds not available
+21:40 < Rosen> only phonetic
+21:40 < Rosen> but i need BDS
+21:40 < Rosen> so any another way to get BDS ?
+21:40 < Rosen> some config file edit ?
+21:41 < sbw> oh, im not sure, but i can help u to report this issue.
+21:44 < hualet> Rosen: still there ?
+22:25 < Rosen> yes
+22:25 < Rosen> hualet: i am here
+22:25 < hualet> Rosen: welcome back
+22:26 < hualet> the guy who maintains the keyboard layout is not here now, I'll let him know tomorrow morning :D
+22:27 < hualet> keyboard layout module of dde-control-center, I mean
+22:27 < Rosen> well
+22:28 < Rosen> so about another questions
+22:28 < Rosen> is it possible to have icons on desktop
+22:28 < hualet> of course you can
+22:28 < Rosen> is it possible setting for hidpi display
+22:29 < hualet> Our DE is not ready for high-dpi yet sadly
+22:29 < hualet> so it's not
+22:29 < hualet> Rosen: other questions ?
+22:30 < Rosen> for now no
+22:30 < Rosen> just for desktop icons
+22:30 < Rosen> how to enable them
+22:30 < Rosen> to be visible home folder
+22:31 < hualet> Rosen: when you say 'desktop icons' you mean the "Computer" and "Trash" icon ?
+22:31 < Rosen> computer trash home and etc
+22:32 < hualet> try to switch your Dock to classic mode or efficient mode
+22:32 < hualet> that will bring the icons back to your desktop
+22:33 < hualet> but it's not possible to show them while Dock is in fashion mode for now, we'll change this behavior soon in the future
+22:37 < Rosen> [   10.518160] wl: module license 'MIXED/Proprietary' taints kernel.
+22:37 < Rosen> what is that module wl ?
+22:37 < Rosen> is it releated to rtl8723be ?
+22:39 < hualet> Rosen: maybe, I'm not sure about that
+22:40 < hualet> you installed the proprietary driver ?
+22:40 < Rosen> no
+22:41 < Rosen> just asking because this is different than in ubuntu and debian
+22:41 < Rosen> where i have troubles with connection
+22:41 < Rosen> but with deepin connection is stable..
+22:43 < hualet> I bet that you installed the corresponding proprietary driver, you just didn't notice :D
+22:44 < Rosen> hm i do fresh install
+22:44 < Rosen> and only installed by me skype vlc firefox
+22:47 < hualet> OK... :/
+22:51 < Rosen> thanks for info and help. meybe in future time i will use again deepin linux.
+22:51 < Rosen> its nice
+22:51 < Rosen> but i have to wait some of this issues and features to be done
+22:52 < hualet> hi bobo___
+22:53 < hualet> Rosen: OK, just make your choice :D
+22:54 < bobo___> Hi hualet
+23:08 < Rosen> so my choice is clear i just will wait for this features
