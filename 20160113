@@ -1,0 +1,73 @@
+04:42 < zlatan> hi all, what is with deepin website?
+07:25 < brainy> hi felixonmars
+17:48 < ROKO__> hai
+18:40 < hualet_deepin> ROKO__: hi
+18:40 < ROKO__> hualet_deepin: any news about deepin plugin for keyboard layouts ?
+18:41 < hualet_deepin> what plugin ?
+18:41 < ROKO__> that we talk yesterday
+18:41 < ROKO__> and you tell me that is releated to deeping desktop
+18:41 < ROKO__> about keyboard layouts
+18:42 < hualet_deepin> ROKO__: oh, you changed your nick :D
+18:42 < ROKO__> i am the same :D
+18:43 < hualet_deepin> ROKO__: I found that there are 3 keyboard layouts available for Bulgarian
+18:43 < ROKO__> hm since when
+18:43 < ROKO__> i see only 2
+18:44 < hualet_deepin> really ? there're two variants and one without description
+18:44 < hualet_deepin> can't you see them ?
+18:44 < hualet_deepin> and I think the one without description is what you want
+18:44 < ROKO__> hm yesterday i see only 2
+18:44 < ROKO__> bulgarian traditional phonetic
+18:44 < ROKO__> and bulgarian new phonetic
+18:45 < ROKO__> but not only bulgarian
+18:45 < ROKO__> which i want
+18:45 < hualet_deepin> and now ?
+18:46 < ROKO__> hm i should see
+18:46 < ROKO__> can you post screenshot ?
+18:46 < hualet_deepin> I use Chinese version, Bulgarian is translated to Chinese
+18:47 < ROKO__> hh
+18:50 < hualet_deepin> ROKO__: http://imgur.com/KVYehnZ
+18:50 < ROKO__> so this is bulgarian too ?
+19:02 < hualet_deepin> ROKO__: it is Bulgarian in Chinese
+19:03 < ROKO__> http://imgur.com/YZ84boM
+19:03 < ROKO__> so i dont see on my installation such layout
+19:05 < ROKO__> are you sure its bulgarian and not belgian ?
+19:05 < hualet_deepin> ROKO__: I'm pretty sure
+19:06 < ROKO__> because as you see there is only two phonetic variants on my screen
+19:06 < hualet_deepin> ROKO__: go through all the list ?
+19:07 < ROKO__> all ?!
+19:07 < hualet_deepin> maybe it's somewhere not near his variants
+19:07 < hualet_deepin> ROKO__: relax, I mean all items in the B section :D
+19:08 < ROKO__> so i check them all
+19:08 < ROKO__> and there is no such
+19:10 < hualet_deepin> ROKO__: let me check that for ya :D
+19:16 < hualet_deepin> ROKO__: I can't find it either :(
+19:16 < hualet_deepin> try this   gsettings set com.deepin.dde.keyboard layout "bg;"
+19:17 < hualet_deepin> paste it in your terminal
+19:17 < hualet_deepin> it should work
+19:17 < hualet_deepin> it's a design problem, I'll tell our designers about it.
+19:22 < ROKO__> probably not work
+19:23 < ROKO__> hm i think now is shown in control center
+19:24 < ROKO__> i will test on notebook, i will install deepin at notebook
+19:25 < ROKO__> thanks for now i will be here latter
+19:34 < hualet_deepin> ROKO__: :D
+20:09 < brainy> wb hua xD
+20:16 < hualet> brainy: hey man :D
+20:17 < hualet> I didn't work over time today because I feel sick  :(
+20:18 < brainy> hualet, oh :(
+20:19 < brainy> hualet, do you have a cold?
+20:19 < hualet> brainy: maybe, I just bought medicine, hope I'll be fine tomorrow
+20:20 < brainy> I hope so too man
+20:21 < hualet> so what did you do these days :D
+20:27 < brainy> hualet, hi xD
+20:27 < brainy> Your connection is bad?
+20:50 < brainy> hualet tttttttttttttt
+20:50 < brainy> bro why you always leaving? :D
+20:50 < brainy> hi ohms360
+20:50 < brainy> That's an interesting nick name. xD
+20:57 < brainy> hualet
+20:57 < brainy> check check....1,2,3
+20:57 < brainy> Berlin to Wuhan
+20:57 < hualet> brainy: My network condition is not good at home.
+20:57 < brainy> he is here :D
+20:59 < hualet> who ?
+22:57 < brainy> welcome back felixonmars
