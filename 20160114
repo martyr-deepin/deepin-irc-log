@@ -1,0 +1,197 @@
+01:37 < LitoWushu_> hola alguien que hable español?
+10:44 < ohms360> <brainy> hi ohms360
+10:44 < ohms360> <brainy> That's an interesting nick name. xD
+10:45 < ohms360> well I apparently missed the conversation
+10:45 < ohms360> lol
+11:03 < hualet> hi ohms360 :D
+11:15 < ohms360> hi hualet
+11:15 < ohms360> :)
+11:15 < hualet> new friend, huh ? ohms360
+11:16 < ohms360> pretty much yeah,
+11:16 < ohms360> stumbled into this dist the other day
+11:16 < hualet> then welcome to the deepin channel :D
+11:16 < ohms360> thanks :-)
+11:16 < hualet> so how do you think about it
+11:17 < ohms360> bit of a debian nut so it all works well to my taste :D
+11:17 < ohms360> it's the first distro that isn't slackware that I can sit down and enjoy using with emacs
+11:17 < hualet> hmmm...you use emacs ?
+11:18 < ohms360> yep
+11:18 < ohms360> i also like marmite :P
+11:18 < hualet> I used it for a little while the other year
+11:19 < ohms360> back in 06 when i started using linux i struggled for a while with vim, never gelled with it
+11:19 < hualet> and what's marmite ?
+11:19 < ohms360> couple of months later tried emacs and i loved it
+11:20 < ohms360> it's a sort of paste you can put on toast and stuff, the slogan is "you either love it or hate it" :DF
+11:20 < hualet> yeah, I share the same experience with you :D
+11:20 < ohms360> http://i.telegraph.co.uk/multimedia/archive/02321/marmite_2321702b.jpg
+11:20 < hualet> I googled it and thought I got the wrong thing :D
+11:21 < ohms360> hahaha
+11:21 < hualet> you are from UK ?
+11:21 < ohms360> yeah
+11:21 < hualet> that's a good place :D
+11:22 < ohms360> to an extent ;-)
+11:23 < ohms360> but yeah, suitably impressed with deepin as a daily linux OS on my laptop
+11:23 < ohms360> everything works, just mirror is slow so i'm in the process of making my own on one of my servers
+11:23 < hualet> hmmm...please feel free to ping me here if you encounter some problems while using deepin :D
+11:23 < ohms360> sure thing thanks :-)
+11:24 < hualet> ohms360: you're going to build a mirror ?
+11:24 < ohms360> yeah
+11:24 < ohms360> see if that sorts out my slow repo gets
+11:25 < ohms360> i'm impatient ;-)
+11:25 < hualet> no mirrors of deepin repo in UK ?
+11:25 < ohms360> there's the university of kent mirror service but that's still pretty dismal
+11:26 < ohms360> where I am right now i can get about 200mbps down but still only get 800kb/s through that mirror
+11:26 < hualet> yeah, pretty much users come to me complaining the bad download speed :(
+11:27 < ohms360> the default repo was painfully slow for me, didn't bother seeing where it was located but I was getting about 32kb/s
+11:27 < hualet> wow, what I see is that's good enough :p
+11:27 < ohms360> lol
+11:27 < deepin-bot> [manateelazycat]:  hualet: Mirror selected is not work in Deepin 15, we need fixed it in 15.1, many people in other country report this problem.
+11:27 < ohms360> yeah
+11:27 < ohms360> i'm just changing it manually in my apt sources for now
+11:28 < hualet> yeah
+11:28 < deepin-bot> [manateelazycat]:  ohms360: emacs guy, welcome ! ;)
+11:28 < ohms360> greetings :D
+11:28 < hualet> lol
+11:29 < ohms360> my saying is if you can't use it comfortably in a coffee shop, you're using the wrong editor :P
+11:29 < hualet> so you can use emacs comfortably in a coffee shop :P
+11:30 < ohms360> yep :D
+11:30 < hualet> but not vim lol
+11:30 < ohms360> naw i can never get to grips with all of the key combos
+11:30 < hualet> what do you use deepin/emacs for ? coding or writing ?
+11:30 < deepin-bot> [manateelazycat]:  ohms360: http://www.emacswiki.org/emacs/andystewart my homepage, we have a lots words can talk. ;)
+11:30 < ohms360> coding obj-c, c and java
+11:31 < deepin-bot> [manateelazycat]:  ohms360: sorry, is this: http://www.emacswiki.org/emacs/AndyStewart
+11:31 < deepin-bot> [manateelazycat]:  ohms360: weclome to use deepin-emacs: sudo apt-get install deepin-emacs
+11:31 < ohms360> *click*
+11:31 < hualet> lazycat starts to show off his contributions to the emacs community :P
+11:32 < ohms360> hey, always nice to see stuff getting added :D
+11:32 < ohms360> i'll throw deepin on a wubi on my desktop and give it a go
+11:32 < hualet> ohms360: ah...languages I don't use much :D
+11:32 < ohms360> currently it's sat on my laptop for the past week and that's about it haha
+11:33 < ohms360> hualet, i'm one of those that mainly do magic in swift on xcode nowadays but whenever i do java or whatever i always prefer emacs for it
+11:33 < hualet> indie developer ?
+11:33 < ohms360> pretty much yeah
+11:33 < ohms360> just do it for my own gain and fun really
+11:34 < hualet> that sounds cool, great man
+11:34 < ohms360> anywho yes
+11:34  * ohms360 downloads deepin again
+11:35 < hualet> while I works on the web pages mostly nowadays :D
+11:35 < ohms360> anybody who does professional web development has my absolute respect
+11:36 < ohms360> i stopped freelancing as one just because of difficult people
+11:36 < hualet> difficult people ?
+11:37 < ohms360> yeah
+11:37 < ohms360> the last time i did anything was a series of marketing emails for a design agency
+11:38 < ohms360> and they did not have any clue on how to communicate colours in something designers would recognise: pantone or hex colours
+11:38 < ohms360> took me hours to convince them to give me their initial sketches via email
+11:39 < hualet> I can get you
+11:39 < hualet> that's the most thing we developers hate
+11:40 < ohms360> yeah
+11:40 < ohms360> like i say anybody who can continue to cope with it has my absolute respect
+11:41 < hualet> ohms360: hah, you get it wrong, when I say I works on the web pages I mean I mostly do schedules for my team :D
+11:42 < hualet> it's my fault :P
+11:42 < ohms360> oh haha either way still cool :-)
+11:42 < ohms360> nice to get to know you guys here :-)
+11:43 < hualet> ohms360: then how do you make a living as a indie developer ? I thought it was painful too
+11:43 < hualet> nice to know you too :D
+11:44 < ohms360> i took a path change a few months back instead of growing web design as a business and went to study at uni so I make my money through private reselling of webspace and photography/commercial videography
+11:44 < ohms360> hence I have mirrorspace :P
+11:45 < hualet> ohms360: hmmm...sounds less painful :P
+11:45 < ohms360> a lot less! :D
+11:46 < hualet> lol
+11:47 < hualet> ohms360: I need to cook myself launch, see you later :D
+11:47 < ohms360> take care man! :)
+11:47 < hualet> you too :D
+11:48 < ohms360> on that note i'm going to hit the hay and let my bnc lurk
+11:49 < ohms360> oh and pardon any lack of responses to highlights, all of my things running hexchat are awful at notifying me, normally things are OK when I use textual
+16:05 < lukas__> hey guys , i instaled deepin terminal in a arch distro but the terminal does not use my windows theme ..it keeps the deeping window theme ..anydoby know how i could make it use my own distro theme?
+16:09 < felixonmars> sbw: ^
+16:09  * felixonmars grabs a random person to answer xD
+16:10 < lukas__> haha
+16:11 < sbw> ..deepin terminal draw window chrome by it self
+16:12 < sbw> its a frameless window
+19:30 < tenowg> i will hunt the james richford
+19:30 < tenowg> my pull request will be accepted
+19:30 < tenowg> IT WILL
+20:50 < brainy> hualet, hi how are you today?
+20:51 < hualet> brainy: I took one day off
+20:51 < hualet> but I feel worse that yesterday XD
+20:53 < felixonmars> hualet: patpat~
+20:54 < hualet> felixonmars: that's saying hi to me ?
+20:54 < felixonmars> i'll let you off this time without asking for new tags xD
+20:55 < hualet> so sweet :D
+20:56 < brainy> hualet, I am making peppermint tea for you#
+20:56 < brainy> sugar or no sugar?
+20:57 < hualet> sugar please since I feel bitter now XD
+20:58 < brainy> here you are, hualet xD
+20:59  * hualet drink up all the tea brainy made for hualet 
+20:59 < brainy> lol
+21:05 < hualet> hi Vivians
+21:05 < sbw> its bot
+21:07 < brainy> xD
+21:07 < brainy> hey Choldrim
+21:07 < brainy> Not using deepin-bot today? :D
+21:10 < felixonmars> oh, so Choldrim is sbw?
+21:11 < deepin-bot> [sbw]:  nope :(
+21:11 < Vivians> hi, sbw :-)
+21:11 < felixonmars> hi sbw
+21:12 < brainy> hi sbw Vivians
+21:12 < sbw> hi :P
+21:13 < sbw> i will go back to home, bye.
+21:16 < ohms360> brainy: I do apologise for not responding to you the other day, I never see my hexchat notifications
+21:16 < ohms360> lol
+21:19 < brainy> haha ohms360 don't worry xD
+21:19 < brainy> thanks for responding now :P
+21:20 < ohms360> :D
+21:21 < ohms360> and yes, i am the lord of electrical resistance apparently :P
+21:23 < brainy> lol
+21:24 < ohms360> everything resists to work :D
+21:26 < brainy> haha yes everything needs a good resistance
+21:27 < brainy> Sometimes we need to hold back all the power or it wont work xD
+21:27 < brainy> that's where you come in xD
+21:29 < ohms360> :D
+21:43 < Choldrim> :D
+22:25 < Vivians> hi, bobo__ :-)
+22:26 < bobo__> hi, Vivians
+22:26 < brainy> bobo__ is in the house xD
+22:27 < bobo__> I didn't get it. Brainy
+22:29 < brainy> hi bobo__
+22:29 < bobo__> Hi brainy
+22:32 < hualet> we're getting more and more friends now XD
+22:33 < hualet> hi bobo__ brainy and ohms360 :D
+22:33 < bobo__> Hi hualet.
+22:35 < brainy> hi hualet haha
+22:36 < hualet> :D
+22:36 < hualet> felixonmars: any news to share with us ?
+22:38 < felixonmars> hualet: like now i maintain 234 haskell packages in Arch? xD
+22:39 < felixonmars> and got a thank-you email today for adding stack
+22:39 < hualet> what is stack ?
+22:39 < felixonmars> http://haskellstack.org/ :3
+22:39 < Vivians> ↑ Title: The Haskell Tool Stack &mdash; stack  documentation
+22:41 < hualet> it seems to be a great tool
+22:41 < felixonmars> yep :D
+22:49 < Vivians> hi, Rox :-)
+22:50 < Rox> Hi
+22:51 < brainy> welcome Rox
+22:51 < Rox> I'm using Deepin 15 is beautiful
+22:52 < brainy> Yes it is !
+22:52 < Rox> i love it <3 :D
+22:54 < Rox> it is final or rc?
+22:56 < Vivians> hi, cc__ :-)
+22:57 < brainy> Rox it is final
+22:57 < brainy> brb
+23:06 < Vivians> hi, brainy :-)
+23:08 < brainy> Vivians, you are the best.
+23:23 < Vivians> hi, Rox :-)
+23:26 < brainy> welcome back Rox
+23:46 < Vivians> hi, LitoWushu :-)
+23:46 < LitoWushu> hola
+23:46 < LitoWushu> alguien habla español?
+23:46 < LitoWushu> tengo un problema con la configuracion del proxy
+23:47 < brainy> hi LitoWushu
+23:47 < LitoWushu> i have a problem with proxy setting
+23:47 < LitoWushu> hi brainy
+23:47 < brainy> no spanish, sorry :(
+23:48 < LitoWushu> i speak english  a little
+23:48 < LitoWushu> yuo can help me
+23:49 < LitoWushu> how set proxy  setting on terminal
+23:55 < LitoWushu> hi
