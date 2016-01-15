@@ -1,0 +1,103 @@
+00:11 < brainy> Sorry I don't know :(
+00:54 < Vivians> hi, fasheng :-)
+01:18 < Vivians> hi, fasheng :-)
+03:17 < Vivians> hi, steven77 :-)
+03:17 < Vivians> hi, steven77 :-)
+03:18 < steven77> hello
+03:18 < steven77> good evening
+03:21 < steven77> all good ?
+06:00 < Vivians> hi, SolarAquarion :-)
+07:57 < Vivians> hi, arunpyasi :-)
+08:37 < arunpyasi> hi Vivians
+08:42 < Vivians> hi, sou_ :-)
+08:43 < sou_> Vivians: hello
+08:54 < Vivians> hi, sbw :-)
+08:54 < arunpyasi> this Vivians a bot !!!
+08:54 < arunpyasi> lol
+08:59 < Vivians> hi, hualet_deepin :-)
+10:08 < Vivians> hi, bobo__ :-)
+10:08 < bobo__> Hi Vivians
+10:37 < Vivians> hi, zachlhb :-)
+10:54 < Vivians> hi, ZacharyLiang :-)
+10:54 < ZacharyLiang> hello,everybody
+11:08 < Vivians> hi, ZacharyLiang :-)
+11:43 < arunpyasi> hualet_deepin: hi bro
+11:44 < hualet_deepin> arunpyasi: hey :D
+11:54 < arunpyasi> hualet_deepin: bro, yesterday we did bootcamp of linux
+11:54 < arunpyasi> and many people liked deepin a lot and installed.
+11:54 < arunpyasi> but in one system, it said Installation failed..
+11:54 < arunpyasi> and in one, the grub loader was flickering and stuck at 0
+11:55 < hualet_deepin> oh. that's bad
+11:55 < hualet_deepin> but thank you for promoting deepin :D
+11:56 < hualet_deepin> arunpyasi: why don't you just fire a bug in our bugzilla system ?
+12:02 < arunpyasi> hualet_deepin: hm.. good idea bro :D
+12:02 < arunpyasi> I'll do that soon.
+12:03 < arunpyasi> the problem is, I don't have that system specifications to report a bug. lol
+12:07 < hualet_deepin> arunpyasi: you didn't get a account ?
+12:12 < arunpyasi> bro, I mean, I don't have that hardware specification
+12:13 < arunpyasi> as it was done in bootcamp..
+12:13 < arunpyasi> I have no record of that PC's hardware.
+12:13 < hualet_deepin> arunpyasi: sorry, I misunderstood
+12:19 < arunpyasi> hehe :D
+12:19 < arunpyasi> no problem brp
+12:19 < arunpyasi> bro
+12:27 < Vivians> hi, fasheng :-)
+12:27 < Vivians> hi, hualet_deepin :-)
+12:52 < Vivians> hi, fasheng :-)
+12:58 < fasheng> Hi, Vivisns. we just thought you are a robot before. Welcome ;)
+12:59 < fasheng> Vivians xD
+15:37 < felixonmars> so he's really a bot :3
+15:52 < fasheng> Haha, that's right -_-!
+16:30 < Vivians> hi, fasheng :-)
+16:36 < Vivians> hi, fasheng :-)
+16:43 < Vivians> hi, fasheng :-)
+17:14 < Vivians> hi, fasheng :-)
+17:17 < fasheng> I see, i see, it's not a robot......
+17:24 < Vivians> hi, fasheng :-)
+17:26 < fasheng> How are you, Vivisns. i saw your message in github :)
+18:04 < Vivians> hi, deepin-bot :-)
+18:04 < Vivians> hi, deepin-ilbot :-)
+19:02 < Vivians> hi, sbw :-)
+19:06 < sbw> hi Vivians
+20:20 < felixonmars> fasheng: looks like deepin-control-center depends on an unreleased version of libdui
+20:21 < felixonmars> btw, since it's now 2015 stable, i would suggest to make use of versioned dependencies and sonames. each component should declare version requirements of its dependencies, and each library should have a soname bump for breaking changes
+20:23 < Vivians> hi, brainy :-)
+20:23 < brainy> hi Vivians , you are a very nice person
+20:25 < Vivians> hi, ZacharyLiang :-)
+20:26 < Vivians> hi, ZacharyLiang :-)
+20:26 < brainy> Vivians, you are making him crash
+20:27 < Vivians> hi, ZacharyLiang :-)
+20:27 < brainy> hi hualet_deepin bro
+20:27 < brainy> I can see you are feeling better already :D
+21:02 < Vivians> hi, fasheng :-)
+21:04 < brainy> hi, fasheng :-)
+21:31 < Vivians> hi, sbw :-)
+21:31 < felixonmars> sbw: sbw!!
+21:31 < sbw> hi!
+21:31 < felixonmars> sbw: let's tag a release for libdui xD
+21:32 < felixonmars> the new d-c-c release doesn't build with current libdui release
+21:32 < brainy> hi, sbw :-)
+21:33 < sbw> let me see see
+21:33 < felixonmars> thanks :D
+21:44 < sbw> i report to fasheng, i dont know how to push a tag with gerrit :(
+22:27 < felixonmars> kk :3
+22:30 < brainy> :-)
+22:34 < Vivians> hi, fasheng :-)
+22:36 < sbw> felixonmars: libdui now 1.2.8 released
+22:36 < felixonmars> yay thanks!
+22:43 < brainy> what is libdui for?
+22:43 < sbw> its a ui controls library
+22:43 < brainy> ok sounds good
+22:49 < Vivians> hi, SonikkuAmerica :-)
+22:52 < brainy> Hi, SolarAquarion :-)
+22:52 < brainy> oops I meant SonikkuAmerica
+22:53 < SonikkuAmerica> Hello people :D
+23:16 < brainy> Guys I have a question, thank you very much
+23:27 < Vivians> hi, bobo___ :-)
+23:29 < Vivians> hi, SonikkuAmerica :-)
+23:29 < SonikkuAmerica> Hello again
+23:40 < bobo___> hi Vivians
+23:41 < brainy> hi
+23:51 < brainy> hi SonikkuAmerica are you using Linux Deepin?
+23:51 < SonikkuAmerica> Not at the moment
+23:52 < brainy> Okay
