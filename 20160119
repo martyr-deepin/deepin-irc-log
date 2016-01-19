@@ -1,0 +1,72 @@
+08:12 < bobo___> Hi all
+08:30 < Giraffe_> hi
+19:37 < hualet_deepin> hello, new friends. Giraffe_ gsareon and Karbowiak
+19:37 < hualet_deepin> welcome :D
+19:38 < Karbowiak> heya, thanks :)
+19:52 < hualet_deepin> :D
+20:48 < brainy> hualet_deepin, hi \o
+20:48 < hualet_deepin> brainy: hi :D
+20:49 < hualet_deepin> I'm writing code
+20:49 < brainy> ok
+22:24 < brainy> hi hualet man
+22:34 < hualet> brainy: hi I'm home now
+23:02 < zlatan> hey hualet
+23:03 < hualet> hey zlatan :D
+23:03 < hualet> how are you
+23:03 < zlatan> question for all: are deeping images hybrid (so they can be installed on usb (via linux distro of course) with simple cp and sync?)
+23:04 < zlatan> hualet, I am fine, thanks. How are you? :)
+23:05 < hualet> zlatan: I'm fine too :D
+23:06 < hualet> zlatan: you want to make a bootable USB ?
+23:07 < zlatan> hualet, yea, I have this one laptop and I want to give it a spin but I only have Debian installed on everything :)
+23:07 < zlatan> so I am just checking the type of images :)
+23:07 < zlatan> Debian these days you just copy to usb and then use sync command to create bootable usb
+23:08 < hualet> zlatan: I'm afraid you can't just dd the image to a USB and boot it up successfully
+23:08 < zlatan> (copy the image to be precise)
+23:09 < hualet> I've never tried that, I always use the Deepin Boot Maker to create the USB
+23:09 < zlatan> hualet, is there and deb for deeping boot maker?
+23:09 < zlatan> s/and/an
+23:10 < brainy> doesn't unetbootin work?
+23:10 < zlatan> brainy, unetbootin is unreliable as hell last few years so I don't even try that
+23:11 < brainy> zlatan, well give it a try
+23:11 < zlatan> brainy, did you try it?
+23:12 < hualet> zlatan: http://packages.deepin.org/deepin/pool/main/d/deepin-boot-maker/ you can download it from there
+23:12 < brainy> nice hualet
+23:13 < hualet> zlatan brainy, some people tried unetbootin with deepin ISOs, some of them succeeded while some of them failed, I don't know why :D
+23:13 < zlatan> hualet, okay, thank you :) now just to find quick mirror to download deepin :)
+23:14 < brainy> hualet, for me the last version Deepin 2014.3 worked
+23:14 < brainy> dont know about Deepin 15
+23:14 < hualet> OK
+23:14 < brainy> zlatan, good luck with that xD
+23:15 < zlatan> brainy, haha :D
+23:15 < zlatan> hualet, what is the problem with your mirrors anyway? even the 1.4MB deb is not gonna be downloaded like ever :)
+23:16 < brainy> :(
+23:17 < hualet> zlatan: no way, it works well here.
+23:17 < brainy> hey zlatan , try this mirror:
+23:17 < brainy> http://ftp.fau.de/deepin/pool/main/d/deepin-boot-maker/
+23:18 < hualet> brainy: maybe you should suggest a mirror that near zlatan the most :/
+23:18 < brainy> hmm sorry, if he is in Europe, it should be good
+23:20 < zlatan> well I am in Germany currently :)
+23:20 < brainy> There you go :-)
+23:20 < zlatan> and I do live in Europe :)
+23:20 < brainy> perfect mirror then, hualet ;)
+23:20 < hualet> brainy: great :D
+23:21 < hualet> maybe you two should hang out some day ;)
+23:21 < brainy> :D
+23:21 < zlatan> okay, the german mirror for iso is also quite fast
+23:22 < brainy> nice
+23:32 < hualet> alright, guys. Gotta go to sleep.
+23:32 < hualet> see you brainy, zlatan feel free to leave messages here, I'll check tomorrow :
+23:32 < hualet> D
+23:33 < zlatan> hualet, g'night
+23:33 < zlatan> brainy, did you already tried 15?
+23:34 < brainy> only in a virtual box , zlatan bro
+23:34 < brainy> I need to backup my files first, then I want to try it
+23:34 < brainy> but im too lazy :P
+23:43 < zlatan> hm installed the deeping boot manager but it doesn't start here
+23:44 < zlatan> brainy, you did it with unetbootin?
+23:46 < brainy> zlatan, I managed to make a bootable USB with the previous version of Deepin
+23:46 < brainy> so can't say for sure about the current version if it will work
+23:46 < zlatan> oh it starts (actually needs user pass and not root one) - it should probably contain some msg if it fails (or I am missing modules for it to display)
+23:46 < brainy> ah, good!
+23:47 < zlatan> boot manager looks nice, lets see if it works :)
+23:56 < zlatan> yep, it works fine
