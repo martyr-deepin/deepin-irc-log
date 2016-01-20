@@ -1,0 +1,251 @@
+00:01 < brainy> congrats
+00:01 < brainy> xD
+00:17 < brainy> see you later zlatan and good luck :)
+02:24 < arunpyasi> hualet_deepin: Hi man
+02:24 < arunpyasi> how are you bro ?
+10:23 < brainy> hi
+14:01 < deepin-tgbridge> [Mingye Wang] grr..
+14:02 < tuna-user> hello, world!
+14:02 < deepin-tgbridge> [Mingye Wang] positive. it works.
+14:02 < tuna-user> (wheeeeeeeeeee)
+14:03 < tuna-user> personally i would like the thing to display tg usernames though.. #a2_todo
+14:04 < tuna-user> Will anyone run something like lisa or lqybot here actually? Or varia.
+14:04 < tuna-user> I really need a ping-back bot..
+14:05 < Arthur2e5> will anyone actually run some echo-bot on #deepin?
+14:06 < Arthur2e5> it sounds weird but I really need something to make sure my tgbridge is running well..
+14:06 < Arthur2e5> ....grrr wrong group
+14:07 < deepin-bot> [fasheng]: echo-bot? not yet here ;)
+14:07 < Arthur2e5> 0.0
+14:07 < Arthur2e5> where do you come from fasheng..
+14:08 < Arthur2e5> sometimes I get quite confused about which networks these bots connect to.
+14:08 < Arthur2e5> ah.. actually.. I can change the bot config so it omits the usernames for all the bridge bots..
+14:09 < Arthur2e5> yes!
+14:09 < Arthur2e5> and I added my name to the prefix-free 'bridge bot' list jajajajaja
+14:12 < fasheng_> :P
+14:12 < deepin-tgbridge> [Mingye Wang] :D
+14:13 < deepin-tgbridge> [Mingye Wang] （我真需要有人按着我的头让我写作文）
+14:18 < deepin-tgbridge> [Mingye Wang] ping
+14:24 < deepin-tgbridge> [Carlo] 按
+16:03 < zlatan> hi deeping folks :)
+16:03 < deepin-tgbridge> [Mingye Wang] Carlo: ……真悲伤我还在
+16:04 < zlatan> so just technical advice (as I installed deepin yesterday on one of laptops)
+16:05 < zlatan> you should use something like http(s) redirector (Debian has it) to point to nearest/best mirror according to geolocation of person
+16:05 < fasheng> hi, zlatan
+16:05 < zlatan> because until I fixed my sources.list with mirror that I thought is good enough, it didn't even worked (regarding updates, installation of software)
+16:05 < zlatan> fasheng, hi
+16:06 < deepin-tgbridge> [Mingye Wang] like mirrorbrain?
+16:13 < zlatan> deepin-tgbridge, http://httpredir.debian.org/
+17:22 < deepin-bot> [snyh]:  1.  Don't modify the sources.list .  see https://github.com/linuxdeepin/lastore-daemon/blob/master/deepin_repository.org (zh-cn only) >  2.  We will use tools like https://github.com/apenwarr/netselect to help people (show the tips in dde-control-center) find the best mirrors (But the decision is made by you)
+17:23 < deepin-bot> [snyh]:  3. What's http redirector ?
+17:37 < deepin-bot> [snyh]:  I find the httpredir.debian.org .   I will evaluate it latter.  Thanks for the information.
+19:26 < hualet_deepin> zlatan ohms360 , hi :D
+19:37 < zlatan> hi hualet_deepin
+19:37 < hualet_deepin> zlatan: we saw your suggestion, snyh replied but you've gone :(
+19:38 < zlatan> hualet_deepin, just cp me here again
+19:39 < zlatan> also I think you need to include by default plymouth-themes otherwise every new kernel will cry during initramfs rebuild :)
+19:39 < hualet_deepin> [snyh]:  1.  Don't modify the sources.list .  see https://github.com/linuxdeepin/lastore-daemon/blob/master/deepin_repository.org (zh-cn only) >  2.  We will use tools like https://github.com/apenwarr/netselect to help people (show the tips in dde-control-center) find the best mirrors (But the decision is made by you)
+19:39 < Vivians> ↑ Title: lastore-daemon/deepin_repository.org at master · linuxdeepin/lastore-daemon · GitHub
+19:39 < hualet_deepin> [snyh]:  3. What's http redirector ?
+19:39 < hualet_deepin> [snyh]:  I find the httpredir.debian.org .   I will evaluate it latter.  Thanks for the information.
+19:40 < zlatan> okay, yes, so basically what is on httpredir.debian.org is what you should implement
+19:41 < hualet_deepin> zlatan: need to leave for a moment, sorry
+19:41 < zlatan> k
+19:42 < Vivians> welcome, leaeasy :-\
+19:46 < Vivians> hi, cuihao -_-
+20:45 < Vivians> hi, sbw :)
+20:55 < Vivians> hi, bobo___ :P
+21:21 < Vivians> hello, brainy -_-
+21:21 < brainy> hi Vivians
+21:21 < Vivians> hi brainy
+21:24 < brainy> hi Vivians
+21:24 < Vivians> hi brainy
+21:41 < fasheng> OK, we have a echo-bot now ;)
+21:42 < brainy> :D
+21:50 < Vivians> hello, APINAPOIKAMIES :)
+21:59 < Vivians> how are you, hualet :-/
+21:59 < brainy> lol
+22:01 < Vivians> hi, leaeasy :)
+22:12 < Vivians> hey, hualet :-/
+22:15 < brainy> hi hualet :-/
+22:15 < hualet> brainy: hi :-/
+22:15 < Vivians> hi, bobo___ -_-
+22:16 < hualet> we all adopt the emotions Vivians've learnt :P
+22:16 < Vivians> we all adopt the emotions hualet've learnt :P
+22:16 < hualet> Vivians: you stupid bot
+22:16 < Vivians> hualet: you stupid bot
+22:16 < hualet> -_-
+22:18 < brainy> lool
+22:19 < brainy> hualet, do you use WeChat on your phone?
+22:20 < hualet> brainy: yeah, do you use wechat ?
+22:20 < brainy> hualet, I am trying but I have the old symbian version, it says connection problems
+22:21 < brainy> So I wonder either the version is too old or there are connection problems for all people
+22:21 < brainy> Do you have problems sometimes connecting?
+22:21 < bobo___> Hi Vivians
+22:21 < Vivians> Hi bobo___
+22:21 < hualet> brainy: nope
+22:21 < brainy> hualet, ok then my version is out-of-date
+22:21 < hualet> bobo___: it's just a stupid bot, leave it alone :D
+22:22 < hualet> brainy: yeah, if I remember right the symbian version is out of date long time ago
+22:22 < bobo___> ^_^
+22:23 < hualet> brainy: why don't you just update your phone ?
+22:23 < hualet> I mean since Android phones are all that cheap, right ?
+22:23 < brainy> hualet, I am a die-hard symbian fan :D
+22:23 < hualet> They'll bring you into a whole new world, think about it
+22:24 < brainy> I will use Symbian until the year 2100 or longer :D
+22:24 < hualet> but symbian is really dead, man
+22:24 < brainy> Yeah :/
+22:24 < hualet> no app vendors update their apps for it now
+22:25 < brainy> only whatsapp still does
+22:25 < hualet> really ?
+22:25 < brainy> yep
+22:25 < hualet> haha, great company
+22:26 < brainy> hualet, my first smartphone was Symbian in 2002, I have very nostalgic feelings, but you are right , I might get an Android phone soon
+22:26 < brainy> xD
+22:27 < hualet> brainy: you just made the right choice :D
+22:27 < brainy> haha
+22:27 < Vivians> how are you, fasheng :-\
+22:29 < brainy> hi fasheng :-\
+22:35 < bobo___> Which app do you guys recommend for IRC on linux? I use Hexchat right now.
+22:43 < Vivians> hi, hualet :)
+22:43 < hualet> bobo___: I think HexChat is good enough
+22:44 < hualet> and I use HexChat on linux too :D
+22:48 < brainy> HexChat/X-Chat/Pidgin
+22:49 < brainy> You can even use mIRC with wine
+22:50 < bobo___> Okay. Thanks, haulet, brany
+22:55 < Vivians> welcome, zlatan :P
+22:55 < zlatan> this bot is crazy
+22:55 < brainy> lol
+22:55 < brainy> hi zlatan , how do you like your new Deepin 15 ?
+22:55 < zlatan> brainy, I am a Debian user and developer :)
+22:56 < zlatan> but I already gave some technical remarks here about it
+22:56 < zlatan> on the user side
+22:56 < zlatan> I like new ideas, they seem to have nice desktop concept
+22:56 < deepin-bot> [manateelazycat]:  zlatan: Deepin is debian infact, with beautiful and easy to use DE. ;)
+22:56 < zlatan> but also it is the least responsive desktop I used :)
+22:56 < zlatan> yeah, I know it is Debian based :)
+22:57 < zlatan> I called you to join Debian Derivatives Census status
+22:57 < deepin-bot> [manateelazycat]:  zlatan: I look forward debian will use Deepin desktop as default someday.
+22:57 < zlatan> :)
+22:57 < zlatan> that could be true, but it needs to work a lot to get into same position as KDE and GNOME
+22:57 < deepin-bot> [manateelazycat]:  zlatan: Derek, lilongyu and fasheng has work on it. ;)
+22:58 < zlatan> yes, in contact with many (all) of you :)
+22:58 < zlatan> I am looking forward to deepin packages in debian :)
+22:58 < deepin-bot> [manateelazycat]:  zlatan: Yes, we need do better if we want push package to debian repo. ;)
+22:58 < zlatan> yes, I am giving some advices and checking packages :)
+22:59 < zlatan> you should all join on DebConf this year (I will probably send you some info once you put yourself into census)
+22:59 < deepin-bot> [manateelazycat]:  zlatan: Many deepin packages is not good enough with debian standard.
+22:59 < brainy> zlatan, how is the DE not responsive in your opinion? Just curious
+22:59 < zlatan> don't worry, that'w why me and other Debian people are here - to raise the quality bar :)
+23:00 < zlatan> brainy, well it could and should be more but it is not bad
+23:00 < deepin-bot> [manateelazycat]:  zlatan: DebConf can held on China? South Africa is too far for Deepin.
+23:01 < zlatan> DebConf can be held in China too, you need to bid for it if you want to held (deepin team could probably bid for it)
+23:02 < zlatan> brainy, being based on Qt toolkit means that they should be at least responsive as KDE but probably try to be better
+23:02 < zlatan> also Qt is evolving all the time
+23:02 < deepin-bot> [manateelazycat]:  zlatan: We still in start-up, if DebConf held in China, we can bid for it.
+23:03 < zlatan> so DebConf's are again done by volunteers from that country (of course they get help and advice from Debian Developers and Debian community)
+23:04 < zlatan> so this year is in SA
+23:05 < zlatan> for the next year currently are bidding Prague (Czech Republic) and Montreal (Canada)
+23:07 < brainy> What are those meetings for? Sorry I'm a newbie with this
+23:08 < Vivians> hello,  :)
+23:08  * andy`` Take emacs rcirc to talk. ;)
+23:08 < brainy> crazy n:D
+23:10 <@andy``> zlatan: We have many engineers in Deepin works for Debian, how we need to do make those engineers become debian developer？
+23:10 <@andy``> hualet: Looks you have got op. ;)
+23:11 < zlatan> andy``, so the process is by maintaining packages for some time
+23:11 < zlatan> also you need to get at least two debian developer signatures on your GPG key
+23:11 < zlatan> after some time of creating high-quality packages you decide (or I advice) to join the Debian New Member process
+23:12 < zlatan> there you get Application Manager who will question you in the process
+23:12 < zlatan> it start with philosophy and procedures for Debian
+23:12 < zlatan> and after that you do it well you go to technical part
+23:12 <@andy``> zlatan: I see.
+23:13 < zlatan> finish all good AM sends notice to Account Manager and they proceed with checking and create you a debian account
+23:13 < zlatan> so basically going to DebConf should be important step in choosing that (because of the keysigning party)
+23:14 < zlatan> but you can maintain packages for a year and once you and your sponsor feel comfortable with quality of your packages you just go and find at least 2 DDs for the signing
+23:14 < zlatan> brainy, DebConf are for meetings where Debian developers and its community meet to discuss about -Debian development of course
+23:15 < zlatan> but it is also a lot of fun time (I have sang karaoke for 10 hours this year until 7am with Werner Koch (the GPG creator))
+23:15 < brainy> ah ok, thanks zlatan for info
+23:15 < brainy> lool karaoke, nice man
+23:15 < zlatan> yea, my first and probably last time :)
+23:16 < zlatan> andy``, btw, AFAIK there are DDs in China
+23:20 <@andy``> zlatan: All DDs in China i have meet them.
+23:20 <@andy``> zlatan: Such as: Li DaoBing, Aron Xu, Su YunQiang
+23:21 < zlatan> so get your keys signed if you already didn't! :)
+23:21 < zlatan> there is also a Debian Maintainer title
+23:22 < zlatan> but I always advise going to Debian Developer status right away
+23:22 <@andy``> Infact, those two of DDs works in Deepin before.
+23:23 <@andy``> zlatan: I found many debian policies make deepin afraid to join debian community.
+23:24 < zlatan> andy``, such as?
+23:24 <@andy``> zlatan: Deepin is focus on create new applications/desktop environment/low-level libraries to change zoology of linux desktop.
+23:25 <@andy``> zlatan: Infact, we have many developers from debian/arch/gentoo, but we much not like traditional linux community.
+23:25 < zlatan> so what troubles you see in Debian policies?
+23:26 <@andy``> zlatan: We like create high-quality applications and technology, not just maintain package from upstream.
+23:26 < zlatan> yep, I know that and that is awesome - your own packages can be native to debian :)
+23:28 <@andy``> zlatan: Infact, not just debian, almost all linux distribution (sorry, i don't want to offend), we tried we need speed all time of developer to maintain package and nothing to do with improve quality of software.
+23:28 <@andy``> zlatan: All softwares of deepin is design from normal user's point, we want design and code it if user said something is not good for life or vs with Windows or Mac.
+23:29 < zlatan> so by default, maintaining the package is already raising your quality - you get all the lintian checks (it checks even source code for integration) and you learn to properly integrate it into your system so it doesn't get into disaster situation
+23:29 < zlatan> also you get 20+ years of superb practices developed by thousand of experts from all over the world
+23:30 < zlatan> you get the constant feedback from mixed community - hackers and users
+23:31 <@andy``> zlatan: IMO, so many linux distribution just re-package from upstream, and don't care user's report, most of distriction developer more care how new of technology and package version.
+23:31 < zlatan> yes,most distributions are made by a single person (because it is easy to fork debian)
+23:31 < zlatan> it is good to see deepin trying new stuff
+23:31 < zlatan> that is why I invited you
+23:32 <@andy``> zlatan: IMO, mixed community from hackers is not enough for modern users.
+23:32 < zlatan> debian has really mixed community - hackers are mostly developers, but we have millions of users worldwide using it for everyday tasks they need
+23:32 < zlatan> so you will get attention - trust me on that
+23:33 < zlatan> and you will get a lot of testing
+23:33 < zlatan> and you will get a lot of bug reports
+23:33 <@andy``> zlatan: Like Android, like windows and mac, they build so many high-quality software to make world better (though those OS is not open like linux)
+23:33 < zlatan> I agree with you, and that's why I am eager about your work :)
+23:34 <@andy``> zlatan: Sorry, i point is perhaps is much different with traditional linux developer.
+23:34  * andy`` Though i'm emacs developer and haskell developer before.
+23:35 < zlatan> I am for sure not a traditional developer, I am proponent of high-quality end-user software that has excellent integration and UI/UX :)
+23:36 <@andy``> zlatan: We even have a plan to build in-depend package format for desktop-applications, core of OS is base on Debian, all applications is use in-dependent package format to avoid many applications use same dependent.
+23:36 < deepin-bot> [snyh]:  zlatan: I'have read the way httpredir in http://httpredir.debian.org/   . And I think the way of deepin is more good than httpredir.  > zlatan: The core idea of deepin is  auto choose mirror is not the best one espciall
+23:36 < Vivians> ↑ Title: Debian mirrors HTTP redirector
+23:37 < zlatan> snyh, so redirector not only choose the fastest mirror but also the most fresh mirror
+23:37 <@andy``> zlatan: IMO, dependent design is very nice for server develop and maintain, but is suck for linux desktop.
+23:38 < zlatan> andy``, take a look at Limba project (made by debian developer)
+23:38 < deepin-bot> [snyh]:  zlatan: https://github.com/linuxdeepin/lastore-daemon/blob/master/deepin_repository.org  In this way, We make sure the mirror is 100% fresh.
+23:38 < Vivians> ↑ Title: lastore-daemon/deepin_repository.org at master · linuxdeepin/lastore-daemon · GitHub
+23:38 < deepin-bot> [snyh]:  I will translate it in English.
+23:38 <@andy``> zlatan: We build smart-mirror to choose mirror that has synchronous for update safely.
+23:38 < zlatan> snyh, AFAIK that is what redirector is doing to (and I using it for some time ~2 years and it really is good)
+23:39 < zlatan> s/to/too
+23:40 <@andy``> zlatan: Anyway, we will try to push deepin package to debian community with debian's package policy and quality.
+23:40 <@andy``> zlatan: All of above just my point that how deepin will move in the future.
+23:41 < zlatan> andy``, that is why debian exists, to give you the base, you choice your direction with our stability
+23:41 < zlatan> you will also get feedback on that and who knows, maybe you prove that is the better way and debian will surely adapt
+23:42 < zlatan> andy``, http://people.freedesktop.org/~mak/limba/
+23:42 < Vivians> ↑ Title: Limba Project - Home
+23:42 <@andy``> zlatan: We're build in-dependent format for applications, we hope this technology can help debian more better in linux desktop.
+23:42 <@andy``> zlatan: Thanks, i'm reading.
+23:44 < zlatan> also read https://wiki.gnome.org/Projects/SandboxedApps
+23:44 <@andy``> zlatan: Limba is not deepin want.
+23:44 < Vivians> ↑ Title: Projects/SandboxedApps - GNOME Wiki!
+23:45 <@andy``> zlatan: We do some research on xdg-app with btrfs for applications package format.
+23:45 <@andy``> zlatan: Infact, I don't think AppStream is good design for normal user.
+23:46 < zlatan> andy``, I really want you to share that points to upstream and on Debian devel lists!
+23:46 < zlatan> btw, do you plan to port your environment and apss to wayland?
+23:47 <@andy``> zlatan: IMO, PackageKit like projects is just good for command-line environment, but suck for graphics-design situation, such as software center.
+23:47 <@andy``> zlatan: All desktop environment and applications write in Qt5-Widget and Qt5-QML.
+23:48 <@andy``> zlatan: So it's really easy to port wayland, since qt5 has support different backend.
+23:48 < zlatan> okay, great
+23:49 < zlatan> btw, share your thoughts in blog and on debian lists (and upstream of course)
+23:49 < zlatan> btw I like your software center
+23:49 <@andy``> zlatan: Only obstacles we move to wayland is we think wayland is not good enough for video-card driver, since many driver still base on X11 GL.
+23:50 < zlatan> andy``, it will be done for it (even much better then X)
+23:50 < zlatan> also the Vulkan is arriving so video card part will improve a lot for drivers
+23:50 < zlatan> and AMD is committing it into open source driver (intel too, only nvidia sucks)
+23:51 <@andy``> zlatan: We will port to wayland until wayland driver finish (yes, nvidia is suck)
+23:52 < zlatan> wayland will be in really good shape (fedora is trying to push that hard so a lot of manpower will be on that)
+23:52 <@andy``> zlatan: We won't move to wayland and reason is we don't want normal user can't login in system after switch wayland.
+23:52 < zlatan> hm, for login wayland shouldn't have any problems already
+23:53 <@andy``> zlatan: All developing work of deepin is focus on normal user, we like new technology (such as use golang to develop DE), but we won't use new technology if it not good enough for normal user.
+23:53 <@andy``> zlatan: User can't login in if user install nividia driver, AFAIK
+23:53 < zlatan> that is why nvidia proprietary driver sucks and not wayland :)
+23:54 < zlatan> btw, normal users even don't know what they run (in sense of language) so you can develop it in haskell as far as they are concerned
+23:55 <@andy``> zlatan: We very happy move to wayland once all video-driver works well with wayland, but you know, it's does not depend on us. Maybe Steam will change those...
+23:56 < zlatan> of course, and I am not saying you should move to products that are not ready
+23:56 < zlatan> it was more as future based question
+23:58 <@andy``> zlatan: I don't want post my thoughts in blog, since i really tired a pointless quarrel with community developers. IMO, linux problem is talk is so many, but real product is so less. All developers in linux community spend all of they time on "which technology is better!!!", such as emacs and vi, gtk and qt, gnome and kde.
+23:59 <@andy``> zlatan: Yes, we will move to wayland in the future, that's we plan.
