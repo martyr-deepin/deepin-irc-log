@@ -1,0 +1,127 @@
+00:00 <@andy``> zlatan: As developers, i think wayland is much better than X11, and much faster.
+00:01 <@andy``> zlatan: Sorry, i talk so much tonight. ;)
+00:01 < zlatan> for me it is still daylight :D
+00:01 <@andy``> ah? ;)
+00:01 < zlatan> I understand your thoughts
+00:01 < zlatan> I am in Europe :)
+00:01 <@andy``> zlatan: cool.
+00:04 <@andy``> zlatan: All developer of deepin is dream, we hope use we code and product to change world, make everybody (not just developer) love linux!
+00:04 <@andy``> s/dream/dreamer
+00:04 < Giraffe_> andy good goals :)
+00:04 <@andy``> Giraffe_: Thanks!
+00:04 < Giraffe_> (havent gotten around to installing deepin yet though :( )
+00:04 < brainy> Deepin is not a dream, Deepin is reality ;)
+00:04 < zlatan> andy``, I agree, I have the same goal :)
+00:04 <@andy``> Giraffe_: Any problem with installing?
+00:04 < Giraffe_> havent tried yet
+00:04 < Giraffe_> Just havent had time
+00:04 < Giraffe_> (I need my laptop to be stable for the next week or so)
+00:05 <@andy``> zlatan: I dream someday hackers and artists can work together, build new community, not just technology, more about design and  human nature
+00:06 <@andy``> Giraffe_: Please post here if have any problem about Deepin, we will help you as soon as possible. ;)
+00:06 < Giraffe_> thanks
+00:06 < Giraffe_> Am curious, fedora partitioned one drive for me into  the /boot, /swap, etc
+00:07 < Giraffe_> Does deepin? Or do I need to make four partitions?
+00:07 < Giraffe_> (wonâ€™t stop me from installing, just dont want to make unnecessary partitions)
+00:07 <@andy``> Giraffe_: No, Deepin installer just need one participation default
+00:08 <@andy``> Giraffe_: We have two mode in deepin installer.
+00:08 <@andy``> Giraffe_: Default one is "simple mode", you just need click any participation you want, then click "install" button, that's all.
+00:08 < zlatan> andy``, yes, I have pretty much same vision
+00:09 <@andy``> Giraffe_: If you're linux power user, you can click "advanced mode" to build your own partitions like other linux distributions.
+00:09 < Giraffe_> awesome thanks
+00:10 <@andy``> Giraffe_: Deepin installers is simplest linux installer, you can install it easier than windows even you don't have any linux knowledge.
+00:10 < deepin-bot> [snyh]:  I have only 5% battery. :(
+00:11 <@andy``> snyh: go sleep, you need sleep, you're too tired.
+00:11 <@andy``> zlatan: snyh is CTO of deepin.
+00:11 < zlatan> excellent!
+00:12 < deepin-bot> [snyh]:  https://gist.github.com/snyh/3321c93c3ea310fc643f   I have share the simple idea
+00:12 < deepin-bot> [snyh]:  zlatan
+00:13 < deepin-bot> [snyh]:  simply say,  We don't believe server side way.
+00:13 <@andy``> zlatan: You can reading https://gist.github.com/snyh/3321c93c3ea310fc643f to understand smart-mirror that use by deepin software center. ;)
+00:16  * andy`` Need sleep now.
+00:16 <@andy``> zlatan: I need sleep now, keep touch. ;)
+00:17  * andy`` 00:16 AM now in China.
+00:21  * brainy slapped s991533 with a wet kipper!
+00:22 < brainy> Hi Vivians
+01:51 < brainy> hi Karbowiak
+01:53 < Karbowiak> hello
+02:05 < brainy> hi arunpyasi my bro
+02:09 < arunpyasi> hi brainy brother :D
+02:09 < arunpyasi> how are you bro ?
+02:09 < arunpyasi> brainy: bro, is very very cold here man :(
+02:16 < brainy> arunpyasi, I hope your home is warm man
+02:28 < brainy> arunpyasi, whats the temperature right now?
+02:36 < arunpyasi> brainy: 8 degree Celsius currently bro !
+02:36 < arunpyasi> brainy: whats temperature there?
+02:36 < brainy> arunpyasi, right now -4° C, bro
+02:37 < brainy> with some snow
+02:42 < arunpyasi> wow man !! :( How are you staying bro ?
+02:42 < arunpyasi> brainy: is winter vacation ?
+02:42 < brainy> arunpyasi, not right now bro
+02:43 < brainy> arunpyasi, when you wear warm clothes, everything is fine ;)
+02:43 < arunpyasi> ohh, so how are you guys working there ? brainy man, though I am wearning warm clothes, I am feeling cold :P
+02:43 < brainy> but if you go out with a t-shirt, you will have a problem :D
+02:43 < arunpyasi> yeah
+02:43 < brainy> haha
+02:48 < arunpyasi> brainy: bro, its raining since whole day here. :P
+02:48 < brainy> arunpyasi, so you can't go outside right?
+02:54 < arunpyasi> brainy: yeah bro..
+02:54 < arunpyasi> and its late night too :D
+02:59 < brainy> ok arunpyasi , don't forget your umbrella please xD
+09:44 < Vivians> hey, sbw -_-
+09:54 < deepin-bot> [jouyouyun]: test
+09:55 < Vivians> hello, brainy :)
+09:55 < brainy> how are you Vivians ?
+09:55 < Vivians> how are you brainy ?
+09:55 < brainy> Vivians is the best.
+09:55 < Vivians> brainy is the best.
+09:55 < brainy> Thanks!
+10:05 < Giraffe_> smart bot lol
+10:06 < Giraffe_> Vivian!
+10:06 < Giraffe_> Vivian?
+10:06 < Giraffe_> :(
+10:09 < brainy> xD
+10:26 < sbw> hahaha his name is Vivians
+10:26 < Vivians> hahaha his name is sbw
+10:30 < brainy> lol sbw
+11:58 < Vivians> hey, vodkode__ :-/
+11:59 < vodkode__> heya
+11:59 < vodkode__> how are you?
+13:14 < vodkode_> No word? :D
+18:04 < Vivians> hello, sbw :)
+18:42 < Vivians> how are you, brainy -_-
+18:48 < Vivians> how are you, leaeasy :-/
+21:37 < Vivians> welcome, hualet_deepin xD
+21:40 < Vivians> welcome, sbw :P
+22:54 < Vivians> welcome, bobo :-\
+23:02 < bobo> Hi all. Could someone help me to setup my openconnect? I cannot find a place to put my username and password.
+23:03 < Vivians> hi, hualet -_-
+23:04 < hualet> bobo: what's openconnect ?
+23:06 < Vivians> hello, brainy :P
+23:06 < brainy> hi Vivians my friend
+23:06 < Vivians> hi brainy my friend
+23:07 < hualet> hi brainy my friend :D
+23:08 < brainy> haha hi hualet
+23:08 < brainy> I think the bot likes you too.
+23:09 < hualet> lol
+23:10 < Vivians> hello, hualet :D
+23:12 < brainy> hualet, do you remember the bot of s991533 ?
+23:12 < brainy> xD
+23:12 < brainy> I think it has just returned
+23:13 < Vivians> hey, hualet :-/
+23:13 < hualet> nope, but I've heard it from you before
+23:13 < hualet> brainy: sorry, my network condition is bad at home
+23:15 < brainy> oops ok
+23:15 < hualet> where were we ?
+23:15 < hualet> ah... you said that s991533's bot is back
+23:15 < hualet> where is it ?
+23:16 < brainy> we were talking about bots
+23:16 < brainy> I think he destroyed it after too many complaints, lol
+23:18 < hualet> s991533 never talks now
+23:23 < brainy> yeah
+23:23 < brainy> He doesn't even have time to change the typo in the channel topic
+23:24 < brainy> Also, I still receive "Deepin 2014" message by ChanServ
+23:25 < hualet> Andy changed it before, sadly it was changed back XD
+23:25 < hualet> maybe by s991533 or his bot or something
+23:28 < brainy> lol
+23:28 < brainy> s991533 is in total control here xD
+23:51 < Vivians> hey, hualet :)
