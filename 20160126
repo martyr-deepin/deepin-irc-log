@@ -1,0 +1,89 @@
+00:40 < Vivians> how are you, Giraffe_ :-\
+00:42 < Vivians> welcome, Giraffe_ xD
+00:42 < Giraffe_> Vivians, I'm stupid
+00:42 < Vivians> Giraffe_, I'm stupid
+00:42 < Giraffe_> I know Vivians, I know.
+00:42 < Vivians> I know Giraffe_, I know.
+01:01 < Vivians> hi, bobo :-\
+01:02 < bobo> Hi Could someone help me have a look at the default mirror in /etc/apt/sources.list
+01:02 < bobo> Mine is http://packages.deepin.com/deepin
+01:02 < Vivians> bobo, ↑ Title: Index of /deepin/
+01:25 < Vivians> how are you, aimujie :P
+01:25 < aimujie> wow
+05:01 < Vivians> welcome, SonikkuAmerica :-/
+05:02 < SonikkuAmerica> yo
+05:54 < Vivians> hi, bobo :)
+07:45 < Vivians> hello, Karbowiak :-\
+09:05 < Vivians> hey, sbw :P
+10:48 < Vivians> welcome, bobo :P
+11:20 < Vivians> how are you, sbw :)
+11:39 < Vivians> hi, Karbowiak :-/
+11:41 < Vivians> hey, cuihao xD
+12:53 < Vivians> hello, hualet_deepin :)
+13:04 < Vivians> hey, zcbenz_ :D
+13:06 < Vivians> hello, zcbenz :P
+13:07 < zcbenz> you guys should really kick out the Vivians user
+13:07 < Vivians> you guys should really kick out the zcbenz user
+13:38 < Vivians> hello, hualet_deepin -_-
+14:23 < Vivians> welcome, cuihao :-\
+16:01 < Vivians> welcome, hualet_deepin :P
+16:03 < Vivians> hello, hualet_deepin :D
+16:05 < Vivians> how are you, hualet_deepin :-/
+16:06 < Vivians> welcome, hualet_deepin xD
+16:09 < Vivians> hello, hualet_deepin :-\
+21:35 < brainy> hi Vivians
+21:50 < brainy> hi sbw
+21:50 < sbw> hello
+22:29 < bobo> Hi all
+22:36 < brainy> hi bobo
+22:37 < bobo> Hi brainy. I miss Vivians. The bot is quiet :D
+22:37 < Vivians> Hi brainy. I miss bobo. The bot is quiet :D
+22:38 < bobo> :D
+22:38 < brainy> lol
+22:38 < bobo> lol
+22:38 < brainy> brainy loves Vivians
+22:38 < Vivians> brainy loves brainy
+22:47 < felixonmars> Vivians says hello to hualet
+22:47 < Vivians> felixonmars says hello to hualet
+22:47 < hualet> I thought Vivians was kicked out
+22:47 < Vivians> I thought hualet was kicked out
+22:47 < hualet> felixonmars: hi
+22:48 < brainy> hi hualet felixonmars Vivians
+22:48 < Vivians> hi hualet felixonmars brainy
+22:48 < felixonmars> o/
+22:48 < brainy> bobo, this bot is totally crazy xD
+22:48 < hualet> that bot drives me crazy
+22:49 < hualet> felixonmars: ah...one question for you, how did the bot in archlinux-cn works, how did it grab the major information from one url ?
+22:50 < felixonmars> hualet: it writes rule for certain sites, and use a general extractor for anything else
+22:51 < hualet> felixonmars: ok, I see
+22:51 < hualet> thx
+22:51 < felixonmars> normally it uses only the <title> fields
+22:52 < hualet> that sucks :P
+22:52 < hualet> I thought there's some general rules can apply to everything :D
+22:53 < hualet> I mean any url
+22:55 < brainy> Guys what's the difference between Chromium browser and Chrome browser?
+22:59 < brainy> hi clima
+22:59 < clima> hi
+23:14 < hualet> brainy: the flash player ? :P
+23:24 < brainy> ok thanks hualet
+23:26 < hualet> brainy: also Chromium is open sourced while Chrome is not, Chrome seems to be better maintained by Google :D
+23:28 < brainy> hualet, I cant find Chrome in the software manager of Mint
+23:29 < brainy> Need I download it separately?
+23:29 < brainy> Anyway , see you later hualet bro
+23:29 < felixonmars> yep. its license prevents redistribution.
+23:30 < felixonmars> :/ i'm too late
+23:30 < hualet> it seems that deepin violated that license ?
+23:31 < hualet> felixonmars: ^^^
+23:32 < felixonmars> yep
+23:32 < felixonmars> deepin may violate qq's license too
+23:33 < hualet> will Google and Tencent crush us like a bug ? :'(
+23:35 < felixonmars> hualet: community-driven distributions often take this very carefully. also companies in N.American/Europe will have to be careful
+23:36 < felixonmars> hualet: if deepin is going to do business in these regions, it would be a serious problem
+23:37 < hualet> felixonmars: OK, thanks for the information
+23:38 < hualet> it'll be long enough, maybe we can make a deal with Google and Tencent :P
+23:38 < felixonmars> the first EULA i got from kingsoft excludes N.American from redistribution, as they have something with microsoft
+23:38 < felixonmars> that's also a way to avoid legal problems - just don't distribute to those regions
+23:39 < felixonmars> but IANAL, so :P
+23:40 < hualet> felixonmars: but you hire lawyers :P
+23:40 < felixonmars> i can ask for legal advices from SPI though, but that's only for SPI member projects.
+23:42 < hualet> :D
