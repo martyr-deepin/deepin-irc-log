@@ -1,0 +1,128 @@
+10:02 < brainy> good morning all
+10:16 < brainy> hi Vivians bro
+10:16 < Vivians> hi brainy bro
+17:30 < tcstory> 我去,这么少人
+17:31 < tcstory> 本来还想温一点问题
+17:31 < deepin-bot> [sbw]:  hello
+17:44 < deepin-bot> [Choldrim]: Vivians: ..
+17:44 < Vivians> [Choldrim]: deepin-bot: ..
+17:45 < tcstory> ..
+17:45 < tcstory> 机器人啊?
+17:45 < sbw> 并不是
+17:47 < tcstory> ,,,
+17:47 < tcstory> 问一下,我找过交换ctrl和caplock的方法,好像没有剩下
+17:47 < tcstory> 生效
+17:47 < tcstory> 但觉deepin 的问题一直很多
+17:48 < sbw> 你咋交换的
+17:49 < tcstory> 没成功
+17:49 < tcstory> 找论坛找的帖子
+17:49 < sbw> 噢
+17:49 < tcstory> $ gsettings set com.deepin.dde.keybinding.mediakey capslock " "
+17:49 < tcstory> expected value:
+17:49 < tcstory>   (empty input)
+17:49 < tcstory>   ^
+17:49 < sbw> 我没试过
+17:50 < tcstory> 报了上面这个错误
+17:50 < sbw> $ test
+17:50 < sbw> 好吧
+17:51 < tcstory> ..
+17:51 < sbw> 你可以去提个bug
+17:51 < tcstory> 你就在这个频道吗?
+17:51 < tcstory> 感觉这个频道没有人啊
+17:51 < sbw> tcstory: gsettings set com.deepin.dde.keybinding.mediakey capslock "['']"
+17:51 < deepin-bot> [sonald]: tcstory: setxkbmap -option ctrl:nocaps
+17:52 < deepin-bot> [Choldrim]: Vivians: ...
+17:52 < Vivians> [Choldrim]: deepin-bot: ...
+17:52 < tcstory> 纳尼?
+17:52 < deepin-bot> [Choldrim]:  hi tcstory: ;)
+17:53 < tcstory> 额,到底是机器人吗
+17:53 < deepin-bot> [sbw]:  tcstory: 当然不是
+17:53 < tcstory> 我在双引号中间加了一对方括号,然后没有报错...
+17:53 < tcstory> 我重启一下电脑试试 有没有生效啊
+17:53 < deepin-bot> [Choldrim]:  deepin-bot 是个桥，不是机器人
+17:54 < deepin-bot> [sonald]: tcstory，设置完gsettings注销
+17:55 < sbw> 看来它已经重启了
+17:56 < sonald> 跑完这个 gsettings set com.deepin.dde.keybinding.mediakey capslock "['']"，注销登陆
+17:56 < sonald> 再运行 setxkbmap -option ctrl:nocaps
+17:56 < sbw> 它已经下线了，估计是重启去了。。
+17:57 < sonald> 很着急的走了。。。
+17:57 < deepin-bot> [Choldrim]: 他还会在回来吗？ --
+17:57 < tcstory> 额
+17:57 < tcstory> 师拜了
+17:57 < tcstory> 失败了
+17:57 < sbw> 你走太快啦
+17:57 < tcstory> 为啥
+17:58 < sbw> 17:56:27 - sonald: 跑完这个 gsettings set com.deepin.dde.keybinding.mediakey capslock "['']"，注销登陆
+17:58 < sbw> 17:56:41 - sonald: 再运行 setxkbmap -option ctrl:nocaps
+17:58 < tcstory> 哦  我再试试哦
+17:58 < deepin-bot> [Choldrim]: tcstory: 刚才你不在的时候说了很重要的东西
+17:58 < tcstory> 额
+17:58 < tcstory> 继续说
+17:58 < tcstory> 我固态硬盘,重启超级快的
+17:59 < sonald> 对了，把控制面板里‘键盘和语言’里的大小写提示关掉
+17:59 < sonald> 注销就行。。。
+17:59 < deepin-bot> [fasheng]: gsettings set com.deepin.dde.keyboard layout-options "[ctrl:nocaps]" >gsettings set com.deepin.dde.keybinding.mediakey capslock '' >如果还是不行，试下这两条命令吧
+18:00 < tcstory> ok
+18:00 < tcstory> 我先把你们说的命令复制下来先
+18:01 < sbw> :-P
+18:03 < tcstory> 可以了,谢谢大家啊
+18:03 < deepin-bot> [sbw]:  congratulations 😂
+18:03 < tcstory> 你们有谁的电脑是高分屏的吗?
+18:04 < tcstory> 哦,之前还遇到一个问题,就是插上耳机后,电脑没有声音了, 这个问题已经向官方反馈了
+18:05 < tcstory> :-D
+19:45 < brainy> hi hualet_ \o/
+19:46 < hualet_> hey brainy
+19:46 < brainy> hi felixonmars bro
+19:46 < brainy> \o/
+19:47 < felixonmars> hi brainy
+19:48 < hualet_> felixonmars, did you use bugzilla before ?
+19:48 < hualet_> any skills to share ?
+19:51 < felixonmars> hualet_: it's a mess...
+19:51 < hualet_> what?! why's that ?
+19:54 < felixonmars> well, old-school stuff.
+19:54 < felixonmars> good fit for old workflows
+19:55 < brainy> too many Linux-people stuck in the past, huh
+20:06 < brainy_> test
+20:15 < brainy> hi hualet__ man
+20:15 < brainy> I had connection problems too
+20:15 < brainy> You wanna call your ISP ?
+20:20 < hualet__> brainy, I don't know if it's a connection problem or bug of hexchat
+20:20 < brainy> hualet__, I think it's your connection bro
+20:23 < felixonmars> do you use znc?
+20:48 < hualet__> felixonmars, nope, do you use znc ?
+20:49 < hualet__> I don't use znc because I don't know how to set it up, and I didn't dig it up :P
+20:54 < brainy> Does this Vivians bot accept any commands?
+20:54 < Vivians> Does this brainy bot accept any commands?
+20:55 < sbw> it can resolve some url
+20:56 < brainy> But why did you put it here? xD
+20:56 < felixonmars> hualet__: yes i use it
+20:56 < felixonmars> so you see me in this channel all the time
+20:57 < hualet__> felixonmars, hmmm... then you won't miss any message ?
+20:58 < felixonmars> yes :)
+20:58 < felixonmars> is that a reason for you to dig into it? :P
+20:59 < hualet__> maybe, but I'm more interested in bugzilla
+20:59 < hualet__> :P
+21:00 < hualet__> tell me how it suck :D
+21:10 < felixonmars> o/ good luck
+21:10 < felixonmars> Perl/CGI, email-based
+21:11 < felixonmars> and... ugly xD
+21:12 < hualet__> email-based is killing me :(
+21:15 < felixonmars> xD
+21:22 < brainy_> Vivians is killing me too
+21:22 < Vivians> brainy_ is killing me too
+21:22 < brainy_> felixonmars, whats the disadvantage of email based?
+21:25 < hualet__> brainy_, it's too heavy, and lag on delivering messages, right ? felixonmars
+21:31 < felixonmars> hualet__: its actually a subjective thing :P
+21:41 < brainy_> hi bobo , man
+21:41 < brainy_> nice to see ya
+21:45 < bobo> Hi brainy
+21:47 < brainy> is bobo a chinese name?
+21:49 < bobo> No. That's a nickname from my wife.
+21:50 < bobo> No any special meaning.
+21:51 < brainy> nice man
+21:55 < hualet_deepin> bobo, cheers, hualet's also a nickname my girl friend gave me :D
+21:55 < brainy> xD
+22:15 < brainy> How are you guys?
+22:45 < brainy> I'm fine too xD
+23:00 < brainy> welcome back, bobo man
+23:06 < bobo> Hi brainy
