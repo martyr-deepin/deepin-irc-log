@@ -1,0 +1,47 @@
+00:17 < felixonmars> fasheng: bad news: new dde-daemon failed to build, because we cannot go get dependencies from dead google code :( http://i.imgur.com/FF0no1f.png
+00:18 < Vivians> felixonmars, ↑ Image/png, size = 838x457 pixels
+00:19 < felixonmars> so i have to delay the new dde-daemon release until i find a workaround
+09:20 < deepin-bot> [fasheng]: felixonmars: really bad news...
+10:19 < makkon>  Hi! Deepin 15 Well, this really is a bright star on the linux horizon. However, a small problem, Deepin does not fit for everyone except the British and the cultures that use the characters. Please note that most of the peoples use when typing native language together with Latin letters.
+10:20 < makkon> This requires constant switching of the keyboard layout, for example: EN/DE, EN/RU, EN/RU/KZ, EN/CH. Moreover, some countries officially use multiple languages, and thus can use more than two layouts! Also for the user it is important to see what kind of layout is currently enabled. For this purpose the screen should be a keyboard layout indicator! For example: EN/RU. In the community there are solutions to this problem. But this is 
+10:22 < makkon> But It seems like that switching between keyboard layouts is so slow. it will take 4 second of time. Is there any temporary solution to switch between keyboard layouts faster?﻿
+10:23 < sbw> yes, you can choose multiple keyboard layouts and toggle them by <Spuer + Space> shortcut key
+10:24 < makkon> it will take 3 second of time.
+10:26 < sbw> oh, we add a short delay before apply your change
+10:31 < makkon> Excuse me how to set 1 sec?
+10:33 < sbw> maybe you can report a suggest in http://bugzilla.deepin.io
+10:33 < Vivians> sbw, ↑ Title: Bugzilla Main Page
+10:37 < makkon>  Thank you!
+10:52 < makkon>  I can see it here：http://www.deepin.org//mirror.html Here only mirrors the repository Deepin 2014.3 Russia Yandex Linux mirror. Very good speed, not presents mirrors the repository Deepin 15.  Thanks
+10:52 < Vivians> makkon, ↑ Title: 镜像源  | 为全世界的电脑提供强劲动力！
+10:55 < hualet_deepin> makkon: still there?
+10:56 < hualet_deepin> we've fixed the problem, you'll see it takes effect immediately after you switch the keyboard layout with Super+Space
+10:57 < hualet_deepin> makkon: I mean after the update that will be released this weekend
+10:59 < makkon> Super+
+11:12 < makkon> hualet_deepin, Question 2. The keyboard layout only Rassian-legacy so the symbol is wrong type.
+11:15 < hualet_deepin> makkon: I'm not sure, but I see plenty keyboard layouts for Russian, have you tried other ones ?
+11:16 < makkon> 105 key win?
+11:19 < makkon> dos, phonetic so the symbol is wrong type.
+16:25 < felixonmars> <(=﹁"﹁=)> 咱 #archlinux-cn 都挂上了 deepin 15.1 的 topic，这边快更新呀
+16:32 < sbw> 这边还是 2014 released
+16:32 < deepin-bot> [sbw]:  😂
+22:45 < brainy> hey hualet
+22:45 < brainy> 8-)
+22:46 < hualet> hey brainy, what does that mean ? 8-)
+22:46 < brainy> It means a smiley with glasses :D
+22:48 < brainy> Have you never seen it before?
+23:04 < hualet> brainy: ah...It's quit graphic as you've explained it to me, I think I didn't see it before :D
+23:06 < brainy> hualet, ok no problem man xD
+23:08 < hualet> brainy: you wear glasses ?
+23:08 < brainy> yes hualet bro
+23:08 < brainy> Since I was 11
+23:08 < brainy> you too I think?
+23:09 < brainy> Judging from  the Photo which I saw
+23:15 < hualet> brainy: yeah since high school iirc
+23:17 < brainy> okay
+23:17 < brainy> hi bobo bro
+23:40 < brainy> hi hualet makkon
+23:40 < brainy> hey makkon , how are you?
+23:58 < bobo> Hi brainy
+23:58 < makkon> Hi ! Good evening I am here today asking the question ? I can see it here：http://www.deepin.org//mirror.html Here only mirrors the repository Deepin 2014.3 Russia Yandex Linux mirror- Very good speed ! Why not presents mirrors the repository Deepin 15?   - very sad ...  Is this fixed very soon ?
+23:58 < Vivians> makkon, ↑ Title: 镜像源  | 为全世界的电脑提供强劲动力！
