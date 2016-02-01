@@ -1,0 +1,180 @@
+08:28 < bobo__> Hi. My Desktop doesn't show any files or folders. I can still access them via file manage, but they don't show up in the desktop.
+08:37 < bobo__> help @fasheng
+09:07 < bobo__> Good morning, hualet_deepin sbw
+09:07 < hualet_deepin> morning bobo__
+09:07 < sbw> morning :P
+09:17 < bobo__> I have a problem.  My Desktop doesn't show any files or folders. I can still access them via file manage, but they don't show up in the desktop
+09:17 < bobo__> hualet_deepin, could you give me a temp solution? I have already reported the bug.
+09:19 < sbw> maybe is your dde-desktop crashed
+09:19 < sbw> you can try to execute dde-desktop in terminal
+09:20 < bobo__> dde-desktop is running!
+09:20 < bobo__> That's output
+09:20 < sbw> oh ;(
+09:20 < hualet_deepin> bobo__: you can kill dde-desktop after you logged in
+09:21 < hualet_deepin> our DE will bring it up later
+09:21 < bobo__> It works
+09:21 < bobo__> Great
+09:21 < bobo__> kill dde-desktop
+09:22 < bobo__> Thank you hualet_deepin sbw
+09:22 < bobo__> Hi brainy
+09:23 < hualet_deepin> bobo__: nah, sorry for the trouble
+09:23 < brainy> hi bobo__ bro
+09:23 < brainy> hi hualet_deepin man
+09:23 < bobo__> It's fine. Deepin is becoming better and better.
+09:29 < brainy> bobo__, have yound some bugs in Deepin?
+09:29 < brainy> "have you found"
+09:30 < hualet_deepin> brainy: some users reported that their dock became useless after they upgrade to 15.1 :(
+09:31 < brainy> oops..
+09:31 < bobo__> I just encounter one. hualet_deepin and sbw help me to solve it.
+10:48 < zhenxi> 我想问下，怎么用debootstrap装deepin 15呢
+10:49 < sbw> 没有用过
+10:50 < zhenxi> deepin 15的代号是什么啊
+10:50 < zhenxi> 发行版本代号
+10:51 < bobo__> 15.1? 猜的， 好像没名字
+10:52 < sbw> 好像真的没起名字23333
+10:52 < sbw> 是应该起个名字的
+15:50 < gromith> anyone here?
+15:50 < gromith> I'm running DDE on arch and my panel has disapeared :p
+15:52 < sbw> panel?  control panel? or dock?
+15:55 < gromith> The thing in the bottom of my screen
+15:55 < gromith> I guess that's a dock
+15:55 < gromith> I say "the thing in the bottom of my screen"
+15:55 < gromith> but it's not in the bottom of my screen right now
+15:55 < sbw> yes, its dock, you can execute pkill dde-dock in your terminal
+15:56 < gromith> ah thanks
+15:56 < gromith> that worked
+15:56 < sbw> and dde-dock should be auto restart and move to correct pos
+15:56 < gromith> doesn't auto-restart tbh
+15:56 < gromith> ah nvm it does
+15:56 < gromith> just takes a while
+15:57 < gromith> I was being impatient and starting it manually
+15:57 < gromith> cool, now I can do stuff :)
+15:57 < sbw> okay ╮(╯_╰)╭
+16:19 < gromith> btw, dunno if there are any devs here, but great work on deepin :)
+16:19 < gromith> and thanks for the help sbw
+21:19 < brainy> hi Flywater
+21:19 < brainy> long time no see
+21:19 < Flywater> hi
+21:53 < hualet_deepin> hi brainy
+22:00 < brainy> hi ohms360[a]
+22:00 < brainy> welcome back man
+22:08 < brainy> hi ohms360
+22:49 < hualet> hi brainy felixonmars ohms360
+22:52 < brainy> hi hualet xD
+22:52 < brainy> welcome back
+22:52 < brainy> Sorry I wasn't fast enough to say hi to you 1 hour ago
+22:52 < hualet> just get home
+22:52 < brainy> nice man, work was hard?
+22:53 < hualet> brainy: no, I didn't plan to do much this week since the day after tomorrow I'll leave for home
+22:54 < hualet> preparing for the upcoming Spring Festival celebration
+22:55 < brainy> nice hualet
+22:55 < brainy> but isn't spring next month?
+22:57 < hualet> this Sunday is the New Year's Eve, the day after Sunday will be the Spring Festival
+23:00 < brainy> hualet, cool man
+23:06 < aimujie> Wow
+23:06 < brainy> hi hualet bro
+23:06 < brainy> I am now reading about the Chinese calendar
+23:06 < hualet> hi aimujie
+23:06 < hualet> brainy: why ?
+23:07 < brainy> because you made me interested
+23:07 < hualet> to learn Chinese traditional festivals ?
+23:07 < hualet> brainy: XD
+23:07 < brainy> :D
+23:07 < aimujie> hi hualet
+23:07 < aimujie> :-D
+23:07 < brainy> hi aimujie
+23:08 < aimujie> hi brainy
+23:08 < hualet> our new friend
+23:11 < hualet> brainy: I'm learning go and haskell at the same time now XD
+23:11 < aimujie> Well brainy you can access Emacs's powerful calendar by <M-x>calendar<RET> :-)
+23:12 < aimujie> Wow hualet ;)
+23:12 < brainy> aimujie :D
+23:12 < hualet> aimujie: sounds like another emacs fan just popped up :P
+23:13 < aimujie> Haskell's not easy to learn
+23:13 < hualet> yeah, quit hard actually
+23:13 < aimujie> OF COURSE! long live RMS!
+23:13 < hualet> haha
+23:14 < hualet> aimujie: so you use deepin ?
+23:14 < brainy> hualet, I noticed that when I eat noodles and drink much water, then I can learn better xD
+23:14 < brainy> It's really helpful
+23:14 < hualet> brainy: lol
+23:15 < hualet> I want to sleep when I eat noodles and drink much water :P
+23:16 < hualet> hi HoloIRCUser2
+23:16 < brainy> lool
+23:16 < aimujie> M$ win 10 now
+23:16 < hualet> out new friend, NO.2
+23:16 < hualet> aimujie: ...
+23:16 < aimujie> I'm fighting with the Power Managerment Module of Linux now...
+23:17 < hualet> what's wrong ?
+23:17 < aimujie> Can
+23:18 < aimujie> It just can't adjust brightness
+23:18 < hualet> aimujie: you mean on deepin or other distros ?
+23:19 < brainy> I haven't used Windows for a looong time xD
+23:19 < brainy> hi bobo__ man
+23:20 < aimujie> all distro..might have sth wrong with my poor laptop..
+23:20 < brainy> yeah aimujie sometimes some hardware dont work well with linux
+23:20 < brainy> its a pity
+23:21 < aimujie> brainy that's true
+23:22 < hualet> that's bad then
+23:22 < aimujie> and it is the drivers that matters
+23:23 < hualet> yeah, it's pretty like a driver issue
+23:23 < bobo__> hi brainy
+23:24 < hualet> aimujie: what's your laptop ?
+23:24 < hualet> bobo__: hi
+23:24 < hualet> having a good time at home ?
+23:25 < aimujie> hualet u mean brand?
+23:25 < hualet> aimujie: brand, model and video card, etc.
+23:26 < aimujie> well i should try up
+23:27 < aimujie> update the kernel
+23:27 < aimujie> it's still in ver 3.8
+23:28 < felixonmars> meow
+23:29 < aimujie> meow
+23:29 < aimujie> wow such felix
+23:29 < aimujie> long time no see ;)
+23:30 < felixonmars> hi :3
+23:30 < hualet> you two knew each other ?
+23:31 < aimujie> felix's a famous arch maintainer, right?
+23:31 < felixonmars> arch maintainer is true, but not famous :P
+23:33 < hualet> felixonmars: don't be too humble, you're famous :P
+23:34 < felixonmars> ><
+23:39 < brainy> meow felixonmars
+23:39 < felixonmars> meow brainy :3
+23:40 < hualet> I just learnt that felix is sort of equal to cat a few days ago
+23:40 < brainy> Xd
+23:41 < hualet> so your name should be pronounced like felix-on-mars ? felixonmars :P
+23:42 < felixonmars> hualet: correct!
+23:42 < hualet> :D
+23:44 < hualet> I read it on Quora about an ancient animal called felix-somehing that can crunch human's skull
+23:44 < felixonmars> you should read something warmer in the cold winter
+23:45 < felixonmars> like www.felixthecat.com
+23:45 < hualet> like what ?
+23:45 < hualet> :/
+23:46 < hualet> looks very adorable, just your type :P
+23:47 < felixonmars> xD
+23:49 < brainy> haha
+23:50 < hualet> brainy: what's your suggestion ?
+23:51 < brainy> hualet, for what? :D
+23:52 < hualet> for something worth reading in this cold winter :P
+23:52 < brainy> hmmmm
+23:52 < brainy> I don't really read novels hualet bro
+23:53 < hualet> actually I'm reading a book about go programming language, but all I've read is about the history of Unix XD
+23:53 < brainy> But I liked to read Stephen King when I was younger
+23:53 < brainy> Do you know him?
+23:53 < hualet> I don't, let me search about him
+23:53 < brainy> hualet, you wanna learn all possible programming langauges? xD
+23:53 < brainy> your head will explode man
+23:54 < brainy> Stephen King writes horror books
+23:54 < hualet> brainy: nope, our team needs me to learn go.
+23:54 < brainy> oh ok
+23:55 < hualet> brainy: oh my god, forget about it then
+23:55 < brainy> lool
+23:55 < hualet> I don't like horror fictions
+23:55 < aimujie> How to go (lol)
+23:57 < hualet> actually I'm too timid to read horror fictions XD
+23:57 < hualet> and horror movies...
+23:58 < brainy> no problem hualet
+23:58 < brainy> You can read "Just for fun" by Linus Torvalds
+23:58 < brainy> Another "classic"
+23:58 < hualet> brainy: actually I've read it already
+23:59 < brainy> I thought so :P
+23:59 < aimujie> Have you read The Inevitable, hualet?
