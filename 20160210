@@ -1,0 +1,42 @@
+22:01 < Flywater> felix在吗？
+22:02 < Flywater> felixonmars: 在吗？
+22:02 < felixonmars> Flywater: 在
+22:03 < Flywater> 我想问问arch上libglvnd的事
+22:03 < felixonmars> https://bugs.archlinux.org/task/48109
+22:04 < Flywater> nvidia更新后起源引擎开发的游戏无法启动，是不是装了这个就行了？
+22:05 < felixonmars> 可以试试，但是我不保证是有效的
+22:05 < felixonmars> 我在两分钟前刚问了 nvidia 负责这块的员工
+22:05 < felixonmars> 给我的答复是他们还没找到原因
+22:06 < Flywater> 根据报错我觉得应该是库文件版本映射的原因。
+22:07 < Flywater> libglvnd应该起到一个调用合适的gl实现的作用（mesa或者私有库），但是不知道是调用失败了，还是调用没有被程序识别版本，总之是失败了。
+22:09 < Flywater> 明天我试试装上这个，问题如果解决了我会回复你的  felixonmars
+22:09 < felixonmars> 现在还做不到
+22:10 < felixonmars> 现在 libglvnd 只会调用到 nvidia
+22:10 < felixonmars> 总之……这个得等 nvidia 那边答复了
+22:11 < Flywater> 我用的是bumblebee
+22:12 < Flywater> felixonmars: 目前出问题的只有起源引擎开发的游戏，其他游戏运行正常。
+22:13 < felixonmars> 对
+22:13 < felixonmars> nvidia 上游给我的回复原文："I'll let my manager know to look at the L4D2 (and other valve games) regression ASAP \n we've got good contacts with Valve so hopefully they can fix the problem in their side too"
+22:14 < felixonmars> 所以……咱只能等啦 :P
+22:14 < deepin-bot> [sbw]:  😉
+22:14 < Flywater> fedora和gnome的多显卡实现计划里提到需要gl dispatch，不知道有了libglvnd他们什么时候能实现计划……
+22:14 < felixonmars> Flywater: nvidia 告诉我，他们要首先等 intel 实现 libglvnd 支持。
+22:15 < felixonmars> 而且 intel 方面已经确定会支持了。
+22:17 < Flywater> felixonmars: 还有bumblebee的问题，开发bumblebee的人员已经散的几乎没有了，前途未卜……
+22:17 < felixonmars> <(=﹁"﹁=)> 这个我帮不了你。我自己用的电脑没有双显卡的
+22:18 < Flywater> felixonmars: 如果问题能解决，libglvnd是不是应该作为nvidia的一个可选依赖？
+22:19 < felixonmars> 现在已经是 nvidia-libgl 的硬依赖了
+22:19 < felixonmars> 在我的新包里
+22:20 < Flywater> felixonmars: 那你知道bumblebee运行程序调用的gl库是哪里的吗？（不需要安装nvidia-libgl）
+22:20 < felixonmars> 原本在 nvidia-utils 里
+22:21 < felixonmars> 现在应该由 libglvnd 提供了
+22:21 < Flywater> 现在已经剥离了？
+22:21 < felixonmars> 暂时我还没办法解决这个冲突，因为文件名已经完全冲突了
+22:22 < Flywater> 那为什么不用bumblebee却需要安装nvidia-libgl？这一点我一直不明白到底是怎么回事。
+22:23 < Flywater> 之前我一直以为私有gl库是bumblebee提供的，所以不需要安装nvidia-libgl。
+22:25 < Flywater> felixonmars: 总之明天试试好了，行不行再告诉你。
+22:26 < felixonmars> 以前的 nvidia-libgl 包只有几个 symlink
+22:26 < felixonmars> 把 nvidia-utils 的 libGL 等库软链到 /usr/lib 里
+22:27 < felixonmars> 现在的情况相当于是 libglvnd + nvidia-utils 才提供了原来的 nvidia-utils
+22:28 < Flywater> fel
+22:28 < Flywater> felixonmars: 哦，明白了。thank you。
