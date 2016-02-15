@@ -1,0 +1,55 @@
+03:21 < Seffy> Hey guys just got myself DDE and wanted to say its amazing, but i seem to have few problems first one i cant hide icons on desktop and second one super key stopped calling launcher it wokred fine yesterday
+12:01 < felixonmars> sbw1: 说起来，我确定了那个 d-c-c 死锁的问题只在 nvidia 驱动重现
+12:27 < sbw1> felixonmars: 这么神奇，最新版本还是这样的吗？
+13:07 < felixonmars> sbw1: 是的……
+16:17 < leo_> HELP
+16:22 < leo_> deepin15.1的openvpn如何配置？哪里能找到帮助文档么？
+16:25 < deepin-bot> [fasheng]: leo_: 最近的版本连接openvpn会无法正确配置静态路由表, 是这个问题?
+16:33 < liujianfeng> fasheng: 对了，openconnect是怎么连的，我自己搭了个ocserv然后发现控制中心没有填用户名的选项
+16:59 < fasheng> liujianfeng: nm 只给 openconnect 提供了 gateway/cert 选项, 具体也太清楚..
+17:01 < fasheng> liujianfeng: 你们现在都是基于 docker 搭建服务吧, 有没有统一保存 dockerfile 配置文件的地方?
+17:52 < liujianfeng> fasheng: 现在是没有，都是保存到本机的
+17:58 < deepin-bot> [Choldrim]: eh.. liujianfeng: sorry，刚刚理解错了，应该说是有的，只是保存的时候并不是针对dockerfile进行保存，而是针对服务，比如这个：https://cr.deepin.io/#/admin/projects/it/sync-transifex，里面包含了dockerfile和docker容器的启动参数等
+18:18 < fasheng> Choldrim: 我准备专门针对网络模块搭建自动化测试, 也在考虑要不要把相关 dockerfile 整合起来, 另外我们也可以提供自己的 docker mirror, 以方便部署已配置过的image, 而且在离线环境下也不会受影响~
+18:34 < brainy> hi all, happy new year
+18:43 < rekols> Hello everbody
+18:44 < brainy> hi rekols , happy new year
+18:45 < rekols> Thank.
+18:45 < rekols> You all use deepin?
+18:50 < brainy> hi hualet_deepin bro
+19:10 < brainy> hi Flywater
+19:10 < brainy> Long time no see.
+19:21 < Flywater> brainy: hello
+19:22 < Flywater> felixonmars: 你认识 Aron Xu 吗？
+19:27 < felixonmars> Flywater: 有见过
+19:28 < Flywater> felixonmars: ……前两天我翻译了两个软件（pitivi和gedit）需要找他审阅提交一下，给他3个邮箱发了邮件也不知道看到没有。
+19:29 < felixonmars> 他那边翻译应该堆了很多吧……
+19:29 < Flywater> felixonmars: 现在在审阅翻译GIMP用户界面，费了我几乎两天时间才完成了约3/4……
+19:31 < Flywater> gnome本地化中国团队苦逼的没有审阅人，提交人还只有一个苏云强……
+19:32 < felixonmars> 嗯
+19:36 < Flywater> felixonmars: 几年前貌似大二，大三的时候在ubuntu的launchpad上搞翻译，还给他发过邮件，那时候很快就答复我了，不知道现在在忙什么……
+19:38 < felixonmars> （忙着谈恋爱（超大雾
+19:38 < Flywater> 哈哈
+19:42 < Flywater> felixonmars: 对了，有没有词典软件推荐？gnome自带的词典不能查中文……
+19:42 < felixonmars> ydcv 我写的（
+19:42 < Flywater> 我看看arch源里有没有
+19:44 < Flywater> felixonmars: 有道有软件接口可以开发第三方软件？
+19:45 < felixonmars> 对，这个是用的公开 API
+19:45 < felixonmars> Arch 仓库里有
+19:45 < Flywater> felixonmars: 你这软件开发的真够简洁的……
+19:46 < felixonmars> :P
+19:47 < Flywater> felixonmars: 国内词典网站有没有提供类似gnome词典使用的那种，服务器地址+网络端口可以供第三方软件在线查词的？
+19:48 < Flywater> felixonmars: 或者支持离线查询的软件也行。
+19:49 < Flywater> felixonmars: 你是不是该给你的ydcv写个man手册？
+19:53 < hualet_deepin> hi brainy
+20:03 < brainy> hi hualet_deepin
+20:08 < felixonmars> Flywater: 太简单了，有 --help 就足够了……
+20:08 < felixonmars> Flywater: 有道是有 API 的，我用的就是
+20:08 < felixonmars> hualet_deepin: it's been a week in the new year, and still no new tags!
+20:09 < brainy> happy new year felixonmars
+20:09 < Flywater> felixonmars: 起码可以在man手册里写一句：直接在终端输入命令运行该程序……
+20:09 < felixonmars> brainy: happy new year brainy :)
+20:09 < felixonmars> Flywater: = =||| （有人有兴趣的话就去做吧……%
+20:10 < Flywater> felixonmars: 我还是抓紧时间翻译GIMP吧，以GIMP的开发尿性不知道2.10什么时候才能发布……
+20:11 < felixonmars> <(=﹁"﹁=)> 估计审核那边已经堆满了
+20:12 < Flywater> felixonmars: 本地化文件里貌似有惊喜啊，已经为非破坏性编辑功能和批处理功能打下了基础。
