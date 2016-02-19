@@ -1,0 +1,53 @@
+00:07 < Velociround> hi everyone! I'm new here, and I want to start by saying Deepin is awesome!
+00:08 < Velociround> I'm running into a few problems, though; I can't figure out how to configure proxy server correctly. I was using Ubuntu before and everything worked with the proxy server, but in Deepin some apps are not working with proxy at all
+00:09 < Velociround> I configured apt-get apt.conf and now I have apt-get working with proxy. I also configured wgetrc to use the proxy. I also configured system-wide (Control Center) proxy settings and applied it
+00:10 < Velociround> but the system-wide proxy settings do not seem to work. Deepin Store can not connect to the internet. Chrome and Firefox can not connect to the internet.
+00:11 < Velociround> I managed to connect to the internet by overriding the proxy settings in Firefox settings. Firefox works now. But system-side (Control Center) proxy settings do not appear like they are working
+00:11 < Velociround> I tried searching Google all day but I can not find anything on the internet to fix this
+00:12 < Velociround> I am using Deepin 15.1 (based on Debian unstable)
+00:16 < Velociround> I tried in terminal to "echo $http_proxy" and it shows my proxy correct
+00:19 < Velociround_> I tried in terminal to "echo $http_proxy" and it shows my proxy correct, but the Deepin Store does not work
+00:59 < bobo> hi Velociround_
+01:00 < bobo> As I know, there is a bug for the proxy in deepin.
+01:01 < Velociround_> hi bobo! what do you mean by bug? Is there a workaround?
+01:01 < bobo> https://github.com/fasheng/arch-deepin/issues/241
+01:01 < bobo> It's a bug report in arch. I guess it's the same for original deepin.
+01:02 < Velociround_> I see... what's the difference between Deepin (original) and Deepin Arch, by the way?
+01:03 < Velociround_> I'm using Deepin at work and nothing works without a proxy here
+01:04 < bobo> You may try to ask deepin guys in the daytime( + 8 time zone). They are sleeping now.
+01:04 < bobo> Sorry for that
+01:04 < bobo> They may have a temp solution.
+01:05 < bobo> To my opion, the difference between manjaro deepin and original deepin is the software management.
+01:06 < bobo> In origianl deepin, there is deepin software store. In manjaro, they use aur and pacman.
+01:08 < Velociround_> Thank you. I'm trying to find a temp solution or workaround. I used Deepin at home and I loved, everything worked just fine, so I installed it at work but when I tried to set up proxy it didn't work
+01:09 < Velociround_> I work at infrastructure and we use the proxy for everything (this way we can monitor every user and their history on the internet). It's not up to me, though, so I can't simply decide not to use the proxy server; all connections are refused/denied without a proxy
+01:10 < Velociround_> When I setup proxy in apt.conf I managed to download Firefox and override the system proxy settings in Firefox, so I could at least search for a solution on the internet
+01:12 < Velociround_> Thank you again, I'll keep searching for a solution, and I'll try to talk to the Deepin guys when they are awake. I'm at -3 time zone
+01:14 < bobo> https://github.com/linuxdeepin/lastore-daemon/blob/master/deepin_repository.org
+01:14 < bobo> This is about the repository in deepin.
+01:14 < bobo> I cannot find the English version. It's chinese.
+02:46 < Velociround_> I translated it using Google Translate but couldn't see how I could use it to setup the proxy. It seems to explain how the Deepin Store communicates with the server to update software
+04:36 < mdfkr> hello
+05:03 < mdfkr> anyone here can support me?
+05:59 < Kezzly> Does anybody know if this version supports Mobile Broadband connection? Deepin 14 doesn't.
+06:14 < Guest43514> Hi guy s
+09:09 < arunpyasi> hi hualet_deepin
+11:49 < makkon> Hi all
+12:05 < makkon> hi bobo
+14:07 < makkon>  Hello everybody! who at the link
+19:57 < Velociround> hello everyone
+21:20 < makkon> Hello everybody! who at the link
+21:29 < deepin-bot> [fasheng]: Hello :)
+21:36 < makkon> Now presents  repository Deepin 15  http://mirror.yandex.ru/mirrors/deepin/packages/dists/unstable/ - very good speed! Please add Deepin Russia Yandex Linux mirror  for mirror switching function to Control Center   . Thanks for your understanding and support!
+21:37 < deepin-bot> [fasheng]: makkon: Amazing job, thanks~
+21:39 < deepin-bot> [snyh]:  makkon: very tks.   we will update mirror list.
+21:42 < felixonmars> fasheng: two build errors in new tags so far. 1) dde-control-center requires unreleased version of libdui 2) deepin-daemon requires unreleased version of go-lib
+21:55 < deepin-bot> [fasheng]: felixonmars: i see .
+22:04 < deepin-bot> [fasheng]: felixonmars: please try again, some tags lost for the gerrit was restarted...
+22:04 < felixonmars> ok
+22:05 < felixonmars> also deepin-game's repo is gone, so i think it's dropped completely, right?
+22:07 < deepin-bot> [fasheng]: it's there, but named as `old/deepin-game` now in gerrit
+22:08 < felixonmars> ok
+22:21 < brainy> hi my friendz
+22:40 < felixonmars> hi brainy
+22:40 < brainy> hi felixonmars \o
