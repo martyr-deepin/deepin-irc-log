@@ -1,0 +1,66 @@
+01:10 < tulipm> hi
+01:11 < tulipm> Where is the sourcecode for the part relevant for virtual desktops?
+01:11 < tulipm> I'm curious how much work it requires to add multiple wallpaper support :)
+01:11 < tulipm> or if there is already a PR available somewhere
+01:14 < deepin-bot> [manateelazycat]:  tulipm: We will add multiple wallpaper in next version, that every virtual desktop has it's own wallpaper
+01:15 < deepin-bot> [manateelazycat]:  tulipm: We have this mission one year ago, just not enough time implement in Deepin 15
+01:16 < tulipm> oh that's awesome!
+01:16 < deepin-bot> [manateelazycat]:  tulipm: And we will open the setting of login/lock background in next version.
+01:17 < deepin-bot> [manateelazycat]:  tulipm: Thanks for your suggestion anyway! ;)
+01:17 < tulipm> Magnificent!
+01:19 < tulipm> As far as I've seen, there are many python based applications. I've not profiled it yet, but appears like that dde-session-daemon has some memory regressions. Or it's implementation requires unusual amounts of ram on a fresh install
+01:22 < felixonmars> dde-session-daemon was written in Go though :P
+01:23 < tulipm> Indeed, I've just noticed that. Which is a good choice, afaik go's toolset has good profiling support.
+01:34 < arunpyasi> hi everyone
+01:34 < tulipm> hmm checking https://github.com/linuxdeepin/dde-daemon/blob/master/bin/dde-session-daemon/daemon.go I can't see an obvious problem. Using mutex to pass data and for locking is not the fastest method, but it's quite common and the impl. looks streightforward.
+01:38 < deepin-bot> [manateelazycat]:  tulipm: Welcome to join us, happy hacking! ;)
+01:41 < tulipm> Thank you :)
+07:18 < makkon>  Hello all! 善良的人们，看过你们的新年，你睡着了这里如果你不喜欢，我们将不会在这里写的
+07:18 < makkon> if not so, sorry
+07:40 < makkon> 晚安，你已经创造了一个独特，转发正确的更新
+07:45 < makkon> 如果出现问题，请见谅
+07:55 < makkon> 睡个好觉
+07:56 < makkon> if not so, sorry
+08:15 < makkon> 好，我们爱你，我们爱Deepin
+09:15 < makkon> Hi all!
+09:18 < deepin-bot> [Derek Dai]:  hi
+09:19 < makkon> 睡得好吗? 已经是早上了吗?
+09:23 < makkon> 你真的
+09:24 < deepin-bot> [snyh]:  makkon:  yes. We have begun working now .
+09:26 < makkon> Sir, Good, we love you and we love Deepin!
+09:35 < makkon> Clarify please, if there is no adequate response to a question on the site Deepin, here you can ask a question?
+09:39 < deepin-bot> [snyh]:  makkon:  You can ask question in github.com/linuxdeepin if you are a developer    Or you can report bug in bugzilla.deepin.io .  Or you can discuss in http://en.bbs.deepin.org/ . > And of course you can ask in here :)
+09:40 < makkon> Clarify please, if you can not, I will not distract you.
+10:16 < makkon> Clarify please, at the Deepin  website gave advice http://en.bbs.deepin.org/forum.php?mod=viewthread&tid=30495&page=1#pid140804
+10:16 < makkon>  	 7# tristar
+10:17 < makkon>  	 9# makkon Post time 5 day(s) ago | Show the author posts only Hi all! Updated Deepen15.1 successfully. Bat, high load process Deepin-WM 30-50 %, was to reinstall the driver NVidia340. >  5) ctr+alt+f1 - to terminal ... > sudo su - >  sgfxi >   i + enter sudo su - $ command not found $ su - $ command not found Entered through the login root #sgfxi all installer  files successfully. Reboot. DDE does not start, the console login...
+10:19 < makkon>  Clarify please, how to solve the problem?
+10:31 < makkon> please,we are waiting for an adequate response to the question on the website Deepin
+10:38 < makkon> Excuse me, I think that there should be no questions unanswered, so I ask the question here on the website no answer
+10:44 < deepin-bot> [fasheng]: makkon: i'm not familiar with sgfxi, have you read the document of it? maybe it helps :)
+10:45 < deepin-bot> [fasheng]: makkon: and the property drivers not works for all cards, maybe you could try to make a fallback...
+19:15 < g14nd32> hi deepin master... can u help me?
+19:24 < deepin-bot> [fasheng]: hi, what's wrong?
+22:25 < brainy> hi hualet big bro :D
+22:26 < hualet> hi brainy :D
+22:43 < bobo123> Hi brainy
+22:44 < brainy> hi bobo123 man :D
+22:44 < brainy> Nice to see you
+22:44 < bobo123> Nice to see you, too
+22:51 < brainy> hualet, still having toothache??
+22:53 < hualet> brainy: yeah, but better than yesterday, I've made an appointment to extract the bad tooth tomorrow morning
+22:54 < brainy> Ohhh thats good (and bad of course)
+22:54 < brainy> Finally it will be over
+22:54 < brainy> Then you can go back to programming like a pro!
+22:54 < brainy> xD
+22:55 < hualet> brainy: I hope so
+22:58 < bobo123> Hi hualet , how are you
+22:59 < bobo123> Hope you are getting better, hualet
+22:59 < hualet> bobo123: thanks :D
+23:00 < brainy> hualet, will the insurance pay or you have to pay all by yourself?
+23:04 < hualet> brainy: I'll use my provident fund, I don't know if you can understand
+23:05 < brainy> hmmm ok
+23:09 < felixonmars> patpat hualet
+23:10 < brainy> felixonmars, hi \o/
+23:10 < felixonmars> hi brainy
+23:30 < brainy> bye all
