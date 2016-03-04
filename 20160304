@@ -1,0 +1,18 @@
+00:03 < makkon> Hi All!  Aren't you ashamed?
+00:06 < bobo123> HI makkon
+17:21 < qih> Hi, is Skype available as a package in Deepin 15?
+17:44 < qih> deepin-bot: help
+17:44 < qih> Nope, wrong cmd
+17:47 < qih> Found it: http://wiki.deepin.org/index.php?title=Recommended_Applications#Network_Application
+17:47 < Vivians> qih, ↑ Err: 404 Not Found
+17:47 < qih> Vivians: ?
+17:47 < Vivians> qih: ?
+17:48 < qih> Vivians: You're a bot, right?
+17:48 < Vivians> qih: You're a bot, right?
+17:49 < qih> Indeed you are, see ya.
+18:04 < deepin-bot> [Derek Dai]:  Hi, qih
+18:05 < deepin-bot> [Derek Dai]:  you can download skype from the official site http://www.skype.com/en/download-skype/skype-for-computer/
+18:05 < Vivians> deepin-bot, ↑ Title: 下载_Skype简体中文版官方网站-清晰的免费网络电话
+18:07 < deepin-bot> [Derek Dai]:  since skype have only 32bit version, you need multiarch support enabled, run `sudo dpkg --add-architecture i386` then `sudo apt-get update`
+18:09 < deepin-bot> [Derek Dai]:  after commands above, you can install the .deb file with `sudo dpkg -i skype-debian_4.3.0.37-1_i386.deb` then `sudo apt-get install -f`, done
+18:13 < deepin-bot> [snyh]:  It seems deepin is default support multiarch   And the deepin-store have the skype
