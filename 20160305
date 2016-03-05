@@ -1,0 +1,154 @@
+21:42 < brainy> hi hualet and hualet_deepin
+21:42 < brainy> :))
+21:42 < hualet> hi brainy and brainy :D
+21:43 < brainy> haha
+21:45 < felixonmars> hi hualet and hualet_deepin and brainy and brainy
+21:46 < hualet> hi felix
+21:46 < hualet> how's your day ? felixonmars brainy
+21:47 < felixonmars> hualet: not bad at work xD
+21:47 < felixonmars> and we finally disabled sslv3. we waited for too long already.
+21:47 < hualet> the deepin side or the online-house-renting side ? :P
+21:47 < brainy> hi felixonmars xD
+21:48 < hualet> felixonmars: what do you mean by saying "disabled sslv3" ?
+21:49 < brainy> no more security?
+21:50 < felixonmars> hualet: nah, the arch side xD
+21:50 < felixonmars> brainy: no, more security xD
+21:50 < brainy> xD
+21:50 < felixonmars> https://projects.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/openssl&id=4b82ed4285c7cb76caf6d75a015c5a7542c625d1
+21:51 < felixonmars> we added "no-ssl3 no-ssl3-method"
+21:51 < brainy> what are the disadvantages of sslv3?
+21:51 < felixonmars> ssl3 is obsolete and cancer to the TLS ecosystem
+21:52 < brainy> right i read about that
+21:52 < felixonmars> xD
+22:04 < hualet> felixonmars: I saw someone in #archlinux encountered some problem with xorg
+22:04 < felixonmars> hualet: oh, which kind of problem?
+22:05 < hualet> about dwm cause xorg can not be started correctly
+22:06 < felixonmars> dwm :/
+22:06 < hualet> I didn't follow, so I don't know whether it's solved or not
+22:06 < felixonmars> doesn't seem solvex
+22:06 < felixonmars> *d
+22:07 < hualet> you checked the log ?
+22:07 < felixonmars> no, i just tried to follow the chat log
+22:07 < hualet> oh, yeah, I mean the chat log :D
+22:13 < brainy> hualet, did you go to the dentist?!
+22:13 < brainy> Everthing ok now?
+22:14 < hualet> felixonmars: one more thing, libglvnd-* packages don't exist in debian repository xD
+22:14 < hualet> https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=812530
+22:15 < Vivians> hualet, ↑ Title: #812530 - ITP: libglvnd -- Vendor-neutral OpenGL dispatch layer - Debian Bug report logs
+22:15 < hualet> brainy: yeah, without any hesitation
+22:16 < hualet> I've had the bad teeth pulled out
+22:16 < felixonmars> hualet: i know, i know.
+22:16 < felixonmars> it would be a problem for debian, though
+22:17 < felixonmars> because they are included as part of the nvidia driver
+22:17 < felixonmars> and actually i think splitting them is a good idea
+22:17 < felixonmars> upstream even recommends me to always stick to the latest git master
+22:17 < felixonmars> so we can get their fix earlier
+22:18 < felixonmars> nvidia has a somewhat slow schedule to push new drivers
+22:18 < hualet> you mean we've already got the *.sos ?
+22:18 < felixonmars> yes
+22:18 < felixonmars> they are included in 361.xx drivers
+22:18 < hualet> oh. shit
+22:18 < felixonmars> and the old method will be removed in any version higher than 361
+22:19 < felixonmars> so you'll run into libglvnd problems sooner or later, anyway :P
+22:19 < hualet> what will the ABI change influence ?
+22:19 < felixonmars> BREAK THE WORLD
+22:19 < felixonmars> no, kidding
+22:19 < felixonmars> at least they'll break GL programs if not dealt with peace
+22:20 < felixonmars> and you'll have to reconsider bumblebee support at that point
+22:20 < felixonmars> because they'll be unsupported very soon
+22:20 < felixonmars> so our laptop users will have a bad time...
+22:22 < hualet> what will arch do ?
+22:22 < felixonmars> we'll drop bumblebee when it's unsupported
+22:22 < hualet> I mean what will you do to the ABI break ?
+22:23 < felixonmars> i'm still discussing this with their developers
+22:24 < hualet> other graphic driver vendor's have supported the standard ?
+22:24 < felixonmars> yes they have. and some work is going on in mesa
+22:24 < felixonmars> i won't be surprised if libglvnd will become a dependency of mesa in mid-2016
+22:26 < brainy> hi bobo123 xD
+22:26 < bobo123> Hi brainy
+22:26 < bobo123> How are you, man
+22:27 < brainy> fine and you bro?
+22:27 < bobo123> great
+22:27 < brainy> are you at the university?
+22:28 < bobo123> I am at my second year. It is a long time before my graduation.
+22:28 < hualet> felixonmars: sounds like a big move
+22:29 < bobo123> How about you? brainy
+22:29 < brainy> bobo123, nice man
+22:29 < felixonmars> hualet: yep. and amd's blob driver will support it, too
+22:29 < bobo123> hi hualet felixonmars
+22:29 < felixonmars> hualet: we won't need no alternatives to libGL no more
+22:30 < felixonmars> hi bobo123
+22:30 < felixonmars> hualet: you'll have to consider how to gracefully upgrade our bumblebee users xD
+22:30 < hualet> hi bobo123
+22:30 < felixonmars> it's a hard situation now.
+22:30 < hualet> felixonmars: I'll take your advices :D
+22:30 < felixonmars> with nvidia optimus - no gpu switching support.
+22:31 < felixonmars> with nouveau and prime: slow, and no power-saving
+22:31 < felixonmars> to disable one card in BIOS - of course it's not a gracefully move for the user
+22:32 < felixonmars> hualet: and you'll have to choose from the three!
+22:32 < hualet> laycat won't agree on that
+22:32 < hualet> he will prefer wait for some time I think :D
+22:32 < felixonmars> then you'll probably stuck with some old stuff
+22:32 < felixonmars> as i understand debian will move on from it
+22:33 < felixonmars> and you'll lose support for any new laptops
+22:33 < felixonmars> because new nvidia drivers will be based on libglvnd anyway
+22:37 < hualet> felixonmars: please let me know if you guys have made the choice, I'll let our package managers be hold :P
+22:38 < felixonmars> hualet: arch won't make a choice, though
+22:38 < felixonmars> we'll tell our users everything, and it's up to them :P
+22:39 < hualet> :(
+22:41 < felixonmars> don't worry, we'll find a way xD
+22:43 < hualet> I want to talk to you face to face :D
+22:47 < felixonmars> sure xD
+22:51 < brainy> Skype?
+22:51 < brainy> That's the most face-to-face it can get!
+22:52 < felixonmars> nah, physically
+22:53 < brainy> ah ok xD
+22:53 < brainy> I forgot you guys live 2 blocks away from each other
+22:53 < felixonmars> xD
+22:53 < hualet> but I'm not sure if I can talk freely when you get time xD
+22:54 < felixonmars> like sundays? xD
+22:55 < hualet> felixonmars: absolutely not OK :(
+22:55 < felixonmars> :(
+22:56 < hualet> I need to evaluate the situation of my teeth first :D
+22:56 < felixonmars> sure, take care of yourself :)
+22:56 < brainy> xD
+22:56 < hualet> I ate the first meal this three days for the first time :(
+22:56 < hualet> this afternoon
+22:57 < hualet> felixonmars: thanks for the concern :D
+23:03 < felixonmars> :3
+23:11 < brainy> wow 3 days without food!
+23:17 < brainy> hualet, are you still breathing after such a time without any food? xD
+23:17 < jotapesse> hello everyone
+23:20 < hualet> brainy: no, don't misunderstand, I didn't take rice or noodles, I drank self-made drinks
+23:20 < hualet> so I'm alive
+23:20 < hualet> hi jotapesse
+23:20 < brainy> ah ok I'm happy now :D
+23:20 < brainy> hi jotapesse
+23:21 < jotapesse> I must say... I didn't use IRC for quite some time... deepin brought me back :)
+23:23 < brainy> haha nice :D
+23:23 < brainy> it's interesting because #deepin is the least active of all channels xD
+23:24 < jotapesse> probably. just a matter of priorities and free time.
+23:24 < brainy> this channel is like people taking a seat in the cinema and sleeping there all day
+23:24 < brainy> xD
+23:25 < jotapesse> eheheh
+23:25 < jotapesse> that's fine, small and peaceful ,nothing wrong with that :)
+23:26 < jotapesse> friendly is also good
+23:27 < jotapesse> I was just curious, is #deepin a more of a user oriented channel or developer oriented?
+23:27 < bobo123> hi jotapesse
+23:30 < hualet> jotapesse: it meant to be a user oriented channel :D
+23:31 < jotapesse> trouble is nobody uses IRC these days, right? probably mostly developers
+23:32 < brainy> hualet, I suggest a short-cut on deepin desktop to this channel, what do you think??
+23:33 < brainy> so after an installation people can see the link and join this channel
+23:33 < bobo123> brainy, +1
+23:34 < hualet> brainy: If I remember it right, you've suggested that before
+23:34 < brainy> haha thats right
+23:34 < brainy> but nothing happened xD
+23:34 < jotapesse> hum.. that's a nce idea, would require a pre-installed and pre-setup IRC client
+23:34 < jotapesse> what's your favourite IRC client these days?
+23:40 < brainy> jotapesse, I am using x-chat and you?
+23:40 < jotapesse> pidgin
+23:48 < brainy> nice, just like felixonmars xD
+23:53 < jotapesse> ok, probably not the best place to ask but let's see if any of you guys (any girls?) can help me
+23:57 < jotapesse> anyone experienced in installing linux on an intel atom laptop/tablet hybrid?
+23:58 < bobo123> I installed LXLE on AUSU EeePC before.
+23:59 < bobo123> It has a very old atom cpu.
