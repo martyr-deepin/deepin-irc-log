@@ -1,0 +1,19 @@
+00:01 < jotapesse> Asus EeePC is easy nowdays, the hardware is well supported, trouble is the new atom with touchscreen models (tablets or hybrid laptops). I have deepin on my Asus EeePC1000H, no issues. :)
+00:01 < jotapesse> I was hoping to install deepin on my new Asus T100 Chi
+00:03 < bobo123> Sorry. I have no experience on the new atom cpu
+00:03 < bobo123> I guess it depends on kernel.
+00:04 < jotapesse> Yes, it seems the hardware driver support is still lacking, so I've read.
+00:05 < jotapesse> mainly for the touch screen, sound and bluetooth (keyboard)
+00:07 < bobo123> As I konw, deepin hasn't supported touch screen offically.
+00:07 < bobo123> I am sure they will support it in future.
+00:07 < jotapesse> I know, I wasn't looking for official support.
+00:08 < jotapesse> Just asking if by any chance any of you would be experienced on it.
+00:08 < bobo123> :)
+00:09 < bobo123> If you can read chinese, I remeber someone installed it on tablet on the chinese forum.
+00:10 < jotapesse> damn, my mandarin is awful these days :)
+00:16 < jotapesse> anyway, thanks guys.
+09:35 < hlex> 求问：系统信息里的更新一直在检查更新，怎么解决啊
+09:35 < hlex> 开机就检查，自动检查关了还是检查。也没个完
+12:16 < jenenliu> hi, I just install deepin, but I cant find my wifi network, which is fine when I use my phone
+12:16 < jenenliu> I try close wifi and open it again, but still failed
+12:17 < jenenliu> what should I do, is there another way to scan wifi network
