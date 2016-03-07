@@ -1,0 +1,182 @@
+01:23 < bobo123> Hi all. I am testing the new iso. The speed of upgrading is 0. so sad
+01:25 < jotapesse> hi, bobo123
+01:25 < jotapesse> which iso version?
+01:25 < bobo123> hi jotapesse
+01:26 < bobo123> There is a new coming release, 15.1.1
+01:26 < jotapesse> ok, did not test it yet
+01:26 < bobo123> Where are you, jotapesse
+01:26 < jotapesse> have you changed the server mirror for a fast one in control center?
+01:27 < jotapesse> I'm in portugal
+01:27 < bobo123> Yes. It's still zero. I guess because it's testing. They may not sync it with other repositories.
+01:28 < bobo123> How is the upgrading speed there?
+01:29 < jotapesse> yes,probably. and probably that's why the so was not released for testing on the international forum
+01:29 < bobo123> Yes. I guess that's the concern.
+01:29 < bobo123> Any progress for your atom laptop?
+01:30 < jotapesse> it's ok, if you use a mirror. I'm using [NL]  NLUUG
+01:30 < jotapesse> I get up to 20-30 mbits/se
+01:30 < jotapesse> not bad
+01:30 < bobo123> I am going to try that one. Thanks, man
+01:30 < jotapesse> terrible or zero with the official cdn
+01:31 < jotapesse> you can check on the control center which ones are displayed as fast
+01:31 < jotapesse> and try which one serves you best
+01:32 < bobo123> :)
+01:32 < bobo123> Thanks
+01:33 < jotapesse> regarding my asus t100chi I don't have time yet, I'll postpone to some other day
+01:33 < jotapesse> I'm actually messing around with android with it
+01:33 < jotapesse> you're welcome
+07:59 < steev> hey all :)  i just recently discovered deepin because of friendlyarm's link to it in their wiki for the nanopi2 - after 40 some hours downloading the image for the nanopi2, i have to say, i'm really impressed with it.  is there a guide somewhere for getting started with the sources?  i've found the github mirror, with the repositories; i'd like to build it
+07:59 < steev> myself for arm64
+08:00 < jotapesse> hi steev
+08:01 < steev> hi :)
+08:01 < jotapesse> have you looked at the arm section on the forum? http://en.bbs.deepin.org/forum.php?mod=forumdisplay&fid=65
+08:01 < Vivians> jotapesse, ↑ Title: ARM-Deepin Technology Forum-Deepin,Worth the Diggin'!
+08:01 < steev> ah, i have not; thank you for the link
+08:02 < steev> although, that link ended up taking me to the default page
+08:02 < jotapesse> works here
+08:03 < steev> it seems there's an issue with the ssl cert when using en.bbs.deepin.org
+08:03 < jotapesse> try http://en.bbs.deepin.org/forum.php
+08:03 < Vivians> jotapesse, ↑ Title: Deepin Technology Forum-deepin provides a powerful driving force for computers all over the world!
+08:03 < jotapesse> scroll down
+08:04 < jotapesse> under "community collaboraton" you'll find "ARM" section
+08:05 < steev> i have it here
+08:07 < steev> jotapesse: actually, while i have someone's attention... since i don't speak chinese... do you know what combination of things i have to click to change the interface into english?
+08:07 < jotapesse> sorry, I have not yet experienced the arm build
+08:07 < steev> i don't think it is specific to arm
+08:08 < jotapesse> are you referring to the forum interface?
+08:08 < steev> no, the interface of deepin
+08:10 < jotapesse> the installer provides 40 different languages, you had that option when installing I suppose?
+08:10 < jotapesse> around 40 I think
+08:10 < steev> unfortunately ,no, the arm version does not offer a language choice
+08:10 < steev> you load it up, and login as deepin
+08:11 < jotapesse> ah, there you go, it's different then
+08:12 < steev> there is no way in the desktop environment to switch to a different language?
+08:12 < steev> in the settings
+08:14 < jotapesse> yes, open up control center > keyboard and language > language (last item)
+08:15 < steev> hm, i must miss some packages then, because i have set as American English
+08:17 < jotapesse> I just tried, it gave a notification for a missing package, automatically downloaded, notified as changes and asked to logoff/logon
+08:18 < steev> i do not have connection (they did not provide wifi firmware)
+08:18 < steev> i will keep poking i guess
+08:19 < jotapesse> anyway you may always try to install debian first and then install deepin from deepin repo/mirror, as suggested from another user here: http://en.bbs.deepin.org/forum.php?mod=viewthread&tid=30645&extra=page%3D1
+08:19 < Vivians> jotapesse, ↑ Title: deepin 15 ARM Edition Officially Released-Deepin Technology Forum-Deepin,Worth the Diggin'!
+08:19 < jotapesse> deepin is based of debian sid
+08:20 < steev> true
+08:20 < steev> okay i will try that
+08:20 < jotapesse> good luck! :)
+19:08 < hualet_deepin> hi iyzsong
+19:08 < hualet_deepin> how are you ?
+19:10 < jotapesse> hi hualet
+19:25 < hualet_deepin> hi jotapesse
+19:25 < hualet_deepin> what does you name mean ? XD
+19:29 < jotapesse> jotapesse is made by my 3 name initial letters, portugues spoken: jota+pe+esse (J.P.S.) - in english it would be something like JayPSse :)
+19:30 < jotapesse> and yours?
+19:31 < iyzsong> hualet_deepin: lol
+19:38 < hualet_deepin> jotapesse: hua is how my name 华 pronounced in Chinese, so hualet is just a nickname for me from my girlfriend :P
+19:39 < jotapesse> eheheh :)
+19:39 < jotapesse> you're located in Beijing, China?
+19:42 < hualet_deepin> jotapesse: nope, I work at Wuhan Hubei province, China
+19:42 < hualet_deepin> so where are you from ?
+19:43 < jotapesse> Portugal
+19:43 < jotapesse> Europe
+19:44 < hualet_deepin> great
+19:45 < hualet_deepin> we all have great history :D
+19:45 < jotapesse> Indee, two old nations in the world :)
+19:49 < jotapesse> hualet: out of curiosity, what's is your role in Deepin team?
+19:49 < hualet_deepin> jotapesse: I saw you said that you just installed deepin on your machine ?
+19:49 < jotapesse> hualet: no, not me
+19:50 < hualet_deepin> hmmm...it's hard to say, I release OSes and updates xD
+19:50 < jotapesse> hualet: it was jenenliu perhaps?
+19:51 < hualet_deepin> I don't know, perhaps I'm confused
+19:51 < jotapesse> ok
+19:51 < hualet_deepin> jotapesse: what do you do, bro ? if I may ask
+19:52 < jotapesse> I'm a digital marketing and web developer
+19:53 < jotapesse> I manage social networks, blog posts. I design and manage email marketing and some web development also
+19:54 < jotapesse> I also do some linux system administration
+19:55 < jotapesse> I currently work for a golf agency (tour operator) company but I'm looking for a better opportunity
+19:59 < hualet_deepin> jotapesse: so awesome ! how do you manage to do all of this stuffs
+19:59 < jotapesse> hardly, I tell you. That's one of the reasons I'm looking for a better opportunity.
+19:59 < hualet_deepin> I do single job, but I don't even have much time to talk to continuously :P
+20:00 < jotapesse> neither do I, most of tehj time :)
+20:03 < hualet_deepin> jotapesse: what do you hope for your next job ?
+20:04 < jotapesse> in the same area of expertise, but with better working conditions
+20:13 < steev> argh, what debian release do i need to use to install deepin;  seems like every release i try has the wrong libs
+20:14 < hualet_deepin> jotapesse: sounds reasonable, good luck :D
+20:15 < hualet_deepin> steev: what do you mean ? you don't need debian to install deepin
+20:15 < steev> ahh
+20:15 < hualet_deepin> you can install deepin like you install other distros
+20:15 < steev> hualet_deepin: i do for my needs - i'm trying to run it on armhf
+20:15 < steev> and it seems like deepin-manual is missing
+20:16 < steev> https://bpaste.net/show/2ad1faa6160f
+20:16 < Vivians> steev, ↑ Title: show at bpaste
+20:16 < steev> same for deepin-music
+20:19 < steev> hualet_deepin: i discovered deepin because of the nanopi2 image, which i really liked, but i can't figure out how to make the interface go to english (i'm american), so i wanted to install it myself
+20:19 < steev> i'd also like to build it myself for arm64 because i have access to arm64 machines
+20:21 < hualet_deepin> I'm not sure if the source for arm64 is open to the public right now
+20:22 < steev> but it's like... there are dependencies on things that i'm not finding in any repositories; liblightdm-qt5-3-0; but debian stretch doesn't have that
+20:23 < steev> ubuntu has it, but then there's a dependency on libbamf-3-0 or some such, which ubuntu doesn't have
+20:25 < steev> i'm a gentoo developer, so i'm no stranger to building from source; but trying to just use debian packages.... is weird
+20:26 < steev> i know most of the sources are on github as well, but i don't know of a decent way to clone them all - i saw git-repo; so i'm assuming repo is used, but i didn't see a manifest anywhere
+20:27 < jotapesse> gentoo... ouch... that's not easy :)
+20:28 < steev> jotapesse: i've been a gentoo developer since 2005 :)
+20:28 < felixonmars> hello from an arch developer xD
+20:28 < steev> hey felixonmars :)
+20:29 < steev> felixonmars: any pointers? :)
+20:29 < felixonmars> no idea for arm :(
+20:29 < steev> arm isn't special
+20:29 < steev> sure some things may require finessing, but building is typically identical
+20:30 < felixonmars> i686/amd64 PKGBUILDs for most deepin pkgs are in arch's repo
+20:31 < felixonmars> and afaik archlinuxarm took some of them and managed to build. however they may not be happy with them because of the slow repo
+20:33 < steev> it's only a little slow :P
+20:33 < steev> that's kind of why i wanted to build from git actually - pulling from github is a wee bit faster than from china
+20:33 < felixonmars> that's also their request xD
+20:34 < hualet_deepin> steev: try to put this entry  deb http://packages.deepin.com/armhf unstable main non-free contrib  in your /etc/apt/sources.list
+20:34 < Vivians> hualet_deepin, ↑ Title: Index of /armhf/
+20:34 < steev> hah, leming is good people though
+20:34 < felixonmars> and they should be now using github already...
+20:34 < hualet_deepin> and see if it helps
+20:34 < steev> hualet_deepin: i have that
+20:34 < hualet_deepin> and you still get the packages ?
+20:35 < steev> well, not the non-free or contrib - let me add those
+20:35 < steev> still get told that they don't exist
+20:36 < steev> https://bpaste.net/show/4b19d498bf16
+20:36 < Vivians> steev, ↑ Title: show at bpaste
+20:40 < hualet_deepin> steev: http://packages.deepin.com/armhf/pool/main/
+20:40 < Vivians> hualet_deepin, ↑ Title: Index of /armhf/pool/main/
+20:41 < steev> hualet_deepin: see in http://packages.deepin.com/armhf/pool/main/d/ - there's no deepin-music or deepin-manual
+20:41 < Vivians> steev, ↑ Title: Index of /armhf/pool/main/d/
+20:43 < hualet_deepin> steev: then I can't help, sorry :(
+20:43 < steev> it's okay; whoever pushes packages there just needs to push those too
+20:43 < jotapesse> steev: do you have the deepin source list simultaneously with debian source list?
+20:44 < steev> jotapesse: my sources.list is only the debian stretch.  the deepin parts are in /etc/apt/sources.list.d/deepin.list
+20:45 < steev> https://bpaste.net/show/89ee29193cec
+20:45 < Vivians> steev, ↑ Title: show at bpaste
+20:45 < steev> i've tried ubuntu trusty, ubuntu xenial, debian jessie, debian stretch, debian unstable
+20:45 < steev> every single one has some missing library
+20:46 < steev> when using debian, it's usually the liblightdm-qt5-3-0, and when using ubuntu it's the libbamf-3-0 or some such
+20:47 < jotapesse> ok, but APT with work with both simultaneously and different versions of dependencies may colide. Since you have already installed debian I would replace debian source for the deepin source, and remove any debian source reference. Then update and retry
+20:47 < steev> jotapesse: which deepin source though; if you look at the armhf link above, there are *only* the deepin desktop packages; there needs to be a base
+20:49 < jotapesse> good point. I was thinking it would be the same as the i386/amd64 repo: the deepin repository is just a frozen debian sid with custom added packages
+20:50 < jotapesse> not for armhf it seems
+20:50 < jotapesse> perhaps hualet could help
+20:51 < felixonmars> deepin is based on (somewhat outdated) debian sid, iirc
+20:52 < steev> it can't be that out-dated, it requires qt 5.5
+20:52 < felixonmars> yeah, usually just weeks late
+20:52 < jotapesse> yes, a few days/weeks between deeepin updates
+20:52 < steev> that said... if it's sid, i'll switch to sid from stretch and see if that helps
+20:53 < jotapesse> should be the same, not much difference, but hey, try
+20:54 < steev> nope
+20:54 < steev> dde-session-ui : Depends: liblightdm-qt5-3-0 but it is not installable
+20:55 < steev> alright, enough wasting time on that, build from source is easier
+20:56 < jotapesse> you brave man
+20:57 < felixonmars> xD good luck
+20:57 < jotapesse> got to be a gentoo guy
+20:57 < jotapesse> :)
+20:59 < steev> eh, i've got an 8 core 16gb arm64 server, it doesn't take long to compile stuff :)
+21:02 < jotapesse> I once upon a time, some 15 years ago, installed gentoo. I compiled it for a full day and a night. Never tried it since :)
+21:03 < jotapesse> That was i386 compile of course
+21:07 < bobo123> Hi all
+21:07 < jotapesse> hi, bobo123
+21:07 < bobo123> Hi hualet_deepin jotapesse
+21:15 < steev> jotapesse: yeah, things have changed these days, now it can be done in a couple hours
+21:22 < hualet_deepin> steev: The repository is just for testing right now, so it may not be complete
+21:28 < steev> hualet_deepin: it is okay; i will try to figure out what i'm doing and build from the sources :)
+21:38 < hualet_deepin> OK :)
