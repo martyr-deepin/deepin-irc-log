@@ -1,0 +1,177 @@
+02:25 < steev> so, https://cr.deepin.io/#/c/11194/ - this is actually incorrect - specifically, the assumption that armv8+ = 64bit - there is actually aarch32 (cortex-a32), and e.g. the rpi3 which is a 64bit chip but running in 32bit; pretty sure that check would cause issues with both
+02:25 < Vivians> steev, ↑ Title: Gerrit Code Review
+09:03 < jotapesse1> hi all
+09:04 < deepin-bot> [Choldrim]: hi, jotapesse1:  :)
+09:05 < jotapesse1> Recently found issues in audio out in Control Center Sound, selecting headphones with default HDMI Audio out and/or simultaneouly playback to both.
+09:06 < jotapesse1> A full report and workaround is available in the forum: http://en.bbs.deepin.org/forum.php?mod=viewthread&tid=30806&page=1&extra=#pid142887
+09:06 < Vivians> jotapesse1, ↑ Title: No sound on headphone-Deepin Technology Forum-Deepin,Worth the Diggin'!
+09:06 < jotapesse1> Also reported with Feedback.
+09:06 < hualet_deepin> jotapesse1: Good morning :D
+09:06 < hualet_deepin> jotapesse1: well, OK, I'll let the developer know
+09:07 < hualet_deepin> jotapesse1: thanks, I'll let you know if there's any progress :D
+09:08 < jotapesse1> Thank you.
+09:09 < hualet_deepin> with pleasure :D
+09:13 < hualet_deepin> jotapesse1: it seems to be a known issue, sorry. The truth is we've planned to fix the problem on 15.2, so please wait a bit :D
+09:23 < dance707> hi hualet
+13:33 < hualet_deepin> hi dance707
+13:38 < felixonmars> hi hualet_deepin
+13:40 < dance707> hi hualet
+13:42 < hualet_deepin> felixonmars: I remember you said you'll be very busy today :/
+13:43 < felixonmars> hualet_deepin: except during lunch xD
+13:44 < felixonmars> i had a bad time trying to fix old php and ruby with new openssl
+13:44 < hualet_deepin> hmmm...it seems that your whole time is delayed ~2 hours or so
+13:44 < felixonmars> yep xD
+13:44 < hualet_deepin> what did you do to fix them ?
+13:45 < felixonmars> PATCH
+13:46 < hualet_deepin> upstream won't fix that themselves ?
+13:46 < felixonmars> unmaintained old versions xD
+13:46 < felixonmars> like PHP 5.3
+13:47 < hualet_deepin> then why should you ?
+13:47 < felixonmars> i still run some discuz...
+13:49 < hualet_deepin> so you think patching the old version is easier than upgrading :P
+13:50 < felixonmars> well, much easier
+13:51 < felixonmars> latest discuz still fails on PHP 5.4 in various ways
+13:51 < felixonmars> and recommends you to run on 5.3
+13:52 < hualet_deepin> interesting lol
+13:52 < felixonmars> i had to backport dozens of CVE fixes from redhat, and write patches for too shiny new libs myself
+13:53 < felixonmars> redhat should be supporting the setup till 2020 or 2022, so discuz is still not in a hurry to fix their crap
+13:53 < hualet_deepin> sounds painful, what service are you running on it ?
+13:54 < felixonmars> like a dozen of forums, pt, blogs, etc
+14:01 < dance707> hulat : I know there expect to release 15.1.1 soon, Is there any schedule for 15.2 ?
+14:04 < dance707> hualet:
+17:29 < jotapesse> hualet: ok, thank you for your feedback.
+20:21 < brainy> hi hualet xD
+20:21 < brainy> The channel is so full today
+20:21 < hualet> brainy: hi, I didn't see here yesterday
+20:22 < hualet> yeah, we have new friends show up now and then
+20:26 < jotapesse> hi brainy
+20:26 < jotapesse> hi hualet
+20:26 < brainy> hi jotapesse :D
+20:27 < jotapesse> I'm trying telegram, never used it before
+20:27 < hualet> hi jotapesse
+20:27 < jotapesse> while searching for deepin, found #deepin@freenode
+20:27 < hualet> jotapesse: it's a great product
+20:27 < jotapesse> any relation to #deepin IRc channel?
+20:28 < jotapesse> @deepin_irc_bot
+20:29 < hualet> freenode is the server where #deepin channel resides
+20:29 < jotapesse> I know
+20:29 < jotapesse> but is this bot @deepin_irc_bot in telegram related to it?
+20:31 < jotapesse> should it relay the IRC messages to/from it? if so, doesn't seem to be working :)
+20:44 < jotapesse> no?
+20:59 < brainy> hi hualet man xD
+21:00 < felixonmars> hi brainy
+21:00 < brainy> hualet, jotapesse says the deepin irc bot is not working
+21:00 < brainy> hi felixonmars \o
+21:01 < hualet> brainy: I replied, I don't know how to fix it, it's from a user
+21:01 < brainy> ah ok
+21:02 < jotapesse> hualet: sorry did not received your reply
+21:03  * felixonmars smells a broken network
+21:03 < jotapesse> (12:52:07 PM) hualet left the room (quit: Ping timeout: 244 seconds).
+21:04 < jotapesse> that was 12 minutes ago :) so probably yes felixonmars
+21:05 < hualet> OK, sorry for that :D
+21:06 < felixonmars> xD
+21:06 < hualet> jotapesse: you're in the deepin group now on telegram ?
+21:06 < jotapesse> no, but I can try again
+21:07 < jotapesse> ok I started a conversation with @deepin_irc_bot in telegram
+21:08 < jotapesse> no reply no nothing
+21:08 < hualet> :o
+21:11 < brainy> Is there no native IRC client for Android/iPhone?
+21:11 < jotapesse> probably. why do you ask?
+21:11 < brainy> just curious what's the advantage of using telegram..?
+21:12 < hualet> it's modern :P
+21:13 < brainy> ah ok :D xD
+21:13 < jotapesse> good point. I'm trying to understand that. It seems to have a lot of users, it's trending, easy use of images and voice messages and a lot of groups, channels and custom bots.
+21:13 < jotapesse> So it may offer some advantages :)
+21:14 < brainy> Might be..and probably its easier than to install another software so I get it
+21:14 < brainy> But the bot only works for Deepin or other channels / servers as well?
+21:14 < jotapesse> It will also probably easier to an average user to get in touch with it rather than with IRC
+21:15 < brainy> true jotapesse
+21:16 < jotapesse> and if it's possible to relay IRC to/from say a telegram group (IRC channel equivalent) that would of interest no?
+21:16 < jotapesse> would be
+21:17 < jotapesse> I don't know about the bot #deepin@freenode, I was asking because I didn't know if it was official or not, but it hualet said no, user created, probably not working and abandoned
+21:20 < hualet> maybe it's just because the author is busy with his home work or exams :P
+21:21 < brainy> :D
+21:21 < brainy> That reminds me of many Linux software projects
+21:22 < jotapesse> eheheh maybe
+21:22 < brainy> You find a great piece of software and suddenly there are no updates anymore, because the programmer is a college guy and he doesn't have time anymore for the project
+21:23 < brainy> xD
+21:28 < brainy> Has any of you tried Ubuntu phone?
+21:41 < brainy> ping brainy
+22:08 < brainy> hi bobo123 :D
+22:09 < bobo123> Hi brainy
+22:09 < bobo123> How are you
+22:09 < brainy> fine and you bobo123 ?
+22:09 < brainy> It's still early in the US I guess?
+22:09 < bobo123> Yes. Great morning
+22:10 < brainy> Nice :D
+22:12 < hualet> it's 22:12 here
+22:13 < bobo123> Hi hualet. Is your teetch getting better?
+22:13 < hualet> I don't want to go bed as much as I don't want to get up in the morning XD
+22:14 < hualet> bobo123: yeah, much better. thanks for asking :D
+22:14 < ohms360> greetings guys
+22:15 < bobo123> you may try to turn on the AC at night. It helps me to get up in the morning. Otherwise it's so cold.
+22:15 < bobo123> hi ohms360
+22:15 < ohms360> hey :-)
+22:17 < ohms360> I have a question: how easy is it to install Deepin alongside Windows on a GPT/EFI partition and boot setup?
+22:17 < bobo123> hualet, Philips wake-Up Light is very good.
+22:17 < ohms360> same drive, hoping for a squashfs setup so I don't have to partition
+22:19 < hualet> bobo123: wake-up light ? what's that ?
+22:19 < hualet> ohms360: hi, long time no see :D
+22:19 < ohms360> heyo hualet! yeah man have had a tonne of work to get through :-(
+22:19 < ohms360> how've you been?
+22:20 < hualet> busy with my work too
+22:20 < bobo123> The light turns on slowly and automatically in the morning. It helps us to wake up painless.
+22:21 < hualet> I'm trying to catch up, there's much thing I don't know about our OS :D
+22:21 < ohms360> lol
+22:22 < ohms360> i'm going to try some android auto development so I'm going to start using deepin on my i7
+22:22 < hualet> bobo123: I'd prefer an alarm, it's more reliable lol
+22:22 < bobo123> :)
+22:22 < hualet> ohms360: great
+22:22 < ohms360> still liking it on my laptop right now though, though I need to sort my fonts out
+22:23 < hualet> I've seen people succeeded to install deepin along side with Windows on a GPT/EFI partition, but I never tried
+22:24 < ohms360> that's how I did it on my laptop but I think it's MBR not GPT, though I could be wrong
+22:25 < ohms360> just don't want to kill my i7 because it's my workstation lol
+22:25 < hualet> ohms360: http://askubuntu.com/questions/387351/how-can-i-detect-whether-my-disk-is-using-gpt-or-mbr-from-a-terminal
+22:25 < Vivians> hualet, ↑ Title: partitioning - How can I detect whether my disk is using GPT or MBR from a terminal? - Ask Ubuntu
+22:27 < hualet> ohms360: backup your data before screwing things up :p
+22:27 < ohms360> heh laptop is GPT
+22:27 < ohms360> so I guess I can squashfs debian on to my SSDs on there :D
+22:28 < ohms360> deepin not debian
+22:28 < ohms360> same difference, one has a cooler UI :P
+22:29 < hualet> XD
+22:29 < hualet> I'm not sure if that'll work
+22:30 < ohms360> well that's how my laptop does it as that's GPT (thanks for that guide)
+22:32 < ohms360> guess I'll go jump in on it now :D
+22:33 < hualet> ohms360: good luck :D
+22:41 < ohms360> thanks :D
+22:41 < ohms360> awww man
+22:42 < ohms360> http://puu.sh/nzdU5/075215ef27.png
+22:42 < Vivians> ohms360, ↑ Image/png, size = 319x501 pixels
+22:43 < jotapesse> hi ohms360
+22:43 < ohms360> heyo jotapesse
+22:43 < ohms360> how's things?
+22:43 < jotapesse> ohms360: why don't you just boot the iso and install it?
+22:43 < ohms360> because I want to do a squashfs
+22:44 < jotapesse> reason being?
+22:44 < ohms360> I don't want to partition my scratch disks
+22:44 < brainy> hualet, what do you mean you don't want to go to bed and wake up? xD
+22:45 < ohms360> would rather I can move the squashfs temporarily to my RAID 5 volume when I need the extra space on my SSD RAID 0 volume then move it back later
+22:46 < jotapesse> ok
+22:49 < ohms360> maybe there's a way I can copy the one from my laptop to my desktop
+23:05 < hualet> brainy: I mean I want to stay up playing or coding as late as I can at night, and I don't want to get up in the morning :D
+23:12 < brainy> hualet, ah ok :D
+23:18 < ohms360> i found something i'm really good at lately
+23:18 < ohms360> losing all of my external drives ._.
+23:18 < brainy> ohms360 :(
+23:22 < brainy> hualet, can WeChat make phone calls?
+23:27 < ohms360> heh, found a spare 64GB microSD, that should do hopefully
+23:29 < hualet> brainy: nope
+23:33 < brainy> good luck ohms360 :)
+23:41 < ohms360> thanks hehe
+23:41 < ohms360> resizing my SSDRAID partition, hoping 180GB is enough for android auto source
+23:49 < jotapesse> hi all
+23:50 < jotapesse> if any of you use Telegram, a deepin group was created there
+23:51 < jotapesse> you may add yourselves to it by link: https://telegram.me/joinchat/DMskPQZjrHEIXr5qWRB9TQ
+23:51 < Vivians> jotapesse, ↑ Title: Telegram: Join Group Chat
+23:51 < jotapesse> hualet is already there
+23:52 < hualet> XD
