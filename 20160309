@@ -1,0 +1,80 @@
+00:10 < steev> can whoever made the nanopi2 image remake it with a newer kernel?  The nanopi2 fire is out now, and you have to use a different kernel branch to support both the nanopi2 and the nanopi2 fire
+00:13 < ohms360> i think i might have discovered a bug
+00:16 < ohms360> seems the launcher doesn't play too nicely with dual screen setups and displays slap bang in the middle of both instead of just the primary monitor (it's hard to read!)
+00:20 < xor_> hi
+00:20 < jotapesse> ohms360: my launcher only displays in primary screen
+00:21 < xor_> i have a problem using deepin. The side panel is stuck and overrlaps my windows and everything
+00:21 < xor_> can i reset it somehow?
+00:22 < jotapesse> ohms360: the only issue i've found is with the dock calendar popup that splits across both screens
+00:22 < xor_> ah i can smell it now too
+00:22 < xor_> because it is burning up my one of my cpus
+00:23 < jotapesse> xor: you may try to kill dde-control-center in termianl and restart it?
+00:27 < ohms360> jotapesse: maybe there's something yet to update on my system, we shall find out soon :)
+00:27 < xor_> @jotapesse: i killed it indeed. I could find the process by its cpu usage. it restarted by itself
+00:27 < xor_> thanks
+00:29 < xor_> when I try to use the launcher to start a program on the computer, another process called deepin-osd starts eating 76% CPU and the program does not start.
+00:29 < xor_> I think that is what crashed the dde-control-center
+00:29 < xor_> jotapesse do u know where i can find log files of this ?
+00:31 < jotapesse> xor: no idea
+00:32 < ohms360> jotapesse: seems an update fixed it so now I'm happy :-)
+00:32 < jotapesse> xor: good! :)
+09:10 < dance707> hualet : good morning
+20:27 < hualet_deepin> hi jotapesse :D
+20:27 < hualet_deepin> hi felixonmars iyzsong
+20:27 < felixonmars> hi hualet_deepin
+20:28 < hualet_deepin> didn't see you talking on bearychat
+20:28 < hualet_deepin> what's wrong ?
+20:28 < felixonmars> family issues, sry :(
+20:29 < iyzsong> ;-)
+20:31 < hualet_deepin> are you OK ?
+20:31 < hualet_deepin> how are you iyzsong ?
+20:31 < jotapesse> hi hualet
+20:32 < iyzsong> hualet_deepin: fine, no big problem
+20:33 < hualet_deepin> where are you now ? found you a new job ? iyzsong
+20:34 < iyzsong> hualet_deepin: nope, still in beijing.
+20:35 < hualet_deepin> jotapesse: I talked to our marketing people, they said we won't officially own a Telegram group or things like that
+20:36 < hualet_deepin> iyzsong: have you graduated yet ?
+20:37 < iyzsong> no, i will fail to graduate >.<
+20:38 < iyzsong> do you folks make some big news these days?
+20:39 < hualet_deepin> why don't you just go back to school and finish your study ?
+20:39 < hualet_deepin> iyzsong: we made big mistakes instead :(
+20:40 < iyzsong> lol
+20:41 < hualet_deepin> luckily we've fixed that
+20:41 < felixonmars> fun of a rolling release
+20:42 < felixonmars> don't worry mate, arch is making big mistakes every day
+20:42  * felixonmars runs
+20:42 < iyzsong> :3
+20:46 < hualet_deepin> XD
+21:09 < steev> congrats on the 15.1.1 release
+21:34 < brainy> hi ohms360
+21:39 < steev> hualet: congrats on the 15.1.1 release :)
+21:39 < hualet> steev: thanks :D
+21:39 < steev> once the mirrors are synced up... bug someone to update the armhf repos :P
+21:39 < hualet> hi brainy
+21:41 < hualet> steev: they seem to have trouble packages those a few packages
+21:44 < brainy> hi hualet bro
+21:44 < steev> hualet: i'm sure they will figure it out, release days are always... very hectic
+21:46 < hualet> steev: I'm not sure, but I think the porting team is busy with another architecture
+21:46 < hualet> I don't know if they've got time to fix up the armhf thing :(
+21:47 < steev> oh, well, do you happen to know the proper build order for the deepin interface?
+21:53 < hualet> steev: sorry, I'm not good at that :(
+21:54 < brainy> hi dance707
+21:54 < dance707> hi
+21:55 < ohms360> hola brainy
+21:55 < ohms360> :-)
+21:56 < brainy> :D
+22:02 < steev> hualet: do you know if the 2d interface is putshed to github
+22:02 < steev> pushed
+22:03 < hualet> steev: yeah, pretty sure that all of our projects are on github
+22:03 < steev> okay, i'll slog my way through, sleep for now, thanks for the help :)
+22:18 < hualet> steev: np
+22:19 < brainy> welcome hlex
+22:36 < brainy> hualet, are you playing LOL tonight? :)
+22:36 < hualet> no, I don't have the time
+22:48 < felixonmars> hualet: now i have 5 more bug reports for you xD
+22:48 < jotapesse> felixonmars: lol
+22:49  * felixonmars hides
+22:52 < hualet> I should kill you secretly someday for my own good XD
+22:52 < felixonmars> :O
+22:55  * felixonmars hides further
+22:57 < brainy> \o/
