@@ -1,0 +1,157 @@
+01:44 < wallaceCMO> hi guys!
+05:30 < henk717> Hello
+05:33 < dance707> henk717 hi
+05:34 < henk717> Can you assist me with opening smb:// shares in the last Deepin build?
+05:35 < dance707> henk717 : I have tested but do not really use smb
+05:36 < henk717> I tested it on Deepin 15 without any issues
+05:36 < henk717> Deeping 15.1 eigther doesn't do anything at all or gives me an instant timeout
+05:37 < dance707> henk717 : 15.1 or 15.1.1 ?
+05:37 < henk717> Let me verify i was not aware 15.1.1 existed
+05:38 < dance707> henk717 just released this morning :)
+05:38 < henk717> I might try that then
+05:38 < henk717> Might be fixed there and its a clean install anyway
+05:38 < henk717> I was already happy i finally solved the wifi speed issue i was having on any distro
+05:39 < dance707> henk717 : 15.1.1 fixes the issues I had with 15.1
+05:40 < dance707> henk717 : http://blog.deepin.org/2016/03/deepin-15-1-1-released/
+05:40 < Vivians> dance707, ↑ Title: 深度操作系统15.1.1 发布 | 深度科技博客
+05:41 < henk717> I can't download that at the moment
+05:41 < henk717> No mirrors yet
+05:41 < dance707> https://en.bbs.deepin.org/forum.php?mod=viewthread&tid=30811&extra=
+05:41 < Vivians> dance707, ↑ Title: deepin 15.1.1 Released-Deepin Technology Forum-Deepin,Worth the Diggin'!
+05:41 < henk717> Download speed from the main site is 20kb/s
+05:43 < henk717> Any ideas to resolve this on 15.1?
+05:43 < henk717> All latest updates are installed
+05:43 < ohms360> use a different mirror
+05:43 < dance707> henk717 : currently users are reporting a better speed right now
+05:44 < ohms360> some of the mirrors are quite slow :
+05:44 < henk717> Still 24kb/s for me, The Netherlands
+05:44 < henk717> I will need the sourceforge or mega mirror
+05:44 < henk717> I could never download from the main site with proper speeds
+05:44 < ohms360> I get about 7kb/s on the deepin mirror in the UK
+05:45 < ohms360> so I tend to use debian-testing as my mirror for most things
+05:46 < henk717> 15.1 works reasonable so far (Haven't yet touched the killer of all distro's yet though, the nvidia driver) but its annoying i can't access my files because of the smb issue
+05:46 < dance707> vivians : not sure why the link showing wrong title
+05:47 < ohms360> what's the error specifically? anything being thrown to your logs?
+05:47 < henk717> What logs to check? I am new to smb debugging
+05:48 < henk717> The screens mostly don't do anything at all in Files
+05:48 < ohms360> anything in /var/log relating to smb?
+05:48 < henk717> I expect to get a dialog prompting me for my password but nothing happens of the sort
+05:48 < henk717> Alternatively i get a connection timeout
+05:49 < ohms360> I think i'm running 15.1, i'll try connecting to one of my VMs by SMB
+05:51 < henk717> For further information, i have just installed 15.1 on a laptop that previously ran windows. I backed up my files trough the same smb share so i am positive its working correctly
+05:51 < henk717> It failed both before and after doing the updates
+05:52 < ohms360> i just made a noob mistake
+05:52 < ohms360> told it to save my password forever
+05:52 < henk717> Which one?
+05:52 < ohms360> it's the wrong password
+05:52 < henk717> lol
+05:52 < ohms360> LOL
+05:52 < henk717> You got further then i got
+05:52 < henk717> I didn't even get the dialog
+05:52 < henk717> smb://x.x.x.x correct?
+05:52 < ohms360> yup
+05:52 < henk717> Or smb://x.x.x.x/share
+05:52 < henk717> Neigther work
+05:52 < ohms360> I just did smb://172.16.2.4
+05:53 < henk717> Its so odd, when i tried 15.0 i described it as the best smb distro i have tried yet
+05:53 < henk717> Because it could finally properly stream files
+05:53 < henk717> But i had some other frustrations so i went back to windows
+05:53 < henk717> Came back for 15.1 and its broken o.O
+05:53 < ohms360> yep i'm connected to one of my SMB shares
+05:53 < henk717> Normal files manager?
+05:53 < ohms360> yup
+05:53 < ohms360>  HexChat: 2.10.2 ** OS: Linux 4.2.0-1-amd64 x86_64 ** Distro: Deepin "?" 15.1 ** CPU: 8 x Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz (GenuineIntel) @ 4.28GHz ** RAM: Physical: 31.4GiB, 82.8% free ** Disk: Total: 12.9TiB, 71.4% free ** VGA: 1002:6798 ** Sound: HDA-Intel - HDA Intel PCH1: HDA-Intel - HDA ATI HDMI ** Ethernet: 10ec:8168 ** Uptime: 1d 0h 51m 8s **
+05:54 < ohms360> yeah, def 15.1
+05:54 < henk717> I dont get why its failing :S
+05:54 < henk717> Any log to check?
+05:54 < ohms360> try throwing smb://IP in the address bar again and see what it says
+05:54 < henk717> Nothing at all if i attempt it in the connect to field
+05:55 < henk717> And if i do it in the top one Unhandled error message: Failed to retrieve share list from server: Connection timed out
+05:55 < ohms360> try it through the hamburger
+05:55 < henk717> Which to me makes no sense
+05:55 < ohms360> hamburger -> Enter Location
+05:55 < ohms360> because that worked for me
+05:55 < henk717> hamburger?
+05:55 < henk717> hmmm
+05:55 < henk717> This is odd
+05:55 < ohms360> yeah the one you use for new folder etc
+05:55 < henk717> 10.0.0.1 worked
+05:55 < henk717> 10.0.0.4 the one i need failed
+05:56 < henk717> Ill reboot 10.0.0.4
+05:56 < henk717> Just in case
+05:56 < ohms360> is the samba server a windows or a linux box?
+05:56 < henk717> 10.0.0.1 , linux router
+05:56 < henk717> 10.0.0.4 windows machine
+05:56 < ohms360> ah
+05:56 < henk717> The share is hidden
+05:57 < henk717> So i alternatively tried smb://10.0.0.4/Share$ with no success
+05:57 < ohms360> i would suggest checking /usr/local/samba/var/smbd.log otherwise :-p
+05:57 < ohms360> well I just did smb://172.16.2.4/GamesVol and that works
+05:57 < henk717> There is no samba folder there
+05:57 < ohms360> on the host if it ran linux :-p
+05:58 < henk717> Oh
+05:58 < ohms360> i have no idea where any samba client logs are kept, I just checked /var/log on my machine and the samba folder is empty
+06:00 < henk717> Welp
+06:00 < henk717> Seems like the windows thing translated to linux
+06:00 < henk717> You have to reboot it every once in a while xD
+06:00 < henk717> No idea why that solved it
+06:00 < henk717> It was working on all the other machines
+06:00 < ohms360> :-)
+06:01 < henk717> So thats the wifi speed issue out of the way i managed to solve, the smb issue out of the way
+06:01 < henk717> There is only one issue i don't dare to touch yet lol
+06:01 < henk717> Ignorance is bliss sometimes
+06:01 < ohms360> maybe some sort of request had timed out and created a ghost request on the server end, Windows Server can be evil on occasion ;-)
+06:01 < henk717> Probably some stuck rdp sessions i noticed when logging off
+06:02 < henk717> The 10.0.0.1 gave problems in the connect to
+06:02 < henk717> Ill just avoid it from now
+06:02 < henk717> The only thing left would be the nvidia driver installation
+06:02 < ohms360> lol
+06:02 < henk717> Usually if i install it bad things happen
+06:02 < ohms360> i'm not sure how one would backtrack on that if it broke but if you have an image I would just try it through the built in Driver Manager
+06:03 < henk717> I always use the driver manager
+06:03 < henk717> The drivers generally always work
+06:03 < henk717> But cause a number of issues
+06:03 < henk717> On 2014 i had the media player refusing to start
+06:03 < henk717> Chrome scaling wrong
+06:03 < henk717> Application crashes all over
+06:03 < henk717> Uninstalled it, poof stable
+06:03 < henk717> But gaming is terrible on the opensource drivers
+06:04 < ohms360> if it helps my laptop which runs deepin 15.1 has a GT610 which seems fine with the drivers, though the most 3D work I threw at it was sketchup through WINE
+06:05 < henk717> Its installing right now
+06:06 < ohms360> fingers crossed :-)
+06:07 < henk717_> Lol, that reboot was faster then my other session timed out
+06:07 < henk717_> Scaling on chrome seems fixed
+06:07 < henk717_> Media player broke again
+06:07 < henk717_> Time to fetch VLC
+06:07 < ohms360> ironically my desktop has a 280X and that's having no issues with the driver manager drivers
+06:08 < henk717_> I went to nvidia because the amd drivers always gave me a headace on linux
+06:08 < ohms360> yeah, that's the irony lol
+06:08 < henk717_> Seems like that turned around these days
+06:08 < henk717_> The AMD ones where glitchy but did work
+06:08 < henk717_> These work without glitches and cause all kinds of trouble
+06:09 < henk717_> Oh lovely
+06:09 < henk717_> OpenGL is now gone
+06:09 < ohms360> o.O
+06:09 < henk717_> Since when does the driver not ship with that O.O
+06:24 < Henk717> Disaster
+06:24 < Henk717> OpenGL stack is entirely broken xD
+06:24 < Henk717> Even when reverting the driver
+06:24 < Henk717> Whatever it did wasn't good
+06:24 < Henk717> Ill install 15.1.1 later to have that fixed
+20:25 < brainy> Good evening hualet_deepin
+20:25 < hualet_deepin> evening brainy man
+20:26 < brainy> xD#
+21:43 < brainy> hi hualet man xD
+21:45 < hualet> hi brainy
+21:46 < brainy> hlex, welcome
+22:13 < brainy> hi bobo123 :D
+22:13 < bobo123> Hi brainy
+22:14 < bobo123> More and more people are in IRC :D
+22:16 < brainy> yes xD
+22:17 < brainy> Soon #deepin will be the most visited channel on freenode xD
+22:33 < brainy> welcome back jotapesse
+22:33 < bobo123> Hi jotapesse
+22:33 < jotapesse> hi brainy, bobo123. thanks, glad to be back :)
+22:35 < jotapesse> how are you guys doing?
+22:41 < bobo123> Great. How are you, jotapesse
+22:41 < jotapesse> better now, just had lunch :D
