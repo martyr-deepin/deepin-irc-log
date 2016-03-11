@@ -1,0 +1,63 @@
+04:34 < jotapesse> hi all
+04:37 < jotapesse> has anyone installed successfully deepin from a debian netinstall?
+05:18 < qih> Hi, can someone please indicate a .Torrent file for the AMD64 version of the current release?
+05:22 < jotapesse> hi qih
+05:22 < jotapesse> not sure there is one
+05:22 < qih> jotapesse: Hi, how are you?
+05:22 < jotapesse> I'm fine and you?
+05:23 < qih> jotapesse: So should I just use the .Torrent for the previous release and upgrade, in system>
+05:23 < qih> Good thank you.
+05:23 < mmm> hi hi, hi hi hi, high societies! :))) 24 hours+ expected: dance707 replied at 2016-3-9 12:35 Sourceforge is in the process of receiving.
+05:24 < jotapesse> why don't you download the iso from the main cdimage server?
+05:25 < jotapesse> where are you located?
+05:25 < qih> jotapesse: I am in NZ, and on my internet speeds (ADSL no ++), it looks like it will take about 2 days
+05:26 < mmm>  20kBt/sec   mine running slow also about 30 kb/s
+05:26 < qih> I asked a local computer shop to download it, and they got 6Kbps
+05:27 < qih> Hence, request for .Torrent, although I wonder how many peeps would be torrenting the .iso atm?
+05:28 < qih> I am emailing support AT deepin with some feedback.
+05:28 < jotapesse> I havedownloaded them earlier today at a good speed
+05:28 < jotapesse> have you tried other servers? sourceforge and mega do not have them yet
+05:28 < qih> K, well I am not so lucky, a 2GB d/l is a big hit
+05:28 < qih> I will do some looking
+05:29 < jotapesse> have you tried http://pan.baidu.com/s/1boj794z#path=%252F15.1.1
+05:29 < mmm> https://en.bbs.deepin.org/forum.php?mod=viewthread&tid=30811&page=2&extra=#pid143023
+05:29 < jotapesse> Or http://ftp.portlane.com/pub/os/linux/deepin-cd/15.1.1/
+05:29 < qih> Nope, thanks.
+05:30 < qih> mmm: Thanks, reading
+05:36 < qih> jotapesse: http://ftp.portlane.com/pub/os/linux/deepin-cd/15.1.1/ <= about 300-500Kbps atm
+05:36 < jotapesse> good
+05:36 < qih> 1%[          ]  24.46M   367KB/s   eta 89m 3ss
+05:36 < qih> Hmm, thanks for the input peeps
+05:37 < qih> I will contact the Auckland University of Technology and see if they would be willing to put the Deepin distro on their Open Source Software mirror(s).
+05:38 < jotapesse> the more the merrier
+05:39 < qih> Well apart from Indonesia, which is waaaay over there <===, there are no mirrors in AU/NZ.
+05:40 < qih> Do most people use the DDE?
+16:38 < PerlinNoise> hello
+16:38 < PerlinNoise> One question, does Deepin 15 has a live cd?
+16:54 < liujianfeng>  PerlinNoise you can delete /etc/lightdm/lightdm.conf in tty and restart lightdm, then you get into a live system
+16:54 < liujianfeng> sudo service lightdm restart
+17:19 < deepin-bot> [Derek Dai]:  hi PerlinNoise
+17:20 < deepin-bot> [Derek Dai]:  you can edit the boot parameters, remove 'livecd-installer' from it
+17:20 < deepin-bot> [Derek Dai]:  then you use is as "live cd"
+17:22 < deepin-bot> [Derek Dai]:  if you boot with BIOS, press TAB to edit the parameters. If boot with EFI, press 'e' to do the editing
+18:24 < PerlinNoise> thanks guys
+18:26 < PerlinNoise> Any idea if Deepin works good with touch screen on Surface Pro 2?
+18:31 < jotapesse> no idea here
+18:44 < PerlinNoise> jotapesse, it works, just tested, but everything is too small and the onscreen keyboard is not coming up, so not workable...
+18:48 < jotapesse> yes, you'll to try to adjust the DPI
+18:48 < jotapesse> you'll have to try
+21:15 < brainy> Good evening all
+21:16 < dance707> brainy hi
+21:16 < brainy> hi dance707
+22:06 < makkon> Hi All!
+22:07 < makkon> How to install Deepin, using ISO-image of the hard disk using the Grub? Grub2 from the beginning has learned to understand the ISO 9660 format and can load the operating system directly from the ISO-image, which is located on your hard disk!
+22:08 < makkon> I created such a menu:
+22:09 < makkon> menuentry "Linux Deepin Live" {
+22:09 < makkon> loopback loop (hd1,2)/q/deepin.iso
+22:09 < makkon> set root=(hd1,2)
+22:10 < makkon> linux (loop)/live/vmlinuz boot=casper iso-scan/filename=/q/deepin.iso
+22:10 < makkon> initrd (loop)/live/initrd.lz
+22:10 < makkon>  }
+22:14 < makkon> Deepin does not wish so...
+22:15 < makkon> Thank you, you are the best!
+22:17 < makkon> Ubuntu  example: /etc/grub.d/40_custom
