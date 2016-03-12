@@ -1,0 +1,79 @@
+06:54 < jotapesse> hi guys... deepin forum is laggging slooowwww...
+07:05 < arun--> jotapesse: it may be due to high traffic
+07:07 < jotapesse> never happened beforen, that I've noticed. Seems abnormal to me
+07:08 < jotapesse> but yes, possible
+12:21 < deepin-bot> [Derek Dai]:  hi makkon
+12:22 < deepin-bot> [Derek Dai]:  replace the kernel command line argument with
+12:23 < deepin-bot> [Derek Dai]:  linux (loop)/live/vmlinuz boot=live iso-scan/filename=/q/deepin.iso
+12:51 < deepin-bot> [Derek Dai]:  In case of your partition type is in gpt, replace (hd1,2) with (hd1,gpt2)
+15:03 < qih> jotapesse: Hi, how's things?
+15:04 < qih> Am running Deepin 15.1.1 on AMD64, no issues at all, 15 min install, very cool.
+16:26 < chenshihan> deepin 系统真tm华丽 啊 比win7好用多了 老电脑焕发新生命了
+17:30 < bollo> Is there some way to make deepin recognize that new themes have been installed without logging out och back in again?
+17:55 < qih> bollo: No idea, but that's a great question
+18:04 < qih> I want to know where you get more themes & skins from?
+18:40 < bollo> It seems it does update. Every 30 mins or so.
+18:40 < qih> OK, I am reading the docs, I suspect a lot of the really good info will be in Mandarin, but need to speak to some of the Devs.
+18:44 < bollo> It's just icons, cursors, gtk etc from various places. Github, deviantart, gnome-look etc.
+18:45 < qih> It looks very good
+18:45 < jotapesse> hi qih
+18:45 < jotapesse> good to know :-)
+18:45 < bollo> It's difficult to get a unified look though with with qt4, qt5, gtk2 and gtk3. The settings don't seem to stick.
+18:46 < qih> Although I am trying to install Mozilla Firefox and it's upto 50 mins "installing" from the Deepin Store ... I suspect that's a bug
+18:46 < qih> jotapesse: Hola!
+18:46 < jotapesse> qih: it's Olá! :-) Hola is spanish
+18:47 < qih> jotapesse: Sorry, that's my "roundeye", English lineage shining through
+18:47 < qih> jotapesse: Ola!
+18:48 < jotapesse> qih: I would opt for iceweasel (debian native) instead of firefox (ubuntu package). And it's more up to date.
+18:48 < qih> Hmm, I *hate* Iceweasel, always have but if you reckon it's current, I'll do it
+18:48 < hualet> hi everyone :D
+18:48 < jotapesse> hi hualet
+18:48 < qih> BTW, how tf do I kill the Firefox install through the Store? Crash the PID?
+18:49 < hualet> jotapesse: I think iceweasel will be replaced by firefox in the near future
+18:49 < qih> hualet: Ola! Bonjour. G'day. etc
+18:49 < qih> Iceweasel is ugly and clunky, always been buggy especially with Flash <= which I also hate
+18:49 < hualet> qih: hmmm...you should say 你好 this time, since I'm Chinese :p
+18:50 < qih> Ni hao ma?
+18:50 < jotapesse> to uninstall? just right click on the launcher firefox icon or sudo apt-get remove firefox
+18:50 < qih> Sorry, no Pinyin, atm
+18:50 < jotapesse> hualet: ehehehe
+18:50 < qih> jotapesse: It is not installed, it's installing...
+18:51 < jotapesse> sudo pkill apt-get several times
+18:51 < qih> jotapesse: Hahaha, elegant ... not
+18:51 < jotapesse> it's probably downloading, not installing yet
+18:51 < qih> Been over an hour now, odd
+18:52 < jotapesse> that's the slow download rate from china server
+18:52 < jotapesse> qih: not elgant, but works :-)
+18:52 < qih> Hahaha, really? Er that's awkward
+18:52 < qih> jotapesse: indeed, on it
+18:55 < qih> That fixed it; Mozilla & Thunderbird-ZH failed to install ... you don't say
+18:56 < qih> I know that Deepin seems to be optimised for Locale-ZH but it'd be nice to be able to throw in some other repositories for major packages like Mozilla-Firefox
+18:56 < jotapesse> I always had better experience with iceweasel and icedove
+18:56 < jotapesse> but to each their own
+18:57 < jotapesse> select the best "Fast" repository on control panel > system information > update > mirrors
+18:58 < qih> Ta
+18:58 < jotapesse> itwill use it first and if it fails it will revert to official china server
+18:59 < qih> AH right, there is an AU mirror, great!
+19:18 < qih> jotapesse: Firefox finally went in, if I wasn't here, there would be no obvius way to change the default mirror etc.
+19:18 < qih> obvious*
+19:30 < qih> Night
+20:08 < henk717> Hey all, can someone help setting up the nvidia propriatary driver on a hybrid graphics laptop? I am unable to disable the Intel GPU in the EFI firmware
+20:10 < deepin-bot> [Derek Dai]:  Hi henk717
+20:10 < deepin-bot> [Derek Dai]:  As I know, you can't disable Intel GPU
+20:11 < henk717> I installed the driver trough the device manager, but it seems like the system still uses the intel GPU which means i am now stuck with a broken setup
+20:11 < deepin-bot> [Derek Dai]:  The discrete GPU is wired to integrated one, the latter responsible for output, the prior one is for graphic acceleration with no output ports
+20:12 < henk717> More specifically OpenGL refuses to work since i installed it
+20:12 < henk717> And the NVidia settings panel does not work eigther
+20:13 < deepin-bot> [Derek Dai]:  Try this one: https://wiki.archlinux.org/index.php/bumblebee
+20:15 < henk717> How do i install that on deepin?
+20:16 < henk717> Nevermind apt-get shoul;d have done the job
+20:16 < henk717> Ill look into it further
+20:17 < deepin-bot> [Derek Dai]:  With propriatary driver, sudo apt-get install bumblebee-nvidia primus
+20:24 < deepin-bot> [Derek Dai]:  Oh, while installing, the apt-get will ask you whether or not to generate a xorg.conf for you, choose no
+20:25 < deepin-bot> [Derek Dai]:  Or, you can rm /etc/X11/xorg.org manually
+21:56 < brainy> hi felixonmars :]
+21:57 < felixonmars> hi brainy
+23:50 < feenix> please tell me, how fast is the deepin 15.1.1? is it lagging?
+23:51 < jotapesse> hi, feenix. your question doesn't make sense. what is lagging?
+23:52 < jotapesse> deepin 15.1.1 works fine, quite stable, fast and robust, improved from previous versions.
+23:58 < feenix> hi thanks for the reply, i cant remember the version but once (may be 1 year back) i used deepin but im not satisfied with the performance, it was very slow, so i've changed to LMDE. Now i want to try deepin again, daily i work on 30-40 tabs in 2-3 browsers,sublime editor,skype & libre ofc. so can i change to deepin ?
