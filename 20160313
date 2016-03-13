@@ -1,0 +1,33 @@
+00:02 < jotapesse> I also work daily with no problem. Obviously not as fast LMDE or Xfce, but fast enough, a bit faster than Unity, Gnome, KDE, I think, but I haven't exactly metered it.
+00:02 < feenix> i know deepin not stable&fast as LMDE, but still is there any chance so that i can use deepin as main primary os
+00:03 < jotapesse> it is my main OS
+00:03 < jotapesse> no problem with 15.1.1
+00:03 < jotapesse> Try a few days and see how it goes for you
+00:04 < feenix> i saw some issues from users in deepin forum regarding vpn/proxy and etc., so im still thinking
+00:04 < feenix> yeah okay sure :)
+07:13 < makkon> Hi all!
+07:18 < makkon> Derek Dai, thank you! Downloaded from the menu live mode Deepin15 and  Deepin15.1, next successfully installed! Live mode Deepin15.11- installed is fails after partitioning hdd.
+07:19 < makkon> Thank you for your understanding and support.
+07:25 < makkon> P.S. Remind, install Deepin  using ISO-image of the hard disk.
+09:06 < makkon> Hi all! Derek Dai , can you tell me setting so that the installation took place in the mode without the GUI (no live mode)?
+09:08 < makkon> Using ISO-image of the hard disk?
+09:09 < makkon> Heartfelt thank!
+10:41 < deepin-bot> [Derek Dai]:  Hi, makkon
+10:44 < deepin-bot> [Derek Dai]:  It's doable without GUI, but you have to run some commands manually... no help from Deepin team currently
+10:49 < deepin-bot> [Derek Dai]:  "installed is fails after partitioning hdd", my guest is that because of you are installing Deepin from your hard drive, you can do re-partition, but since a partition is mounted (the one that you load .iso from), kernel will refuse to update partition information, so...
+12:35 < deepin-bot> [Derek Dai]:  Hi, makkon, I replied your post in forum to show you how to install Deepin without GUI
+14:05 < brainy> hi felixonmars
+14:08 < felixonmars> hi brainy
+14:28 < brainy> felixonmars, did you have a coffee with hualet the other day?
+14:29 < brainy> I typed "hua" and kept pressing TAB, wondering why it wouldn't complete the name for me, then I realized he is not here at the moment :=)
+14:30 < felixonmars> no coffee yet, iirc :3
+14:30 < brainy> haha ok
+20:03 < tenten8401> Anyone in tis channel on as of now?
+20:03 < tenten8401> *in this
+20:03 < tenten8401> Having an annoying issue with the deepin dock
+20:04 < tenten8401> When it's set to keep showing, it will hover up half way to the middle
+20:04 < tenten8401> when its on anything else, its fine
+20:06 < tenten8401> http://imgur.com/rrkT64a
+22:00 < Guest80592> hi everyone
+22:01 < Guest80592> Im a new user of deepin os, its look like an amazing os... but i think there manu bugs on it
+22:07 < Guest80592> ..
