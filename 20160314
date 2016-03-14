@@ -1,0 +1,33 @@
+01:52 < Guest80592> ..
+06:03 < qih> Hi, is there a method on how to change my keyboard input from English to Pinyin?
+06:04 < qih> In the System settings, I can change the entire kbd mapping & system language to Simplified Chinese, but I just want to use Pinyin in some applications.
+10:05 < liujianfeng> qih: you need to install a pinyin input method
+10:05 < liujianfeng> such as fcitx-sunpinyin
+10:38 < Juanchula> hi
+10:39 < Juanchula> How do I create an account in the store Deepin?
+11:00 < deepin-bot> [Choldrim]: Juanchula: https://account.deepin.org/register?lang=en
+11:15 < Juanchula> thanks
+11:22 < deepin-bot> [Choldrim]: Juanchula: You're welcome ;)
+12:14 < makkon_> Hi all! Will you please help me understand. Mirror indicated in the control center ftp://deepin.ipacct.com/deepin/pool/
+12:31 < makkon_> It has sections main contrib non-free,   I should write in the sections instead "unstable" ?
+12:37 < liujianfeng> makkon_: unstable is the codename
+12:43 < makkon_> repository deepin.ipacct.com has no unstable section. Synaptic does not accept it. How to do?
+12:46 < liujianfeng> makkon_: "deb ftp://deepin.ipacct.com/deepin unstable main contrib non-free"
+13:11 < makkon_> message: The repository 'ftp://deepin.ipacct.com/deepin/pool unstable Release' does not have a Release file.
+13:26 < makkon_> It is expected to update? Germany Universität Erlangen-Nürnberg reply: The repository 'http://ftp.fau.de/deepin/pool unstable Release' does not have a Release file.
+13:28 < liujianfeng> makkon_: you don't need /pool
+13:29 < leaeasy> makkon_: It should be http://ftp.fau.de/deepin/  but not http://ftp.fau.de/deepin/pool
+13:44 < makkon_> Everything is fine http://ftp.fau.de/deepin  , the update rate to 1.2 Mbytes!!! A control center for the repository is not really connected?
+15:16 < makkon> Hi all! Hi Derek Dai:   "is that because of you are installing Deepin from your hard drive, you can do re-partition, but since a partition is mounted (the one that you load .iso from), kernel will refuse to update partition information, so..."
+15:17 < makkon> In reality, you can bet on any section of 0.2 to 0.1 is checked.
+15:18 < makkon> Your Deepin15.1.1- impressed yet again!
+15:20 < makkon> This is the first version Deepin, where  without a drum driver manager  install GeForce8800!
+15:22 < liujianfeng> makkon: what's the output of "ubuntu-drivers list"
+15:27 < qih> liujianfeng: Thanks for the tip re Pinyin
+15:27 < makkon> driver manager successfully installed GeF8800, i did not understand the question
+15:30 < qih> i just checked --simulate for installing fcitx-sunpinyin, it wants to pull in GTK/QT/Lua libs ... if the DDE is QT5, why all the extra stuff?
+15:38 < liujianfeng> qih: not all apps are writen in qt5, fcitx-frontend-all helps to let fcitx run on most apps
+15:39 < qih> liujianfeng: OK. Just thought it might be more specific, thanks.
+19:43 < bollo> what to do about the dock reaching outside of the screen when running a lot of applications?
+19:55 < liujianfeng> bollo: well we have a plan to fix this
+19:56 < bollo> nice :) something like unity has?
