@@ -1,0 +1,35 @@
+10:17 < qih> What terminal is Deepin-Terminal based on? I notice that it does not have a "man" entry nor allows conventional configurations such as "fbset" & "geometry" etc. Why not?
+11:21 < hualet_deepin> qih: It's origin, based on the vte toolkit.
+11:21 < hualet_deepin> the version 2 is upcoming, so you can file some feature request :D
+11:23 < qih> hualet_deepin: OK, thanks.
+11:32 < hualet_deepin> qih: np :D
+11:34 < Tom1> hi hualet: ;)
+11:34 < Tom1> hi, "sbw"
+11:55 < Tom1> hi, "choldrim" ;)
+12:27 < hualet_deepin> hi Tom1
+14:17 < qih> hualet_deepin: Just clarifying re Deepin-Terminal ... what is the VTE Toolkit? I can find no reference.
+14:24 < hualet_deepin> qih: you can find it here https://github.com/GNOME/vte
+14:24 < qih> hualet_deepin: Thanks. hey, with regard to system requests or features, where do I send/post them?
+14:28 < hualet_deepin> qih: you can create issue in deepin-terminal project.
+14:30 < qih> OK, thanks for that but also in the broader sense of the Deepin Linux system?
+14:31 < hualet_deepin> yeah.
+14:32 < qih> OK
+14:33 < hualet_deepin> qih: if there's no specific project, you can go https://github.com/linuxdeepin/developer-center/issues/
+14:33 < hualet_deepin> it's the place for more generic dev-related issues.
+14:34 < hualet_deepin> hope it helps.
+14:34 < hualet_deepin> :D
+14:37 < qih> hualet_deepin: That's better, thank you. I've got a range of feedback, both system performance and application specific.
+14:38 < hualet_deepin> OK
+14:43 < qih> I like the systme very much, it's the best *Debian* I have ever used.
+14:43 < qih> system*
+19:03 < hualet_deepin> ohms360: hi
+19:04 < hualet_deepin> I have a question for you, can you understand what does "Calendar is a date tool." mean ?
+19:20 < ohms360> hi hualet_deepin
+19:20 < ohms360> calendar is a date tool: i assume it's relating to how calendar manages dates?
+19:21 < hualet_deepin> it's normal to see something like that ?
+19:22 < ohms360> sounds pretty normal to me :-)
+19:23 < hualet_deepin> I always see the date as the one in "date someone" :P
+19:23 < hualet_deepin> not the one in "today's date"
+19:25 < ohms360> ahhh
+19:25 < ohms360> today's date is very common :-p
+19:34 < hualet_deepin> OK
