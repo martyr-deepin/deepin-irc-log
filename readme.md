@@ -1,3 +1,5 @@
+This project has been *deprecated* by https://irclogs.deepin.io/deepin/
+
 This is IRC log of channel #deepin on irc.freenode.net
 
 You can join this IRC channel by your favorite IRC client, like Pidgin, hexChat, irssi, WeeChat ... 
