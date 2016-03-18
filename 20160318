@@ -1,0 +1,23 @@
+08:49 < qih> liujianfeng: Hi, you in?
+09:02 < liujianfeng> qih: what's up?
+09:04 < qih> Hey, I just wanted to ask your advice on a VPN to access into 中国
+09:05 < qih> Or something else, some sites and services are blocked
+09:05 < hualet_deepin> liujianfeng: you can build a VPN service and sell it qih lol
+09:08 < liujianfeng> qih: Chinese people usually buy foreign VPN services, I don't know much about those sold by China Mainland
+09:13 < qih> liujianfeng: Thanks for the answer.
+09:13 < qih> hualet_deepin: Hahaha, probably be more people than you think, except they'd be spread out globally.
+09:14 < liujianfeng> qih: find those: https://bestvpnchina.net/%E4%B8%AD%E5%9B%BDvpn%E6%8E%A8%E8%8D%90/
+09:19 < qih> liujianfeng: Thanks.
+09:32 < qih> liujianfeng: ZH query: is there a word for Millenium in 中文？
+10:12 < liujianfeng> qih: 千禧?
+10:18 < dance707> hi qih
+10:18 < qih> OK, yep that's it, thanks.
+10:18 < qih> dance707: Hi
+10:19 < dance707> qih : i noticed your earlier question flash plug in
+10:19 < dance707> qih it is simple to manually install the plug in
+10:21 < dance707> qih : uninstall previous version download the one .tar.gz extract copy  libflashplayer.so to usr/lib/firefox-addons/plugins
+10:29 < qih> dance707: Thanks, I just took the easy way out, it works, I've done the whole libflashplayer.so thing before, not a fan of it at all, bring on HTML5 media content
+10:30 < dance707> qih: yes it's becoming less important now with new media content.
+10:39 < qih> Finally! Death to Flash.
+21:58 < xmcs03> oh~~~
+21:58 < xmcs03> still 2014?
