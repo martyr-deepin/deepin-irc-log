@@ -1,0 +1,116 @@
+00:00 < brainy> arunpyasi, oh ok
+00:00 < arunpyasi> brainy: but there are some superstition people say that there should be this number of things/stuffs in religious activities.
+00:01 < brainy> arunpyasi, ooh I understand, thanks bro
+00:01 < hualet_deepin> yeah, that's also true in China
+00:02 < hualet_deepin> people usually get married on certain days
+00:02 < brainy> hualet_deepin, thanks bro, that's interesting to know :)
+00:03 < arunpyasi> yeah :D
+00:04 < hualet_deepin> more interesting one: I just took a shower mixing up bath cream and shampoo :(
+00:06 < hualet_deepin> time to sleep, see you guys, brainy arunpyasi
+00:06 < arunpyasi> haha :D
+00:22 < brainy> lol
+01:02 < brainy> bye arunpyasi bro :)
+10:05 < liujianfeng> iyzsong: whitelogist
+10:12 < iyzsong> 2333
+12:07 < steev> hi hualet_deepin
+12:37 < hualet_deepin> hi steev
+12:38 < hualet_deepin> let me see, there are some new friends I haven't say hi to
+12:38 < hualet_deepin> hi outsourced  PerlinNoise :P
+12:39 < steev> hualet_deepin: :) i noticed you said something this morning (my time it was 8am); been rather busy working on a few things for arm64 here
+12:40 < hualet_deepin> you mean the funny story :)
+12:40 < hualet_deepin> steev: what's that things ?
+12:41 < steev> hualet_deepin: oh, i'm a kali linux developer, and i'm going through all our various packages that don't build and fixing them up, then testing via sbuild; gives me practice for pulling in the deepin desktop :D
+12:41 < hualet_deepin> I'm having trouble with something to: network driver, network speed, network VPN :P
+12:41 < steev> i blame the firewall? :P
+12:42 < hualet_deepin> I blame the whole community :P it's a joke
+12:42 < steev> i'm also a gentoo linux developer, and i'm fixing firefox 45.0.1 on gentoo to build on arm64
+12:42 < hualet_deepin> steev: great, so there will be DDE on kali linux right ?
+12:42 < steev> hualet_deepin: that's the goal
+12:43 < hualet_deepin> cool man
+12:43 < steev> and if i can get it packaged up properly (as in, get the dependencies needed) then the watch files can take over and our automation can kick in
+12:44 < hualet_deepin> steev: anything we can help ?
+12:44 < steev> hualet_deepin: i don't think so, just make sure the dependencies are properly documented, which most of them seem to be; the biggest thing on our (Kali) side is we don't have much go packaged
+12:46 < hualet_deepin> oh, I thinks we packaged many golang packages ourselves
+12:46 < hualet_deepin> anyway, please contact me if you need any help that we can provide :D
+12:47 < hualet_deepin> and thanks for the try to make DDE available to Kali
+12:47 < steev> hualet_deepin: yep, i noticed that; debian has an awesome dh-make-go package for... uh, packaging go dependencies
+12:47 < hualet_deepin> yeah
+12:47 < steev> dh-make-golang
+12:47 < steev> i gotta convince them to import it into kali
+12:47 < steev> which is really just me emailing and saying add it
+12:48 < hualet_deepin> why ? I thought Kali is Debian based ?
+12:48 < hualet_deepin> am I wrong ?
+12:48 < steev> it is, but we build our own packages, so we have to import them, we don't just rely on the debian mirrors
+12:48 < steev> we have x86/amd64/arm/arm64 builders
+12:49 < steev> most of it is fairly automated
+12:49 < hualet_deepin> you maintain the most of the packages yourself ?
+12:49 < hualet_deepin> I mean not from the debain mirrors ?
+12:51 < steev> we do; but since we rely on debian so much, we also mirror them; it's a win-win
+12:51 < steev> some things we patch, some things we don't, but we can't guarantee that they don't make an incompatible change
+12:54 < hualet_deepin> I think we're brothers :P you based on jessie or sid ?
+12:56 < steev> sid+ (we import constantly)
+12:56 < steev> we're "rolling" release
+12:56 < steev> so updates come in all the time
+12:58 < hualet_deepin> but that breaks things
+12:58 < hualet_deepin> I've been worried about this since our last update accident
+12:59 < hualet_deepin> but I still didn't figure out a better way to prevent those accidents from happening
+12:59 < steev> well, we have multiple levels of "release"
+13:00 < steev> kali-dev (us kali devs run it), kali-bleeding-edge (moves here after we are like, eh, okay) - some users run this, and finally kali-rolling
+13:00 < steev> so we catch breaks pretty fast
+13:01 < hualet_deepin> OK
+13:01 < steev> and of course, with all the builds being mostly automated (we get email notifications of any type of failures); we find things fairly quickly
+13:02 < hualet_deepin> we do pretty much the same thing here, debian -> inner testing -> community testing -> rolling release
+13:02 < steev> before this weekend, i always installed build packages manually, and only found sbuild and i run that locally now too
+13:03 < steev> we also have jenkins set up
+13:03 < steev> so every commit gets tested
+13:04 < hualet_deepin> the core problems here is that Debian packages sometime break the compatibility
+13:05 < hualet_deepin> both on features and builds
+13:07 < hualet_deepin> you rely on user feedback to fix those breaks ? I mean feature breaks mostly
+13:11 < steev> sometimes
+13:11 < steev> we can't test *every* feature and *every* setup; so we test the most common (the ones we use)
+13:16 < deepin-bot> [somebody]:  steev, OK thanks for the info :D
+13:17 < steev> :)
+13:17 < deepin-bot> [somebody]:  there must be something wrong with my client, keep logging out :(
+13:18 < deepin-bot> [somebody]:  I'll quit for some time. see you. steev
+13:18 < steev> have fun
+14:10 < steev> hualet_deepin: actually i noticed a bug here (maybe i just need to update though); if i run apt update, it just sorta sits there "working"; versus apt-get update which actually seems to connect just fine?
+14:11 < steev> well, for certain definitions of fine - it's slow because i'm not pointing to a closer mirror
+14:28 < hualet_deepin> steev: you mean it's slow there ?
+14:29 < steev> hualet_deepin: ah, no, maybe i just had a weird thing
+14:29 < steev> it worked this time when i ran it /o\
+14:29 < hualet_deepin> hehe
+14:47 < steev> https://bpaste.net/show/b11fdfb0dedb - that's why i prefer apt actually; if there are updates it will say X updates available, run apt something --list-upgradable
+17:10 < qih> 你好to all
+17:11 < qih> On Deepin 15.1.1/AMD64 ... shouldn't a DVD inserted into the drive autoplay?
+17:56 < dance707> hi qih
+17:57 < qih> dance707: Hi.
+17:59 < dance707> In the control panel the default settings Auto Play should be turned on and under DVD video Deepin movie should be checked
+17:59 < dance707> for Default applications
+18:00 < dance707> then after inserting dvd a file manager pops up and have to click Deepin Movie in right hand corner
+18:02 < qih> dance707: Thanks, looking...
+18:05 < qih> Autoplay is on, DVD is set to Movie Player, disc out/in, no go 8-(
+18:06 < qih> And this is a functioning DVD drive that I have burned data to in the past few weeks.
+18:07 < dance707> do you get the pop up file manager ?
+18:07 < qih> No, I do not.
+18:12 < dance707> I noticed on of my movies did not play from dvd drive either I tied another one and it played good .
+18:12 < qih> OK, I'll try that.
+18:15 < qih> dance707: That worked! Thank you.
+18:16 < dance707> qih your welcome
+18:17 < dance707> qih i will check out latter tonight why my other one would not play. They are all saved to hard drive so I dont often try from the dvd bay
+18:19 < qih> dance707: K, clarification, it tries to play but fails.
+18:22 < dance707> qih yes that is what I mean one tries to play but fails do not know if its missing a media codecs or what
+18:22 < dance707> qih but the other one I tried plays good
+18:25 < qih> OK, odd.
+18:27 < qih> dance707: I just checked using apt-get, ffmpeg is not installed, and in my experience that is a key base package for DVDs.
+18:32 < dance707> qih there may be some ffmpeg but those are mostly for for audio CD's. DVD are usually libdvdc something. But I will need time to check it out and want to try my saved copy on hard drive first to isolate the problem.
+18:40 < qih> OK, just reading at Debian on libddvcss2 etc
+18:50 < qih> dance707: Progress, I ended up executing the cmd "sudo apt-get install libdvdcss2", which then defaults to ... install libdvd-pkg, a meta-package.
+18:51 < qih> During the install of that, the LibDVDCSS2 install process pops up, finalises, but now it seems that the Deepin Movie player cannot actually handle the .VOB files, they are being identified as unknown files.
+18:53 < dance707> qih : there are libdvdc packages already installed in Deepin I just checked my saved copy on hard drive and it plays okay In Deepin Movie . So the problem maybe being able to read the newer movies from DVD bay
+18:55 < qih> OK, I'll do some more digging
+18:57 < dance707> qih :Okay I will check back with you latter after some rest and had time to determine the problem
+18:59 < qih> OK, but in the meantime, I installed VLC, and it works with both movies, so the default packages for Deepin Movie player are the likely issue.
+19:00 < qih> later
+19:00 < dance707> qih ok
+19:48 < deepin> 233
+21:33 < brainy> hi CofiJ
