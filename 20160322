@@ -1,0 +1,23 @@
+06:16 < dance707> hi qih
+06:29 < qih> dance707: Hi, what did you find?
+06:30 < dance707> qih : about the same thing you did I installed libdvd-pkg and smplayer and they played okay
+06:33 < qih> OK, I may be having permission/mount errors with multimedia on this DVD drive, data is fine, Read or Write
+06:37 < dance707> qih : still the same problem with Deepin Movie says invalid file with .VOB extension
+06:38 < qih> What default groups should a $user be in?
+06:38 < qih> dance707: You are having that fault also?
+06:40 < dance707> qih smplayer lighter than vlc but you can use Deepin User Feedback in applications to report your findings with Deepin Movie
+06:40 < qih> dance707: OK, will do on both counts.
+06:57 < qih> dance7071: Haha, that looks like fun!
+06:58 < qih> The automount of CD/DVD is broken, but it automounts on some disks, so I am using "mount -t iso9660 /dev/sro /target/dir <= which works fine
+06:59 < qih> I ca play more of the files than before but both Deepin Movie & VLC are producing errors with .VOB files. Will look further, I'd rather solve this than just intall another player, if that can be helped.
+06:59 < qih> I can*
+07:00 < dance7071> qih mine are working okay on smplayer I would prefer to use Deepin Movie seems to only play the older DVD's I have
+07:29 < qih> dance707: OK, well one of the ones I want to play was from 2003.
+07:31 < dance707> qih ahh okay vob extension?
+07:31 < qih> Yes
+07:31 < qih> How funny is that? You try to play legitimate videos and they don't work?
+07:31 < qih> You fileshare, and no worries ...
+07:33 < dance707> qih we will have to report these findings in Deepin User Feedback so they can improve Deepin Movie
+07:51 < qih> Yes we will.
+09:11 < sou_> qq是用的wine吗？
+09:49 < deepin-bot> [Choldrim]: 是的
