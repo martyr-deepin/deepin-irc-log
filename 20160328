@@ -1,0 +1,19 @@
+10:32 < makkon> Hi all!
+11:07 < makkon> Hi all! I use netselect-apt and choosing the fastest mirror Deepin.  In the script specify the URL where the mirror list is retrieved from  url="http://mirrors.deepin-fr.org/" or url="https://packages.linuxdeepin.com/deepin/". downloaded from the url  error in the file.    Weare is find  (retrieved)   file URL  the mirror Deepin list?  How to select a source file, the list of mirrors?
+19:57 < makkon> Hi all! Unique Deepin developers!
+20:05 < makkon>  Good guys!
+20:10 < hualet> makkon: I think you're looking for /etc/apt/source.list ?
+20:12 < makkon> Hi hualet! I think.....
+20:12 < hualet> makkon: sorry, I misunderstood
+20:13 < hualet> let me see
+20:15 < hualet> makkon: maybe https://www.deepin.org/mirror.html?index=repostory ?
+20:53 < brainy> bobo_ is here, yippie!
+20:55 < bobo_> hi, brainy
+21:07 < brainy> hi bobo_
+21:11 < makkon> Hi hualet! Hi all Unique Deepin developers!
+21:13 < makkon> q @ q-pc: ~ $ sudo netselect-apt [Sudo] password for q: Using distribution unstable. Retrieving the list of mirrors from www.debian.org ...  --2016-03-28 16: 02: 26-- https://packages.linuxdeepin.com/deepin/ Recognizes packages.linuxdeepin.com (packages.linuxdeepin.com) ... 202.141.160.114, 2001: da8: d800: 95 :: 114 Connecting to packages.linuxdeepin.com (packages.linuxdeepin.com) | 202.141.160.114 |: 443 ... connected. HTTP-request
+21:19 < brainy> Good job, makkon
+21:30 < makkon> Sorry next conclusion: HTTP-request has been sent. Waiting for response . 200 OK Length: no data [text / html] Saving: «/tmp/netselect-apt.spqwIF»  /tmp/netselect-apt.spqwIF [<=>] 613 --.- KB / s in 0s  2016-03-28 16:02:29 (8,82 MB / s) - «/tmp/netselect-apt.spqwIF» saved [613]  Choosing a main Debian mirror using netselect. netselect-apt was unable to obtain a list of valid hosts from the file downloaded from the url 'https://pa
+22:41 < rocklee1> is there anyone here
+22:42 < rocklee1> just now, i want to install a Deppin VM,but errors occured
+22:44 < rocklee1> it says "unable to boot - please use a kernel appropriate for your CPU"
