@@ -1,0 +1,12 @@
+05:43 < steev> woo, dh-make-golang finally imported, now i can start looking into all the go stuff for deepin on kali :D
+16:35 < boncen> everyone here using deepin?
+19:01 < aleximmer> what ubuntu version is 15.1.1 based on?
+19:03 < aleximmer> I am building android and would like to move from ubuntu. Asking so I know what packages I will need to download
+22:10 < jsangonx> hola
+22:11 < deepin-bot> [manateelazycat]:  Deepin has switch from ubuntu to debian since Deepin 15
+22:12 < deepin-bot> [manateelazycat]:  We have build all system from debian, never base on ubuntu.
+23:27 < __martin__> greetings
+23:27 < __martin__> repository mirrors are stuck even after picking a "fast" one closer to me
+23:28 < __martin__> seems like the cdn ones are still written in /etc/apt/sources.list
+23:28 < __martin__> and apt-get update hangs at 0%
+23:28 < __martin__> what do I do? (=
