@@ -1,0 +1,53 @@
+00:27 < dance707> hi martin
+00:27 < __martin__> hello
+00:28 < dance707> If you change mirror to a faster one in control panel it does not show up in apt/sources.list it shows up in another location
+00:29 < dance707> martin are you trying to update from terminal ?
+00:29 < __martin__> first I let the control panel updater resync the repos
+00:29 < __martin__> but hanged indefinitely
+00:30 < __martin__> even with two different mirrors selected
+00:30 < __martin__> (and rechecked with console later)
+00:31 < dance707> martin there currently is a bug affecting apt-get. I would try from terminal . if your getting a var lock mesg then you can try sudo killall apt-get
+00:31 < __martin__> I am used to that error from arch
+00:31 < __martin__> where using sudo rm that file helped
+00:32 < __martin__> thanks for info, will try to kill process and restart or sth
+00:32 < dance707> martin your welcome
+00:33 < dance707> martin also on my systems I disabled auto check of updates in control panel till they fix the bug
+04:12 < aarwine> is there a way to make deepin catch power button presses and ask if I want to shut down?
+04:13 < aarwine> some laptops have the power button dangerously close to the backspace key - http://cdn.arstechnica.net/wp-content/uploads/2013/10/IMG_7853.jpg
+04:22 < dance707> hi aarwine in the Deepin Control center in Power Management there are settings for pressing the power button.
+04:36 < dance707> aarwine the default should be already set to Ask , is this not working for you?
+05:42 < aarwine> hrm, I've tried it on ask and suspend; does it require acpid to be running?
+05:46 < dance707> aarwine I did not see a acpid script but when set to Ask if you hit power button you should get a blue screen asking 5 choices. If you don't want to shut down or log out just hit Esc or click on the screen to return to desktop
+05:50 < dance707> aarwine and if you want to disable power button you can do so with dconf-editor
+05:53 < dance707> aarwine do you get the blue screen when set to Ask ?
+05:56 < dance707> aarwine on my system acpid is installed and I assume is running
+06:10 < aarwine> hrm, let me update
+06:11 < aarwine> I haven't been getting a blue screen at all
+06:15 < dance707> aarwine if you do not get the blue screen with power button or with the power icon on dock I would report your system information using Deepin User Feedback in your applications
+06:22 < aarwine> i'm on archlinux, I'm not sure I have the userfeedback application
+06:26 < dance707> aarwine my Manjaro virtual box works okay also a grey screen instead of a blue screen you might want to check with there user forums
+14:12 < MoYahoo> 'echo
+14:13 < MoYahoo> 'help
+18:36 < brainy> hi felixonmars man
+18:43 < brainy> hi Msangonx
+18:43 < brainy> hualet_deepin, how are you bro?
+18:45 < hualet_deepin> brainy: still there fighting with bugs XD
+18:45 < hualet_deepin> how are you man ?
+18:46 < brainy> hualet_deepin, thanks bro, I'm fine
+18:46 < brainy> hualet_deepin, damn those bugs :)
+18:51 < hualet> XD
+18:53 < brainy> hualet, double-impact
+18:54 < brainy> one is at home, the other is at work
+18:54 < brainy> xD
+18:56 < hualet> brainy: no, I brought my Mac to our office today
+18:56 < brainy> nice man
+18:57 < hualet> lantern is somewhat broken these days, so I need a reliable way to access to google
+19:00 < brainy> see you later
+19:30 < felixonmars> hi hualet and hualet_deepin
+19:31 < hualet> hi felixonmars
+19:31 < felixonmars> new nvidia driver!
+19:31 < hualet> :*
+19:32 < felixonmars> shiny! https://devtalk.nvidia.com/default/topic/928139
+19:32 < felixonmars> i'm preparing the driver for arch
+19:33 < hualet> felixonmars: We'll see if it works well :P
+20:20 < maotora> Hello, i installed deepin like 2 days ago. But ever since i did that fonts in other environments and window managers has broken down. But in deepin everything displays fine. What could cause this issue?
