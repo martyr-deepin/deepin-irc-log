@@ -1,0 +1,26 @@
+01:38 < ohms360> hmmmm
+01:38 < ohms360> I have the want to compile deepin's DE for powerPC and install on Deb PPC
+03:28 < Sterver> Hell'o all.... Simple question, where can I find any nice text/article about Deepin Desktop Environment?
+07:43 < steev> ohms360: i feel ya, i want to do the same, but for arm64
+08:09 < steev> sadly, i don't have the free time required, and i'm currently trying to figure out if an issue i'm having is due to usb, btrfs, or the otg hub i'm using
+16:53 < masterm_> hi?
+18:09 < ohms360> steev, i'm strongly considering working on such a project as far as PPCel64 goes if I have enough people willing to contribute
+18:31 < steev> ohms360: all that is really required is figuring out the build order (and of course fixing any issues with the non-Intel platforms); shouldn't be too much work, I just sadly don't have as much free time as I would like to dedicate to it
+21:12 < brainy> hmmmmm
+21:13 < brainy> I wonder why my PC is slower with NVIDIA drivers enabled than without them
+21:13 < brainy> hi hualet !
+21:13 < brainy> dance707, ohms360
+21:14 < dance707> hi brainy :)
+21:14 < hualet> hi brainy
+21:14 < hualet> brainy: define slow :D
+21:15 < brainy> :D
+21:16 < brainy> I mean the renedering of websites, youtube-videos stutter, etc.
+21:16 < brainy> brb
+21:31 < brainy> hi luomio man
+21:31 < luomio> hi
+21:32 < luomio> I've been a little bit quiet, ha :D
+21:32 < brainy> :D
+21:34 < brainy> This channel is quiet anyway
+21:34 < brainy> There are two theories: either they are sleeping, or everybody is busy programming the next great Linux app xD
+23:10 < hualet> luomio: yueqian zhang?
+23:20 < luomio> hualet yep
