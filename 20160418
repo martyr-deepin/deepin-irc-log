@@ -1,0 +1,3 @@
+04:25 < lossful> Hi there.
+14:22 < xialvjun> does deepin use apt-get ?
+14:27 < deepin-bot> [snyh]:  xialvjun:  yes  the deepin store's backend is lastore-daemon.  And it use the apt-get currently.
