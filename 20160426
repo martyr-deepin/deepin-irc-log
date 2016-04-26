@@ -1,0 +1,34 @@
+03:08 < mescon> has anybody been able to change the resolution in Manjaro Deepin? There is no "Done" or "OK" button after I change it.
+03:08 < mescon> i guess the button is outside of the window somehow
+03:08 < mescon> defaults to 800x600
+03:19 < dance707> hi mescon there should be confirm button below the resolutions unless your running in a VB or something
+03:19 < mescon> it doesnt show up though
+03:19 < mescon> it does in Deepin 15.1.1 but not in Manjaro Deepin 16.03
+03:21 < dance707> mescon my systems are all Deepin 15.1.1
+03:22 < mescon> ah ok
+03:22 < mescon> i was just trying out deepin 15.1.1 vs deepin manjaro
+03:22 < mescon> haven't been a linux user since 2008 or so
+03:22 < dance707> mescon but in a virtual machine either one will not show the confirm button
+03:23 < mescon> well both are in virtual machines
+03:23 < mescon> and in deepin 15.1.1 it works fine
+03:24 < dance707> mescon virtual machine the VB handles the resolution
+03:24 < mescon> using vmware
+03:25 < mescon> but as I said, it shows up just fine in Deepin 15.1.1
+03:25 < mescon> but not in manjaro deepin
+03:25 < dance707> may be different there then I do see a apply button in my Deepin 15.1.1 in a VB
+03:27 < dance707> mescon you might want to check the Manjaro channel as to why that is
+03:28 < mescon> asked the exact same question over there
+03:28 < mescon> got the standard eric s. raymond reply on how to ask a question, so i guess they are the same old elitist community I decided to leave behind
+03:29 < dance707> mescon as far as the Deepin 15.1.1 they do recommend a real environment
+03:29 < mescon> yep, i know
+03:29 < mescon> but thanks for the help
+03:29 < mescon> cheers dance707!
+14:53 < Pars> Hello
+14:53 < deepin-bot> [somebody]: hello
+14:53 < Pars> Wanted to know if deepin is based on ubuntu?
+14:54 < Pars> Wanted to know if deepin is based on ubuntu?
+14:54 < deepin-bot> [somebody]: it's now based on debian sid
+14:54 < Pars> and before it was based on?
+14:54 < liujianfeng> 2014 release is based on ubuntu
+14:58 < Pars> oh okay
+14:58 < Pars> thank you
