@@ -1,0 +1,34 @@
+02:40 < dance707> hi xcasex please define resume
+05:44 < xcasex> resume on suspend, dance707
+05:52 < dance707> xcasex on suspend if you press power button you be presented the login screen unless you disable password required to wake up in control center.
+06:00 < dance707> xcasex what color blank screen where you getting ?
+06:30 < xcasex> black w. backlight on, using fglrx, and there's no login screen. also, there's no cc setting for disabling that afaik
+06:37 < dance707> xcasex The latest AMD drivers are not fully compatible. I have tested the Fglrx-15.302 and experienced the same thing. If you want to you disable in control center under power management and select a plan that does not suspend
+06:40 < qih> Is there a CLI Music or Sound Player in Deepin Linux by default?
+06:43 < dance707> xcasex also you should see the see the setting for password required to wake up in Power management but in your case selecting a plan other than power saver should not suspend after 15 mins
+06:44 < dance707> hi qih not that I am aware of, there may be something in the repositories
+06:45 < qih> dance707: K, is there an online listing of apps in the repo?
+06:47 < dance707> qih there may be a listing in Debian not sure
+06:47 < dance707> qih where you looking for something in paticular ?
+06:47 < qih> Something like aplay, for use in sripting
+06:47 < qih> scripting* even
+06:48 < dance707> xcasex also if you read the Deepin Forum you may be aware of Deepins new up-and-coming new linux kernel plan
+06:51 < dance707> qih alsaplayer is in the repositories
+06:51 < qih> dance707: OK good, that'll do
+06:52 < dance707> qih a good way to search is with synaptic
+06:53 < qih> k, I use apt-get exclusively
+06:53 < qih> But noted.
+06:53 < dance707> qih ahh okay
+06:54 < qih> I was thinking of jumping back to OpenBSD59 but I really like Deepin
+06:56 < dance707> qih I run Deepin on my workstation and 4 pc's Really like the Debian base
+06:57 < dance707> qih and of course there DDE with unique windows manager
+07:01 < qih> yeah DDE is neat for sure, although I think the initial install is still a bit bloated
+07:02 < dance707> qih a minimal install would be nice but they don't have one now
+07:03 < qih> Fair enough
+07:03 < qih> That's what I like about OpenBSD, Base, DM and that's it
+07:03 < qih> But it is as ugly as fuck 8-)
+07:04 < dance707> qih with the Debian package management its easy to remove default aps , unlike other systems
+07:05 < qih> dance707: of course, just griping
+07:23 < dance707> qih the average new user to Linux would feel lost if they did not see some of the default aps
+07:23 < qih> Agree
+23:39 < brainy> hi hualet
