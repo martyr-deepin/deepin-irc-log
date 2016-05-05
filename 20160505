@@ -1,0 +1,4 @@
+10:59 < qih> Hi, using Deepin Current AMD64, I have just discovered that my $user is no longer in the Sudoers file. How can this happen?
+11:06 < qih> Ah I just worked it out; I used "usermod" to add the $user to the "dialout" group but must have wiped it from all the other groups, "sudoers" included, damn!
+12:32 < qih> Hi all.
+12:33 < qih> jotapesse: Hi, you in?
