@@ -1,0 +1,24 @@
+15:31 < techknight_> Hi guys. I am missing a timezone in the clock for Copenhagen. is there anyw ay to manually install that?
+15:33 < jotapesse> Hi. Check your time zone: http://www.timeanddate.com/worldclock/denmark/copenhagen
+15:33 < techknight_> I know what my time zone is but it doesn't appear in the list
+15:33 < techknight_> in deepin
+15:33 < jotapesse> Copenhagen is UTC/GMT+2
+15:34 < jotapesse> it does in mine, naturally, search for UTC+2 not for "Copenhagen"
+15:34 < techknight_> i have from +1 and then it springs to +3,5
+15:34 < techknight_> A i foundt it
+15:35 < techknight_> but it is one hiur in front of the time
+15:36 < jotapesse> It should appear as UTC+2 Athens, Cairo, Istanbul
+16:18 < techknight_> Found it ;) but it show the time is 11:17 but the time in denmark is 10.17
+17:34 < friddle> 有人再不？
+17:34 < friddle> anyone online?
+17:35 < friddle> ****
+17:35 < friddle> anyone online?
+17:35 < liujianfeng> hey
+17:35 < friddle> 看是中国人我就说中文了
+17:36 < friddle> 这样的。能不能帮忙把　/etc/apt/sources.list的内容发给我看看。
+17:37 < friddle> anyone can give me the content of the file  /etc/apt/sources.list  in latest deepin release?
+17:37 < liujianfeng> # Generate by isobuilder
+17:37 < liujianfeng> deb http://packages.deepin.com/deepin unstable main contrib non-free
+17:37 < liujianfeng> #deb-src http://packages.deepin.com/deepin unstable main contrib non-free
+17:37 < friddle> thanks!
+17:37 < friddle> xchat is much better than QQ
