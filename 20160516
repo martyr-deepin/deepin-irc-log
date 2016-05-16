@@ -1,0 +1,147 @@
+10:17 < bobo1> Is there any news from yesterday's conference in Beijing?
+16:11 < qih> jotapesse: How are you? What's new?
+16:19 < qih> https://www.deepin.org/download.html?language=en <= still doesn't work for me, from an NZ Ip address.
+16:28 < jotapesse> hi qih
+16:28 < jotapesse> all fine with me, thanks
+16:28 < jotapesse> and you?
+16:29 < jotapesse> download works fine here (PT)
+16:54 < qih> jotapesse: Good to hear. It's never worked for me from that location.
+16:54 < qih> Also what was the conference that bobo1 was referring to?
+17:11 < jotapesse> qih: I think it was this one: http://tspl.deepin.org/
+17:14 < qih> Right, I missed it.
+19:10 < brainy> hi arunpyasi man
+19:10 < brainy> nice to see you
+19:11 < arunpyasi> hi brainy
+19:11 < arunpyasi> How are you man ?
+19:13 < brainy> fine and you arunpyasi ?
+19:13 < brainy> You went to a Linux convention in Nepal?
+19:19 < arunpyasi> I am also fine bro
+19:19 < arunpyasi> but having issues with a package
+19:19 < arunpyasi> brainy: no bro, currently not working on it
+19:19 < arunpyasi> hualet_deepin: hi man
+19:22 < brainy> hualet_deepin, hi bro
+19:22 < brainy> arunpyasi, what package bro?
+19:23 < arunpyasi> brainy: its called gas-preprocessor, I guess deepin guys have flirt with it.
+19:24 < brainy> arunpyasi, never heard of it, sorry
+19:24 < brainy> hi vodkode man
+19:25 < arunpyasi> oh ok
+19:26 < vodkode> Heya
+19:26 < vodkode> brb just waking
+19:29 < brainy> ok
+19:29 < brainy> arunpyasi, what is that package for ?
+19:29 < arunpyasi> Its for ffmpeg
+19:31 < brainy> ahhh
+19:31 < brainy> we must wake up hualet_deepin
+19:31 < brainy> and ask him
+19:33 < brainy> arunpyasi, did your country recover from the earthquake last year?
+19:33 < arunpyasi> brainy: yeah bro. Is still on recovery mode
+19:34 < arunpyasi> hualet_deepin: !!!
+19:34 < brainy> ping hualet_deepin
+19:34 < arunpyasi> anyone online from deepin dev ?
+19:34 < brainy> ping dardevelin sbw
+19:34 < dardevelin> pong ?
+19:34 < arunpyasi> bx0`: chihchun dance707d dantmnf dardevelin felixonmars jotapesse ohms360 s991533_ sbw steev X_III xcasex !! Hello guys anyone online !
+19:34 < arunpyasi> dardevelin: hi !
+19:34 < brainy> lol
+19:35 < arunpyasi> :D
+19:35 < dardevelin> whats up with mentioning everyone ?
+19:35 < arunpyasi> dardevelin: are you in the Deepin Dev Team ?
+19:35 < dardevelin> no
+19:35 < arunpyasi> trying to wake up to the guys :P
+19:35 < dardevelin> arunpyasi, well people are not speaking usually because they are doing something else
+19:36  * dardevelin personally avoids speaking in here. weird correlation between days he speaks in here and days he gets massive increase of chinese spam
+19:37 < brainy> Crazy channel :D
+22:37 < arunpyasi> hualet: hi man
+22:37 < arunpyasi> whats up !
+22:38 < hualet> hey, arunpyasi :)
+22:38 < hualet> I'm home
+22:38 < arunpyasi> hualet: how are you ?
+22:39 < hualet> arunpyasi: not that well, just so so
+22:39 < hualet> how are you arunpyasi?
+22:40 < jotapesse> hi hualet
+22:40 < arunpyasi> hualet: I a fine bro. But suffering from common cold in summer :P
+22:40 < hualet> hi jotapesse, long time no chat
+22:40 < jotapesse> hi all
+22:40 < hualet> arunpyasi: sorry to hear that
+22:40 < arunpyasi> hualet: bro, I had an issue. Do you know how we can install gas-preprocessor ?
+22:40 < arunpyasi> I get it not working.
+22:41 < hualet> every time you show up, you say you're ill XD
+22:41 < jotapesse> hualet: indeed, you gone missing on telegram :)
+22:41 < hualet> arunpyasi: sorry, I don't know...
+22:41 < hualet> jotapesse: I've been very busy these days :(
+22:42 < jotapesse> hualet: you're always busy :)
+22:42 < arunpyasi> hualet: anyone works in ffmpeg in deepin team ?
+22:42 < jotapesse> that's a godd sign, right?
+22:42 < jotapesse> * good
+22:43 < hualet> jotapesse: good sign for our company, not for my healthy :P
+22:43 < jotapesse> lol
+22:43 < hualet> arunpyasi: there was one, but he left for some reason
+22:43 < arunpyasi> hualet: oops ! OK :)
+22:43 < hualet> arunpyasi: what's wrong ?
+22:44 < hualet> jotapesse: how are you ?
+22:44 < arunpyasi> hualet: I am trying to compile linphone for android but giving error while compilation
+22:44 < jotapesse> I'm fine, and you?
+22:44 < arunpyasi> is related to ffmpeg and gas-preprocessor
+22:44 < hualet> jotapesse: my stomach hurts some time
+22:45 < hualet> I'll see if I need to go to see the doctor
+22:45 < jotapesse> hualet: sorry to hear that, do you know what's causing it? to much stress perhaps?
+22:45 < hualet> arunpyasi: sorry that I can't help :(
+22:45 < arunpyasi> hualet: no problem bro :)
+22:45 < hualet> jotapesse: I don't know.
+22:45 < arunpyasi> How is Deeping Dev going on bro ?
+22:46 < hualet> arunpyasi: I've been busy, and we've all been very busy XD
+22:46 < jotapesse> hualet: well I wish you a fast recovery to be well
+22:46 < hualet> jotapesse: thanks
+22:47 < hualet> how's the telegram group ? jotapesse
+22:47 < arunpyasi> hualet: cool. Means, something awesome is coming from Deepin ?
+22:48 < hualet> arunpyasi: we've been working on the stability and performance for sometime
+22:48 < hualet> hope it can be a great release
+22:48 < jotapesse> hualet: it's ok, it got some traction recently, a few more members entered. I'll probaly upgrade it to a super-group these days
+22:48 < arunpyasi> Thats cool hualet :)
+22:48 < arunpyasi> And man, take care of your health too.
+22:48 < hualet> jotapesse: cool
+22:49 < hualet> arunpyasi: you too, man
+22:49 < arunpyasi> hualet: have you seen s991533_ around in some 1 year ?
+22:49 < arunpyasi> :P
+22:49 < arunpyasi> hualet: yeah man, I also need to take care. I think I am running out.. :P lol
+22:49 < hualet> nope, perhaps he's been busy too
+22:49 < hualet> arunpyasi: haha
+22:49 < hualet> arunpyasi: how's your busniness ?
+22:50 < jotapesse> hualet: 15.2 release expected soon?
+22:50 < arunpyasi> hualet: Ahh, is kinda well.. I am trying to build migratewizard.com for my new business.
+22:50 < arunpyasi> hualet: I am like tired of freelancing :P
+22:50 < hualet> jotapesse: yeah, it'll be available soon
+22:51 < hualet> arunpyasi: cool
+22:52 < arunpyasi> hualet: but I am confused what programming language to choose to build that platform :P lol
+22:52 < jotapesse> hualet: nice! besides stability and performance enhancements, any new feature to be expected?
+22:52 < hualet> arunpyasi: Python perhaps :P
+22:53 < arunpyasi> hualet: haha, how you got my inner voice ? :P
+22:53 < hualet> jotapesse: not much, new features are mostly cut by me :/
+22:53 < hualet> arunpyasi: XD
+22:53 < jotapesse> hualet: lol, you devil
+22:54 < hualet> ;)
+22:54 < hualet> see them in 15.3
+22:55 < jotapesse> hualet: sure, I'm really more concerned with perfomance and stability
+22:55 < hualet> jotapesse: me too, but others are more like new features :)
+22:56 < jotapesse> hualet: in example, nautilius performance drives me crazy
+22:56 < hualet> all GNOME stuff make me crazy
+22:56 < jotapesse> hualet: YES, no we're talking!
+22:56 < hualet> especially GTK and Nautilus
+22:57 < jotapesse> I miss Thunar speed so much...
+22:58 < jotapesse> And Xfce speed
+22:58 < hualet> XD
+22:58 < jotapesse> I wish deepin was based on Xfce :-)
+22:58 < hualet> really ?
+22:59 < hualet> I think that'll be terrible XD
+22:59 < jotapesse> Debian + Xfce + DDE with GTK2 and 3 theme support... now that would be something
+22:59 < jotapesse> why?
+23:00 < hualet> they are not the same style
+23:00 < hualet> what I really want is a very uniformed GTK theme
+23:01 < jotapesse> Xfce is GTK and WM customizable you can make it look nearly the same
+23:02 < jotapesse> uniformed?
+23:02 < jotapesse> as in coherent right? me too!
+23:03 < hualet> jotapesse: you got me, yeah, I want a theme to be coherent
+23:03 < hualet> not something like the most themes on the web
+23:05 < hualet> jotapesse: I haven't used Xfce much, it's not quite good looking by default XD
+23:05 < hualet> jotapesse: It's late, I need to sleep now, see you :)
+23:11 < jotapesse> hualet: ok, thanks. see you next time.
