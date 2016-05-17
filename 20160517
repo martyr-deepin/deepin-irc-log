@@ -1,0 +1,49 @@
+00:06 < arunpyasi> hualet_deepin: you went for sleep ?
+00:14 < felixonmars> i think so :3
+00:21 < arunpyasi_> felixonmars: Hi man
+00:21 < arunpyasi_> how are you ?
+00:30 < jotapesse> hi felixonmars
+00:31 < jotapesse> hi arunpyasi
+00:36 < arunpyasi_> hi jotapesse
+00:37 < arunpyasi_> jotapesse: Are you new to the IRC ? AFAIR, I haven't seen you before here. :D
+00:41 < jotapesse> no, well not since january :)
+00:48 < felixonmars> not bad :P
+00:49 < jotapesse> felixonmars you on deepin dev team?
+00:56 < felixonmars> yay L3
+00:56 < felixonmars> *:3
+01:10 < jotapesse> felixonmars: nice! what are you involved with, if you don't mind me asking
+01:26 < felixonmars> jotapesse: some secret stuff xD
+01:38 < jotapesse> felixonmars: heheh right :)
+03:49 < makkon> All of the team Deepin Hello!
+03:54 < makkon> I write you here, if there is no response on the forum Deepin. Sorry. Thank you for your unique project!
+03:55 < arunpyasi> makkon: Hello
+03:55 < makkon> 1. We urge developers: Update v0.3.4freshplayerplugin draft version v0.3.5 https://github.com/i-rinat/freshplayerplugin/ 2.Linus Torvalds announced the official release of Linux 4.6 kernel. After two months of development, after a 7 RC version, Linux 4.6 kernel finally released the final version of the product, it brings some interesting new features, updated drivers, and some security improvements. 3. urge developers to add to the r
+03:57 < makkon> Sorry for bad English
+04:01 < makkon> Thank you for your attention, please accept the respect and admiration of the Deepin team!
+04:08 < dance707d> hi Makkon they will see your mesg and in Chinese forum keep in mind its only 4 am in Wuhan right now
+04:10 < makkon> arunpyasi   dance707d What do you think about proposals Thanks for your attention
+04:13 < dance707d> makkon I dont think that is in the cards right now. It's a big step already the Deepin Kernel plan. When we do get updates it might update fresh player to the latest version in SID
+04:36 < makkon>  yyyeerbo -  respected and worthy person,  and had no idea that the topic is interesting to all!
+04:47 < dance707d> makkon thank you. Keep in mind it is a Deepin Kernel plan with short term and mid-long term goals. Not so much version change as hardware compatibility and stability. As far as fresh player the sid version is 3.5-1 right now
+05:06 < arunpyasi> dance707d: Hello.
+05:06 < arunpyasi> dance707d: Deepin Kernel is planned ! what version of Linux kernel are guys building on top of ?
+05:09 < dance707d> hi arunpyasi its a "Deepin kernel Plan" not planned cureently 4.4.0-2 and testing 4.4.0-3 you can see more information about the Kernel Plan in the forum post
+05:10 < arunpyasi> dance707d: Hm.. OK thanks for the info :)
+05:11 < dance707d> arunpyasi your welcome as you probably know they previously used ubuntu and then sid and now then plan to maintain there own Kernel
+05:11 < arunpyasi> dance707d: yeah, is a good move !
+05:12 < makkon>  Sorry I missed, exactly: update-pepperflashplugin-nonfree --status Flash Player version installed on this system  : 21.0.0.216 Flash Player version available on upstream site: 20.0.0.306
+05:12 < dance707d> arunpyasi yes I think it is a god move. thugh rather controversial
+05:13 < arunpyasi> dance707d: where you live BTW, I guess haven't seen you around. :P
+05:14 < dance707d> makkon when we do get sid updates we may see what you were asking earlier fresh player is not the same as pepper flashplugin
+05:15 < dance707d> arunpyasi I been here since maybe Jan I currently USA
+05:16 < dance707d> makkon what browser do you use ?
+05:16 < makkon> Flash Player version installed on this system 20.0.0.306.  Flash Player version available on upstream site: 21.0.0.216
+05:16 < arunpyasi> dance707d: ahh, that may be the reason I haven't talked with you. I was kinda inactive after new year.
+05:16 < dance707d> arunpyasi thats what I heard
+05:18 < dance707d> makkon please be patient they will push updates soon as they are able
+05:19 < makkon> what browser do you use ? FireFox
+05:23 < dance707d> makkon I currently testing the Yandex browser beta I don't know if there is a developer version ?
+05:23 < makkon> dance707d, Sorry, I admire you, thank you, good luck!
+05:28 < makkon> dance707d, Sir in Russia geeks have no respect for Yandex browser ...Only Firefox , Opera, Vivaldi...
+05:29 < dance707d> makkon ahh okay thank you for the information. I was only interested because of there translator feature
+05:34 < makkon> Sir you are right yandex translator sometimes more precisely the Google translator - I do not know exactly. Thank you
