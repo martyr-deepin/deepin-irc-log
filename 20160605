@@ -1,0 +1,73 @@
+01:50 < qwebirc831736> howdy
+01:50 < qwebirc831736> How come it takes hours to update and install software?
+01:51 < CountryfiedLinux> How come it takes hours to update and install software?
+10:44 < JacoNIX97> Hi
+15:06 < Guest22660> ?
+18:52 < brainy> hi hualet big bro
+18:52 < hualet> hi brainy
+18:53 < hualet> :)
+19:55 < brainy> hi jotapesse
+19:55 < brainy> Deepin 15.2 already released :)
+19:59 < hualet> brainy: he knows :)
+19:59 < brainy> ;)
+19:59 < hualet> how did you spend your weekend ?
+20:05 < brainy> hualet, i am learning for some exam tomorrow
+20:06 < brainy> and you bro?
+20:10 < hualet> brainy: I had a small travel with my colleagues
+20:11 < hualet> but I got a cold unfortunately
+20:13 < brainy> hualet, oh :(
+20:13 < brainy> Get weel soon
+20:13 < brainy> well*
+20:13 < hualet> hmmm...I hope so
+20:13 < hualet> thanks brainy
+20:14 < brainy> :)
+20:36 < zhenxi> 有人在吗，请教下deepin的livecd模式下，是不是不能修复grub2引导
+20:37 < zhenxi> 还有grbu4dos是不是没有办法引导ext4分区的deepin
+20:44 < brainy> hi zhenxi
+20:50 < zhenxi> 在
+20:52 < zhenxi> 怎么不说话啊
+20:55 < zhenxi> # brainy  怎么不说了
+20:55 < brainy> Sorry, zhenxi , I don't speak Chinese :(
+20:56 < brainy> Maybe hualet can help you..
+20:57 < zhenxi> Are you Germans？
+20:57 < hualet> zhenxi: 肯定能修复grub啊
+20:58 < zhenxi> 我用grub-install 没有办法把GRUB2安装到指定分区
+20:58 < zhenxi> 提示我overlay有问题
+20:59 < hualet> 奇怪，我记得之前用live系统修复过grub，没有问题呀
+21:01 < zhenxi> 我刚刚试过了，有问题
+21:04 < hualet> zhenxi: 你用的哪个ISO？我记得后来的ISO不提供live模式了吧
+21:05 < zhenxi> 15.2的正式版
+21:05 < zhenxi> 我修改启动项，进入livecd模式了
+21:22 < brainy> zhenxi I hope that helped you :)
+21:23 < Oops_> 深度有打算开发一款聊天的软件么？
+21:29 < zhenxi> 放弃了
+21:31 < zhenxi> but i have no ideal
+21:31 < Oops_> 那，把论坛的账号和系统的帐号整合在一起可行不？
+21:32 < zhenxi> xchat怎么@人呢
+21:33 < Oops_> zhenxi 就是这样
+21:33 < Oops_> 按tab键有奇效
+21:33 < zhenxi> brainy, Oops_
+21:33 < zhenxi> 有效果吗
+21:34 < brainy> hi zhenxi
+21:34 < Oops_> 恩
+21:34 < zhenxi> you can help me speak in english
+21:35 < zhenxi> brainy,
+21:35 < zhenxi> i
+21:35 < zhenxi> i know a little english
+21:35 < brainy> ok
+21:35 < brainy> Nice to meet you
+21:35 < brainy> I love Deepin!
+21:37 < zhenxi> i can not boot deepin,when i rebuild win
+21:37 < Oops_> brainy， where are you come from?
+21:37 < zhenxi> so i use g4d , but it can not look up the ext4
+21:37 < zhenxi> germans
+21:38 < Oops_> zhenxi， 深度员工？
+21:38 < zhenxi> 我是user
+21:38 < Oops_> 好吧
+21:38 < zhenxi> 不是devloper
+21:39 < brainy> bye-bye
+21:39 < zhenxi> um
+21:40 < Oops_> 所以你也会编程咯？
+21:40 < zhenxi> 不会啊
+21:41 < zhenxi> 都说了，我不是developer
+21:42 < Oops_> 因为很多linuxer都会编程
