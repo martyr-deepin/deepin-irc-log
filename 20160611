@@ -1,0 +1,68 @@
+00:00 < tuxhunter> when i install deepin the first thing that i do is updating my system and it said is right up to date :(
+00:12 < tuxhunter> hualet please help me
+00:32 < tuxhunter> 1cf04d remote assistance that is the code help me please
+01:12 < tuxhunter> ChanServ help please over here
+01:13 < dance707> hi tuxhunter what version of deepin did you install
+01:13 < tuxhunter> 15.2
+01:13 < dance707> tuxhunter have you tried from terminal ?
+01:14 < tuxhunter> no what are the commands for?
+01:14 < dance707> sudo apt-get update
+01:14 < tuxhunter> ok
+01:15 < tuxhunter> tuxhunter@tuxhunter-pc:~$ sudo apt-get update
+01:15 < tuxhunter> [sudo] password for tuxhunter:
+01:15 < tuxhunter> Get:1 http://repository.spotify.com stable InRelease [3,302 B]
+01:15 < tuxhunter> Get:2 http://repository.spotify.com stable/non-free amd64 Packages [1,594 B]
+01:15 < tuxhunter> Get:3 http://repository.spotify.com stable/non-free i386 Packages [1,132 B]
+01:15 < tuxhunter> Hit:4 http://packages.deepin.com/deepin unstable InRelease
+01:15 < tuxhunter> Fetched 6,028 B in 0s (7,020 B/s)
+01:15 < tuxhunter> Reading package lists... Done
+01:15 < tuxhunter> tuxhunter@tuxhunter-pc:~$
+01:15 < tuxhunter> no updates
+01:16 < dance707> tuxhunter then to upgrade it is sudo apt-get upgrade
+01:16 < tuxhunter> ok
+01:16 < tuxhunter> no updates
+01:17 < dance707> tuxhunter there should not be many as 15.2 was just released  but there where a few
+01:18 < dance707> tuxhunter have you modified you sources list or something ?
+01:18 < tuxhunter> ok dancce707 if you agree with this you are a great developer.if linux deepin changes to debian unstable to stable it will be better.No i just change the mirros
+01:20 < dance707> tuxhunter Deepn is based on debian sid if you changed it would explain no updates
+01:20 < tuxhunter> but i just change the mirros only not the source list
+01:21 < dance707> tuxhuner how did you changed the mirros ?
+01:23 < tuxhunter> control center --> system info. --> update configuration --> mirros and press switch and find the faster server and click done
+01:26 < dance707> tuxhunter ok thats fine. there were not yet many updates for 15.2 anyway
+01:26 < tuxhunter> ok thanks but how longer it will take for another updates dance707
+01:27 < dance707> tuxhunter not sure i am not developer
+01:28 < tuxhunter> but i least you can do the remote assistance thing to help me?
+01:29 < dance707> tuxhunter if you like to use the Deepin forum I help you further there and maybe others that have similar problem that can assist
+01:30 < tuxhunter> ok give me the link for i am bussy in other stuff ans i am really calm down that your assist me thanks for the help dance707
+01:30 < tuxhunter> and*
+01:31 < dance707> https://en.bbs.deepin.org
+01:31 < dance707> tuxhunter remember its 1 am in Wuhan right now
+01:33 < tuxhunter> ok so you are part of deepin in terms of enterprise right?
+01:34 < dance707> tuxhunter I am part of the community team of forum and beta testing
+01:35 < tuxhunter> ok but do you have a friend in deepin community that knows python programming?
+01:36 < dance707> tuxhunter I would check out forum you may find some one to help cant say for sure
+01:37 < tuxhunter> ok thanks you are nice person and a person that loves it job :)
+01:38 < dance707> tuxhunter ty
+01:40 < tuxhunter> ok but one more thing the update i received its a 27mb and thats it and its present some issues :(
+01:40 < tuxhunter> but it was like 1 week i think
+01:40 < tuxhunter> that happend
+01:40 < dance707> tuxhunter you had updates a week ago ?
+01:43 < tuxhunter> yes but i update the same day that it shows up but some issues are still in like the camera on my lptop when i log in, the camera its on with no reason when i enter to skype,google chrome,programs that can acess to the camera and puff its turn off
+01:45 < dance707> tuxhunter orginally you mentioned no updates after installing 15.2 so, so if you had updates then apt is working if your having issues with Deepin then I would post them 1 at a time in the forum Deepin
+01:46 < dance707> Tuxhunter Deepin is based on Debian sid but that does not mean it will update every day more like 1 a month for major updates
+01:46 < tuxhunter> i know but it deepin its a debian stable will work more better
+01:48 < tuxhunter> because those issues will be fixed
+01:50 < dance707> tuxhunter they had there reasons i will not go in to that
+01:53 < tuxhunter> and one more thing deepin has to better up a little bit the battey performance my battery its have a life for 4.5hrs and its during 3hrs but its good for me the things that i do but other people is not good that the battery life of 4.5hrs is really during 3hrs so the deepin team has to make that in mind
+01:53 < tuxhunter> but i have to go i have to do some python code bye
+01:54 < dance707> tuxhuner okay tc
+01:55 < tuxhunter> tc you to bye
+17:55 < brainy> hi arunpyasi bro
+18:04 < brainy> arunpyasi is the best
+18:45 < brainy> hi hualet_
+19:07 < brainy> hi hualet bro
+19:08 < brainy> how you feeling today?
+19:12 < hualet> good, why ? brainy
+19:13 < brainy> Ah I thought you had a cold
+19:13 < brainy> hualet,
+19:14 < hualet> brainy: ah, the cold's gone , thanks :)
