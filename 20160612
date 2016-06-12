@@ -1,0 +1,210 @@
+01:15 < VY_Canis_Majoris> hello
+01:15 < VY_Canis_Majoris> I just seen thar deepin 2015.2 is available
+01:15 < VY_Canis_Majoris> is there a way to upgrade from deepin 2014.3 to deepin 2015.X?
+01:25 < dance707> hi vy_canis_majoris Deepin 15.2 is a different base and requires new install.
+01:36 < VY_Canis_Majoris> ok
+01:36 < VY_Canis_Majoris> thanks for your response. In the future, can i assume further version wil be upgradable?
+01:37 < dance707> vy_canis_majoris yes as long as Debian (sid) is the base I would expect so
+01:42 < VY_Canis_Majoris> thx
+01:43 < dance707> yw
+03:47 < tuxhunter> Hi i need help how can i debug a program in linux
+08:15 < dong__> hi
+08:17 < dong__> .
+11:28 < Atomic_sy2qr> 大家好
+11:38 < fenglin> 有人在吗？
+12:25 < fenglin> hi
+12:37 < fenglin> ╮(╯_╰)╭
+12:48 < fenglin002> 有人在吗？
+13:00 < fenglin002> hi
+13:01 < fenglin> atomic
+13:01 < bdhhk> 有人吗
+13:02 < fenglin002> 有
+13:03 < bdhhk> 哈哈，居然真的有人聊天
+13:03 < fenglin002> 恩
+13:03 < fenglin002> 我在找手机上能用的软件
+13:03 < bdhhk> 什么软件
+13:04 < fenglin002> 现在用的是atomic
+13:05 < fenglin002> 不对，现在用的是holoirc
+13:05 < fenglin002> 我的是安卓手机
+13:06 < bdhhk> 好高大上
+13:06 < fenglin002> 可惜都是英文界面
+13:07 < fenglin002> 等会儿做个教程发到论坛上
+13:10 < bdhhk> 坐等，哈哈，我去睡午觉啦，这个软件还不错，现在linux用的人少，聊天室比IM软件实际多啦
+13:10 < fenglin> 恩
+14:24 < fenglin-mobile> 这里有官方的人吗？
+18:03 < fenglin> 1
+18:06 < TelFiRE> This OS looks really really polished and nicely designed, can't wait to try it. Is it normal for install part to take a really long time on usb3/ssd?
+18:10 < fenglin> 请到官方论坛反馈问题
+18:14 < fenglin> Please go to the BBS feedback problem
+18:16 < fenglin> 建议使用【有道翻译官】，进行外文翻译。
+18:17 < fenglin> Recommend the use of officer 】 【 youdao translation, foreign language translation.
+18:26 < fenglin> It is recommended to use youdao translation officer, translated to other languages.
+18:41 < hmy> HI
+18:43 < hmy001> 有人吗？
+19:09 < fenglin> 手机在充电😊
+19:16 < fenglin> holoirc没有消息通知功能，正在找新的软件。
+19:28 < fenglin001> hi
+19:29 < hmy001> 手机和电脑信息同步吗？
+19:29 < speedbird> hi 大家用什么客户端登录的？
+19:30 < hmy> 我是电脑
+19:30 < hmy> deepin
+19:40 < fenglin001> 不同步
+19:40 < fenglin001> 同步
+19:41 < fenglin001> 聊天记录不能漫游
+19:51 < fenglin> 找到了一个手机版中文界面的
+20:01 < brainy> arunpyasi, hi arun bro
+20:04 < VY_Canis_Majoris> hello, I'm trying to install deepin 2915.2 but the install process is blocked at 80% (more or less). I have tried deepin 2015.1.1, the install succeed but after reboot, when I fill the password field, i can see a spiner, but right after I come back to the login page
+20:05 < brainy> hi VY_Canis_Majoris bro
+20:05 < hmy> 我找不到手机上的holoirc，谁能在论坛里分享一个啊，感激不尽！！！！
+20:05 < brainy> VY_Canis_Majoris, 2015.1 also gives you problems?
+20:07 < VY_Canis_Majoris> not tried yet. You think I should try?
+20:07 < fenglin> 官方论坛有手机版的帖子
+20:07 < fenglin> 用百度手机助手
+20:07 < fenglin> 或者豌豆荚
+20:07 < fenglin> 第三方市场或软件
+20:08 < brainy> VY_Canis_Majoris, hmmm might try but you want to use the latest version after all
+20:08 < brainy> stuck at 80% hmmm...
+20:08 < hmy> 第三方市场里没有
+20:08 < brainy> maybe some hardware causing trouble
+20:08 < hmy> 你是在哪里找的？
+20:10 < speedbird> Google Play应用商店没有吗？
+20:10 < hmy> 我没翻墙
+20:10 < fenglin> 谷歌市场能用吗？
+20:11 < speedbird> 能用啊
+20:11 < speedbird> 还是搞一个吧，干什么都方便。
+20:12 < fenglin> 20:04)(VY_Canis_Majoris)你好,我是试图安装深化版的2915.2,但安装过程被阻塞在80%(或多或少)。我曾经尝试过深化版的2015.1.1安装成功,但重新启动后,当我把密码字段,我可以看到一个旋转,但之后被返回到登录页面
+20:12 < VY_Canis_Majoris> I have tried on two HP laptop
+20:12 < VY_Canis_Majoris> I guess when 15.1 is installed I can then upgrade to 15.2?
+20:13 < speedbird> Yes，You can upgrade to Deepin 15.2
+20:14 < VY_Canis_Majoris> Ok so I waill try to install this 15.1 version (even if I think there is less probability to work)
+20:18 < speedbird> No problem,My system upgraded frome 15.1 to 15.2.
+20:18 < fenglin> 找到了不是英文全称，市场里的名字叫 霍洛irc
+20:18 < speedbird> irc客户端 FOR ANDROID？
+20:22 < fenglin> Yes
+20:22 < fenglin> 找到两个中文界面的，等会儿发论坛上
+20:23 < speedbird> OK，你这是在国内市场找的吧，是HoloIRC吗？
+20:26 < fenglin> 恩
+20:27 < fenglin> 市场里的名称是  霍洛irc
+20:28 < speedbird> 我在Google Play里下了一个。
+20:28 < speedbird> 我现在用的是命令行下的 IRSSI
+20:29 < fenglin> 国内打开Google Play 很慢很慢，有时还打不开
+20:30 < fenglin> 哦
+20:30 < speedbird> 你是通过什么代理的？host？还是vpn ss之类的
+20:31 < fenglin> 没有用代理
+20:32 < fenglin> 两个中文界面的软件 AndroIRC和TurboIRC
+20:33 < fenglin> 在 豌豆荚 里下载
+20:33 < fenglin> TurboIRC 2015是最新版
+20:38 < n7723> hi
+20:40 < fenglin001> Test
+20:40 < fenglin001> 我在TurboIRC
+20:42 < speedbird> 我感觉都差不多
+20:42 < fenglin001> 测试
+20:42 < fenglin001> 我只是在找中文界面的
+20:44 < fenglin001> TurboIRC顶部有广告😥
+20:45 < fenglin> 还是AndroIRC清静
+20:45 < hmy001-mobile> 😁
+20:45 < speedbird> 我估计很难找，我感觉IRC现在国内在用的基本都是搞开发的人
+20:45 < hmy001-mobile> 感觉这软件好轻
+20:45 < hmy001-mobile> 我开vpn下的
+20:46 < fenglin> 恩
+20:47 < fenglin> 决定了就用AndroIRC
+20:47 < fenglin> 等会儿发论坛上
+20:48 < hmy001-mobile> 不能发别的，只能打字啊
+20:48 < hmy001-mobile> 符合我的口味
+20:48 < speedbird> 发图只能用图床啊
+20:49 < hmy001-mobile> 表示不懂
+20:49 < speedbird> 上传图床，发个短链接。
+20:49 < fenglin> 😊
+20:49 < hmy001-mobile> 这样啊
+20:49 < fenglin> 输入法带的表情可以用
+20:50 < speedbird> 我刚上网的时候都这德行，我可能比较习惯吧
+20:50 < hmy001-mobile> qq感觉乱七八糟的，用得头疼
+20:50 < hmy001-mobile> 😃
+20:51 < fenglin> 图床，是专门储存图片的空间。同时允许你把图片对外连接的网上空间，不少图床都是免费的。图床一般有国内和国外之分，国外的图床由于有空间距离等因素决定访问速度很慢影响图片显示速度。
+20:51 < fenglin> 也就是网络图片吗？
+20:51 < hmy001-mobile> 涨姿势了
+20:51 < speedbird> 各位，都是用Deepin在聊天吧？
+20:51 < hmy001-mobile> 手机
+20:52 < hmy001-mobile> 1080p屏看起来爽极了
+20:52 < speedbird> 我感觉15.2升级之后启动慢了不少，不过用起来感觉和原来差不多。
+20:52 < hmy001-mobile> 我这没任何问题
+20:53 < speedbird> 我是从15.1升级的，回头等有空了重新装一遍。
+20:53 < speedbird> 就输入密码后登录桌面感觉慢
+20:53 < speedbird> 原来挺快
+20:54 < fenglin> 可能完全重装一遍，比较好。有些问题，重装后就消失了。
+20:55 < speedbird> 是的，上次内核测试的时候参加了，用起来感觉没啥问题，就没管了，之后升级15.2的
+20:56 < fenglin> (⊙o⊙)你参加内核测试了？
+20:56 < speedbird> 不就是4.4那个嘛，都可以啊
+20:59 < fenglin> 普通爱好者一枚，表示参加测试有压力😥
+20:59 < fenglin> 不专业😥
+21:00 < speedbird> 我觉得挺专业的，你都能打表情，我还在吓研究呢。
+21:00 < fenglin> 输入法自带的
+21:00 < fenglin> 我用的手机
+21:01 < fenglin> 我喜欢简单的
+21:02 < speedbird> 我用的Fcitx + Google输入法
+21:04 < fenglin> 怎么不试试 搜狗输入法？
+21:05 < speedbird> 我尽量不用，有些功能确实不错，但输入的字都上传了这想想有点那啥了。
+21:05 < speedbird> windows用Google输入法，OS X用苹果自带的
+21:09 < fenglin001> irc断线后再连上，不能显示断线过程中的消息吗？
+21:11 < fenglin001> 😊^_^
+21:11 < fenglin001> (｡•ˇ‸ˇ•｡)伐开心！要抱抱！
+21:11 < speedbird> 。。。。
+21:11 < fenglin001> 颜文字 可以用(∼‾▽‾)→))*‾▽‾*)o[手指戳戳]
+21:12 < fenglin001> (ノ°ο°)ノ前方高能预警
+21:13 < fenglin001> (▰˘◡˘▰)
+21:14 < speedbird> 我表示一个都看不懂啊
+21:14 < fenglin001> 颜文字
+21:14 < fenglin001> 新的玩法
+21:16 < fenglin001> 讯飞输入法  自带
+21:18 < fenglin001> http://baike.m.sogou.com/baike/lemmaInfo.jsp?sid=&g_ut=3&key=%E9%A2%9C%E6%96%87%E5%AD%97
+21:18 < fenglin001> 百科里有对照表
+21:21 < fenglin> TurboIRC要点击一次顶部广告，广告就消失了。
+21:23 < fenglin> 测试
+21:24 < fenglin> hi
+21:25 < fenglin> 字体颜色怎么设置←_←
+21:34 < hmy-mobile> 啦啦啦
+21:34 < hmy-mobile> 不想睡
+21:35 < fenglin001> hym在干嘛？一会儿上一会儿下的(´･_･`)
+21:35 < hmy-mobile> 手机清理内存
+21:35 < hmy-mobile> 软件就退出了
+21:36 < hmy-mobile> 现在把它锁定了
+21:36 < hmy-mobile> 😃
+21:38 < hmy002> 好混乱
+21:39 < hmy002> 电脑和手机信息竟然同步
+21:39 < hmy002> 有好像不同步
+21:40 < fenglin001> 是同步的
+21:40 < fenglin001> 有时会有延迟
+21:40 < hmy002> 那不错
+21:40 < fenglin001> 我现在延迟就有190
+21:40 < hmy002> 电脑上消息提示延迟太明显了
+21:41 < fenglin001> 没办法，服务器应该不在国内
+21:41 < hmy002> 我乡下人没见过世面，现在感觉好好玩
+21:42 < fenglin001> ๑乛◡乛๑
+21:43 < fenglin001> 你的手机延迟都244了
+21:43 < hmy-mobile> 这都能看😳
+21:44 < hmy-mobile> 什么情况
+21:45 < hmy-mobile> 洗个澡继续玩
+21:45 < fenglin001> [21:42] ** hmy-mobile 已经离开 (Ping timeout: 244 seconds)
+21:46 < fenglin001> 好像不能同步历史记录？
+21:47 < fenglin001> Who is still in?
+21:48 < fenglin001> How can let chat record synchronization?
+21:49 < fenglin001> 怎么能让聊天历史记录同步？
+21:54 < VY_Canis_Majoris> damn, the 15.1 version give me a grub error at restart, the 15.1.1 stay stuck at the login page, the 15.2 stay stuck at 80% during install ... :-(
+21:59 < fenglin001> EUFI motherboard?
+22:01 < fenglin001> UEFI BIOS?
+22:01 < VY_Canis_Majoris> UEFI on two laptop
+22:01 < VY_Canis_Majoris> BIOS on the third
+22:04 < fenglin001> Under the official BBS feedback
+22:05 < VY_Canis_Majoris> hummm I just seeing that my md5 is different from the one on the website
+22:05 < VY_Canis_Majoris> 4d43ad25056574ef6a54905098d87e9b on the website 422e64ff68789d938a661f0c7c0eb9fa for me (downloaded from mega)
+22:06 < hmy-mobile> 额
+22:06 < hmy-mobile> 是的
+22:06 < hmy-mobile> 哪里没设置吗？
+22:07 < VY_Canis_Majoris> but the MD5SUM are good for the 15.1 and 15.1.1 iso
+22:07 < fenglin001> Download from?
+22:08 < fenglin001> The official website or IOS warehouse?
+22:13 < fenglin001> The driver might be the problem.
+22:31 < VY_Canis_Majoris> fenglin001: downloaded from sourceforge
+22:36 < fenglin001> From the official website to download a. Try it. Using UGet or FlareGet
+22:39 < fenglin001> There is a kind of situation, the installation process it in the update, but the network is slow.
+23:41 < fenglin> 1
