@@ -1,0 +1,143 @@
+00:09 < fenglin-m> 呃，下冰雹了
+00:10 < fenglin-m> 停电了(´･_･`)
+06:55 < hmy-mobile> 😏
+11:35 < tuxhunter> hey can some one told me how longer will take to throw more updates?
+11:40 < steev> tuxhunter: whenever there are some, they will be up
+11:40 < steev> updates don't come just to churn cpu
+11:42 < tuxhunter> i just want to know because i am in vacacion in USA and my place the internet is slow like a slime so thats the reason why i want to know how longer will take those updates steev
+11:42 < tuxhunter> vacation*
+11:43 < steev> tuxhunter: is there some specific update you're looking for/expecting?
+11:43 < steev> afaik, deepin isn't based on testing, so updates don't roll in extremely fast, only when something is actually broken and needs fixing
+11:43 < steev> based on debian testing*
+11:46 < tuxhunter> no, just updates like the kernel,desktop,deepin store,etc... the only thing i am impressed in this distro is battery performance great performance but i will still recomend bettering up the battery performance just 20% more the performance
+11:48 < tuxhunter> just 20%
+11:51 < tuxhunter> steev
+11:52 < tuxhunter> so i have to wait 2-6 months for updates steev
+11:52 < steev> tuxhunter: those don't happen extremely often, so you'll probably be waiting a while (disclaimer: i'm not a dev, just someone who likes the desktop)
+11:52 < tuxhunter> ok sorry steev
+11:53 < steev> no need to apologize
+11:53 < steev> just don't expect updates constantly :)
+11:54 < tuxhunter> i know but its based on debian and debian distros are good polish so why this distro is doesn,t have that polish that it needed
+11:54 < tuxhunter> steev
+11:54 < steev> what do you mean doesn't have the polish?
+11:54 < tuxhunter> or at least the polish enough
+11:55 < tuxhunter> polish in sense of rock solid stable system
+11:56 < steev> tuxhunter: give concrete examples; what isn't working for you, how is it unstable?  you say "20% more performance"; but that number is based on what?  are you running it on an atom netbook laptop or what?
+11:58 < tuxhunter> on a lenovo thinkpad but the 20% thing is for those laptops not for my laptop my laptop hs a good battery performance
+11:59 < tuxhunter> but for me is runnig fine just few bugs but not a big deal at least for me
+11:59 < tuxhunter> but for other people is a big deal those bugs
+12:00 < steev> tuxhunter: what other people?
+12:00 < tuxhunter> linux noobs
+12:00 < steev> you're literally the only person i've seen in here asking for updates
+12:02 < tuxhunter> yeah jajaja and one thing what is the best video editor for linux?
+12:05 < steev> i have no idea
+12:05 < steev> i don't do video editing, sorry
+12:05 < tuxhunter> steev which desktop or laptop are using right now?
+12:06 < steev> tuxhunter: i run deepin on an old compaq of some sort (i'm not home right now don't recall the model), and on my nanopi2 and nanopi2 fire
+12:07 < steev> the compaq is a laptop
+12:07 < tuxhunter> ok if you are not a dev,you are a eingeneer,or what?
+12:08 < steev> i work on Kali Linux which is another Debian derivative, and I'm working on bringing the deepin desktop to Kali
+12:11 < tuxhunter> what 0.0 are you crazy you have to told the kali linux team "i will bring this desktop enviroment fixx al the bugs in the desktop and help linux deeping for fixing this issues jajaja" anyway my friend gots kali linux if i tols this my friend will be more happy than ever steev
+12:12 < steev> tuxhunter: don't expect it soon, blackhat is coming up and that's the main focus right now, although i would *love* to debut it there
+12:13 < tuxhunter> but Kali linux is a debian testing if you not change to the rolling release
+12:13 < steev> tuxhunter: yes i know, i'm a kali dev, i'm familiar with what we're based on
+12:14 < tuxhunter> wait wait wait you told me that you are not a dev
+12:14 < steev> i'm not a deepin dev
+12:15 < tuxhunter> ooh ok tht it explains it do you know python programming steev
+12:15 < steev> some, although it's not my language of choice
+12:17 < tuxhunter> ok i want to build a script for just asking question if the answers its good it will go to next one but it its wrong it will try again but not to the first question
+12:20 < tuxhunter> for example:Question number5 what is 10 + 10? you answers is 22 try again but not starting the fist question steev and what is you language of choice steev
+12:25 < tuxhunter> ok thanks for the help then
+12:28 < tuxhunter> sorry for taking your time and bothering you
+12:28 < tuxhunter> bye
+14:05 < fenglin1233> :)
+14:47 < fenglin1233> 请求了音乐信使会话。请单击 MM 图标接受。
+17:30 < hmy> 今天晚上有事做了
+18:35 < hmy001> aa
+18:36 < fenglin001> (´･_･`)
+18:40 < fenglin001> :)
+18:40 < fenglin001> :-D
+18:41 < fenglin001> :-(
+18:41 < fenglin001> ;-)
+18:41 < fenglin001> 8-)
+18:59 < deepin-bot> [somebody]:  Hi~ o(*￣▽￣*)ブ
+19:20 < brainy> hi arunpyasi fenglin Liz
+19:42 < brainy> hi hualet_deepin bro
+19:53 < brainy> hi hmy
+20:00 < fenglin001> Hi brainy
+20:06 < fenglin001> 请求了音乐信使会话。请单击 MM 图标接受。
+20:06 < fenglin001> 我现在在电脑上用的是Pidgin     I'm on the computer with Pidgin
+20:06 < Noodles_> chinese?
+20:07 < brainy> hi Noodles_
+20:07 < brainy> You got me hungry
+20:07 < Noodles_> hi brainy
+20:07 < Noodles_> im sorry to hear that
+20:08 < brainy> lol no problem
+20:09 < Noodles_> any good documentary you could recommend?
+20:10 < brainy> IT related ?
+20:10 < Noodles_> anything
+20:11 < brainy> Im currently watching The Roman Empire series
+20:11 < brainy> episodes 1-7
+20:11 < brainy> on youtube
+20:11 < Noodles_> is it some netflix stuff?
+20:11 < Noodles_> ah ok
+20:11 < Noodles_> thx
+20:11 < brainy> :D
+20:11 < Noodles_> will have a look
+20:12 < brainy> I think Linux Deepin team should make a documentary :D
+20:15 < fenglin001> You can give the official make a suggestion
+20:18 < fenglin001> :)
+20:19 < brainy> hi hualet
+20:19 < hualet> hi brainy
+20:20 < brainy> hualet, I think Deepin team should make a documentary :D
+20:20 < brainy> It would be so cool
+20:20 < brainy> About Deepin company from beginning, philosophy, goals, etc.
+20:20 < brainy> with all members :D
+20:23 < hualet> yeah, I'd love to, but I don't know someone who do documentaries :(
+20:23 < brainy> :(
+20:54 < hmy> 终于忙完了
+20:54 < hmy> oh what?
+20:57 < fenglin001> Exton定制Chromium OS系统现开放下载http://www.exton.se/?p=818
+20:58 < fenglin001> 看看这个
+20:58 < fenglin001> /home/dong/桌面/深度截图20160614205433.png
+21:00 < fenglin001> http://www.itbeta.info/2016/05/26/%E5%9B%BEexton%E5%AE%9A%E5%88%B6chromium-os%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%BC%80%E6%94%BE%E4%B8%8B%E8%BD%BD/
+21:18 < hmy> How to open it?
+21:18 < hmy> the image?
+21:19 < fenglin001> 制作u盘启动盘
+21:19 < fenglin001> 回复镜像到u盘
+21:20 < hmy> I say how to download the iso mirror?
+21:21 < hmy> Can now?
+21:22 < fenglin001> https://sourceforge.net/projects/chromx/files/?source=navbar
+21:22 < hmy> I need it……
+21:23 < hmy> I think I need to use lantern because the speed is so slow.
+21:23 < fenglin001> Use flareget download
+21:25 < hmy> flarget?
+21:25 < hmy> wow
+21:25 < fenglin001> yes
+21:25 < fenglin001> The file is divided into 8 section of the download
+21:26 < hmy> There are some problems, I go to the windows PC and try.
+21:26 < hmy> ohoh
+21:27 < fenglin001> :)
+21:27 < fenglin001> You can use vmware
+21:31 < hmy> I haven't used to it.
+21:31 < hmy> I think it is dificult.
+21:32 < fenglin001> oh
+21:34 < fenglin001> More than 10 version must use 64 - bit systems
+21:38 < fenglin001> Img image is 3.6 G
+21:38 < fenglin001> U disk is divided eight GUID partition
+22:05 < zhaojiexie> Client: HexChat 2.12.0 • OS: Deepin "?" 15.2 • CPU: Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz (2.13GHz) • Memory: Physical: 15.1 GiB Total (13.9 GiB Free) Swap: 0 字节 Total (0 字节 Free) • Storage: 32.3 GB / 149.7 GB (117.4 GB Free) • VGA: 8086:0416 @ 8086:0c04 • Uptime: 31m 6s
+22:37 < brainy> hi ranmaruhibikiya
+23:19 < brainy> welcome fenglin-m
+23:24 < fenglin-m> ^_^ I am fenglin
+23:25 < fenglin-m> Using a mobile phone login
+23:26 < brainy> ok :D
+23:27 < fenglin-m> Have you used tox?
+23:29 < fenglin-m> https://tox.chat/
+23:32 < brainy> fenglin-m, no not yet
+23:32 < brainy> I will have a look!
+23:33 < fenglin001> :)
+23:33 < brainy> It sounds very interesting!
+23:37 < fenglin001> You can try
+23:37 < fenglin001> Mobile phone is dropped again
+23:39 < brainy> oh..
+23:57 < fenglin001> :-/
