@@ -1,0 +1,403 @@
+03:17 < fenglin002> :)
+03:57 < fenglin001> hi
+04:19 < wsirc_416> :-) http://www.wsirc.com/view_image/15SFmT
+04:20 < wsirc_416> hi
+04:20 < wsirc_416> hi
+04:23 < wsirc_416> http://www.wsirc.com/view_image/1HfUj
+04:27 < fenglin> ...
+06:22 < tcm> q
+08:51 < hwang> :)
+08:58 < rjs_1> 现在有人吗
+09:01 < fenglin001> 操作系统（Operating System，简称OS）是管理和控制计算机硬件与软件资源的计算机程序，是直接运行在“裸机”上的最基本的系统软件，任何其他软件都必须在操作系统的支持下才能运行。
+09:01 < fenglin001> 操作系统是用户和计算机的接口，同时也是计算机硬件和其他软件的接口。操作系统的功能包括管理计算机系统的硬件、软件及数据资源，控制程序运行，改善人机界面，为其它应用软件提供支持，让计算机系统所有资源最大限度地发挥作用，提供各种形式的用户界面，使用户有一个好的工作环境，为其它软件的开发提供必要的服务和相应的接口�
+09:02 < fenglin001> 1980年代前第一部计算机并没有操作系统。这是由于早期个人电脑的建立方式（如同建造机械计算机）与效能不足以执操作系统所处位置行如此程序。
+09:02 < fenglin001> 但在1947年发明了晶体管，以及莫里斯·威尔克斯（Maurice Vincent Wilkes）发明的微程序方法，使得电脑不再是机械设备，而是电子产品。系统管理工具以及简化硬件操作流程的程序很快就出现了，且成为操作系统的基础。
+09:03 < fenglin001> 到了1960年代早期，商用电脑制造商制造了批次处理系统，此系统可将工作的建置、调度以及执行序列化。此时，厂商为每一台不同型号的电脑创造不同的操作系统，因此为某电脑而写的程序无法移植到其他电脑上执行，即使是同型号的电脑也不行。
+09:03 < fenglin001> 到了1964年，IBM推出了一系列用途与价位都不同的大型电脑IBM System/360，大型主机的经典之作。而它们都共享代号为OS/360的操作系统（而非每种产品都用量身订做的操作系统）。让单一操作系统适用于整个系列的产品是System/360成功的关键，且实际上IBM大型系统便是此系统的后裔；为System/360所写的应用程序依然可以在现代的IBM机器上执行！
+09:03 < fenglin001> OS/360也包含另一个优点：永久贮存设备—硬盘驱动器的面世（IBM称为DASD（Direct access storage device））。另一个关键是分时概念的建立：将大型电脑珍贵的时间资源适当分配到所有使用者身上。分时也让使用者有独占整部机器的感觉；而Multics的分时系统是此时众多新操作系统中实践此观念最成功的。
+09:04 < fenglin001> 1963年，奇异公司与贝尔实验室合作以PL/I语言建立的Multics，是激发1970年代众多操作系统建立的灵感来源，尤其是由AT&T贝尔实验室的丹尼斯·里奇与肯·汤普逊所建立的Unix系统，为了实践平台移植能力，此操作系统在1969年由C语言重写；另一个广为市场采用的小型电脑操作系统是VMS。
+09:04 < fenglin001> 20世纪80年代第一代微型计算机并不像大型电脑或小型电脑，没有装设操作系统的需求或能力；它们只需要最基本的操作系统，通常这种操作系统都是从ROM读取的，此种程序被称为监视程序（Monitor）。
+09:04 < fenglin001> 1980年代，家用电脑开始普及。通常此时的电脑拥有8-bit处理器加上64KB内存、屏幕、键盘以及低音质喇叭。而80年代早期最著名的套装电脑为使用微处理器6510（6502芯片特别版）的Commodore C64。此电脑没有操作系统，而是以8KB只读内存BIOS初始化彩色屏幕、键盘以及软驱和打印机。它可用8KB只读内存BASIC语言来直接操作BIOS，并依此撰写程序，大部分是游�
+09:05 < fenglin001> 早期最著名的磁盘启动型操作系统是CP/M，它支持许多早期的微电脑，且其功能被MS-DOS大量抄袭。
+09:05 < fenglin001> 最早期的IBM PC其架构类似C64。当然它们也使用了BIOS以初始化与抽象化硬件的操作，甚至也附了一个BASIC解释器！但是它的BASIC优于其他公司产品的原因在于他有可携性，并且兼容于任何符合IBM PC架构的机器上。这样的PC可利用Intel-8088处理器（16-bit寄存器）寻址，并最多可有1MB的内存，然而最初只有640KB。软式磁盘机取代了过去的磁带机，成为新一代�
+09:06 < fenglin001> 1980年微软公司取得了与IBM的合约，并且收购了一家公司出产的操作系统，在将之修改后以MS-DOS的名义出品，此操作系统可以直接让程序操作BIOS与文件系统。到了Intel-80286处理器的时代，才开始实作基本的储存设备保护措施。MS-DOS的架构并不能完全满足所有需求，因为它同时只能执行最多一个程序（如果想要同时执行程式，只能使用TSR的方式来跳过O
+09:08 < fenglin001> 而1980年代另一个崛起的操作系统异数是Mac OS，此操作系统紧紧与麦金塔电脑捆绑在一起。此时一位施乐帕罗奥托研究中心员工Dominik Hagen访问了苹果电脑的史蒂夫·乔布斯，并且向他展示了此时施乐发展的图形化使用者界面。苹果电脑惊为天人，并打算向施乐购买此技术，但因帕罗奥托研究中心并非商业单位而是研究单位，因此施乐回绝了这项买卖�
+09:08 < fenglin001> 在此之后苹果一致认为个人电脑的未来必定属于图形使用者界面，因此也开始发展自己的图形化操作系统。现今许多我们认为是基本要件的图形化接口技术与规则，都是由苹果电脑打下的基础（例如下拉式菜单、桌面图标、拖曳式操作与双点击等）。但正确来说，图形化使用者界面的确是施乐创始的。
+09:09 < fenglin001> 20世纪90年代Apple 电脑，苹果电脑的第一代产品。延续80年代的竞争，1990年代出现了许多影响未来个人电脑市场深厚的操作系统。由于图形化使用者界面日趋繁复，操作系统的能力也越来越复杂与巨大，因此强韧且具有弹性的操作系统就成了迫切的需求。此年代是许多套装类的个人电脑操作系统互相竞争的时代。
+09:09 < fenglin001> 上一年代于市场崛起的苹果电脑，由于旧系统的设计不良，使得其后继发展不力，苹果电脑决定重新设计操作系统。经过许多失败的项目后，苹果于1997年释出新操作系统——MacOS的测试版，而后推出的正式版取得了巨大的成功。让原先失意离开苹果的Steve Jobs风光再现。
+09:10 < fenglin001> 除了商业主流的操作系统外，从1980年代起在开放原码的世界中，BSD系统也发展了非常久的一段时间，但在1990年代由于与AT&T的法律争端，使得远在芬兰赫尔辛基大学的另一股开源操作系统——Linux兴起。
+09:10 < fenglin001> Linux内核是一个标准POSIX内核，其血缘可算是Unix家族的一支。Linux与BSD家族都搭配GNU计划所发展的应用程序，但是由于使用的许可证以及历史因素的作弄下，Linux取得了相当可观的开源操作系统市占率，而BSD则小得多。
+09:11 < fenglin001> 相较于MS-DOS的架构，Linux除了拥有傲人的可移植性（相较于Linux，MS-DOS只能运行在Intel CPU上），它也是一个分时多进程内核，以及良好的内存空间管理（普通的进程不能存取内核区域的内存）。想要存取任何非自己的内存空间的进程只能通过系统调用来达成。
+09:12 < fenglin001> 一般进程是处于使用者模式（User mode）底下，而执行系统调用时会被切换成内核模式（Kernel mode），所有的特殊指令只能在内核模式执行，此措施让内核可以完美管理系统内部与外部设备，并且拒绝无权限的进程提出的请求。因此理论上任何应用程序执行时的错误，都不可能让系统崩溃（Crash）。
+09:12 < fenglin001> 另一方面，微软对于更强力的操作系统呼声的回应便是Windows NT于1993年的面世。
+09:13 < fenglin001> 1983年开始微软就想要为MS-DOS建构一个图形化的操作系统应用程序，称为Windows（有人说这是比尔·盖茨被苹果的Lisa电脑上市所刺激）。
+09:13 < fenglin001> 一开始Windows并不是一个操作系统，只是一个应用程序，其背景还是纯MS-DOS系统，这是因为当时的BIOS设计以及MS-DOS的架构不甚良好之故。
+09:13 < fenglin001> 在1990年代初，微软与IBM的合作破裂，微软从OS/2（早期为命令行模式，后来成为一个很成功但是曲高和寡的图形化操作系统）项目中抽身，并且在1993年7月27日推出Windows NT 3.1，一个以OS/2为基础的图形化操作系统。
+09:14 < fenglin001> 并在1995年8月15日推出Windows 95。
+09:14 < fenglin001> 直到这时，Windows系统依然是建立在MS-DOS的基础上，因此消费者莫不期待微软在2000年所推出的Windows 2000上，因为它才算是第一个脱离MS-DOS基础的图形化操作系统。
+09:14 < fenglin001> Windows NT系统的架构为：在硬件阶层之上，有一个由微内核直接接触的硬件抽象层（HAL），而不同的驱动程序以模块的形式挂载在内核上执行。因此微内核可以使用诸如输入输出、文件系统、网络、信息安全机制与虚拟内存等功能。而系统服务层提供所有统一规格的函数调用库，可以统一所有副系统的实作方法。
+09:15 < fenglin001> 例如尽管POSIX与OS/2对于同一件服务的名称与调用方法差异甚大，它们一样可以无碍地实作于系统服务层上。在系统服务层之上的副系统，全都是使用者模式，因此可以避免使用者程序执行非法行动。
+09:15 < fenglin001> DOS副系统将每个DOS程序当成一进程执行，并以个别独立的MS-DOS虚拟机器承载其运行环境。另外一个是Windows 3.1 NT 模拟系统，实际上是在Win32副系统下执行Win16程序。因此达到了安全掌控为MS-DOS与早期Windows系统所撰写之旧版程序的能力。
+09:16 < fenglin001> 然而此架构只在Intel 80386处理器及后继机型上实作。且某些会直接读取硬件的程序，例如大部分的Win16游戏，就无法套用这套系统，因此很多早期游戏便无法在Windows NT上执行。
+09:16 < fenglin001> Windows NT有3.1．3.5．3.51与4.0版
+09:16 < fenglin001> Windows 2000是Windows NT的改进系列（事实上是Windows NT 5.0）、Windows XP（Windows NT 5.1）以及Windows Server 2003（Windows NT 5.2）、Windows Vista（Windows NT 6.0）、Windows 7(Windows NT 6.1）也都是立基于Windows NT的架构上。
+09:17 < fenglin001> 而本年代渐渐增长并越趋复杂的嵌入式设备市场也促使嵌入式操作系统的成长。
+09:17 < fenglin001> 大型机与嵌入式系统使用很多样化的操作系统。大型主机有许多开始支持Java及Linux以便共享其他平台的资源。嵌入式系统百家争鸣，从给Sensor Networks用的Berkeley Tiny OS到可以操作Microsoft Office的Windows CE都有。
+09:17 < fenglin001> 现代操作系统通常都有一个使用的绘图设备的图形用户界面（GUI），并附加如鼠标或触控面版等有别于键盘的输入设备。旧的OS或性能导向的服务器通常不会有如此亲切的界面，而是以命令行界面（CLI）加上键盘为输入设备。
+09:17 < fenglin001> 以上两种界面其实都是所谓的壳，其功能为接受并处理用户的指令（例如按下一按钮，或在命令提示列上键入指令）。
+09:18 < fenglin001> 选择要安装的操作系统通常与其硬件架构有很大关系，只有Linux与BSD几乎可在所有硬件架构上运行，而Windows NT仅移植到了DEC Alpha与MIPS Magnum。
+09:18 < fenglin001> 在1990年代早期，个人计算机的选择就已被局限在Windows家族、类Unix家族以及Linux上，而以Linux及Mac OS X为最主要的另类选择，直至今日。
+09:18 < fenglin001> 大型机与嵌入式系统使用很多样化的操作系统。在服务器方面Linux、UNIX和WindowsServer占据了市场的大部分份额。
+09:19 < fenglin001> 在超级计算机方面，Linux取代Unix成为了第一大操作系统，截止2012年6月，世界超级计算机500强排名中基于Linux的超级计算机占据了462个席位，比率高达92%。
+09:19 < fenglin001> 随着智能手机的发展，Android和iOS已经成为目前最流行的两大手机操作系统。
+09:19 < fenglin001> 2012年，全球智能手机操作系统市场份额的变化情况相对稳定。智能手机操作系统市场一直被几个手机制造商巨头所控制，而安卓的垄断地位主要得益于三星智能手机在世界范围内所取得的巨大成功。
+09:20 < fenglin001> 2012年第三季度，安卓的市场份额高达74.8%，2011年则为57.4%。2013年第一季度，它的市场份额继续增加，达到75%。虽然 Android 占据领先，但是苹果 iOS 用户在应用上花费的时间则比 Android 的长。
+09:20 < fenglin001> 虽然在这方面 Android 的数字一度接近苹果，但是像 iPad 3 这样的设备发布之后，苹果的数字还是会进一步增长。
+09:20 < fenglin001> Windows Phone 系统在 8.1 版发布后市场份额稳步提高，应用生态正在改善，众多必需应用不断更新，但是速度还略嫌迟缓。微软收购了诺基亚，发展了许多OEM厂商，并不断发布新机型试图扭转WP的不利局面，小有成效。
+09:21 < fenglin001> 系统作用主要体现在两方面：
+09:21 < fenglin001> 1．屏蔽硬件物理特性和操作细节，为用户使用计算机提供了便利󰀁指令系统（成千上万条机器指令，它们的执行由微程序的指令解释系统实现的）。
+09:21 < fenglin001> 计算机问世初期，计算机工作者就是在裸机上通过手工操作方式进行工作。计算机问世初期，计算机工作者就是在裸机上通过手工操作方式进行工作。计算机硬件体系结构越来越复杂。
+09:22 < fenglin001> 2．有效管理系统资源，提高系统资源使用效率
+09:22 < fenglin001> 如何有效地管理、合理地分配系统资源，提高系统资源的使用效率是操作系统必须发挥的主要作用。资源利用率、系统吞吐量是两个重要的指标。
+09:22 < fenglin001> 计算机系统要同时供多个程序共同使用。操作解决资源共享问题！！如何分配、管理有限的资源是非常关键的问题！
+09:22 < fenglin001> 操作系统定义：操作系统是计算机系统中最基本的系统软件，它用于有效地管理系统资源，并为用户使用计算机提供了便利的环境。
+09:23 < fenglin001> 组成部分：操作系统理论研究者有时把操作系统分成四大部分：
+09:23 < fenglin001> 驱动程序：最底层的、直接控制和监视各类硬件的部分，它们的职责是隐藏硬件的具体细节，并向其他部分提供一个抽象的、通用的接口。
+09:23 < fenglin001> 内核：操作系统内核部分，通常运行在最高特权级，负责提供基础性、结构性的功能。
+09:23 < fenglin001> 接口库：是一系列特殊的程序库，它们职责在于把系统所提供的基本服务包装成应用程序所能够使用的编程接口（API），是最靠近应用程序的部分。例如，GNU C运行期库就属于此类，它把各种操作系统的内部编程接口包装成ANSI C和POSIX编程接口的形式。
+09:24 < fenglin001> 外围：是指操作系统中除以上三类以外的所有其他部分，通常是用于提供特定高级服务的部件。例如，在微内核结构中，大部分系统服务，以及UNIX/Linux中各种守护进程都通常被划归此列。
+09:24 < fenglin001> 并不是所有的操作系统都严格包括这四大部分。例如，在早期的微软视窗操作系统中，各部分耦合程度很深，难以区分彼此。而在使用外核结构的操作系统中，则根本没有驱动程序的概念。
+09:24 < fenglin001> 操作系统中四大部分的不同布局，也就形成了几种整体结构的分野。常见的结构包括：简单结构、层结构、微内核结构、垂直结构、和虚拟机结构。
+09:25 < fenglin001> 内核结构
+09:25 < fenglin001> 内核是操作系统最基础的构件，因而，内核结构往往对操作系统的外部特性以及应用领域有着一定程度的影响。尽管随着理论和实践的不断演进，操作系统高层特性与内核结构之间的耦合有日趋缩小之势，但习惯上，内核结构仍然是操作系统分类之常用标准！
+09:25 < bobo1> please don't send a paper to IRC
+09:26 < fenglin001> ok
+09:27 < fenglin001> 操作系统http://baike.baidu.com/link?url=2IBHYahfe8UTOW7JH3nOtvpsFcHJv8zeDZmjwa044jIBpssUVLg7ZRgaH-gimUL0a0igVXfM13y-y2G0miD9DPSsHZEu75XV3sl28tL6ojG
+09:28 < bobo1> :)
+09:28 < fenglin001> Linux操作系统   http://baike.baidu.com/view/1634.htm?fromtitle=Linux操作系统&fromid=850887&type=syn
+09:28 < fenglin001> Linux基金会   http://baike.baidu.com/view/3044392.htm
+09:30 < fenglin001> Deepin 系统  http://baike.baidu.com/link?url=6y3f3xBzF4rM4RxiSPOhkJ1sIlIABrjNq0CyWPz6bZ6-_C5WDHYrLlb9POHvRpIANq_Sn60wf8JqFWYgTzwv_q
+09:31 < fenglin001> 【开源专访】Linux Deepin：做更好用的Linux桌面系统  http://www.csdn.net/article/2013-12-23/2817885-linuxdeepin-team-interview/2
+09:31 < fenglin001> 【开源夏令营专访】Deepin贡献者中，学生比重相当大http://www.csdn.net/article/1970-01-01/2820305
+09:33 < fenglin001> 以上是有关资料
+09:35 < deepin-bot> [Choldrim]: hi fenglin001: , 这是你的读书笔记么？好长呀..
+09:36 < fenglin001> 摘录
+09:37 < fenglin001> Deepin运行QQ6.7: 将不折腾进行到底http://www.cnbeta.com/articles/361703.htm
+09:39 < fenglin001> Linux Deepin刘文欢：“后XP”时代桌面Linux的崛起良机   http://www.csdn.net/article/2014-04-09/2819223
+09:44 < deepin-bot> [Choldrim]: fenglin001: 用心了 👍
+09:44 < fenglin001> :)
+09:45 < rjs_1> 人好少
+09:45 < fenglin001> 恩
+09:45 < fenglin001> 先看看资料吧
+09:46 < fenglin001> 一般都是在晚上人会多些
+09:46 < rjs_1> deepin的镜像越做越大，功能似乎没怎么变化
+09:47 < fenglin001> 大部分都是驱动
+09:47 < fenglin001> 还有修复的bug
+09:47 < sunnyyuu2> 冒泡~
+09:48 < fenglin001> ui占的地方也不小
+09:48 < rjs_1> 可是以往留下的驱动问题依然没有修复，比如15.2的没有无线连接，关了网卡驱动就好了。
+09:48 < rjs_1> 恩恩
+09:49 < fenglin001> 他们不会制作驱动的
+09:49 < fenglin001> 只能找替代
+09:49 < fenglin001> 或者兼容方式
+09:49 < fenglin001> 驱动还是得靠厂商
+09:50 < tcm> 上电视
+09:51 < fenglin001> :)
+09:53 < fenglin> deepin上过报纸
+09:55 < fenglin001> Linux Deepin 团队项目负责人：王勇
+09:55 < fenglin001> http://cms.csdnimg.cn/article/201312/24/52b8e765c2eb3.jpg
+09:57 < sunnyyuu2> 这飘逸的长发哟
+09:57 < fenglin001> :)
+09:57 < sunnyyuu2> 从论坛来看隔壁老王很萌的
+09:58 < fenglin001> 恩
+09:58 < sunnyyuu2> 经常挖个坑爆个料吊个胃口啥的
+09:59 < fenglin001> :)
+09:59 < fenglin001> CSDN：目前 Linux Deepin 只有桌面版本，未来是否会考虑推出服务器和移动版本？王勇：就像我开始说的一样，Linux 从来不缺乏编程高手，Linux 缺乏的是设计和用户体验，我们在很长一段时间内都不会涉足服务器版。因为贪多不是我们的目标，我们的目标是把一件事情做好、做到极致。移动版本我们会涉足，当然 Linux Deepin 不会只是装上移动硬件就完�
+10:01 < fenglin001> 王勇：Linux Deepin 是一个基于 DEB 包管理的一个独立操作系统，和那些 Ubuntu 的衍生版仅仅只是换主题、调整ISO预置的软件包不同。
+10:08 < fenglin001> 一些关于Linux Deepin的误解和澄清http://tieba.baidu.com/p/2744747521
+10:10 < fenglin001> 深之度王勇接受DistroWatch采访 Linux Deepin新版本浮出水面http://net.zdnet.com.cn/network_security_zone/2014/0611/3023431.shtml
+10:10 < Guest91517> 看来我刚才是进错频道了
+10:11 < fenglin001> :)
+10:14 < Guest91517> 已经结束了吗？
+10:14 < fenglin001> 【开源访谈】王勇访谈录http://www.oschina.net/question/28_64199
+10:14 < fenglin001> 没
+10:14 < fenglin001> 人不多
+10:15 < fenglin001> 估计到晚上了
+10:15 < Guest91517> 哦
+10:15 < fenglin001> 王勇，Linux Deepin技术开发负责人。Emacs玩家，熟悉 C、Python、JS、elisp、Java、Haskell 等语言, 擅长于图形化程序开发.
+10:17 < fenglin001> 侯少辉：Linux Deepin深谈的开发趣事http://os.51cto.com/art/201402/429957.htm
+10:19 < fenglin001> 深谈软件作者——侯少辉   http://s4.51cto.com/wyfs02/M00/12/52/wKiom1MDIbWT7xyvAAAT-lnZJKw878.jpg
+10:20 < fenglin001> 2013深度DAU大会：王勇讲述 Linux Deepin 的发展趣事http://os.51cto.com/art/201310/412459.htm
+10:23 < fenglin001> Linux Deepin 副总王明栋演示 Linux Deepin 的 X 项目http://os.51cto.com/art/201310/412470.htm
+10:24 < fenglin001> 侯少辉：Linux Deepin 大平台、大梦想http://os.51cto.com/art/201310/412462.htm
+10:24 < fenglin001> 【侯少辉简介】深之度开发部桌面应用开发组负责人。早期从事网络和运维相关工作， 后转职做开发， Python推广者， 擅长GUI编程和Web后端开发，深度音乐代码编写者。
+10:25 < fenglin001> 深度专访Linux Deepin郭攀 ：图标的故事http://developer.51cto.com/art/201403/434092.htm
+10:26 < fenglin001> 郭攀，深之度设计部图标设计师【是个美女哦:-D】http://s2.51cto.com/wyfs02/M00/23/33/wKiom1M07mXyAMsDAACwLikA4YE687.jpg
+10:28 < fenglin001> 王勇详谈 Linux Deepin 背后的故事http://os.51cto.com/art/201208/353323.htm
+10:28 < fenglin001> 一群偏执的理想主义者：Deepin团队小记http://os.51cto.com/art/201209/357821.htm
+10:29 < fenglin001> Linux Deepin之“二八定律”:在急速创新中沉淀用户体验   http://os.51cto.com/art/201309/410467.htm
+10:30 < fenglin001> Deepin核心开发者 冷罡华(Hiweed)   http://os.51cto.com/art/201108/285895.htm
+10:36 < fenglin001> Linux Deepin 2011开发者和用户大会实录   http://news.mydrivers.com/1/195/195039.htm
+10:38 < fenglin001> Linux Deepin开发负责人王勇应邀访问中国科学技术大学http://www.linuxidc.com/Linux/2013-05/84428.htm
+10:40 < deepin-bot> [snyh]:   wow 今天是干啥
+10:40 < Guest91517> 侃
+10:43 < fenglin001> Linux Deepin武汉技术交流会后记http://www.linuxidc.com/Linux/2011-06/36761.htm
+10:47 < fenglin001> Deepin刘文欢：Linux操作系统的“追梦者”http://www.linuxidc.com/Linux/2014-07/104295.htm
+10:48 < fenglin001> 武汉深之度科技有限公司总经理 刘文欢http://file.caigou2003.com/IT/renwu/2015-02-10/73968a1e3fdd79c05944113270068d67.jpg
+10:48 < fenglin001> 刘文欢：以兴趣培养技术 以技术铸就产品http://it.caigou2003.com/renwu/2015-01-31/819.html
+10:49 < fenglin001> 深之度刘文欢：光谷造操作系统挑战Windows   http://www.ctjin.com/shangren/qiyejia/2014-07-23/34324.html
+10:50 < fenglin001> 武汉光谷造国产操作系统3至5年内或在政企界普及   http://news.hexun.com/2014-06-03/165333499.html
+10:51 < MattD> Please kick the flooding guy
+10:52 < fenglin001> DEEPIN2015开发者大会几点体会（龙芯运行DEEPIN体验）http://tieba.baidu.com/p/4188159758
+10:54 < deepin-bot> [Choldrim]: fenglin001: 暂停一下吧，irc还是用来聊天讨论的好，你发布的这些可以整理成一篇文章，然后发个链接给我们就行了，感谢对深度的关注~
+10:55 < fenglin001> :)没了
+10:56 < MattD> Please learn IRC manners before join. This is not your private channel
+10:57 < Guest91517> 看不懂英语，捉急
+10:58 < fenglin001> Ok, I'm very sorry
+10:59 < fenglin001> That's all
+11:01 < Guest91517> deepin最近要放大招，能透漏一下不，嘿嘿
+11:02 < fenglin> 老大都不放话，谁敢呢^_^
+11:02 < Guest91517> 一点点啦
+11:08 < fenglin001> 没人可问:)
+11:09 < Guest91517> 0,0
+11:14 < Liz> hi
+11:15 < Guest91517> hi
+11:15 < Liz> Anything happening here?
+11:17 < Guest91517> nothing，Past deepin interviews
+11:35 < Guest91517> 发现一个问题，我插入和拔掉耳机，输出端口不会自动改变扬声器或者是模拟耳机，有什么解决办法吗
+11:36 < Jzqys-m> 来晚了
+11:37 < Guest91517> hi
+12:36 < wp> 大家好
+12:38 < fuyao> 都吃饭了没
+12:41 < fenglin> ^_^
+12:42 < fenglin> Guest91517 可以到论坛发帖，估计是系统问题
+12:59 < Jzqys>  已经错过了么
+14:18 < Jzqys> 没有人主持么？
+14:19 < Jzqys> 话题有么？
+14:19 < fenglin001> 话题随意
+14:20 < Jzqys> 大家都不说话啊
+14:20 < Jzqys> 只有咱们两个人？
+14:20 < fenglin001> 估计到晚上人会多点
+14:21 < Jzqys> 我去找点吃的
+14:21 < fenglin001> 现在大部分都没空
+14:24 < Jzqys> 深度的聊天软件要是能集成这个就好了。
+14:27 < fenglin001> 恩
+14:27 < deepin-bot> [manateelazycat]:  深度的每个开发者都会在 bearychat 看到大家的聊天。 😄
+14:27 < Jzqys> 我去
+14:28 < deepin-bot> [manateelazycat]:  我们有一个机器人专门把 bearychat 和 IRC 进行双向中转
+14:28 < Jzqys> 我昨天在聊天室里乱发信息实验啊，不好意思。
+14:30 < fenglin001> 话说 深谈  什么时候出:-D
+14:31 < Jzqys> @fenglin001: 是不是组织几个话题？
+14:32 < fenglin001> 本来有一个，不过大家似乎没多大兴趣
+14:32 < Jzqys> 什么？
+14:32 < fenglin001> 时间点也不对
+14:32 < fuyao> 是不是深谈要出了
+14:32 < fenglin001> 晚上比较好点
+14:32 < deepin-bot> [manateelazycat]:  深谈长期处于待定的状态
+14:32 < Jzqys> 看来大家都比较关心深度聊天软件的事情。
+14:33 < fenglin001> 深谈能和论坛关联吗？
+14:33 < fuyao> 那老王说的大招不是深谈？
+14:33 < deepin-bot> [manateelazycat]:  大家可以看到我的话吗？
+14:33 < fenglin001> 可以啊
+14:33 < fuyao> 可以
+14:33 < Jzqys> 可以看到
+14:34 < deepin-bot> [manateelazycat]:  深谈目前不会做， 因为优先级不高
+14:34 < Jzqys> 但是论坛里大家的关心度很高
+14:34 < fuyao> 恩
+14:34 < fenglin001> 论坛的手机页面是不是可以优化下
+14:35 < fenglin001> 触屏版还不如标准版好用
+14:35 < deepin-bot> [manateelazycat]:  理由有几个： 1、用的人太少（最多就是开发者喜欢） 2、IM这种软件要长时间维护， 如果投入产出比不够， 还不如调集人力去解决其他问题
+14:36 < fenglin001> 可以做个手机版的论坛，加上IRC:)
+14:36 < fenglin001> 我去，怎么多出个表情
+14:36 < Jzqys> 主要还是产出不够的问题。因为涉及到成本，要是能解决这个问题就好了。
+14:36 < fuyao> qq视频以后解决吗
+14:36 < deepin-bot> [manateelazycat]:  大家之所以会认为深谈很重要， 一是linux至今都没有一个高质量的IM软件， 二是大家有实时沟通需求， 但是IM投入很大， 这方面深度人力有限， 比如操作系统、文件管理器、图片浏览器都在牵扯人力
+14:36 < deepin-bot> [manateelazycat]:  QQ 视频的问题还在跟踪， 会解决
+14:37 < fuyao> 不错
+14:37 < fenglin001> 暂时可以用irc 代替
+14:37 < deepin-bot> [manateelazycat]:  论坛用于沉淀讨论、Wiki用于沉淀知识， IM（QQ、IRC等）更多用于实时沟通和吹牛， 定位不一样， 都有需求， 但是不要融合在一起， 大而全的东西不一定好。
+14:37 < fuyao> 对老年人来说视频聊天还是方便
+14:38 < fuyao> 恩
+14:38 < deepin-bot> [manateelazycat]:  IM 这种软件， 如果用户量不够大和需求不够明显的化， 还不如多做点网易云音乐这种软件呢
+14:38 < Jzqys> 对老年人来说，平板最方便
+14:38 < fuyao> 也是
+14:39 < fuyao> 毕竟qq还不错
+14:39 < fenglin001> 要是做IM的话，适配所有主流的平台最好
+14:40 < fenglin001> 电脑，手机，都得有
+14:40 < fuyao> 龙芯的啥时候出？
+14:40 < fuyao> 有人拿到3a2000了
+14:40 < deepin-bot> [manateelazycat]:  fenglin001： 现在深度的人力， 保证自己的系统和应用稳定， 尽可能让所有发行版能使用就不错了。 IM这种多平台我们是不会做的， 我们毕竟不是 IM 厂商
+14:41 < deepin-bot> [manateelazycat]:  而且大家也知道， 如果不能专注投入， IM根本做不好， 不要说QQ这种顶尖产品， 连 bearychat 和 telegram 这种IM的质量和体验都达不到
+14:41 < fenglin001> 那还是用irc吧
+14:41 < deepin-bot> [manateelazycat]:  龙芯版早就做完了， 但是因为商业客户感受等原因， 现在不方便广泛透露
+14:41 < fenglin001> 通用
+14:42 < deepin-bot> [manateelazycat]:  年底会考虑对所有人公开发布龙芯版
+14:42 < fuyao> 恩，感受不好主要是龙芯性能的原因吧
+14:43 < Jzqys> 有聊天需求的都转到irc来就好了，但是如果不是 fenglin 在论坛发教程，irc我也不懂啊，还需要多宣传。
+14:43 < deepin-bot> [manateelazycat]:  感受不好， 是有一部分商业客户不希望看到龙芯版发布， 龙芯版的性能通过团队优化已经达到 i3 的性能
+14:44 < fenglin001> =-O
+14:44 < fenglin001> 好强
+14:44 < fuyao> 。。。
+14:44 < Jzqys> 我看到说龙芯3a2000性能已经达到i3水平，是4核cpu
+14:44 < fuyao> 这部分商业用户真操蛋。。。
+14:44 < deepin-bot> [manateelazycat]:  不要问我为什么有一部分商业客户不愿意看到龙芯版发布， 深度会尽最大可能性保持公开
+14:44 < deepin-bot> [manateelazycat]:  3A1500 现在通过软件优化已经达到 i3 的体验性能
+14:45 < deepin-bot> [manateelazycat]:  3A2000已经可以达到 x86 普及性能水平， 只会更快
+14:45 < fenglin001> intel平板，什么时候可以用上？win10有点卡。
+14:46 < Jzqys> 牛！！深度加油！真希望国家的机关和事业单位首先更换为深度系统。
+14:46 < fuyao> 牛
+14:46 < deepin-bot> [manateelazycat]:  完全开放， 社区化运作一直是深度坚持的开发原则和方式， 但是这几年为了商业化， 在局部会有所妥协， 但是最终所有版本都会完全功能的， 希望大家坚信这一点， 开放协作是深度立足之本， 我们会始终坚持这一点。
+14:47 < deepin-bot> [manateelazycat]:  今年有几个大坑， 年底才有人力开始平板的优化工作， 目前还想专注把文件管理器等基本的 PC 体验做到极致。
+14:47 < fuyao> 恩，明白，这也是大家喜欢深度很重要的一个原因
+14:47 < fenglin001> 恩
+14:48 < fenglin001> 加油
+14:48 < fuyao> 还有一个问题是 远程桌面登陆？
+14:49 < fuyao> 不是远程协助，长时间远程登陆，类似teamviewer
+14:49 < deepin-bot> [manateelazycat]:  现在深度用户之间用远程协助
+14:49 < fuyao> 感觉服务器版本更需要这个
+14:49 < deepin-bot> [manateelazycat]:  长时间远程登录， 建议用 teamviewer 或其他更专业的工具来实现， 我们的商店可以安装 teamviewer
+14:49 < fuyao> 但是不能多次登陆
+14:50 < fuyao> 商店现在有了
+14:50 < fuyao> 但是teamviewer需要联网，局域网就不行了
+14:50 < fenglin001> 我正在试图向普通用户推荐使用deepin系统。由deepin爱好者做部分技术支持。
+14:50 < deepin-bot> [manateelazycat]:  深度目前的产品策略是基本的操作系统应用、商业性和社区化应用我们会自己做， 其他需要资源的（比如网易云音乐） 和专业技术的（比如 PS) 我们会选择合作开发或者让应用厂商来开发
+14:51 < deepin-bot> [manateelazycat]:  我们不会做所有的应用， 做出来也不专业
+14:51 < deepin-bot> [somebody]:  linux下的远程协议都没有微软的RDP好
+14:51  * MattD 咳咳
+14:51 < fuyao> 我知道x2go不错，不知道你们能不能联系一下
+14:52 < deepin-bot> [manateelazycat]:  fuyao: 有任何应用推荐， 欢迎发到论坛， 我们会有专人跟踪的， 谢谢大家！
+14:52 < fuyao> http://wiki.x2go.org/doku.php
+14:52 < MattD> 建议开#deepin-cn来用中文交流，这频道里面有部分非中文用户，出于礼貌考虑，有此建议
+14:52 < fuyao> x2go客户端有了，但没有服务器端的
+14:53 < fenglin001> 哦
+14:53 < deepin-bot> [manateelazycat]:  MattD: 现在用户量少， 大家混合聊没有问题， 以后用户多再说
+14:54 < fenglin001> MattD 今天才知道，官网没显示有这个频道啊
+14:54 < MattD> deepin-bot, 我觉得这是基本的礼仪吧……玩IRC就尽量遵守IRC的一些不成文规定
+14:55 < fenglin001> 恩  irc的礼仪，还真不知道，都有什么？
+14:55 < deepin-bot> [manateelazycat]:  MattD: IRC 礼仪没有说不准用中文， 在中国不说中文还说什么？
+14:56 < MattD> deepin-bot, 所以才建议用 #deepin-cn 交流中文啊……
+14:58 < fenglin001> 我只是把这里当官方频道用:)
+14:59 < Jzqys> 难道不是官方频道？
+15:00 < Jzqys> 而是中外合作频道
+15:00 < fenglin001> 跟频道里的其他人有用中文聊过，他们没说不行之类的话，也没提到有关IRC礼仪之类的话:)
+15:00 < fenglin001> 是官方频道
+15:01 < liujianfeng> 上午你那一堆是什么意思
+15:01 < fenglin001> 论坛只显示了这一个频道
+15:01 < fenglin001> 话题参考资料
+15:02 < Jzqys> 在哪里？没看到啊。
+15:02 < fenglin001> irc的日志，好像坏了，不能查看:)
+15:03 < MattD> 基本礼节之一：no flooding please，超过五行的log或输出自觉贴到paste网站，不要直接发在频道里面
+15:03 < fuyao> 我支持MattD说的，如果不麻烦的话建一个中文的
+15:04 < fuyao> 一个中文，一个英文
+15:04 < liujianfeng> 这频道的确没有定规则，不过很多频道都是相通的，参考下opensuse的吧https://en.opensuse.org/openSUSE:IRC_rules
+15:04 < fenglin001> deepin-bot 能不能修复一下IRC的日志记录:)
+15:08 < fenglin001> Deepin - bot can repair the IRC logs
+15:08 < fenglin001> 这样行吗
+15:09 < qih> Hi, using Linux deepbx 4.4.0-2-deepin-amd64, I did an update the other day which was almost 200MB, now the CD/DVD drive is not mounting. Any idea why? "lsblk" shows sr0     11:0    1  1024M  0 rom
+15:12 < qih> dmesg | egrep -i --color 'cdrom|dvd' => sr 1:0:1:0: [sr0] scsi3-mmc drive: 48x/12x writer dvd-ram cd/rw ... so it is being recognised
+15:15 < fuyao> 我把x2go的建议发到论坛了   https://bbs.deepin.org/forum.php?mod=viewthread&tid=40669&highlight=x2go
+15:16 < liujianfeng> qih: command mount also not work?
+15:18 < fenglin001> 中文翻译 ：今天把64位的系统【4.4.0-2】更新到最新，有200MB，现在挂载不了CD/DVD，输入命令lsblk 显示 sr0 11:0 1 1024M 0 rom
+15:22 < fenglin001> 输入命令dmesg | egrep -i --color 'cdrom|dvd' 显示sr 1:0:1:0: [sr0] scsi3-mmc drive: 48x/12x writer dvd-ram cd/rw 所以它是可以被识别的
+15:24 < qih> mount | grep 'dvd|cd|rw' ... no result
+15:24 < fenglin001> Try this command mount/dev/sr0 / mnt
+15:25 < qih> k
+15:26 < fenglin001> Try this command mount /dev/sr0 /mnt
+15:26 < qih> sudo mount /dev/sr0 /mnt; mount: no medium found on /dev/sr0
+15:26 < qih> fenglin001: 8-)
+15:27 < fenglin001> sudo mount /dev/sr /mnt
+15:28 < MattD> qih: You need to insert disc into your optical drive first, and then try manually mounting your drive.
+15:28 < qih> sudo mount /dev/sr /mnt
+15:28 < qih> mount: special device /dev/sr does not exist
+15:29 < qih> MattD: Have, that's what indicated something was amiss, drive makes noise as in spinning etc, but not seen by O/S
+15:30 < qih> A while ago (few months I guess) I had to always manually mount the drive to get it to work, now, nothing
+15:34 < fenglin001> Try this command /mount -t iso9660 -o,loop /dev/sr0 /mnt
+15:34 < qih> fenglin001: K
+15:34 < qih> sudo mount -t iso9660 -o,loop /dev/sr0 /mnt
+15:34 < qih> mount: /dev/sr0: failed to setup loop device: No medium found
+15:35 < fenglin001> O:-)
+15:36 < qih> I'll do some cmd output and post it somewhere for you to see, bbs
+15:38 < qih> cd /dev; ls -al | grep sr
+15:38 < qih> http://sprunge.us/JBNO
+15:38 < fenglin001> [root@localhost cdrom]# cd /dev/  [root@localhost dev]# ll |grep dvd  lrwxrwxrwx. 1 root root           3 Dec 30 01:36 dvd -> sr0  lrwxrwxrwx. 1 root root           3 Dec 30 01:19 dvd1 -> sr1  lrwxrwxrwx. 1 root root           3 Dec 30 01:36 dvdrw -> sr0  lrwxrwxrwx. 1 root root           3 Dec 30 01:19 dvdrw1 -> sr1    [root@localhost dev]# mkdir /mnt/cd
+15:39 < qih> lsblk
+15:39 < qih> http://sprunge.us/JNbC
+15:39 < qih> ll |grep dvd
+15:39 < qih> lrwxrwxrwx  1 root root           3 Jun 16 14:46 dvd -> sr0
+15:40 < qih> lrwxrwxrwx  1 root root           3 Jun 16 14:46 dvdrw -> sr0
+15:42 < deepin-bot> [Choldrim]: fenglin001: deepin irc log site: https://irclogs.deepin.io/deepin/
+15:43 < fenglin001> 谢谢
+15:44 < qih> fenglin001: I see Unicode markers, no characters, Chinese?
+15:45 < fenglin001> Ys
+15:45 < fenglin001> Yes
+15:46 < qih> cd /dev/disk/by-id/; ls | grep D
+15:46 < qih> ata-DRW-24D3ST_KCRE2FD4748
+15:48 < fenglin001> And then?
+15:48 < qih> Nothing, mount of any cmd does not work, "mount: no medium found on /dev/sr0"
+15:49 < fenglin001> >:oI didn't also the way
+15:50 < qih> Sorry, I do not understand that
+15:50 < fenglin001> You still go to the official BBS post for help
+15:51 < qih> OK
+15:51 < qih> cat /proc/filesystems | grep iso9660
+15:51 < qih> iso9660
+15:51 < qih> ... so the kernel module seems to be loaded
+15:52 < fenglin001> To demote the kernel
+15:56 < fenglin001> You still go to the official BBS post for help
+15:56 < fenglin001> Maybe someone can give you solve the problem
+15:56 < qih> OK thanks I will, just reading Debian Kernel/DVD things, thanks for your help
+15:57 < fenglin001> You're welcome
+17:41 < aaa_> 哦
+17:43 < qih> haode
+17:52 < kik13143you> hello
+17:52 < ming__> 今天的中文版茶话会还在这个频道里开吗？还是要新建频道？
+17:53 < kik13143you> 我是按论坛操作的
+17:54 < MattD> I suggest put that topic into Chinese channel, such as #deepin-cn. Since there are still some non-Chinese users here.
+17:55 < MattD> Any deepin official staff, please register a new channel named #deepin-cn for Chinese chatting.
+17:58 < kik13143you> 话说来这聊啥，第一次玩
+18:00 < Jzqys> 我也不知道，主持人好像是 fenglin
+18:01 < kik13143you> 那主持人咋不讲话
+18:01 < Jzqys> 他大概吃饭去了
+18:02 < kik13143you> 那个hwang是谁
+18:02 < Jzqys> 不认识啊
+18:02 < Jzqys> 大概都是论坛里的人吧
+18:02 < kik13143you> 是deepin内部的吧
+18:03 < Jzqys> 不清楚
+18:04 < kik13143you> 话说这个软件可不太会用，你也是第一次用？
+18:04 < Jzqys> 我昨天才开始用
+18:04 < Jzqys> 这个挺单一，就是文字，不能发图片什么的
+18:05 < kik13143you> 感觉比较小众啊
+18:07 < hwang> :-[
+18:07 < fenglin001> :)
+18:08 < kik13143you> 。。
+18:08 < kik13143you> ==
+18:08 < hwang> pidgin安装插件应该可以发图片之类的
+18:09 < kik13143you> 现在手机都能开热点了，移动wifi还有用吗
+18:10 < kik13143you> pidgin是？
+18:10 < hwang> 我现在用的就是pidgin
+18:11 < hwang> 基本支持所有的协议
+18:11 < hwang> 以前支持qq的，现在不行了
+18:12 < kik13143you> 哦哦，好像还行
+18:13 < kik13143you> IRC是什么
+18:13 < hwang> 相当于一个集成所有聊天工具的东西，蛮好用的
+18:15 < kik13143you> 这个hexchat就是一个经典的irc吧
+18:16 < hwang> 没用过耶
+18:17 < hwang> 反正pidgin能够支持很多聊天协议，所以就用它了，irc也是一种协议
+18:18 < brainy> hi fenglin
+18:18 < kik13143you> 你的pidgin里都有些什么聊天工具
+18:18 < brainy> :)
+18:20 < hwang> 以前用过msn和qq，现在好像都不能用了，所以就用irc了，加了几个频道
+18:21 < kik13143you> 肿么加频道？？
+18:23 < MattD> STFW
+18:24 < kik13143you> OK
+18:24 < brainy> hi hwang kankan petsu talonz
+18:31 < kankan> 前几天论坛上不是有人说要开发一款聊天软件吗,这几天好像没动静了
+18:31 < brainy> Guten Abend, hmy
+18:32 < kik13143you> 有必要？练练到也行
+18:33 < kankan> qq之前好像也有聊天软件吧
+18:33 < hmy-Pad> 在平板上装了，用起来爽
+18:59 < fenglin0011> hi brainy What's the matter?
+19:43 < kik13143you>  论坛发帖上不了图了
+20:19 < fenglin001> 刷新一下
+20:21 < fenglin001> deepin-bot   能不能把IRC聊天窗口的内容放到论坛上，就像直播一样。
+22:01 < deepin-bot> [Choldrim]: fenglin001: 为啥不直接登录到irc直接参与直播咧？
+22:19 < fenglin> 只是个展示窗口，点击窗口，就会进入聊天室。
