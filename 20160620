@@ -1,0 +1,69 @@
+01:12 < tuxhunter> what happen if i install de 4.6 kernel on linux deepin
+01:16 < tuxhunter> because i install that kernel in peppermint os 6 in vbox and it works fine
+01:22 < tuxhunter> and i dont want to f*ck my system up
+01:31 < tuxhunter> steev
+01:51 < tuxhunter> Hi can someone please answer me this how i change the kernel to the 4.6.2 and its runs fine my browser everyting except virtualbox and i know why but its affects something else in deepin
+01:51 < tuxhunter> i change*
+02:00 < tuxhunter> forget how
+02:01 < tuxhunter> satu please help
+02:01 < satu> what's the problem?
+02:02 < tuxhunter> i want to know if chaning the kernel affects other stuff on the system
+02:03 < satu> It shouldn't affect.
+02:03 < tuxhunter> the only thing that affect is vbox
+02:04 < satu> what kernel you are on?
+02:05 < tuxhunter> 4.6.2
+02:06 < satu> you can try this in terminal: sudo /sbin/rcvboxdrv setup
+02:07 < tuxhunter> ok i will try it
+02:08 < tuxhunter> command not found it shows me up
+02:09 < satu> how about this?
+02:09 < satu> sudo /ect/init.d/vboxdrv setup
+02:13 < tuxhunter> command not found
+02:15 < satu> ok. it's seems you are missing vbox kernel module. It's suppose to mantain your kernel updates.
+02:15 < satu> Let's try to install it, if it's in the Depon repos...
+02:16 < satu> Deepin...
+02:16 < satu> sudo apt-get install dkms
+02:16 < tuxhunter> ok install it again
+02:17 < satu> That's one way to do it or just install that module.
+02:17 < satu> sudo apt-get install dkms
+02:17 < tuxhunter> its already installed
+02:26 < tuxhunter> satu
+02:26 < satu> ?
+02:27 < tuxhunter> are you a dev of deepin?
+02:27 < satu> No I'm not. Just user.
+02:27 < tuxhunter> oh do you use fedora
+02:28 < tuxhunter> because i am installing gnome-boxes is a type of vbox but of fedora
+02:29 < satu> I had driver issues with original deepin so now I use Deepin on Manjaro. I haven't try gnome-boxes yet.
+02:30 < tuxhunter> what is that driver issue
+02:32 < satu> Wireless network. My wlan module is not well supported by linux, but now it works fine. Not good, but fine.
+02:33 < tuxhunter> in linux deepin?
+02:36 < satu> Yes and another debian based systems. Realtek RTL8723BE is my wireless card and it has broblems even in windows systems.
+02:37 < tuxhunter> oooh 2 things or very old machine or broken wireless card
+02:47 < satu> Yes.
+02:48 < satu> I don't think it's network manager. It's same at KDE, Gnome etc.
+02:48 < tuxhunter> ok which kernel version are you on?
+02:50 < satu> 4.4. Tried newer ones, but this works best at least now.
+02:51 < tuxhunter> ok 4.4 in manjaro
+02:51 < satu> Yes.
+02:52 < tuxhunter> try to install the same kernel version that install 4.6.2 and then boot the 4.6.2 kernel
+02:52 < tuxhunter> that i*
+02:53 < satu> I can try that.
+02:53 < tuxhunter> yes you can try it
+02:54 < tuxhunter> thats the beauty of linux you can install many kernels has you want but dont install to much kernels because it will slow a little bit your machine
+02:55 < satu> Manjaro have great tool to manage kernels. So easy.
+02:56 < tuxhunter> So install the 4.6.2 and reboot and boot the 4.6.2
+02:56 < tuxhunter> if you know how to boot a different kernel
+03:19 < satu> Yeah I know.
+14:03 < sgjabjdsdgsdg> :-D
+15:13 < user___> Hi
+15:14 < steev> hiya
+15:14 < user___> Is there a torrent file for deepin 15.2?
+15:14 < steev> i'm not sure
+15:15 < user___> ok , thanks.
+16:10 < mechahop> is deepin based on KDE?
+16:48 < MattD> No Deepin is based on Debian, and its desktop environment is developed from scratch
+17:10 < deepin-bot> [snyh]:  mechahop:   It's hard to say DDE based on which DE, they learn many things both from gnome and kde.   the GUI of DDE is developed mainly by qt5 currently ( before 2015, they use gtk mainly).   and the backend of DDE is mainly developed from scratch (before 2014, based on gnome).    Even in 2014, they use html5 to develop the desktop,dock,launcher ...
+17:11 < mechahop> okay cool was little lost
+17:24 < hualet_deepin> mechahop: It's not your fault, I was confused at first too :)
+20:35 < brainy> hi allz
+23:44 < brainy> I just wanted to say: opera browser is the best!
+23:44 < brainy> Thanks for your attention.
