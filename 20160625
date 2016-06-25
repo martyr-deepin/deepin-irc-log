@@ -1,0 +1,13 @@
+07:06 < sylz> firefox可以访问google，chrome竟然没法访问。。。。
+19:37 < brainy> arunpyasi, are you alive?
+19:52 < brainy> hi sbw
+20:10 < deepin-bot> [manateelazycat]:  brainy: Hi. ;)
+20:38 < brainy> hi manateelazycat :)
+20:45 < felixonmars> hi brainy
+20:47 < brainy> hi felixonmars \o/
+22:14 < MSPaint> Hello, I am attempting to install Deepin for the first time. However, my installer keeps issuing a Failed to Make error
+22:14 < MSPaint> This is interesting, as I use this flash drive for all my installations
+22:14 < MSPaint> I have redownloaded the ISO both from sourceforge and Mega
+22:14 < MSPaint> https://paste.ee/p/DDAbl log file
+22:15 < MSPaint> I am using Windows to try to write the 64bit iso to an 8gb fat32 flash drive
+22:53 < MSPaint> Does not match the listed md5 https://blog.deepin.org/2016/06/announcementnow-you-can-install-latest-iso/
