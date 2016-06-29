@@ -1,0 +1,8 @@
+10:44 < pkuclay> i am using deepin 15.2
+10:44 < pkuclay> try something new
+10:45 < pkuclay> anyone there?
+15:38 < Rouz> HI
+15:38 < Rouz> Each time i Download the iso and check the md5sum, its not the same as the website is telling me
+15:39 < Rouz> my question is, Is the MD5 on the website up to date ?
+16:08 < liujianfeng> Rouz: it should be correct
+21:21 < minhui> hi，各位用go的大神。我想请问下go中，有一对嵌套结构体A在B中，子结构体A的成员函数能否访问父结构体B的变量？
