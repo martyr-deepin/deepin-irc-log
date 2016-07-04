@@ -1,0 +1,153 @@
+10:27 < beeender> 网易云音乐 1.0.0-1 好像又比较严重的内存泄露，是已知问题么？
+10:30 < deepin-bot> [snyh]:  It's likely a unknown bug.
+10:31 < beeender> 100% reproducible here. What kind of infomation can I supply to help?
+10:36 < deepin-bot> [snyh]:  Can you report it at https://bugzilla.deepin.io/  with the reproduce steps.
+10:36 < beeender> 1. Archlinux using aur package from https://aur.archlinux.org/packages/netease-cloud-music/ 2. It was updated from a previous version 3. The leaks happen even I am not playing any music 4. The local music scanning is in progress
+10:36 < felixonmars> beeender: which distro?
+10:36 < beeender> See above
+10:36 < felixonmars> i see.
+10:38 < felixonmars> why do you think the local music scanning is in progress? any console logs, or just cpu spike?
+10:39 < deepin-bot> [snyh]:  Use strace -e open to detect whether it's in scanning ?
+10:40 < beeender> the spinner is showing in the left panel's local music menu
+10:53 < beeender_> created an issue https://bugzilla.deepin.io/show_bug.cgi?id=8041
+10:53 < beeender_> let me know more information is needed
+10:54 < felixonmars> beeender_: some instructions from the developer: clean up ~/Music folder, rm ~/.config/netease-cloud-music/netease-cloud-music.ini, and don't add more folders to the local music menu, and see if the problem persists.
+10:56 < beeender_> `mv Music Music.bak` doesn't help
+10:57 < felixonmars> did you also remove the ini file?
+10:58 < beeender_> `mv netease-cloud-music netease-cloud-music.bak` + `mv Music Music.bak` don't help either
+11:01 < felixonmars> i see, i'll report back to the developer
+16:07 < G-Ray> HI !
+16:07 < G-Ray> I tested deepin yesterday and was impressed by the software center!
+16:08 < G-Ray> This is the best one I have ever seen on a linux distro. I use arch, so there is plenty of packages, but you guys, displayed them so that it's so easy to find and install them
+16:09 < G-Ray> However, items were slow to fetch from the server, from France
+16:11 < deepin-bot> [snyh]:   G-Ray:  what's the mirror server you use?  You can find it in control-center (trigger it show by move mouse to right corner)
+16:11 < G-Ray> I selected one from GB IIRC
+16:12 < G-Ray> screenshots and images are also fetched from the mirrors ?
+16:12 < deepin-bot> [snyh]:   sorry, wha'ts meaning  GB ?
+16:12 < G-Ray> Great Britain
+16:13 < deepin-bot> [snyh]:  I get it now :)
+16:14 < deepin-bot> [snyh]:  You select it by the timeout?  The control-center will show the timeout for you ( this is some little slow, you may be wait wait wait..)
+16:15 < G-Ray> Images/screeshots are fetched from the mirrors too ?
+16:15 < deepin-bot> [snyh]:  currently, it seems hasn't a France mirror server in our maintain mirror list.  (you can see the status every day from https://ci.deepin.io/view/Repos/job/mirror_status/145/console)
+16:15 < G-Ray> IIRC it was a fast server
+16:15 < deepin-bot> [snyh]:   Badly say. No
+16:16 < G-Ray> I think the images were fetched to load
+16:16 < deepin-bot> [snyh]:    you meaning, the apt mirror server is OK.  But appstore server is too slow from France ?
+16:17 < G-Ray> yes I think so
+16:17 < G-Ray> Images and maybe metadata take too much time to be displayed
+16:17 < deepin-bot> [snyh]:  the image server is on China without cdn.
+16:17 < G-Ray> How can you offer so many packages ?
+16:18 < G-Ray> Ok that's why it's too slow
+16:18 < deepin-bot> [snyh]:  Could you help us test the timeout ?   (You can test it by browser you like. http://appstore.deepin.com/)
+16:19 < deepin-bot> [snyh]:  All screenshot and description are create by our awesome fellow :)
+16:20 < G-Ray> fellow ?
+16:20 < G-Ray> I am always redirected to http://appstore.deepin.com/network_down.html
+16:21 < deepin-bot> [snyh]:  yes,  fellow.  people works on deepin
+16:22 < G-Ray> I can't see any app from appstore.deepin.com
+16:22 < G-Ray> as I'm redirected to the url I pasted before
+16:23 < deepin-bot> [snyh]:  Ok ,  There are seems some problems.
+16:24 < deepin-bot> [snyh]:  You can use deepin-appstore -d to luanch appstore .  and  trigger webkit's inspector by right click and select the proper item.
+16:25 < G-Ray> I don't run deepin currently
+16:25 < G-Ray> It was just to give it a test yesterday :)
+16:26 < G-Ray> it was loading fine from the deepin-appstore, the problem is when I try to access appstore.deepin.com from my current computer with chromium/firefox
+16:26 < deepin-bot> [snyh]:  I have't a deepin OS too y .  The city of Wuhan which the deepin core team live city  is in the flood  :(
+16:27 < G-Ray> I'm sad to hear that :/
+16:28 < G-Ray> So Overall I really like the User experience Deepin is building, but I don't like the fact that they ship with proprietary softwares by default
+16:28 < G-Ray> Like chrome instead of chromium
+16:28 < G-Ray> or the proprietary WPS software
+16:29 < G-Ray> Advanced linux user embrace the open source philosophy, it would be great to get only open source softwares by default
+16:29 < deepin-bot> [snyh]:  it's a trade-offs.
+16:31 < G-Ray> What do you mean by a trade off ? WPS could be replaced by libreoffice
+16:32 < deepin-bot> [snyh]:  there already have some many distro which follow the open source philosophy.   deepin just a distro which try to find a way for serveing more people based on linux
+16:33 < deepin-bot> [snyh]:  the trade off meanings, some people like the default behavior of deepin, but some don't like.
+16:33 < hualet_deepin> hi snyh, G-Ray ;)
+16:34 < deepin-bot> [snyh]:  WPS is the default in Chinese version. not the international version.
+16:35 < deepin-bot> [snyh]:  it seems..
+16:36 < G-Ray> I donwloaded the version from https://www.deepin.org/download.html
+16:36 < G-Ray> hi hualet_deepin!
+16:37 < deepin-bot> [snyh]:  Any way, deepin will continue develop more software in they way, and feedback the community in the proper time.
+16:39 < G-Ray> I understand, but if you ship deeping with only open source software by default, any user could install the proprietary software they want from the store
+16:39 < G-Ray> deepin*
+16:40 < G-Ray> Anyway, I think deepin move in the right direction in order to make people move to Linux
+16:41 < G-Ray> Nice design decisions, Usage of Qt library, nice desktop/configuration panel, and very nice and complete app store!
+16:41 < hualet_deepin> G-Ray deepin is intend to be useable out of the box and elegant, as you can see, to everyone
+16:41 < hualet_deepin> including non-tech guys
+16:42 < hualet_deepin> but many open source softwares are not very user friendly
+16:42 < G-Ray> yes, deepin is easier to use than ubuntu/mint/debian etc
+16:42 < G-Ray> I don't think so about open source softwares
+16:42 < hualet_deepin> so we replace some of them with free proprietery softwares
+16:43 < G-Ray> I understand but like I said, some advanced users could refrain from switching to deepin because of these default proprietary software. But I understand this decision too
+16:44 < hualet_deepin> G-Ray: you should understand that there're many people really like those softwares we ship deepin with
+16:45 < G-Ray> Yeah I understand :)
+16:46 < hualet_deepin> G-Ray: Anyway, I hope there'll be more and more distros based on deepin emerge
+16:46 < hualet_deepin> then you can pick one as you like ;)
+16:46 < G-Ray> Yeah, I am currently think about porting the appstore to arch
+16:46 < G-Ray> thinking*
+16:47 < hualet_deepin> really ? that sounds like tons of hard work
+16:48 < hualet_deepin> G-Ray: you're from Arch community ?
+16:48 < deepin-bot> [snyh]:   As the growth of the deepin user, deepin (or other guys) will find the proper way to balance the default packages.
+16:49 < G-Ray> I'm an arch user yeah, currently thinking about switching to ubuntu because I spend too much time to tweak my config :D
+16:51 < G-Ray> But arch repositories are great! And we can find almost any software in the Arch user Repository !
+16:51 < hualet_deepin> ;)
+16:51 < hualet_deepin> G-Ray: yeah, I agree with you
+16:51 < G-Ray> And I like the rolling release model
+16:51 < G-Ray> But I think configuration of new packages should be automatic
+16:51 < hualet_deepin> do you know felixonmars ? he's one of the Arch developers
+16:52 < hualet_deepin> he has a good relationship with us, too :D
+16:52 < hualet_deepin> G-Ray: yeah, that's our ultimate goal too
+16:53 < G-Ray> No I don't know him, sadly I don't contribute to the arch community
+16:53 < hualet_deepin> rolling release is good yet very dangerous sometime ;)
+16:53 < G-Ray> Great if rolling release is a planned goal !
+16:53 < deepin-bot> [snyh]:  it Maybe someday deepin would support the arch repository. who knows.
+16:54 < hualet_deepin> really, good to hear that. snyh ;)
+16:54 < hualet_deepin> G-Ray: deepin is now in rolling release, based on debian sid
+16:55 < deepin-bot> [snyh]:  deepin always find the way to do some cool, exciting and useful things.
+16:57 < G-Ray> So deeping is already a rolling release if it uses debian sid repositories ?
+16:58 < hualet_deepin> G-Ray: Congratulations, your answer is correct !!! XD
+16:59 < G-Ray> Why is there a release number then ? Like 15.2 ?
+17:00 < hualet_deepin> G-Ray: Any software gets a version number, right ?
+17:00 < hualet_deepin> so does the deepin project ;)
+17:00 < G-Ray> Only if It reached a features set I think
+17:01 < hualet_deepin> yeah
+17:01 < deepin-bot> [felixonmars]:  so it's only 2 major versions away from E17
+17:01 < deepin-bot> [felixonmars]:  and two years later deepin beat all DE by version number
+17:01 < hualet_deepin> it also marks some core features update
+17:01 < G-Ray> felixonmars: You are an arch dev then ?
+17:02 < deepin-bot> [felixonmars]:  Yep :)
+17:02 < G-Ray> nice to meet you :)
+17:02 < G-Ray> And you work for deepin ?
+17:02 < deepin-bot> [felixonmars]:  I work for Arch *cough*
+17:03 < hualet_deepin> oh my god, an Arch dev is trolling in #deepin XD
+17:04 < deepin-bot> [felixonmars]:  don't worry hualet, it's a good day
+17:09 < G-Ray> debian sid update never breaks deeping ?
+17:09 < G-Ray> With a new kernel for instance
+17:10 < hualet_deepin> G-Ray: deepin is maintaining a kernel version itself
+17:10 < hualet_deepin> Of course the updates break deepin
+17:11 < hualet_deepin> but we solve those breaks first before the updates go to our users
+17:11 < felixonmars> also deepin defer package updates and push them as a group after extended testing. just like manjaro.
+17:13 < G-Ray> Nice release model. But I guess that you can't test every configuration, with different graphic cards etc
+17:14 < felixonmars> yep, that's why they need community volunteers as well :P
+17:15 < hualet_deepin> felixonmars is right.
+17:17 < G-Ray> It may be a silly question, but why deepin is not based on a existing desktop environment ?
+17:17 < felixonmars> it was, and they got lots of questions about why it's not a standalone desktop environment :P
+17:18 < G-Ray> isn't it a standalone DE ?
+17:18 < felixonmars> it wasn't so standalone as today
+17:18 < G-Ray> ah ok
+17:19 < felixonmars> back to like 1 or 2 years ago, it didn't have its own session manager and used something like gnome-session
+17:19 < G-Ray> I really like KDE plasma, but it's not always stable. But apps that use KDE frameworks are so powerful !
+17:20 < G-Ray> Gnome/gtk apps are nice, but too simple to me
+17:20 < G-Ray> less is more, but gtk apps really lack configuration abilities
+17:22 < G-Ray> Maybe a deepin/KDE apps combo would make sense too
+17:22 < felixonmars> I use a plasma/deepin apps combo most of the time :P
+17:25 < G-Ray> On arch ?
+17:27 < G-Ray> Do you plan to distribute packages with a protocol like bittorrent in order to get faster downloads ?
+17:33 < G-Ray> lastore-daemon seems to be well designed. I guess one could write a backend for another package manager like the one for apt https://github.com/linuxdeepin/lastore-daemon/blob/4f12d767470a76d02d8a4c4a86a3cd26f674da89/src/internal/system/apt/apt.go
+17:39 < felixonmars> G-Ray: yep, on Arch
+17:39 < felixonmars> G-Ray: i think we have enough mirrors that won't be any slower than bittorrent :P
+17:39 < G-Ray> felixonmars: Last time I tried deepin on arch, there were a huge memory leak IIRC
+17:39 < felixonmars> G-Ray: it's somewhat better now :P
+17:40 < felixonmars> G-Ray: ask hualet or snyh for some details, so maybe they can get it fixed sooner (cough
+17:48 < G-Ray> Why did you chose to use debian sid as a base and not another distro ?
+17:48 < felixonmars> hualet_deepin: ^
+19:55 < G-Ray> ?
+19:56 < G-Ray> Why do you consider Debian Sid as a stable base to build deepin on ?
