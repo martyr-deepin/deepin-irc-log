@@ -1,0 +1,72 @@
+00:27 < koucha> hello？
+01:20 < inerkick> Hi. I got Deepin 15. But my mobile internet(dongle) isn't working. Couldn't find any resource. I'm currently on dual boot and using ubuntu. Just want to use Deepin. Kindly help
+01:29 < inerkick> anyone here
+15:23 < G-Ray> HI :)
+16:08 < deepin-bot> [manateelazycat]:  G-Ray: Because debian stable is too old, we choose debian sid because we want newest package and we have power to contorol it's won't crash deepin system. ;)
+16:09 < G-Ray> Yeah, but why not testing ?
+16:10 < deepin-bot> [manateelazycat]:  G-Ray: testing package is not newest one. ;)
+16:11 < G-Ray> There is something like a 10 days delay, not a dealbreaker IMHO. If it's the price to pay in order to get a more stable system, I don't bother
+16:11 < G-Ray> Althrough unstable seems to be pretty stable
+16:16 < deepin-bot> [manateelazycat]:  Unstable just for debian repos, we have inner package repos for cache, we will fixed many repos problem, include unstable problems (such as kernel, xorg etc. ). Infact, deepin user always got stable update after deepin developer fixed. ;)
+16:16 < deepin-bot> [manateelazycat]:  G-Ray: Deepin repos always stable for generic user, unstable make sense for deepin developer in deepin's inner repos. ;)
+16:26 < leaeasy> G-Ray: Unstable has more archiectures support. Deepin has supported some unreleased architecture like mips64el and alpha.
+16:47 < G-Ray> Could "deepin store 4.0" be ran on ubuntu ?
+16:49 < leaeasy> G-Ray: Can run but maybe not work correctly, deepin store 4.0 need patch apt
+16:50 < leaeasy> G-Ray: If you want try dde on ubuntu, you can see https://launchpad.net/~leaeasy/+archive/ubuntu/dde
+16:52 < G-Ray> thanks, but I was just wondering if we could build an appstore for ubuntu :)
+16:52 < G-Ray> Using html/css apps is the way to go to provide nice UI to users
+16:53 < deepin-bot> [manateelazycat]:  G-Ray: Even deepin store can run ubuntu, those have many packages not exist in ubuntu's repos.
+16:53 < G-Ray> Yes, deepin packages metadata are stored in deepin-appstore-data right ?
+16:54 < G-Ray> We would need an "ubuntu-appstore-data" to port the store to ubuntu right ? I'm interested to hack around this
+16:54 < G-Ray> The ubuntu store (gnome-software) is not really appealing/usable IMO
+16:55 < deepin-bot> [manateelazycat]:  G-Ray: not just that, there have 500+ applicaitons build in deeipn's repos, but ubuntu repos haven't those applications.
+16:55 < G-Ray> But the applications are stored in "deepin-appstore-data" right ?
+16:56 < G-Ray> Creating an ubuntu-appstore-data would be the way to go then right ?
+16:56 < deepin-bot> [manateelazycat]:  G-Ray: It's not a hacker can fix it. First, we need patch apt to make deepin store work. Second, we need port 500+ GUI applications from deepin repos to ubuntu repos. Third, you need maintain deepin store and store applications in ubuntu once deepin store upload new application in deepin repos.
+16:57 < deepin-bot> [manateelazycat]:  G-Ray: Not enough, we have a backend CMS to control which applicaiton will show to user and which one not show to user, all those control along with deepin repos' changed.
+16:58 < G-Ray> Is the cmd open source ?
+16:58 < G-Ray> cms*
+17:00 < deepin-bot> [manateelazycat]:  G-Ray: Infact, i think it's not a problem to port deepin store to other linux. It's a problem about package format and repos difference. It's better build all applications with a standalone format like snap or flatapk, then deepin store can run any linux, because application in deepin store don't need any package format provide by user's linux system.
+17:00 < deepin-bot> [manateelazycat]:  G-Ray: CMS is not open source now, just deepin store client and lastore-daemon open source.
+17:01 < deepin-bot> [manateelazycat]:  G-Ray: Hope you understand, make app store work on other linux is harder than what your think. ;)
+17:03 < G-Ray> OK, but what I mean is if we keep the ubuntu repos and modify the package data used by the store in order to only show ubunt packages?
+17:03 < G-Ray> I know that we can't provide the deepin packages to ubuntu
+17:04 < deepin-bot> [manateelazycat]:  G-Ray: It's feel free to modify deepin store to support other linux (such ubuntu), but we haven't time and resource to do that, since it's not simple to just modify code of deepin store.
+17:06 < G-Ray> yeah I understand, I will try to do so, but I need to understand where the package info (images etc) are fetched by the store. Is it deepin-appstore-data ?
+17:08 < G-Ray> It may be there then : https://ci.deepin.io/view/dstore/job/appstore-webapp/lastBuild/artifact/code-dist.tar.gz :)
+17:08 < deepin-bot> [snyh]:  G-Ray: we have think about,  share the screenshot, description and comments of the packages. (also the rankings) > But just think :)   It's very hard to port to other distribution. The appstore internal is messy.
+17:09 < deepin-bot> [snyh]:  the packages's info is fetched from the api.lastore.deepin.com/applications
+17:09 < deepin-bot> [snyh]:  sorry, the url is  api.appstore.com/applications
+17:10 < deepin-bot> [snyh]:   http://api.appstore.deepin.com/applications?region=mainland  and  http://api.appstore.deepin.com/applications?region=international
+17:10 < deepin-bot> [snyh]:  the home page is fetched data from  http://api.appstore.deepin.com/shopwindows?region=international
+17:12 < deepin-bot> [snyh]:  deepin-appstore-data is just the client's static asserts (it's fetched from network in past, but now for speedup, we ship it with the deb)
+17:14 < G-Ray> Ok thanks for the info !
+17:14 < G-Ray> It would really help if you could open source the api backend
+17:20 < G-Ray> Also, The images would need to be reusable by other (Creative commons license ?)
+17:31 < deepin-bot> [snyh]:   I wish , but it currently hard.   some images are upload to the cloud https://www.upyun.com/index.html   by CMS  and somes are store at api.lastore.deepin.com (yes, there has two api)
+17:31 < deepin-bot> [snyh]:  One is appstore for store things, and one is lastore for repository things
+17:33 < deepin-bot> [snyh]:  the design of appstore may be changed in this year. (I'm not sure, it decide by other things)
+17:34 < G-Ray> And you can't open source the whole api ?
+17:36 < deepin-bot> [manateelazycat]:  G-Ray: Perhaps not this year, sorry.
+17:36 < G-Ray> ok
+17:37 < deepin-bot> [snyh]:  G-Ray: We can't open source now. sorry.    But the key is even we open source the api code, the port task is still very hard.
+17:38 < deepin-bot> [snyh]:  G-Ray: I'm very glade you want help to port the appstore, And We also wish the store can be server more people.
+17:38 < deepin-bot> [manateelazycat]:  G-Ray: Simpler way is you switch from ubuntu to deepin. ;)
+17:38 < G-Ray> does the whole code of the client app including the UI is open source at least :) ?
+17:40 < deepin-bot> [manateelazycat]:  G-Ray: yes
+17:40 < deepin-bot> [snyh]:  Yes, the deepin-appstore-data has the whole code to connect to the API.
+17:40 < G-Ray> Not so hard to create a new api backend
+17:40 < deepin-bot> [snyh]:  And I can list the API
+17:41 < G-Ray> But are image reusable if I manage to get something working ?
+17:42 < deepin-bot> [snyh]:  I'm not sure this.    because the assert are  associate with the package id
+17:43 < G-Ray> I mean, are the images under a permissive license ? like creative commons ?
+17:43 < G-Ray> Can I copy an image, modify it and redistribute it freely ?
+17:44 < deepin-bot> [snyh]:  we have't handle
+17:44 < deepin-bot> [snyh]:  this .  But  I think is ok to public this under  creative commons
+17:46 < deepin-bot> [snyh]:  G-Ray: I need leave .   the license problem can be sure by manateelazycat
+17:46 < G-Ray> Ok, bye :)
+17:46 < G-Ray> and thanks
+17:46 < deepin-bot> [snyh]:  wait a moment  , I think
+17:46 < deepin-bot> [snyh]:  is ok
+17:47 < G-Ray> yeah I stay connected
+18:53 < brainy> hi fenglin :)
