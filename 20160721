@@ -1,0 +1,13 @@
+00:28 < TryingToInstallD> Hi
+00:29 < TryingToInstallD> Anyone?
+00:29 < TryingToInstallD> Please help me
+00:31 < TryingToInstallD> Hello?
+00:31 < TryingToInstallD> Is this a ghost town?
+00:31 < TryingToInstallD> It is not a good day for IRC
+10:07 < hmy-Pad> $
+11:31 < pinganxmm1> 请教：怎么把自动挂载好的分区全部设置成不自动挂载，即取消之前的操作
+11:32 < pinganxmm1> help！
+11:40 < pinganxmm1> deepin这里的人太少了，又不说话
+12:41 < deepin-bot> [Choldrim]: pinganxmm1: hi, 看看/etc/fstab上有没你所说的磁盘挂载记录，有的话注释掉试试
+12:42 < pinganxmm1> 谢谢
+13:10 < deepin-bot> [snyh]:  还有一种方式，可以试试  systemctl list-units -t mount 查看当前mount的设备。 然后如果有不想要的就用 sudo systemctl mask xxx.mount
