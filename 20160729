@@ -1,0 +1,24 @@
+06:22 < deepindzvzs> 没有中文么？
+06:23 < deepindzvzs> 什么情况？
+06:23 < deepindzvzs> help
+06:23 < deepindzvzs> man help
+17:18 < deepindzvzs> exit
+17:33 < deepindzvzs> starts
+17:34 < deepindzvzs> who
+17:34 < deepindzvzs> whois
+17:34 < deepindzvzs> whowas
+17:35 < deepindzvzs> 请问，怎么在这个命令行找中文帮助信息啊？
+17:36 < deepindzvzs> sbw
+17:36 < deepindzvzs> [sbw]
+17:38 < deepindzvzs> !help
+17:38 < deepin-bot> Available commands: !echo, !help, !ping
+17:39 < deepindzvzs> !echo
+17:39 < deepin-bot> Invalid arguments.
+17:39 < deepindzvzs> ! echo
+17:39 < deepindzvzs> ! help
+17:40 < deepindzvzs> !help
+17:40 < deepin-bot> Available commands: !echo, !help, !ping
+17:40 < deepindzvzs> .help
+17:40 < deepindzvzs> .echo
+17:40 < deepindzvzs> .info
+17:45 < deepin-bot> [fasheng]: http://ircbeginner.com/ircinfo/ircc-commands.html
