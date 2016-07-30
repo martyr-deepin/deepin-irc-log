@@ -1,0 +1,4 @@
+02:42 < oxore> Hello! I am able to run deepin-screenshot only with sudo. What can be reason for such bug?
+02:47 < oxore> If I run deepin-screenshot from shell it become freeze and then I sgould go to htop and kill deeping-screenshot because it do not stop on Ctrl+C.
+02:48 < oxore> Sorry for my broken English
+02:49 < oxore> So when I run "sudo deepin-screenshot" it works fine!
