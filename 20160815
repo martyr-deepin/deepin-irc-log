@@ -1,0 +1,44 @@
+17:27 < ezraholm50> hey guys anyone knows where to get the ARM version of deepin
+17:27 < ezraholm50> cant seem to find it on google
+17:30 < deepin-bot> [manateelazycat]:  ezraholm50: ARM version at: http://blog.deepin.org/2016/01/deepin-15-arm-edition-officially-released/   http://packages.deepin.com/armhf/   http://cdimage.deepin.com/armhf/15/beta1.0/
+17:32 < ezraholm50> Awsome, going to try it out on a raspberry right away, thanks!
+17:41 <@s991533> hualet_deepin: is there a problem on rsync.deepin.com ?
+17:41 <@s991533> hualet_deepin: the "releases" directory stopped update for a while
+17:42 <@s991533> hualet_deepin: there is no v15.2 ISO images 
+17:43  * s991533 how to ping deepin staffs via the bot?
+17:43 <@s991533> deepin-ilbot: hello
+17:43 <@s991533> deepin-ilbot: ping
+17:43 <@s991533> deepin-ilbot: help
+17:43 < deepin-ilbot> s991533: This is a passive irc logging bot. Homepage: http://moritz.faui2k3.org/en/ilbot
+17:44 <@s991533> deepin-ilbot: curl: (7) Failed to connect to moritz.faui2k3.org port 80: Connection refused ...
+17:44 <@s991533> deepin-ilbot: version
+17:45 < deepin-bot> [manateelazycat]:  ezraholm50: You're welcome!
+17:45 <@s991533> hi manateelazycat
+17:46 <@s991533> deepin-bot: help
+17:48 < liujianfeng> s991533: you can download iso form here: http://cdimage.deepin.com/releases/15.2/
+17:48 < ezraholm50> anyone knows what to do about: error processing  /var/cache/apt/archives/linux-image-4.4.0-2-deepin-amd64_4.4.6-4_amd64.deb
+17:48 < ezraholm50> cant upgrade anymore
+17:49 <@s991533> liujianfeng: that's not the same problem, the source server of the mirror is out of date
+17:49 < ezraholm50> In my case or the above?
+17:49 < liujianfeng> s991533: rsync.deepin.com is just for the repo
+17:50 <@s991533> liujianfeng: no, you are wrong
+17:50 <@s991533> liujianfeng: see rsync.deepin.com::releases/
+17:51 < liujianfeng> ezraholm50: delete that file and try again?
+17:53 < hualet_deepin> s991533: I see, but I don't know if it's intentional or not
+17:53 < hualet_deepin> I'll have someone look into it
+17:53 <@s991533> hualet_deepin: thanks, that's a big problem, it makes all the mirror site out-dated
+17:53 <@s991533> hualet_deepin: I hope it's not 
+17:54 <@s991533> if it's intentional, that'll be very funny
+17:54 < hualet_deepin> I'm not sure and not in charge of that, anyway I'll report the problem :D
+17:54 < hualet_deepin> thank you s991533
+17:55 < hualet_deepin> and long time no see :/
+17:55 <@s991533> hualet_deepin: yeah ...
+17:57 < hualet_deepin> s991533: have you graduated from school ?
+17:58 < ezraholm50> liujianfeng: Lol... such an easy fix, trying it now..
+18:02 < ezraholm50> liujianfeng: seems to work so far, 500MB of updates to go... also used aptitude instead of apt-get, seems more robust
+18:02 < ezraholm50> thanks!
+18:03 <@s991533> hualet_deepin: yes, thanks
+18:03 <@s991533> hualet_deepin: how do you do recently?
+20:23 < Besi> When now comes new version out ode ne new build out
+20:25 < Besi> hi
+20:25 < Besi> When now comes new version out ode ne new build out
