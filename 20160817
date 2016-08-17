@@ -1,0 +1,44 @@
+20:43 < LuSky> hello
+20:44 < LuSky> Maybe someone can help me. I was using Manjaro Deepin 16.06.1 without any problems til last update.
+20:44 < LuSky> Since this update, the control center doesn't respond correctly and hangs. It's blank in some parts (network, backgrounds, icons...). I have no more hot corners even if I reactivete them. So, now Deepin is a pity !
+20:45 < LuSky> Something strange : it runs ok in Virtualbox and on my laptop ! Is it a hardware or a driver problem ?
+20:45 < LuSky> I can't find anything about this problem on internet !
+20:46 < LuSky> Any ideas ? :)
+20:48 < G-Ray> I don't use deepin/deepin-desktop
+20:48 < G-Ray> But have you tried to delete the conf
+20:48 < G-Ray> ?
+20:49 < LuSky> Yes I did, but nothing changes
+20:49 < G-Ray> nothing in the arch' wiki
+20:49 < G-Ray> ?
+20:50 < LuSky> Well no, I didn't find anything. It's like I was the only one who's gott this problem
+20:50 < LuSky> I also tried Antergos and installed Deepin on it and same problems
+20:51 < LuSky> Deepin is running on my latpop without problems since the last update but not on my desktop computer
+20:51 < G-Ray> antergos and manjaro are all based on arch I think
+20:51 < LuSky> Yes they are
+20:52 < G-Ray> have you tried to downgrade the package ?
+20:52 < G-Ray> by running pacman -U /var/cache/pacman/pkg/...
+20:52 < LuSky> I didn't try to install Deepin on a Debian based distro
+20:52 < LuSky> I didn't try that. What does it do ?
+20:54 < Marqin> -U installs package from .xz package file
+20:54 < G-Ray> yeah
+20:54 < Marqin> in /var/cache/pacman/pkg/ you have archived package files
+20:55 < G-Ray> exactly, so maybe by dowgrading the control center to the previous version, you can see if this is a bug
+20:55 < LuSky> Well, how do you downgrade ?
+20:57 < LuSky> I've never done that before
+21:00 < G-Ray> pacman -U /var/cache/pacman/pkg/control-center-sthg-like-that :)
+21:01 < G-Ray> .pkg.xz
+21:01 < G-Ray> you have to find out what's the package name of the deepin control center
+21:01 < G-Ray> or it may be the deepin package I don't know
+21:01 < G-Ray> doing so could break dependencies :/
+21:02 < LuSky> ok
+21:03 < LuSky> I'll try that. I need to reinstall Deepin, so before updating, I'll uncheck all that concerns Deepin. It should be a good start.
+21:04 < LuSky> But, do you have an idea why it runs on my laptop and not on my dektop computer ? I didn't change any hardware in it
+21:04 < LuSky> Strange isn't it ?!
+21:08 < LuSky> Thx for the informations
+21:08 < LuSky> I'll give it a try
+21:09 < G-Ray> it may be related to the graphic drivers
+21:09 < G-Ray> idk :(
+21:09 < LuSky> Maybe
+21:10 < LuSky> I'll try to install without non-free drivers to test that possibility
+21:11 < LuSky> I won't give up ! :)
+21:14 < LuSky> Thx for all guys ! Maybe, I'll be back soon ! Bye
