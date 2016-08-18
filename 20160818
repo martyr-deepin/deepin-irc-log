@@ -1,0 +1,34 @@
+01:47 < therion-rod> df
+09:49 < othniel> Hello I want to try deep in can I dual boot with solus
+15:33 < DeepinBug> Hello
+15:34 < DeepinBug> I was using Manjaro Deepin 16.06.1 without any problems until the last update of Deepin
+15:35 < DeepinBug> Now the Control center is unstable and in majority blank (no backgrounds, no icons...) and the network applet says the cable is not connected
+15:36 < DeepinBug> Sometimes the dock is blocked and the control panel too
+15:36 < DeepinBug> Ha anyone has such problems with Deepin
+15:39 < DeepinBug> So, I reintalled Manjaro Deepin 16.06.1 but without installing the Deepin relative updates and the system works great !
+15:39 < DeepinBug> What's wrong with the update files ?
+15:41 < DeepinBug> BTW the hot corners are not active when update files are loaded and I can not reactivate them. Parameters of the control center seem to be lost
+15:42 < DeepinBug> Strange thing, update work on my laptop (except the battery indicator)
+15:44 < DeepinBug> Any ideas ? :)
+15:46 < DeepinBug> I also deleted .config/dconf/user file but nothing's changed
+15:50 < DeepinBug> Hi G-Ray
+15:50 < DeepinBug> I'm back !
+15:51 < LuSky> As I told you yesterday, I've made some tests
+15:51 < G-Ray> hi !
+15:51 < LuSky> And the problem comes from Deepin update files !
+15:53 < LuSky> I didn't find the file which causes trouble yet. I'll do that late afternoon
+15:54 < LuSky> Maybe deepin-api or deepin-daemon ?
+15:56 < LuSky> I'll try to install deepin update files one by one and make test and downgrade if necessary
+15:57 < LuSky> Is there a way to contact the author ?
+15:57 < G-Ray> tu author of the arch package I guess ?
+15:58 < LuSky> Well maybe deepin author :)
+15:59 < LuSky> Do you think I should try Deepin Linux and see if I have the same problems ?
+16:00 < G-Ray> you can try, but i don't think deepin has any problem
+16:01 < LuSky> I'm downloading it but it's quite slow !
+16:02 < LuSky> ...and big ! 2.18GB
+16:05 < G-Ray> You can try other mirrors, they could be faster
+16:06 < LuSky> I'm downloading from the official website. I can't find mirrors for now :(
+16:09 < LuSky> ...and I can't use torrent here at work
+16:11 < chen_> Does anyone know why the deepin system can not full screen in vmware?
+16:38 < LuSky> Yep ! I found it on SourceForge :) Faster !
+16:47 < LuSky> Bye !
