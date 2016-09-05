@@ -1,0 +1,21 @@
+19:53 < CountryfiedLinux> howdy
+19:54 < CountryfiedLinux> Last time I used Deepin there was a bit of a delay between moving the pointer to the bottom edge and the dock popping up. Has this been fixed or at least have a way to speed it up?
+20:42 < brainy> hi hualet_deepin
+20:52 < CountryfiedLinux> Last time I used Deepin there was a bit of a delay between moving the pointer to the bottom edge and the dock popping up. Has this been fixed or at least have a way to speed it up?
+20:56 < brainy> It's a very good question.
+20:57 < brainy> But I don't think the bots here will answer. :(
+20:58 < CountryfiedLinux> What about the people?
+21:03 < brainy> They are half bot/half man :P
+21:18 < brainy> hi hualet bro
+21:19 < hualet> hi brainy :D
+21:22 < brainy> CountryfiedLinux, I think hualet might be able to help you
+21:23 < hualet> what's wrong ?
+21:34 < CountryfiedLinux> Last time I used Deepin there was a bit of a delay between moving the pointer to the bottom edge and the dock popping up. Has this been fixed or at least have a way to speed it up?
+21:34 < CountryfiedLinux> hualet,
+21:49 < hualet> CountryfiedLinux: Oh that's a way we figured out to prevent users from moving the pointer to the edge by accident and dock pops up
+21:50 < hualet> how awkward :/
+21:50 < CountryfiedLinux> I get that hualet but I prefer it to pop up immediately. I think there should be a feature to adjust the sensitivity.
+21:50 < hualet> maybe we should make the delay configurable ?
+21:51 < CountryfiedLinux> When I move my pointer to the panel I want it to pop up immediately. Yes hualet that would be great :)
+21:51 < CountryfiedLinux> Gnome extensions have sensitivity settings too.
+21:51 < hualet> CountryfiedLinux: OK that makes sense
