@@ -1,0 +1,35 @@
+10:32 < LordDragon> hey all
+10:32 < LordDragon> for some reason im getting a very stuttery mouse cursor after i switched driver to nvidia proprietary
+10:33 < LordDragon> i switched back to nouvea but its still stuttery
+10:51 < hualet_deepin> LordDragon: have you tried to reboot ?
+10:52 < LordDragon> yes. but i have a bigger problem now
+10:52 < LordDragon> i have NO idea why
+10:52 < hualet_deepin> I mean after you switched back to nouvea
+10:52 < hualet_deepin> what's that ?
+10:52 < LordDragon> but the installer overwrote my 5 TB data drive full of stuff
+10:52 < LordDragon> and made it into a "EFI System Partition"
+10:52 < LordDragon> what the actual hell?
+10:53 < LordDragon> i NEVER told to do ANYTHING to be 5tb drive
+10:53 < LordDragon> but voila
+10:53 < LordDragon> gone
+10:53 < hualet_deepin> what did you do ?
+10:53 < LordDragon> i have 4656.90GB worth of EFI System Partition
+10:53 < LordDragon> hualet_deepin: nothing. i installed deepin onto my 250gb ssd
+10:53 < LordDragon> tried booting back into windows
+10:53 < LordDragon> and voila
+10:54 < LordDragon> everything is gone on my data drive
+10:54 < hualet_deepin> :(
+10:56 < LordDragon> i gotta sleep
+10:57 < LordDragon> say a prayer that my last backup isnt corrupt
+10:57 < hualet_deepin> sorry, man
+10:57 < hualet_deepin> can you tell me more about the details ?
+10:57 < LordDragon> u know... im not sure
+10:57 < hualet_deepin> I can report it to the author of deepin-installer
+10:58 < LordDragon> i think the 2nd installation i did, i assume /dev/sdb1 was the same drive as last time
+10:58 < LordDragon> but maybe i didnt look and it actually was my data drive
+10:58 < LordDragon> and installed into it
+10:58 < hualet_deepin> ...
+10:59 < hualet_deepin> OK then
+10:59 < hualet_deepin> sorry about your loss again
+11:01 < LordDragon> well if this backup i have works, then theres no loss
+11:02 < hualet_deepin> yeah hope it work
