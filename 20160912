@@ -1,0 +1,7 @@
+01:59  * init7 BRB BEER TIME !!
+06:24 < LordDragon> hey is anyone around? ive installed deepin twice trying to solve an issue. and both times it overwrote the wrong drive
+06:24 < LordDragon> when i select the disk i want to install, do i have to click the "free space" partition under that drive for it to recognize the drive?
+06:24 < LordDragon> it seems to always install to the first drive it sees in the list
+06:25 < LordDragon> no matter what i do
+06:38 < JLye> overwrote the wrong drive or partition ?
+11:23 < leaeasy> LordDragon: It seem deepin-installer's bug
