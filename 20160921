@@ -1,0 +1,10 @@
+15:23 < morriarthy> Servus
+15:26 < freecoder_> hi. i am using deepin 15.3 64-bit. the login screen freezes on waking up from suspend (including the mouse pointer). i cannot even switch to another tty. i am using default xserver-xorg-video-nouveau graphics drivers
+15:34 < freecoder_> how do i resolve this issue?
+15:42 < morriarthy> hm, I think in the forum someone wrote something topic should be something like login-lop
+15:42 < morriarthy> logion-loop
+15:43 < morriarthy> prkl... login loop
+16:43 < freecoder_> morriarthy: i have plenty of disk space available so i dont think that is the problem
+16:48 < morriarthy> hm :/ ok, but in the following posts he wrote something about unlock some folders which can be write proteceted or in use so thats why ui login is not working
+16:50 < freecoder_> ok i deleted the archive folder. will be back
+22:10 < freecoder_> i tried instructions at https://en.bbs.deepin.org/forum.php?mod=viewthread&tid=31454&highlight=login%2Bloop as suggested by moriarthy but it did not work
