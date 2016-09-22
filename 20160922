@@ -1,0 +1,15 @@
+14:46 < freecoder> hi. i tried to install firefox from mint repository on my deepin 15.3 and got this message at the end - "Job for lastore-build-system-info.service failed. See "systemctl status lastore-build-system-info.service" and "journalctl -xe" for details. here are is the output of the two commands - https://bpaste.net/show/7d6657fe6382
+14:47 < freecoder> it deepin-movie also started crashing on startup. i suspect it might be due to this as it did not crash before.
+14:50 < liujianfeng> freecoder: what's the output of deepin-movie run in terminal?
+14:51 < freecoder> liujianfeng: here is the output - https://bpaste.net/show/b805a54d8559
+14:52 < freecoder> oh and i also have enabled nvidia driver from Driver Manager
+14:53 < liujianfeng> do you have a intel+nvidia notebook? if so you should also install bumblebee-nvidia
+14:54 < freecoder> yes i have intel 4400 graphics + nvidia geforce 820m
+15:08 < freecoder> liujianfeng: the packages downloaded have version 352.79-2+deepin, while the driver that i enabled from Driver Manager is 340
+15:09 < freecoder> i got a "Mismatching nvidia kernel module loaded" error - http://s9.postimg.org/4mfei76xb/Deepin_Screenshot20160922123853.png
+15:12 < freecoder> should i install nvidia-352 from graphics drivers ppa (https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa)?
+15:13 < liujianfeng> freecoder: you'd better not, the driver ubuntu packaged could not be used in deepin
+15:15 < liujianfeng> nvidia-driver should works fine on your computer
+15:16 < freecoder> liujianfeng: so is it okay to have a mismatch?
+15:19 < liujianfeng> it should be ok
+15:27 < freecoder> thanks. deepin-movie works now :)
