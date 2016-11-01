@@ -1,0 +1,147 @@
+16:09 < deepin-pahnin> how to do clear screen in deepin terminal ?
+16:10 < deepin-bot_> [manateelazycat]:  deepin-pahnin: Ctrl + l
+16:11 < deepin-pahnin> deepin-bot_: control + l not working
+16:12 < deepin-bot_> [manateelazycat]:  deepin-pahnin: I have test, ctrl + l should work, or input "clear" command to clear screen.
+16:12 < deepin-pahnin> control + l just prints this into terminal "^L"
+16:12 < deepin-bot_> [manateelazycat]:  deepin-pahnin: Do you use deepin-terminal in deepin system?
+16:12 < coderobe> deepin-pahnin: ctrl+L only works when there's nothing running in the terminal, you have to be at a prompt
+16:12 < deepin-pahnin> clear does work
+16:13 < deepin-pahnin> ok sorry for the confusion there is a server running
+16:13 < deepin-bot_> [manateelazycat]:  deepin-pahnin: you're welcome.
+16:13 < coderobe> selecting multiple files on the desktop lags a lot for me when it draws the selection rectangle - any way to fix this?
+16:13 < deepin-pahnin> but what I wanted to do is similar to reset + clear in gnome terminal
+16:14 < coderobe> deepin-pahnin: reset + clear should work in all terminals
+16:14 < deepin-pahnin> but how to do that?
+16:14 < deepin-pahnin> in gnome terminal there is an option in toolbar menu
+16:14 < deepin-pahnin> but there's no option in deepin menu
+16:15 < coderobe> oh i thought you meant entering reset & clear in the terminal
+16:16 < deepin-pahnin> suppose I'm running something in gnome terminal, something like tail -f server.log
+16:16 < deepin-pahnin> you can do reset + clear in submenu
+16:16 < deepin-pahnin> even in right click I think
+16:16 < deepin-pahnin> which clears whole screen
+16:16 < deepin-bot_> [manateelazycat]:  deepin-pahnin: you can download develop version of deepin-terminal: https://ci.deepin.io/job/deepin-terminal-2.0-ci/lastSuccessfulBuild/artifact/deepin-terminal_2.0.16+r272_amd64.deb , then you can add customize command with "reset; clear", then binding any shortcut you like.
+16:16 < deepin-pahnin> but I dont see that in eepin
+16:16 < deepin-pahnin> cool
+16:17 < deepin-bot_> [manateelazycat]:  deepin-pahnin: Let us know if you have any suggetion. :)
+16:17 < deepin-pahnin> let me check if arch has package
+16:18 < deepin-pahnin> It would be nice to see a pre defined short cut for clear, and reset + clear in right click menu
+16:18 < deepin-bot_> [manateelazycat]:  deepin-pahnin: This version haven't release, you can compile it from source code at: https://github.com/manateelazycat/deepin-terminal
+16:18 < deepin-pahnin> ok cool
+16:19 < deepin-bot_> [manateelazycat]:  deepin-pahnin: It should do that, because some people just want clear (scroll to visible area out), not want reset, and many system just have command "cls" and not have "clear" command.
+16:19 < deepin-bot_> [manateelazycat]:  deepin-pahnin: So you shoulde use  Ctrl + l, or use “customize command“　in deepin-terminal 2.1 ( will release soon ).
+16:20 < deepin-pahnin> great
+16:20 < felixonmars> just stumbled upon the channel and thought deepin-pahnin to be a new component of deepin :/
+16:20 < deepin-pahnin> lol
+16:20 < deepin-pahnin> sorry I picked the name like that
+16:20 < felixonmars> o/ or you could really write something under that name
+16:21 < deepin-pahnin> haha
+16:23 < pahnin2> for some reason whenever I restart my system mouse becomes invisible, I noticed that this is due to .icons/default/index.theme this file, if I remove this file and kill Xorg mouse starts working again
+16:23 < pahnin2> for a work around I added a command to remove this file to .bash_logout
+16:23 < pahnin2> but not sure why .bash_logout wont get executed on restarts
+16:24 < felixonmars> or maybe that file was created after logout?
+16:24 < pahnin2> probably
+16:24 < pahnin2> but not sure why is it a problem in the first place
+16:25 < pahnin2> I have installed deepin manjaro(arch based deepin system) version from a year back, then upgraded it to the latest
+16:25 < pahnin2> only this system has the issue
+16:25 < pahnin2> I installed a latest version of deepin manjaro in another laptop which doesnt have this issue
+16:25 < felixonmars> hrm, i also have that file but my mouse is working nicely
+16:26 < felixonmars> do you have deepin-icon-theme installed?
+16:27 < pahnin2> yes deepin-icon-theme version 15.12.32-1.1
+16:27 < felixonmars> iirc that package replaced deepin-cursor-theme some time ago
+16:27 < pahnin2> and also deepin-iconthemes-manjaro 20160907-1
+16:27 < felixonmars> :/ hmm, that's not what i'm familiar with
+16:28 < felixonmars> can you paste the content of that problematic index.theme?
+16:28 < pahnin2> I dont have it now, may be I have to restart
+16:28 < pahnin2> also sometimes the file wont be present too
+16:29 < pahnin2> which is weird
+16:29 < felixonmars> just want to be sure that it inherits from lower-cased `deepin`
+16:30 < pahnin2> I mean everytime I restart, I go another tty and login into shell with my user and logout then I login into root and kill the Xorg which shows me login screen with mouse
+16:30 < pahnin2> which works
+16:30 < pahnin2> ok
+16:30 < pahnin2> but sometimes I tried to remove the file and it's not present, but doing logout and killing Xorg works all the time
+16:31 < felixonmars> i am assuming you are using lightdm-deepin-greeter, so it doesn't make a difference if you login or not using the graphics interface right?
+16:31 < pahnin2> I think I'm using lightdm, lightdm is installed
+16:32 < pahnin2> but I dont have greeter installed
+16:32 < pahnin2> I have deepin-session-ui
+16:32 < pahnin2> and deepin-session-ui manjaro installed
+16:32 < felixonmars> so when you are presented with the lightdm login interface, the mouse cursor isn't there. does it come back if you manage to login with keyboard only?
+16:33 < pahnin2> I can click and move touch pad
+16:33 < pahnin2> just the cursor Icon wont be visible
+16:33 < felixonmars> hrm, really weird
+16:33 < pahnin2> if I go to the control center and click on power button and logout
+16:33 < felixonmars> you might want some help from oberon, but seems like he's not here atm
+16:33 < pahnin2> then mouse will come back
+16:33 < pahnin2> oh
+16:34 < pahnin2> I read some posts online, same problem with ubuntu-mate etc
+16:34 < pahnin2> they worked around by deleting some config files
+16:34 < pahnin2> so I deleted this file and it worked
+16:34 < pahnin2> hence added the command to .bash_logout
+16:35 < felixonmars> does it work if you don't remove the file and just restart X?
+16:35 < pahnin2> nope
+16:35 < pahnin2> because it wont work if I remove the command from .bash_logout
+16:36 < pahnin2> basically it is working on logout because I added that line to .bash_logout
+16:36 < felixonmars> i see
+16:36 < felixonmars> what's your graphics driver btw?
+16:37 < pahnin2> $ lspci | grep VGA 00:02.0 VGA compatible controller: Intel Corporation 3rd Gen Core processor Graphics Controller (rev 09)
+16:37 < felixonmars> also there's an Xresources way to play with: https://wiki.archlinux.org/index.php?title=Cursor_themes&redirect=no#X_resources
+16:39 < pahnin2> will checkout Xresources
+16:40 < felixonmars> there's a thread with some more ideas: https://bbs.archlinux.org/viewtopic.php?id=209262
+16:40 < felixonmars> that's all what i could find :P
+16:40 < pahnin2> I dont have deepin-desktop-schmas installed
+16:41 < felixonmars> oh, that's weird
+16:41 < felixonmars> it should be a dependency of deepin-daemon
+16:41 < pahnin2> I think during the first update it was removed
+16:41 < pahnin2> I tried to install it I think but it broke packages
+16:42 < pahnin2> I had to run fix packages
+16:42 < felixonmars> :/
+16:42 < pahnin2> iirc
+16:42 < pahnin2> look like this is a problem with manjaro and arch right?
+16:45 < felixonmars> pahnin2: didn't hear about this on arch though
+16:45 < felixonmars> manjaro has some customization and could bring problems like this, but that's just my wild guess
+16:45 < pahnin2> if you are using arch, do you have desktop-schemas installed
+16:46 < pahnin2> ya I guess, not sure why they are adding a layer instead of directly installing packages from deepin
+16:46 < felixonmars> sure i have
+16:46 < felixonmars> as i said, it's a dependency of deepin-daemon
+16:47 < pahnin2> should have installed arch directly
+16:47 < pahnin2> just thought woudl save some time
+16:47 < felixonmars> it did save some time :P
+16:47 < pahnin2> haha
+16:47 < felixonmars> in arch you'll need to update lightdm's configurations for lightdm-deepin-greeter to even start
+16:49 < pahnin2> oh
+16:49 < felixonmars> cuz lightdm was meant to have exchangeable greeters :P
+16:50 < pahnin2> and I wonder why is it important to base deepin-deamon on lightdm
+16:51 < felixonmars> hmm, you don't want to re-invent a full dm just because you could
+16:51 < pahnin2> I mean I think you can install gdm with gnome, mate, ubuntu's thing etc
+16:51 < felixonmars> sure, you can install dde without lightdm
+16:51 < pahnin2> I mean why can't we use deepin with lightdm
+16:51 < felixonmars> like, use sddm, gdm, or whatever you want :3
+16:51 < pahnin2> I dont know all the internals
+16:52 < pahnin2> * I mean why can't we use deepin with gdm
+16:52 < felixonmars> i use lightdm for plamsa, that's the same position as using deepin with gdm
+16:52 < pahnin2> hmm
+16:52 < felixonmars> well, the simple answer is we could
+16:53 < felixonmars> gnome is in the transition to wayland though, that could bring some problems
+16:53 < pahnin2> it's hard for everybody to agree on the same thing isn't it
+16:53 < felixonmars> sure :P
+16:54 < pahnin2> for me it's confusing which ubuntu version is using systemd which one is using upstart
+16:54 < felixonmars> and i guess deepin only officially supports lightdm atm
+16:54 < felixonmars> pahnin2: that's not a problem for arch and manjaro isn't it :P
+16:54 < pahnin2> ya :)
+16:54 < pahnin2> at one point we had two servers running two different versions of ubuntu
+16:55 < pahnin2> it's a real pain
+16:55 < felixonmars> o/
+16:55 < felixonmars> i did full upgrades all the way from ubuntu 10.04 lts to 16.04 to all my servers
+16:55 < felixonmars> so i could feel the pain
+16:55 < pahnin2> oh no
+16:55 < pahnin2> haha
+22:39 < coderobe> hey, any way to use the default colors in deepin-terminal instead of the green color scheme?
+23:08 < hualet> coderobe: the green color scheme is the default one.
+23:08 < coderobe> hualet: yes, but i want to use the normal terminal colors (white & co, like on a TTY)
+23:09 < hualet> if you want another color scheme, click the menu option on title bar
+23:09 < hualet> there's an entry to change the color scheme
+23:09 < coderobe> oh, thanks! didn't know that
+23:10 < hualet> np
+23:11 < hualet> it's a bit implicit
+23:11 < coderobe> hualet: i always used right-click for the menu, and didn't notice that the menu button existed
+23:11 < hualet> me too
+23:12 < hualet> I can talk to the developer about it :)
