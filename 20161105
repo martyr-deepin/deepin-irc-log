@@ -1,0 +1,7 @@
+21:57 < e1z0_> hi
+21:58 < e1z0_> i'm using deepin on archlinux, and the personalization > fonts become not selectable, maybe there is a solution for this, maybe some fonts are faulty?
+21:59 < e1z0_> and it can't render the font list
+22:18 < coderobe> i'm using deepin on archlinux as well & i have the problem that dde-session-daemon uses up 100% on one cpu core all the time
+22:18 < coderobe> killing the daemon doesn't seem to affect my system at all but it will get restarted so i'm wondering if i can disable it somehow or fix the excessive usage
+22:25 < e1z0_> changing layout keyboard shortcut does not work too
+22:25 < e1z0_> :|
