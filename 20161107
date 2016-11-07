@@ -1,0 +1,35 @@
+14:35 < Odtu> call for help：once i exec "make && ./main" ,i got "make: *** No targets specified and no makefile found.  Stop."
+14:36 < Odtu> 求助，小白在执行"make && ./main"时 报错，提示信息： "make: *** No targets specified and no makefile found.  Stop."
+14:38 < liujianfeng> Odtu: which app?
+14:39 < Odtu> terminal 2
+14:40 < Odtu> deepin-terminal 2
+14:40 < Odtu> 操作系统是linux mint 18
+14:41 < liujianfeng> Odtu: deepin-terminal 是用cmake编译的
+14:41 < Odtu> cmake已经安装了
+14:42 < liujianfeng> https://github.com/manateelazycat/deepin-terminal#installation
+14:43 < Odtu> 我在试下，多谢大大
+15:03 < arthur_> 小白clone好项目安装好依赖，执行“mkdir build; cd build; cmake ..; make; ./deepin-terminal”，报错，提示信息：“error: The name `get_default_seat' does not exist in the context of `Gdk.Display?'”
+15:04 < arthur_> app:  deepin-terminal 2 linux-version: Linux Mint 18
+15:04 < arthur_> 求助，求助
+15:05 < deepin-bot> [manateelazycat]:  Odtu, arthur_: 升级系统的　Gtk+ 版本才行，　get_default_seat 是Gtk 3.20 才引入的api
+15:05 < arthur_> 好的，我试下先。谢谢
+15:19 < Odtu> USERS
+15:26 < arthur_> 貌似安装gtk3.2还有一堆依赖需要升级撒
+15:26 < arthur_> 一步一步，希望可以成功
+15:44 < arthur_> 请问一环扣一环，好多包都需要更细，有什么比较简单的安装步骤吗？
+15:44 < arthur_> 请问一环扣一环，好多包都需要更新，有什么比较简单的安装步骤吗？
+15:52 < deepin-bot> [manateelazycat]:  athur_: 最简单的方法就是直接用　deepin
+16:03 < arthur_> 谢谢，不过我在虚拟机中使用deepin感觉不如mint流畅。
+16:04 < arthur_> 现在使用gnome的源安装下gtk3.2
+16:04 < arthur_> 如果自己编译的话，各种包需要升级
+16:05 < arthur_> 也希望deepin的团队可以做一个一键安装的脚本
+16:06 < arthur_> deepinterminal 应该是linux最好用的terminal了
+16:06 < liujianfeng> 都是deb系，下deb包不行么
+16:07 < arthur_> 您说的是依赖还是deepin-terminal
+16:07 < arthur_> ?
+16:13 < liujianfeng> 先试试安装deb，有依赖问题再具体修，编译依赖的要求更高一些
+16:15 < arthur_> deepin-terminal 有deb，deepin-terminal-2好像没有deb吧？
+16:16 < liujianfeng> 版本号升到2了，包名没变
+16:17 < arthur_> 我找下，谢谢
+16:18 < arthur_> 刚才编译成功了，使用起来有点问题。
+16:18 < arthur_> 找deb包去，谢谢大家。
