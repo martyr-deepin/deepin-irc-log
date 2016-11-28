@@ -1,0 +1,4 @@
+15:34 < one_> what is deepin like?
+22:02 < Sparky> hello Deepin friends! Just a short question, I'm really like Deepin 15.3 and I would like to install onto my main desktop, but is there a way to install it with disk encryption? (LVM+LUKS)
+22:09 < deepin-bot> [manateelazycat]:  Sparky: We perhaps won't add LVM as default option for installer, because LVM is so hard for general people.
+22:14 < Sparky> I understand, still I think that harddisk encryption should be an option in the installer, is there a way to install the current version of Deepin with harddrive encryption?
