@@ -1,0 +1,31 @@
+00:05 < liqen> hi
+04:04 < arthurlinux> hello
+04:04 < arthurlinux> help file manager
+04:04 < arthurlinux> connect ftp ¿?
+04:36 < arthurlinux> adios
+05:30 < deepin-telegram> [Mingye Wang] 毀滅世界大魔王: 😐 <sticker>
+05:30 < deepin-telegram> [Mingye Wang] 繁体中文系统原则上不应该 LANGUAGES 里面对 HK 和 CN fallback
+05:31 < deepin-telegram> [Mingye Wang] 吗？
+05:31 < deepin-telegram> [毀滅世界大魔王] 加了好象没用
+05:31 < deepin-telegram> [毀滅世界大魔王] 明天再确认下
+05:32 < deepin-telegram> [毀滅世界大魔王] 好睏但是睡不着
+10:03 < deepin-telegram> [Hualet Wang] 😂
+10:03 < deepin-telegram> [Hualet Wang] @artoria2e5 然后群主找到了么
+10:03 < deepin-telegram> [Mingye Wang] Hualet Wang: 没（
+10:04 < deepin-telegram> [Mingye Wang] 毀滅世界大魔王: 去 ubuntu 抄个 LANGUAGES 给 export 掉
+10:04 < deepin-telegram> [Hualet Wang] 😢
+10:04 < deepin-telegram> [Mingye Wang] 我记得有个 locale 什么 data 的东西，就是指定安装向导和语言设置里面用什么语言设置什么 LANGUAGES 变量的
+10:05 < deepin-telegram> [Mingye Wang] gettext 是会按照 LANGUAGES 变量里面几个用冒号分隔的语言按顺序找翻译的
+10:05 < deepin-telegram> [飞翔的心] 重新设置下locale试试？
+10:06 < deepin-telegram> [飞翔的心] 我locale-gen之后，出了设置其他的都恢复正常了
+10:06 < deepin-telegram> [飞翔的心] 设置应该是少语言包
+10:07 < deepin-telegram> [Hualet Wang] 额 文件管理器没有繁体的翻译。。。
+10:07 < deepin-telegram> [Hualet Wang] 上次我已经跟那个组的组长说过这个事情了
+10:07 < deepin-telegram> [Hualet Wang] 所以你再怎么设置语言也是白搭。。。
+10:08 < deepin-telegram> [飞翔的心] 你把简体中文也加进locale试试呢
+10:08 < deepin-telegram> [࿐小丑面具 🎭࿔࿆࿐] <left_chat_participant>
+10:08 < deepin-telegram> [飞翔的心] 看看能不能显示出简体
+10:09 < deepin-telegram> [飞翔的心] 总比英文方便
+10:43 < deepin-telegram> [毀滅世界大魔王] 我知道为啥没有 fallback 了
+10:44 < deepin-telegram> [毀滅世界大魔王] 我把 LANGUAGES 写成了 LANGUAGE
+10:53 < deepin-telegram> [毀滅世界大魔王] 噫好像就是 LANGUAGE 啊
