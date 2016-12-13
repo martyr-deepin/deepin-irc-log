@@ -1,0 +1,8 @@
+02:27 < andreasyeah> Hi. I have an issue with deepin boot maker. When I run deepin-boot-maker it says: deepin-boot-maker: symbol lookup error: deepin-boot-maker: undefined symbol: _ZN6QDebug9putStringEPK5QCharm
+02:30 < andreasyeah> I think the issue is qt5 but I am not sure how to install it
+13:15 < nan_cjpls> 大家好
+13:16 < nan_cjpls> deepin15.3是基于什么的
+13:22 < deepin-telegram> [桐谷 和シン] debian 8
+13:35 < deepin-telegram> [Michael Du] 桐谷 和シン: debian sid
+15:02 < deepin-telegram> [Mithrandir] sid
+15:10 < deepin-telegram> [jm33_m0] <left_chat_participant>
