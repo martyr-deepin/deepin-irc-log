@@ -1,0 +1,62 @@
+00:00 < arunpyasi> Hello !!!
+00:00 < arunpyasi> felixonmars, hi
+00:00 < arunpyasi> erhandsome, hello !
+00:00 < arunpyasi> s991533, u there ?
+00:01 < felixonmars> arunpyasi: hi
+00:01 < arunpyasi> felixonmars,u run Deepin ?
+00:01 < arunpyasi> Seen Huwalet around ?
+00:01 < felixonmars> i run Arch :P
+00:02 < arunpyasi> ohh
+00:02 < felixonmars> not here atm, i guess
+00:02 < felixonmars> and it's time for sleep here in china
+00:02 < arunpyasi> Is he online in 24 hours ?
+00:02 < arunpyasi> was he online before ?
+00:02 < felixonmars> yeah
+00:02 < arunpyasi> I am facing issues with Deepin
+00:02 < felixonmars> he left ~1.5h ago
+00:03 < arunpyasi> No idea how but the EFI record of Deepin has been vanished from the boot menu
+00:03 < felixonmars> but feel free to leave any comments here, as this channel is connected to a bearychat channel
+00:03 < arunpyasi> and I am unable to boot
+00:03 < felixonmars> so he'll be able to read even when he'
+00:03 < felixonmars> s not here
+00:03 < arunpyasi> felixonmars, yeah I have written
+00:03 < felixonmars> :P
+00:03 < felixonmars> good luck then, i have no experience with EFI
+00:03 < arunpyasi> felixonmars, though, when he is available, do let him remind ok !! :D
+00:04 < felixonmars> :) sure
+00:04 < arunpyasi> felixonmars, and hows your days going on ? Been so long :D And how is Braing and s991533  ??
+00:06 < felixonmars> arunpyasi: didn't see brainy recently
+00:06 < felixonmars> and i believe s991533 is here from time to time :)
+00:07 < arunpyasi> felixonmars, hmm OK. I have also sent a Feedback in Deepin App.
+00:07 < arunpyasi> felixonmars, been ages not chat with them :P
+00:10 < felixonmars> :P
+08:40 < tmad> Hi. How can I change deepin-notifications settings like bubble size?
+13:28 < hualet> tmad, you can
+13:28 < hualet> sorry, you can't
+13:29 < hualet> the notification bubbles are fixed size
+13:31 < vodkode> hey hualet
+13:31 < vodkode> how you been?
+13:33 < hualet> vodkode, hey, I'm fine
+13:34 < tmad> yea. found that out after looking at the source
+13:34 < hualet> been very busy with some code stuff :)
+13:34 < hualet> tmad, you can read the code, hummm
+13:34 < tmad> yea
+13:35 < tmad> you should consider pulling some of those numvers from a config file.
+13:35 < tmad> would be awesome
+13:37 < hualet> yeah, you're right, but it can just be fixed size if no one wants to change the size of it.
+13:37 < hualet> :)
+13:39 < tmad> also. you ignot notify-send -t arg
+13:39 < tmad> ignore
+13:40 < tmad> try it..  notify-send title message -t 15000
+13:41 < tmad> the notification wont stay there for 15 seconds.
+13:51 < hualet> deepin-notifications declares that it doesn't support the timeout capability...
+13:52 < hualet> the OS designer designed it that way
+13:52 < hualet> maybe notify-send ignores the capability check ?
+14:03 < steev> maybe a patch to support it would be accepted? :D
+14:11 < hualet> steev, that would be a huge patch I think
+14:12 < steev> i meant supporting timeout, not necessarily the size
+14:13 < steev> but, if someone wanted to put in the work and it wasn't detrimental, i can't see something like that being nacked
+14:35 < hualet> yeah, that's tatally acceptable
+14:50 < deepin-telegram> [BarryloveAmy *Lee] <photo> http://img.vim-cn.com/8a/0253e93f4ec3426a0b730ee5ef0cd6a390c06c.jpg
+22:17 < cjpls> 这么少人啊
+22:23 < cjpls> hi
