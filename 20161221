@@ -1,0 +1,10 @@
+06:55 < sim590> I run deepin on archlinux and I have some trouble with some core programs like the docker, the settings pane and the hot corners. Sometimes out of nowhere, it won't work at startup. Everything seems frozen in place. I can barely exit out of there with CTRL+ALT+DEL to log out.
+06:55 < sim590> It doesn't always do that. Sometimes it will work okay.
+10:23 < hualet> sim590: dde-session-daemon crashed perhaps
+10:25 < hualet> you can open dde-control-center in terminal which will brings up dde-session-daemon as a work-around to this situation
+10:25 < hualet> felixonmars and our devs are working together to get this problem solved
+10:34 < brainy> Hi hualet man:)
+10:35 < brainy> Nice to see you.
+10:54 < brainy> hi gsareon
+14:51 < deepin-telegram> [Zhang] 有arch 的群么？
+14:51 < deepin-telegram> [ff] 有两个
