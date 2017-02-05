@@ -1,0 +1,16 @@
+17:53 < d3> hey, does anyone why dde weather returns unable to get weather? I assume an api issue but since there is no way to configure this, what to do or wait for upstream fix? thanks
+19:58 < NewbiePro> 很高兴在这里见到大家
+19:59 < NewbiePro> :)
+23:29 < recchan> http://i.imgur.com/eYFE5qc.png
+23:33 < deepin-bot> [manateelazycat]:  press Ctrl + F5 in browser to reload page.
+23:34 < recchan> I did already
+23:34 < recchan> It's not an issue for me; just wanted to let people know
+23:35 < recchan> CN version loads fine by the way
+23:36 < deepin-bot> [manateelazycat]:  English version can't fix even press Ctrl + F5 ?
+23:37 < recchan> No fix even ctrl + f5
+23:37 < recchan> Browser: firefox 50.1.0-1
+23:38 < deepin-bot> [manateelazycat]:  Thanks report, we will fix this problem ASAP
+23:38 < recchan> It break on Chromium too
+23:38 < recchan> Np. Good luck
+23:39 < deepin-bot> [manateelazycat]:  Thank you very much, I will let you know once we fix it. ;)
+23:39 < recchan> Okies
