@@ -1,0 +1,9 @@
+01:30 < disconnect3d> how can i change colors of deepin-terminal?
+06:17 < Raqbit> disconnect3d: I think there's a themes section in the menu
+06:18 < Raqbit> Although I'm not sure if you can change colors outside those themed
+07:11 < disconnect3d> yeah i've used it
+07:11 < disconnect3d> i am using weechat as my irc client
+07:11 < disconnect3d> in the deepin-terminal it seems that alt+<numbers> doesnt work
+07:11 < disconnect3d> is there any fix for that?
+07:12 < disconnect3d> also is deepin using screen compositing? if so how can i disable it?
+07:13 < disconnect3d> and is there a way to grab the task/panel bar to make it appear on both screens? :(
