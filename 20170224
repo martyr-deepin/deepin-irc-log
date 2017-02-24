@@ -1,0 +1,9 @@
+06:15 < recchan> Yes, Deepin is beginner friendly
+06:38 < warclib> hola
+06:39 < warclib> alguien que hable español soy de mexico
+06:42 < warclib> hola
+06:56 < warclib> hola
+07:03 < atleeit> when building dde-control-ceter error has no member named ‘setBlurRectXRadius’; did you mean ‘setRadius’ im assuming I change it to reflect SetRadious rather then setBlurRectXRadius same with SetMask and SetBlend
+07:04 < atleeit> it seems to me if names have changed then some code has been updated to create the right relationships
+07:04 < atleeit> has not*
+14:23 < txfly> h
