@@ -1,0 +1,20 @@
+13:01 < brainy> hi aguardar
+13:03 < aguardar> hi
+13:03 < aguardar> what's wrong
+13:04 < aguardar> brainy: ?
+13:05 < brainy> just wanted to say hi :)
+13:05 < brainy> Because you quit and then came back
+13:05 < brainy> aguardar :)
+13:06 < aguardar> mobile phone
+13:06 < aguardar> are u Chinese ?
+13:06 < aguardar> brainy: 😄
+13:07 < brainy> aguardar, no I'm from Germany
+13:08 < brainy> and you aguardar ?
+13:08 < aguardar> i am Chinese , in Beijing
+13:10 < brainy> Nice to meet you :D
+13:11 < aguardar> Nice to meet you too ，brother
+13:13 < brainy> :D
+13:14 < aguardar> 😎
+22:48 < jenenliu`> hi, do you guys use deepin emacs ?
+22:49 < jenenliu`> I try to install package in deepin emacs, but seems package under ~/.emacs.d/elpa can't be read by deepin emacs
+22:49 < jenenliu`> do I have to copy them to /usr/share/deepin-emacs/site-lisp/extensions/ ?
