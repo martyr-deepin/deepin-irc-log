@@ -1,0 +1,3 @@
+06:09 < recchan> .
+21:39 < scootergrisen> I would like for some souce strings on transifex to be check for whitespace in beginning and ending of strings. Where do i write about that?
+21:39 < scootergrisen> Like some strings start with a leading space that might not have to be there like " some text". Or "some text ".
