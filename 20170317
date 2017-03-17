@@ -1,0 +1,4 @@
+01:54 < scootergrisen> How long will it take from the changes i made to the danish translation on transifex to get into a deepin release?
+01:59 < scootergrisen> If i select Danish language and keyboard layout during boot it does not seem deepin respect the keyboard layout. Its set to english layout even though language is correctly set to danish
+02:00 < scootergrisen> Is this a know problem?
+02:00 < scootergrisen> I speak about during live testing without installation
