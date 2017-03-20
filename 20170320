@@ -1,0 +1,7 @@
+04:06 < jaffee> Hello. Does anybody know HOW TO SWITCH LAYOUT as alt+shift ? cry from the heart )
+04:41 < arunpyasi> hi jaffee
+04:41 < arunpyasi> jaffee, fixed it ?
+04:54 < jaffee> arunpyasi, nope (
+18:30 < scootergrisen> deepin-image-viewer have been added til transifex to translate but why do i need to translate the exact same string multiple times. This could be done better by resusing the strings
+18:31 < scootergrisen> "Fullscreen" appear 5 times. "Cancel" 4 times. "OK" 2 times. "Delete" 4 times. "Add" 3 times.
+18:32 < scootergrisen> Names like "Deepin Image Viewer" could be translated one place and then use %s placeholder to reuse it
