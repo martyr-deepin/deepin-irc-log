@@ -1,0 +1,3 @@
+19:44 < scootergrisen> I tested deepin-15.4-rc-amd64.iso and during start the list of language just seem to be in no order. Where is best place to suggest an alfabetical order?
+19:45 < scootergrisen> Also when i select my language (Danish) then the keyboard layout is set to "English (US)". I would like it set to the same layout as the language you select by default
+20:08 < scootergrisen> Where do i suggest to fix things like double spaces and leading and trailing spaces in the translation source string?
