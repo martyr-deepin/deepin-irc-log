@@ -1,0 +1,148 @@
+00:06 < GarielM> hi
+04:56 < GabrielM_> hi
+04:57 < GabrielM_> Does anyone know the Deepin 15.04 translation link?
+14:51 < berz3rk> Hello
+14:51 < berz3rk> China ^^
+14:51 < berz3rk> I want to translate the Deepin Website, the problem is, it seems you can't translate the english version as well
+14:52 < berz3rk> But it has a lot of spelling problems
+14:52 < berz3rk> also the news have grammar issues
+14:52 < berz3rk> I saw this
+14:52 < berz3rk> https://www.transifex.com/linuxdeepin/deepin-website/
+14:54 < berz3rk> I have a lot to criticize about deepin, how the news are made, how bugs are reported and more
+15:08 < deepin-bot> [manateelazycat]:  Hello berz3rk, thanks very much for your contributions. If you want to correct English, welcome to send message to szd_liufei. If you want to translate other languages, please send me your transifex ID and language name, then I will add you as the reviewer.
+15:13 < deepin-bot> [somebody]: Hello berz3rk, thanks very much for your contributions. If you want to correct English, welcome to send message to szd_liufei. If you want to translate other languages, please send me your transifex ID and language name, then I will add you as the reviewer.
+16:18 < berz3rk123> hey, I cant install nvidia-driver , can you help? ...
+20:18 < gotwig_work> Hey there
+20:19 < gotwig_work> I tried to use Deepin 15.4 with proprietary drivers but it failed pretty hard because of some dependendies
+20:19 < gotwig_work> with Xorg
+20:19 < gotwig_work> does anyone know about this? it was a pretty frustrating experience. + the default niveau or shipped intel drivers show a lot of broken fragments where blur occurs all over dock and right sidebar
+20:20 < gotwig_work> *Nvidia
+20:33 < gotwig_work> no one here?
+20:33 < gotwig_work> arunpyasi: hey
+20:34 < gotwig_work> dardevelin: hi
+20:34 < gotwig_work> RyanOrz:  hello
+21:04 < brainy> hi Xceals
+21:11 < gotwig_work> brainy: oh someone is there :D?
+21:11 < gotwig_work> o.0 i waited here for like hours
+21:11 < brainy> lol gotwig_work
+21:11 < gotwig_work> no chance a dev comes by..?
+21:11 < arunpyasi> hi gotwig_work
+21:11 < brainy> that's normal here :D
+21:11 < arunpyasi> hey brainy
+21:11 < brainy> hey arunpyasi big bro
+21:11 < gotwig_work> So I checked out the newest release and its realy great progress
+21:12 < brainy> you mean the beta?
+21:12 < gotwig_work> apps fit very well together, its a brilliant experience
+21:12 < arunpyasi> how are you brainy ?
+21:12 < gotwig_work> 15.4
+21:12 < gotwig_work> the RC
+21:12 < idoko> gotwig_work I'm here because I'm downloading it now :D
+21:12 < arunpyasi> no hualet at this time too :P
+21:12 < gotwig_work> but I still got issues
+21:12 < arunpyasi> gotwig_work, are you new guy around ?
+21:12 < arunpyasi> :P
+21:12 < gotwig_work> the nvidia driver was a dealbreaker ;'(
+21:12 < arunpyasi> Our #Deepin channel looks good today
+21:12 < idoko> any chance of something like an album view coming to deepin-music?
+21:12 < arunpyasi> many people around :D
+21:12 < brainy> gotwig_work: I had lots of issues too
+21:12 < gotwig_work> I follow deepin linux progress already for several years
+21:13 < gotwig_work> im not using it right now because of big issues with drivers
+21:13 < gotwig_work> what is so sad, because I tried to use it as my work os at work
+21:13 < gotwig_work> also the drivers are more outdated then for example in ubuntu 17.04
+21:13 < gotwig_work> what a bummer
+21:14 < gotwig_work> ubuntu ships with 375, deepin 15.4 driver install tool can install 36x something in theory, but it even fails then
+21:15 < brainy> yeah
+21:15 < brainy> i really like it but too many issues
+21:15 < brainy> some minor some major
+21:16 < gotwig_work> I worked for elementary OS several years ago
+21:16 < gotwig_work> I hope I can find time and the opportunity to help deepin grow bigger
+21:16 < gotwig_work> especialy the english websites
+21:16 < gotwig_work> and the translations
+21:16 < gotwig_work> are just plain horrible
+21:16 < gotwig_work> the news section
+21:17 < brainy> that would be grat
+21:17 < gotwig_work> just pick some random news article and you will find like 40% spelling mistakes
+21:17 < gotwig_work> i dont want to be rude at all
+21:17 < gotwig_work> but I say theres a lot of room for improvement
+21:17 < brainy> you should contact hualet
+21:17 < gotwig_work> brainy: do you work for deepin technology?
+21:17 < brainy> havent seen him for a while but usually he is one of the devs who is always online
+21:18 < brainy> no i dont gotwig_work , just a regular user
+21:18 < gotwig_work> ah ok
+21:18 < gotwig_work> quite often its the same across new distros: they try experimental stuff, dont test software good enough, and then they ship a lot of broken things
+21:18 < gotwig_work> its not as smooth as ubuntu or other distros
+21:19 < gotwig_work> RC means to me its almost the thing meant for prime time
+21:19 < gotwig_work> but if even the nvidia driver cant be installed, thats a big deal breaker ;(
+21:20 < gotwig_work> if deepin wants to suceed, all default pages should be english in the first place, not chinese
+21:21 < brainy> i agree with you
+21:21 < brainy> arunpyasi was also not so happy with it
+21:22 < gotwig_work> and the package management in linux makes me so sad...
+21:22 < gotwig_work> brainy: do you know if theres any chance they ship some day deepin with proprietary drivers preinstalled?
+21:22 < gotwig_work> because most of the time preinstalled stuff cant break
+21:23 < gotwig_work> modern nvidia drivers are modular, so you can install them, and they are not in conflict with other packages
+21:23 < brainy> hmmm really I cant tell gotwig_work , we need to ask some of the devs :/
+21:23 < gotwig_work> :x
+21:23 < gotwig_work> yeah
+21:32  * gotwig_work is back
+21:33 < brainy> hi gotwig_work :D
+21:33 < brainy> arunpyasi: you there ?
+21:42 < gotwig_work> :'(
+21:42 < gotwig_work> brainy: where are you from
+21:45 < brainy> I'm from Germany, and you gotwig_work ?
+21:46 < gotwig_work> xD
+21:46 < gotwig_work> Köln
+21:50 < brainy> haha
+21:50 < brainy> Suuper
+21:50 < brainy> Berlin hier xD
+21:51 < brainy> arunpyasi is from Nepal and he is a very nice guy xD
+21:52 < arunpyasi> brainy, yeah bro I am here :D
+21:52 < arunpyasi> brainy, had gone for grocery :D
+21:52 < arunpyasi> gotwig_work,  you from Germany too ?
+21:52 < brainy> arunpyasi: nice man
+21:52 < arunpyasi> brainy, I am planning to study my Masters in Germany :D
+21:53 < arunpyasi> brainy, was just worried if I can get admission or not :P lol
+21:53 < gotwig_work> :D
+21:53 < brainy> sure arunpyasi you can apply
+21:53 < gotwig_work> y I am from Germany
+21:53 < gotwig_work> there are good chances to study here
+21:54 < gotwig_work> Berlin ist zu weit weg :P
+21:55 < gotwig_work> fahr ich lieber nach Holland ans Meer ^
+21:55 < gotwig_work> ^_
+21:55 < gotwig_work> ^_^
+21:55 < arunpyasi> I need a google translator now :P gotwig_work :D
+21:55 < arunpyasi> brainy, :D will try and hope..
+21:55 < arunpyasi> brainy, is hard to leave in Germany ?
+21:55 < gotwig_work> I said Berlin is too far away for me :D
+21:55 < arunpyasi> *live
+21:55 < arunpyasi> gotwig_work, ohh :D
+21:56 < gotwig_work> so I am better of just going to the netherlands
+21:56 < brainy> lols
+21:56 < gotwig_work> to the sea :>
+21:56 < gotwig_work> arunpyasi: if you are german, its not hard to live in Germany
+21:57 < gotwig_work> theres a lot of social help from the government
+21:57 < gotwig_work> but that doesnt apply to foreigners
+21:57 < gotwig_work> the most "kids" i study with @ university get sponsored by their rich parents :D xD
+22:00 < gotwig_work> arunpyasi: in which sector do you want to work
+22:10 < brainy> gotta go, cu later :)
+22:46 < arunpyasi> gotwig_work, in CS and IT
+22:47 < gotwig_work> customer service?
+22:47 < arunpyasi> gotwig_work, I wanna work and study both at once
+22:47 < arunpyasi> no, Computer Science
+22:47 < gotwig_work> xD
+22:47 < gotwig_work> ok
+22:47 < gotwig_work> sry
+22:47 < arunpyasi> Computer Science, Software Engineering and Information Technology.
+22:47 < arunpyasi> No problem D
+22:47 < arunpyasi> :D
+22:48 < gotwig_work> :D
+22:48 < gotwig_work> good luck :)
+22:48 < gotwig_work> now lets wait 20h+ until a dev shows up
+22:48 < gotwig_work> :D
+22:48 < gotwig_work> I was here, when it was 2 pm in china
+22:48 < gotwig_work> so ... i guess they have vacation?
+22:59 < arunpyasi> gotwig_work, haven't seen the project leader since looooooongggg...
+22:59 < arunpyasi> !seen
+22:59 < arunpyasi> &seen
+22:59 < arunpyasi> .seen
+22:59 < arunpyasi> no bot too :P
