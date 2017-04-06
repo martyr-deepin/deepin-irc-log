@@ -1,0 +1,120 @@
+00:38 < arunpyas-> hi brainy
+00:55 < brainy_> hi arunpyas- man :D
+00:55 < brainy> are you not Mr. Pyasi anymore? :D
+00:56 < brainy> only Pyas-
+00:59 < arunpyas-> brainy, hi bro
+00:59 < arunpyas-> brainy, no idea man :P
+00:59 < arunpyas-> its not responding :P
+00:59 < brainy> lol
+01:05 < brainy> arunpyas-: are you having dinner right now bro?
+01:16 < brainy> arunpyas-: I have a Brother printer and they provide drivers for Linux on their website, it's very good!
+01:16 < brainy> I just installed them flawlessly
+02:01 < brainy> arunpyas-: so some companies do care about Linux
+09:26 < brainy_> hi oahong
+21:43 < brainy> hi sbw  bro
+21:44 < brainy> hi gotwig_work
+21:44 < sbw> hello
+21:44 < gotwig_work> hi
+21:44 < gotwig_work> :D
+21:44 < gotwig_work> anyone alive
+21:45 < brainy> xD
+21:45 < brainy> rarely
+21:55 < brainy> sbw, gotwig_work wants to help the deepin with english translations
+22:00 < brainy> deepin team*
+22:05 < sbw> oh, thanks @brainy and @gotwig_work . :) but im not very clear how you can start contribute. maybe you can open an issue or commit your patch at https://cr.deepin.io  if you find any english typo or grammar errors
+22:10 < gotwig_work> sbw: are you from the deepin project?
+22:10 < sbw> yes, im a developer.
+22:13 < gotwig_work> sbw: wow
+22:14 < gotwig_work> huge respect to your project, but Its realy realy sad how there is barely anyone from the project in chat for example..
+22:14 < gotwig_work> the community interaction is sadly so low
+22:14 < gotwig_work> there are big issues in 15.4, I am not sure if you know about this. like the nvidia driver is unusable
+22:16 < gotwig_work> the web servers are terrible slow
+22:16 < gotwig_work> I guess they are located in china..?
+22:16 < gotwig_work> if you could host them in a cloud with a cdn.. that would improve a lot
+22:17 < sbw> this is a problem.. the web server is placed at our company, yes, its located in China..
+22:17 < gotwig_work> and this
+22:17 < gotwig_work> sbw: https://bbs.deepin.org/forum.php?mod=viewthread&tid=137099&extra=page%3D1
+22:18 < gotwig_work> how come there are french  and russian sections, but not a chinese section? because english should be the main language
+22:19 < sbw> gotwig_work: you can choose english at top-right corner of the web page.
+22:20 < gotwig_work> yes I know that
+22:20 < gotwig_work> i talk about the forums
+22:20 < gotwig_work> "https://bbs.deepin.org/forum.php?gid=69"
+22:20 < gotwig_work> header title of the page is complete in chinese
+22:20 < gotwig_work> https://bbs.deepin.org/forum.php?gid=69 chinese all over the place
+22:21 < sbw> oh, i see. i will report this problem to our web team
+22:22 < gotwig_work> look here
+22:22 < gotwig_work> it says "community discussion"
+22:22 < gotwig_work> https://bbs.deepin.org/forum.php?mod=forumdisplay&fid=70
+22:22 < gotwig_work> first 5 topics
+22:23 < gotwig_work> pinned posts in chinese
+22:23 < gotwig_work> in a community multi lang forum?
+22:23 < gotwig_work> this is not good
+22:23 < gotwig_work> every page loads around 10 secs
+22:24 < gotwig_work> https://www.deepin.org/en/developer-community/development/ talks about development
+22:24 < gotwig_work> then talks about developing a dock plugin? wtf
+22:25 < sbw> :-/
+22:25 < gotwig_work> https://bbs.deepin.org/forum.php?mod=viewthread&tid=137044&extra=page%3D1 broken nvidia driver
+22:25 < gotwig_work> your package is broken
+22:25 < sbw> ...i know its only chinese language turitual
+22:26 < gotwig_work> no the issue is that its not an overview page, but a direct introduction, but the normal page visitor doesnt know anything about developing a dock plugin
+22:26 < gotwig_work> if you go on to a page and click on the development page, do you want to know about the architecture and apis of the system, or about how to develop a dock plugin?
+22:27 < gotwig_work> sbw: this nvidia issues is critical
+22:29 < sbw> we have an task to track nvidia driver problem in our internal communication tools. please just wait 15.4 release.
+22:32 < sbw> gotwig_work: whats your nvidia driver package name and version ?
+22:32 < sbw> oh i see your link
+22:33 < gotwig_work> 367.57
+22:33 < gotwig_work> and I think there are already newer drivers for nvidia
+22:33 < gotwig_work> why dont you preinstall nvidia drivers?
+22:34 < sbw> copyright ? i guess
+22:35 < davic> sbw: running manjaro deepin here, cudos to your DE. Made me jump completely over to linux
+22:35 < gotwig_work> sbw: but you offer the package yourself, i dont understand
+22:36 < davic> gotwig_work: I guess its different
+22:36 < davic> apt get mirrors just host the packages
+22:36 < gotwig_work> ?
+22:36 < davic> if it comes preinstalled then its different
+22:37 < gotwig_work> im not so sure #
+22:37 < davic> gotwig_work: it is different though.
+22:38 < gotwig_work> i hate polari
+22:38 < gotwig_work> i hate gnome
+22:38 < gotwig_work> ...
+22:39 < davic> gotwig_work: Hexchat
+22:40 < gotwig_work> hm
+22:40 < gotwig_work> i just know that preinstalled stuff normaly doesnt break
+22:41 < davic> well
+22:41 < davic> its fucking gnome.
+22:42 < davic> gotwig_work: can recommend Manjaro Deepin
+22:42 < davic> if you want a decent dist with a good DE
+22:46 < gotwig_work> hm
+22:46 < gotwig_work> i want the real stuff lol
+22:48 < gotwig_work> sbw no longer there?
+22:48 < gotwig_work> :(
+22:48 < gotwig_work> davic: hello
+22:49 < gotwig_work> what you think about a student bundle for the app store
+22:49 < gotwig_work> with apps like maya and more
+22:49 < gotwig_work> or an Education bundle
+22:51 < gotwig_work> I made a massive list of free trial and free student software
+22:52 < gotwig_work> for content producing
+22:52 < gotwig_work> https://bbs.deepin.org/forum.php?mod=viewthread&tid=137100&extra=page%3D1
+22:52 < gotwig_work> like houdini, maya, unreal engine, intellij, sucstance painter
+22:52 < gotwig_work> *substance painter
+22:53 < gotwig_work> so there we are again...
+22:53 < gotwig_work> no one from deepin in chat
+22:53 < davic> gotwig_work: tbh
+22:53 < davic> I dont care about student apps
+22:58 < gotwig_work> xD
+22:58 < gotwig_work> well students do maybe ))
+22:59 < gotwig_work> actualy I am more talking about the option to just package those apps better for people who want to use them
+22:59 < gotwig_work> even if you got a maya license, its a bit of a mess to use it on ubuntu and co
+23:00 < gotwig_work> did sbw leave?
+23:02 < davic> He did
+23:02 < davic> Ubuntu is leaving Unity and Mir on next release anyway
+23:24 < gotwig_work> wtf did he leave
+23:24 < gotwig_work> :/
+23:24 < gotwig_work> deepin is based on debian not ubuntu btw
+23:28 < davic> I know
+23:33 < brainy_> sbw dont have time to nswer questions xD
+23:37 < brainy_> davic: whats special about manjaro in your view?
+23:40 < davic> brainy_: Manjaro is the noobie version of arch
+23:41 < davic> and arch is fucking nice.
+23:41 < davic> aur is glorious
+23:41 < brainy_> davic: i see
