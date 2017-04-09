@@ -1,0 +1,35 @@
+03:31 < gotwig_> :)
+22:11 < sunjiali_> How to upgrade deepin system?
+22:29 < brainy> hi gotwig_ bro
+22:29 < gotwig_> brainy: moin moin
+22:30 < gotwig_> also die entwickler haben mir bissl feedback gegeben
+22:30 < gotwig_> dass ist ganz gut
+22:30 < gotwig_> und man ist sich manchen fehlern bewusst und will die fixen hm
+22:30 < gotwig_> ma sehen
+22:30 < gotwig_> das neue RC2 ist ganz interessant
+22:30 < gotwig_> gibt sogar miracast support
+22:30 < gotwig_> dass gibt es so weit ich weis nur unter windows bisher
+22:30 < gotwig_> also praktisch kabellos bildschirm auf fernsehr projezieren
+22:32 < brainy> ach so
+22:32 < brainy> mein Monitor ist so groß, da brauche ich eigentlich keinen Fernseher xD
+22:32 < brainy> aber gute sache
+22:32 < brainy> so wie mit handy oder?
+22:35 < brainy> irgendwie gefällt mir die DDE aber nicht
+22:35 < brainy> aber ist wohl Geschmackssache
+22:56 < brainy> gotwig_:
+22:56 < gotwig_> :D
+22:56 < brainy> xD
+22:57 < gotwig_> ja so wie wenn man kabbelos bildschirm projeziert von handy
+22:58 < brainy> stimmt
+23:44 < lanxi> 真有这个
+23:45 < brainy> ni hao
+23:45 < anbe> Hello ! I am new to deepin, it is a wonderful OS but i have some problem, I don't know why but I don't have anymore the Control Center, and I can't download it from sudo apt-get install dde-control-center, thanks in advance
+23:46 < lanxi> hi ！
+23:46 < brainy> anbe: developers are usually asleep here :/
+23:47 < anbe> :/ it is sad because I very like this os, but it is hard to not use the control center
+23:47 < brainy> hhmmm
+23:48 < brainy> can you install it from a different source?
+23:49 < anbe> you mean an other mirror?
+23:51 < anbe> when i want to install via apt-get, :: Impossible to solve problems, bad packages are in mode "keep state" (gstreamer1.0-plugins-bad)
+23:52 < anbe> so i tried to reinstall it too but it doesn't work
+23:54 < brainy> yes another mirror maybe
