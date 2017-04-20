@@ -1,0 +1,55 @@
+03:58 < MarekBujko> Hello, why is Deepin 15.4 unstable release? Final ISO have Readme.dis with: Deepin 15.4 "unstable".
+04:00 < MarekBujko> Why is Deepin OS 15.4 and Installer still untranslated in Slovak and other 100% translated languages? Deepin is in Slovak language on Transifex 98-100% translated 1-2 weeks. In new Final ISO is Slovak installer 30% and system on 90% translated only.  Only 5 languages (practicaly 6) are on Transifex 100% translated: English, Chinese, Slovak, Italian, Malay and Spanish (Latin America).
+10:31 < brainy> hi vodcod
+10:45 < brainy> vodcod is the best, no doubt
+10:55 < vodcod> sup brainy
+10:55 < vodcod> hows it going
+10:55 < brainy> fine thx vodcod
+10:55 < brainy> is the new deepin out yet?
+10:57 < vodcod> I have no real idea hah
+10:59 < brainy> ok :D
+11:03 < brainy> well it seems to have been released today
+11:04 < brainy> vodcod: you were using elementary OS right?
+11:12 < vodcod> well, I did
+11:12 < vodcod> but I run mint
+11:12 < vodcod> I cant stand EOS
+11:13 < brainy> vodcod: okies
+11:14 < brainy> i'm running mint as well
+11:16 < vodcod> yeah
+11:23 < deepin-bot> [somebody]: MarekBujko, yes, there are some languages in deepin 15.4 not 100%
+11:26 < brainy> ok
+11:27 < deepin-bot> [somebody]: MarekBujko,We updated many English source files before release, so the translators in 32 languages don't have enought time to translate all source files and we also don't have enought time to buy translatios from transifex. Till the release of deepin15.4, not all the translations are 100％ in Deepin aplications and system, but we have to release all 32 languges, so that's what you see, the interface in many applications is English.   Reall
+11:27 < deepin-bot> isuue in next version and also welcome all of you to join transifex to help us translate your local language.
+11:49 < brainy> Thanks for the info, deepin-bot
+15:02 < brainy> hi afsto
+15:31 < brainy> hi tiancj
+15:40 < brainy> hi chihchun
+15:40 < brainy> hi BenjaminDeuter
+15:40 < brainy> hi steev
+15:43 < afsto> how are you
+15:43 < brainy> welcome back afsto
+15:43 < brainy> i'm fine thank you !
+15:44 < afsto> I am writing a boring document.
+15:44 < brainy> Sorry to hear :/
+15:44 < brainy> Is it boring because of the topic or because you are writing it? :P
+15:45 < brainy> Joking
+15:45 < afsto> Tomorrow is dead line. I only finished one of third.
+15:45 < brainy> :/
+15:47 < afsto> Because the one who write it before is careless, and I have to correct the mistake the one make.
+15:48 < brainy> Oh no :/
+15:48 < brainy> That sucks.
+15:48 < brainy> Wish you good luck man. I don't want to distract you from your task.
+15:49 < afsto> LOL, no. Thank you for pulling me out from the mass words.
+15:50 < brainy> xD
+15:50 < brainy> afsto: I heard the new deepin 15.4 is out. I will try it out later
+15:50 < brainy> Have you tried it already?
+15:51 < afsto> I have been using it for almost a month.
+15:52 < afsto> It is worthing a try. I think it is very friendly to user.
+15:54 < brainy> cool!
+15:56 < afsto> https://www.deepin.org/en/2017/04/19/deepin-15-4-outstanding-from-inside-out/
+15:58 < afsto> You can preview some features here. Have a good time!
+15:58 < brainy> Thank you afsto !
+15:59 < afsto> I think I have to continue working on my document. T_T
+20:43 < hkof11> 人好少
+22:38 < ubt_> tinycc/deepin15dl　 is not avaliable on browser
+22:38 < ubt_> https://www.deepin.org/en/download.html?language=en  404
