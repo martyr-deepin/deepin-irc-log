@@ -1,0 +1,74 @@
+09:06 < brainy> hi eddiecai
+09:06 < brainy> welcome tete
+16:27 < manjaroDeepin> hi all
+21:08 < brainy> tach zusammen, gotwig und manjaroDeepin_
+21:27 < wujie> helloo
+21:27 < wujie> 是Linux DEEPIN么
+21:30 < brainy> hi
+21:52 < manjaroDeepin_> hi brainy
+22:17 < gotwig> Hey brainy
+22:31 < brainy> Mann Mann, ist hier wieder Leben in der Bude :D
+22:54 < gotwig> xD
+22:54 < gotwig> dieses crossover is irgendwie nur kaput bei mir
+22:54 < gotwig> naja
+22:54 < gotwig> krieg lol nicht installiert
+22:55 < madmadman> exit
+23:04 < brainy> gotwig: hmm was ist eigentlich der unterschied zwischen crossover und playonlinux?
+23:05 < gotwig> playonlinux ist nicht kommerziel, eine community die skripte zur verfügung stellt verschiedene software einfach zu konfigurieren
+23:06 < gotwig> crossover sind die entwickler von wine, wenn man das kauft unterstützt man die wine entwicklung und es gibt auch support für verschiedene software , aber man kriegt auch professionallen suport
+23:14 < brainy> gotwig: ah gut zu wissen, thanks
+23:14 < brainy> aber laufen bei crossover prinzipiell mehr programme als unter POL?
+23:15 < gotwig> keine ahnung ;D
+23:15 < gotwig> aber ich denke schon
+23:15 < gotwig> nur das crossover in deepin is nich ganz richtig find ich
+23:15 < gotwig> auf jedenfall läuft lol nich..
+23:15 < brainy> schade :(
+23:16 < gotwig> hm
+23:16 < brainy> das ist ärgerlich wenn ein wichtiges programm/spiel nicht läuft unter linux
+23:16 < gotwig> ich würd lieber wine nehmen
+23:16 < gotwig> und die tipps befolgen
+23:16 < gotwig> bei winehq
+23:16 < gotwig> wine klappt doch ganz gut
+23:16 < gotwig> man muss playonlinux und crossover nich nehmen
+23:16 < brainy> ja, klappt LOL damit?
+23:17 < gotwig> klar
+23:17 < gotwig> guck mal winehq
+23:17 < gotwig> nur habs noch nich eingerichtet
+23:17 < brainy> ja aber manchmal muss man bibliotheken nachinstallieren, dann ist POL ganz gut
+23:17 < brainy> ok
+23:17 < brainy> außerdem kann man verschiedene versionen von wine benutzen, manche programme laufen mit älteren versionen besser
+23:19 < gotwig> hab lol auch nich mit pol ans laufen gekriegt.
+23:21 < brainy> *heul*
+23:22 < brainy> evtl. fehlende grafiktreiber??
+23:22  * brainy nachdenklich guck
+23:28 < gotwig> ne
+23:29 < gotwig> spiele dota2 ohne probleme
+23:29 < brainy> na supi *heul*
+23:29 < brainy> hattest du vorher eine andere distro und funktionierte es da?
+23:30 < gotwig> ka xD
+23:30 < brainy> ok :D
+23:30 < gotwig> normales crossover
+23:30 < gotwig> unter ubuntu hat geklappt...
+23:30 < brainy> ja meinte ich ja
+23:30 < gotwig> früher
+23:31 < gotwig> die testversion
+23:31 < brainy> das fand ich nämlich auch komisch, bei manchen distros funktionierten die spiele besser
+23:31 < brainy> und da frage ich mich, wie kann das sein??
+23:33 < gotwig> ;x
+23:33 < gotwig> irgendwie ne andere version
+23:33 < gotwig> naja
+23:33 < gotwig> warscheinlich veraltet
+23:33 < gotwig> viele sahcen in deepin sind sehr seltsam
+23:33 < gotwig> normalen nvidia treibe rhab ich so auch nich gefunden
+23:33 < gotwig> nur mit bumblebee
+23:33 < gotwig> nvidia-prime nich da?
+23:34 < brainy> hmmm
+23:35 < brainy> hast du versucht, von nvidia.com das installationsprogramm direkt zu installieren
+23:38 < gotwig> sowas sollte mann in keinem fall jemals tun
+23:43 < brainy> wiesooo?!
+23:43 < brainy> :S
+23:58 < gotwig> weil
+23:58 < gotwig> es eine paketverwaltung gibt
+23:58 < gotwig> solche system anwendungen / dateien zu installieren macht die paketverwaltung kaput
+23:59 < brainy> ah ok
+23:59 < brainy> dachte als notlösung
